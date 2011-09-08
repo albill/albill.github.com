@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Jeff Vandermeer has a blog
+published: true
+meta: {}
+
+tags: 
+- Notable People
+type: post
+status: publish
+---
+Jeff Vandermeer, a fairly interesting author, has a blog. I just found this out. Cool.
+
+<a href="http://vanderworld.blogspot.com/">http://vanderworld.blogspot.com/</a>
+
+From his things to say to his 16 year old self if he had the chance:<blockquote>(9) There's going to be a really bad typo in your swords-and-sorcery story in the school literary magazine ("the musty smell of countless ages" without the "o" in "countless"). Don't sweat it. These things happen. Maybe it was intentional by the typesetter, maybe not. But you'll never be able to prove it.</blockquote>

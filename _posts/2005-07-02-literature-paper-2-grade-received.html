@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Literature Paper #2 Grade Received"
+published: true
+meta: {}
+
+tags: 
+- Academic
+- Daily Life
+type: post
+status: publish
+---
+I received an e-mail (at 1:00 am even) from my Literature professor today. Unlike my first  paper, which he gave an AB (something like a 3.6, I assume), he gave my second paper a resounding 'A'. He loved it.
+
+R proofs all of my papers when I have the near final draft done. I owe her eternal love for critiquing my work. When R proofed this one for me, she had no comments or suggested changes, thinking it was quite good.
+
+I found this all quite weird because, technically, I don't think I wrote a paper that really fit the official ask (but I did it anyway). I did this because I couldn't find something really interesting to say about Toni Morrison's <b>Sula</b> and the nature of the Self that dealt with the women in it. Looking at the existing articles on it (which is one of our requirements), this seemed to have been so heavily dealt with that there wasn't much original to say. Instead, I discussed the nature of the male viewpoint in the novel and the only three characters that have any interiority in it (and only one of these at any length).
+
+I guess that it goes to show that you're better off writing something interesting than in writing to spec. heh.
+
+I am now halfway through the papers for my Lit class and two-thirds of the way through for my World Religion class. For the latter, I have one paper on Islam to do but that should be easy enough. For the Literature class, I believe that my next paper, due in two weeks, is on a poem so that might be more of a challenge.

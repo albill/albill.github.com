@@ -1,0 +1,39 @@
+--- 
+layout: post
+title: The Shamatha Project
+published: true
+meta: 
+  ljID: "3048"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+tags: 
+- Buddhism
+- Spirituality
+type: post
+status: publish
+---
+This is from <a href="http://www.snowlionpub.com/pages/N70_2.php">http://www.snowlionpub.com/pages/N70_2.php</a>. Yet another scientific examination of meditation though a bit more deep than most.
+<h2><strong>The Shamatha Project</strong></h2>
+<h3><em>by B. Alan Wallace</em></h3>
+The Santa Barbara Institute is currently co-sponsoring four research projects in collaboration with major universities, the most potentially groundbreaking of which is the Shamatha Project. The term "Shamatha" refers to an array of Buddhist meditative practices designed to develop advanced states of sustained, focused attention. The Shamatha Project entails a one-year residential retreat for 30 meditators, who will practice Shamatha 8-10 hours each day. We are tentatively planning to begin this retreat in September 2006. Rigorous scientific studies will be conducted before, during, and after this retreat to measure the physiological and psychological changes that occur as a result of this attentional training.
+<strong>Background</strong>
+This unique study includes a detailed longitudinal examination of the neural, cognitive, and socio-emotional effects of intensive training in Shamatha meditation, aimed at enhancing the stability and vividness of attention. The research team includes experts in the cognitive and neuroscientific study of attention, visualization, cognitive control, and sensori-motor processing; emotion and mental health; compassionate, prosocial behavior; longitudinal statistical analyses; and Buddhism. Several of the investigators are skilled in the use of modern, noninvasive neuro-imaging techniques; most have been engaged for years in conferences, seminars, and work groups related to establishing conceptual and methodological connections between Buddhist practice, psychological science, and neuroscience.
+
+The research project will be coordinated by the Center for Mind and Brain at the University of California, Davis, headed by Dr. George R. Mangun, an international leader in the cognitive neuroscience of attention. I am organizing the meditation training.
+
+According to the Buddhist tradition, the achievement of Shamatha involves a state of sustained, voluntary attention, characterized by exceptional stability and vividness, which can be sustained effortlessly for at least four hours.
+
+The proposed project will involve assessment of both cognitive and socio-emotional variables at several points in time across the one-year study. Behind the specific assessments lie two major questions:
+<ul>
+	<li>How plastic, or subject to training, are the cognitive and socio-emotional skills we assess behaviorally?</li>
+	<li>What measurable brain changes underlie the behavioral (performance) changes?</li>
+</ul>
+The Shamatha Project is expected to have a number of benefits for the study participants, for many others interested in the techniques explored, and for an array of psychological and neuroscientific disciplines that study attention, emotion, emotion regulation, and personal development.
+Our brain-imaging and behavioral findings should be useful for treating people with a variety of cognitive and emotional disorders, such as ADHD, anxiety, depression, excessive anger, and insomnia. All of these mental problems are closely related to the ability to control attention and regulate emotion. We expect that relatively soon after the Shamatha training begins, measurable changes will occur in these abilities, suggesting that certain aspects of the training could be relatively easily incorporated into daily life situations for persons outside a retreat setting.
+
+For the proposed study, participants will reside in a contemplative research facility, optimally suited for scientific and contemplative research, over a twelve-month period. I will serve as their resident instructor, providing them with ongoing instruction and guidance in meditation training. The 12-month training program will emphasize:
+<ul>
+	<li>training in mindfulness of breathing to induce relaxation of the body and mind and develop the stability and vividness of attention;</li>
+	<li>training in "settling the mind in its natural state," in which one observes mental events without distraction and without grasping;</li>
+	<li>training in "Shamatha without an object," in which the attention rests simply in being aware of being aware, with no other object.</li>
+</ul>
+This project is currently in the advanced planning stage. The team of investigators has met numerous times over the past two years to develop ideas for the design, measures, and statistical analyses. We are currently in search of a suitable contemplative training facility within the continental United States, and we are seeking funds for conducting the scientific research. We are still accepting applicants to participate in this year-long retreat. It is my hope that we will be able to select the most suitable participants who would most benefit from this training, regardless of their financial resources. With this motivation, we are soliciting donations to provide full and partial scholarships for worthy applicants. I would also like to organize a 3-month Shamatha retreat-a kind of pilot study-prior to the year-long Shamatha Project, but this will depend on our locating a suitable retreat facility. For more information about the Santa Barbara Institute and the Shamatha Project, please see our website (<a href="http://sbinstitute.com/" target="_blank">http://sbinstitute.com</a>) or contact us at <a href="mailto:info@sbinstitute.com">info@sbinstitute.com</a>.

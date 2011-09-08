@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Cat Meets Ferret
+published: true
+meta: 
+  no_lj: "1"
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+<p>The new kitty, Nova, has never been left out when Thalia, our ferret, has 
+been loosed from her cage...until now. Frankly, the cat didn't seem to know what 
+to do with her but the ferret had a really good time!</p>
+<!--more-->
+<p align="center">
+<img border="1" src="http://www.arcanology.com/images/04-11-7-web.jpg" width="462" height="440"></p>
+<p align="center">
+<img border="1" src="http://www.arcanology.com/images/04-11-6-web.jpg" width="531" height="266"></p>
+<p align="center">
+<img border="1" src="http://www.arcanology.com/images/04-11-10-web.jpg" width="489" height="350"></p>
+<p align="center">
+<img border="1" src="http://www.arcanology.com/images/04-11-11-web.jpg" width="578" height="342"></p>

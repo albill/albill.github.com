@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Movies and Games
+published: true
+meta: {}
+
+tags: 
+- Buddhism
+- Daily Life
+- Esoteric
+- Spirituality
+type: post
+status: publish
+---
+It's leisure week on the home front!
+
+R and I went and saw "Red Dragon" the other night after Greek. Since I'm a bit of a fan of the Miam Vice-ish "<a href="http://us.imdb.com/Title?0091474">Manhunter</a>" (the first attempt in the 80's to make <em>Red Dragon</em>, the novel, into a movie), I was looking forward to it. It compares favorably to the original. I like Ed Norton and, of course, Anthony Hopkins. I felt that the tortured nature of Mr. D was a bit better explored and realized in <em>Manhunter</em> though.
+
+I went to the store the other day to pick up a copy of Neverwinter Nights, the D&D online game since many of my friends have been raving about it. Instead, I wound up getting the new Unreal Tournament 2003. At work, we've decided that this is the offical game of the DLUX (Digital Lifestyle User Experience, that's us...) test team. We played this for about an hour and a half after work and I've probably clocked in about seven or so hours on my own since Wednesday. So much for catching up on my reading... I'm a pretty good first person shooter player. There is one other tester on our team that is probably visibly better than me. Fortunately, my boss (who conveniently names his character "Mngmnt_Ovrhd" to make it easy on us) is <strong>not.</strong> Heh.
+
+After talking to  a bit, I'm going to be going over the Six Yogas of Naropa a bit in the near future. I'm doing work in my magical practice on the learning to raise, concentrate, balance, purify and project "energy" (whatever you want to call that subtle feeling and extension of the breath). It feeds into my Ogdoadic work and various other things. I may also bite the bullet and my hatred of "New Age" (rhymes with "sewage") and take some Reiki training.
+
+I'm also working on creating a community and content management system for my lodge (Citadel of the Ouroboros now...). We'll be running a public study group on Hermetic Magic starting in February and I want a place to put our documents for that up for students, our own stuff up and news and such. It needs to be identity based and have different access levels (for lodge members, non-members, etc). I'm probably going to use <a href="http://www.drupal.org">Drupal</a> as a base for now. I'd use <a href="http://www.plone.org">Plone but my ISP won't support Zope unless I have a dedicated server and I don't want to spend the bucks.</a>
+
+<a href="http://www.plone.org">Geek stuff, huh? </a>

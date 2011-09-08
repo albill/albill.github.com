@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Star Wars Hype
+published: true
+meta: {}
+
+tags: 
+- Science Fiction
+type: post
+status: publish
+---
+<P>I received an e-mail from Alienware (my work has bought an alienware laptop before) with some of the following details.</P>
+<P>Am I the only one that finds this appalling?</P>
+<P align=center><IMG height=42 alt="Alienware High-Performance Systems" src="http://image.alienware.com/images/newsletter_images/us_0904/template/aw_logo.gif" width=217 border=0><br><br><IMG alt="Introducing the First Ever Star Wars PC" src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/starwars_eye.jpg" width=642 border=1></P>
+<P>Introducing the First Ever Star Wars PC – the <B>Alienware Aurora: </B><B>Star Wars</I></B> Edition PC!</B> From Darth Vader to Luke Skywalker, the timeless characters you know and love have been transported from the big screen to your desktop to create the first-ever Star Wars PC.</P>
+<P>Packed with exclusive Star Wars content and next-generation technology, each Aurora: Star Wars Edition system displays showstopping case designs featuring official artwork of either the intimidating Imperial forces or the fearless Rebel alliance – the choice are yours! </P>
+<H2>Which side of the force will you choose?</H2>
+<P><IMG height=164 alt="Alienware Aurora: Star Wars Edition PC" src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/light_system.jpg" width=194 border=0><BR><IMG  height=43 alt="Light Side" src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/but_lightside.jpg" width=196 border=0</P>
+<P><IMG height=164 alt="Alienware Aurora: Star Wars Edition PC" src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/dark_system.jpg" width=194 border=0><BR><IMG  height=43 alt="Dark Side" src="http://image.alienware.com/Images/newsletter_images/us_0405_starwars/but_darkside.jpg" width=196 border=0></P>

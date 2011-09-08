@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Roman Ruins Day!
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+R and I got up this morning, did the normal breakfast-at-the-hotel thing and then took the subway down to the Coliseum and the Roman Forum. Our plan for the day was to go through the sights there.
+
+While looking around there, we can upon a tour organizer (with official markings) who was organizing a tour. It's ten euros to get into the Coliseum and they were doing a tour for eighteen including the ticket so we signed up. A group was gathered and we got a rather well done introduction and tour of the Coliseum and the surrounding site (like Constantine's arch) there. We also got a good bit of history that we wouldn't have otherwise gotten. The whole tour took about an hour and a half and then we had an hour break to look around more, take pictures, and get some food.
+
+The same tour company also offered, for those interested, a free extension of the tour into the Roman Forum and Palatine Hill. So, after our break, we met at the appropriate time and did that tour as well. We got to see the ruins of the Temples that the Vestal Virgins were priestesses at, the Senate building, the Forum itself, the square in the Forum where Romulus and Remus were supposadely suckled and a number of other sites. All with a fairly helpful guide.
+
+One thing that the guides did a lot of detail on is where the building materials from the sites went. I knew that the later Romans had taken much of them but I had no idea of how much. We were told that most of the Coliseum was intact until the Renaissance, when the marble from it and the Forum was pillaged to build much of the Renaisance buildings and also for St. Peter's at the Vatican. The Romans also <b>burned</b> most of the statues in the Coliseum to get the lime from them to make concrete for their building. 
+
+The Forum guide pointed out how one of the few temples to survive must have barely done so. Near the top of the columns supporting its roof are lines cut into the stone. These lines were cut so ropes could be looped around the columns to pull them and the temple roofs down by the Christians. For some reason, they never finished the job and later turned it into a church. Our guide actually, literally, compared the early Christians in Rome to the Taliban when explaining what they did to the Forum and the learning of the Ancient World. Woo hoo!!
+
+Following all of this, R and I went to San Clemente and visited the mithraeum there, which was really cool. You couldn't walk in it, unfortunately, and they wouldn't let you take pictures but it was still amazing.
+
+Yesterday, we went to Trevi Fountain and then went through the Pantheon, which was just incredible. It is awesome to behold.

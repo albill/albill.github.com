@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Library Books
+published: true
+meta: {}
+
+tags: 
+- Books
+type: post
+status: publish
+---
+I have a strange, nigh uncontrollable desire, to take <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0812238087/">Understanding Terror Networks</a></strong> and apply the principles in it to a paper on the cell structure of the revolutionary network of <strong><a href="http://www.amazon.com/exec/obidos/ASIN/1563892677">The Invisibles</a></strong>. Does this strike anyone as wrong? I figure if it can apply to Al-Qaeda, it can apply to King Mob and friends... It would be interesting to do as a faux academic paper and to then submit it to some Homeland Security conference.
+
+Of course, I'd probably then be arrested and held without access to a lawyer for a couple of years so maybe it is not a good plan.
+
+In an effort towards fiscal responsibility, I've been using the public library more. The only downside is that it gives me only two weeks to read my books. This evening, I picked up:
+<ul>
+	<li><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0500510032/"><strong>The Dalai Lama's Secret Temple</strong></a>: This is about the private personal retreat of the Dalai Lama's in Lhasa that was secretly covered with murals depicting Dzogchen teachings and techniques. This is something like, in some eras, finding the private chapel of Calvin with a Latin Bible, a Bishop's mitre and a crucifex in it. Generally frowned upon in history for Gelugpa monks, which the Dalai Lama was the one of the heads of...</li>
+	<li><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0553374923/"><strong>What Really Matters : Searching for Wisdom in America</strong></a>: An interesting survey of religious and spiritual practitioners in America. This was highly recommended in <strong>One Taste</strong> by Ken Wilber.</li>
+	<li><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0971394210/"><strong>Disinformation: The Interviews</strong></a>: Selected interviews from the second season of the Disinformation television show in the UK. It has interviews with Robert Anton Wilson, Grant Morrison, and many others. I flipped through this a bit this evening and it's pretty cool stuff.</li>
+	<li><strong><strong class="small"><a href="http://www.amazon.com/exec/obidos/tg/detail/-/097139427X/">Book of Lies : The Disinformation Guide to Magick and the Occult</a></strong>:</strong> The book that I refuse to buy because Koenig has a piece with his lies in it. A lot of the other material in it is quite good but I refuse to give Koenig any of my money for his bile. What a fucker.</li>
+</ul>
+I have tomorrow off due to the Gods of Work being kind. That gives me a four day weekend. R and I are renting a cabin overnight on Friday at a lake near Everett. It's sealed from the elements, has a fireplace and power. It ought to be fun and cozy. I'll get some reading in and some quality time with the near-missus.

@@ -1,0 +1,203 @@
+--- 
+layout: post
+title: Advice from Patrul Rinpoche
+published: true
+meta: {}
+
+tags: 
+- Spirituality
+type: post
+status: publish
+---
+<p>Patrul Rinpoche was a great Dzogchen master of the 19th century in Tibet and he wrote this bit of advice for himself, which is amusing in its humility as well as pithy advice.</p>
+<h2>Advice from Me to Myself </h2>
+<h3>By Patrul Rinpoche</h3>
+<p>Vajrasattva, sole deity, Master, <br>
+You sit on a full-moon lotus-cushion of white light<br>
+In the hundred-petalled full bloom of youth. </p>
+<p>Think of me, Vajrasattva,<br>
+You who remain unmoved within the manifest display <br>
+That is Mahamudra, pure bliss-emptiness. </p>
+<p>Listen up, old bad-karma Patrul,<br>
+You dweller-in-distraction. </p>
+<p>For ages now you've been<br>
+Beguiled, entranced, and fooled by appearances.<br>
+Are you aware of that? Are you? <br>
+Right this very instant, when you're <br>
+Under the spell of mistaken perception<br>
+You've got to watch out.<br>
+Don't let yourself get carried away by this fake and empty life. </p>
+<p>Your mind is spinning around<br>
+About carrying out a lot of useless projects:<br>
+It's a waste! Give it up!<br>
+Thinking about the hundred plans you want to accomplish,<br>
+With never enough time to finish them, <br>
+Just weighs down your mind.<br>
+You're completely distracted<br>
+By all these projects, which never come to an end,<br>
+But keep spreading out more, like ripples in water.<br>
+Don't be a fool: for once, just sit tight. </p>
+<!--more-->
+<p>Listening to the teachings - you've already heard hundreds of teachings,<br>
+But when you haven't grasped the meaning of even one teaching,<br>
+What's the point of more listening? </p>
+<p>Reflecting on the teachings - even though you've listened,<br>
+If the teachings aren't coming to mind when needed,<br>
+What's the point of more reflection? None. </p>
+<p>Meditating according to the teachings -<br>
+If your meditation practice still isn't curing<br>
+The obscuring states of mind - forget about it! </p>
+<p>You've added up just how many mantras you've done - <br>
+But you aren't accomplishing the kyerim visualizatiion.<br>
+You may get the forms of deities nice and clear -<br>
+But you're not putting an end to subject and object.<br>
+You may tame what appear to be evil spirits and ghosts,<br>
+But you're not training the stream of your own mind. </p>
+<p>Your four fine sessions of sadhana practice,<br>
+So meticulously arranged - <br>
+Forget about them.</p>
+<p>When you're in a good mood,<br>
+Your practice seems to have lots of clarity -<br>
+But you just can't relax into it.<br>
+When you're depressed, <br>
+Your practice is stable enough <br>
+But there's no brilliance to it. <br>
+As for awareness, <br>
+You try to force yourself into a rigpa-like state, <br>
+As if stabbing a stake into a target! </p>
+<p>When those yogic positions and gazes keep your mind stable <br>
+Only by keeping mind tethered - <br>
+Forget about them! </p>
+<p>Giving high-sounding lectures<br>
+Doesn't do your mind-stream any good.<br>
+The path of analytical reasoning is precise and acute - <br>
+But it's just more delusion, good for nothing goat-shit. <br>
+The oral instructions are very profound <br>
+But not if you don't put them into practice.</p>
+<p>Reading over and over those dharma texts <br>
+That just occupy your mind and make your eyes sore -<br>
+Forget about it! </p>
+<p>You beat your little damaru drum - ting, ting - <br>
+And your audience thinks it's charming to hear.<br>
+You're reciting words about offering up your body, <br>
+But you still haven't stopped holding it dear. <br>
+You're making your little cymbals go cling, cling - <br>
+Without keeping the ultimate purpose in mind. </p>
+<p>All this dharma-practice equipment <br>
+That seems so attractive - <br>
+Forget about it! </p>
+<p>Right now, those students are all studying so very hard,<br>
+But in the end, they can't keep it up.<br>
+Today, they seem to get the idea,<br>
+But later on, there's not a trace left. <br>
+Even if one of them manages to learn a little,<br>
+He rarely applies his "learning" to his own conduct. </p>
+<p>Those elegant dharma disciplines -<br>
+Forget about them! </p>
+<p>This year, he really cares about you,<br>
+Next year, it's not like that.<br>
+At first, he seems modest,<br>
+Then he grows exalted and pompous.<br>
+The more you nurture and cherish him,<br>
+The more distant he grows. </p>
+<p>These dear friends <br>
+Who show such smiling faces to begin with - <br>
+Forget about them! </p>
+<p>Her smile seems so full of joy - <br>
+But who knows if that's really the case?<br>
+One time, it's pure pleasure,<br>
+Then it's nine months of mental pain. <br>
+It might be fine for a month, <br>
+But sooner or later, there's trouble. </p>
+<p>People teasing; your mind embroiled - <br>
+Your lady-friend -<br>
+Forget about her! </p>
+<p>These endless rounds of conversation<br>
+Are just attachment and aversion - <br>
+It's just more goat-shit, good for nothing at all.<br>
+At the time it seems marvellously entertaining,<br>
+But really, you're just spreading around stories about other people's mistakes.<br>
+Your audience seems to be listening politely, <br>
+But then they grow embarrassed for you. </p>
+<p>Useless talk that just make you thirsty -<br>
+Forget about it! </p>
+<p>Giving teachings on meditation texts<br>
+Without yourself having <br>
+Gained actual experience through practice, <br>
+Is like reciting a dance-manual out loud <br>
+And thinking that's the same as actually dancing. </p>
+<p>People may be listening to you with devotion,<br>
+But it just isn't the real thing. </p>
+<p>Sooner or later, when your own actions<br>
+Contradict the teachings, you'll feel ashamed.</p>
+<p>Just mouthing the words,<br>
+Giving dharma explanations that sound so eloquent - <br>
+Forget about it! </p>
+<p>When you don't have a text, you long for it;<br>
+Then when you've finally gotten it, you hardly look at it.</p>
+<p>The number of pages seems few enough,<br>
+But it's a bit hard to find time to copy them all.<br>
+Even if you copied down all the dharma texts on earth, <br>
+You wouldn't be satisfied. </p>
+<p>Copying down texts is a waste of time<br>
+(Unless you get paid) -<br>
+So forget about it! </p>
+<p>Today, they're happy as clams - <br>
+Tomorrow, they're furious. <br>
+With all their black moods and white moods, <br>
+People are never satisfied. <br>
+Or even if they're nice enough, <br>
+They may not come through when you really need them,<br>
+Disappointing you even more. </p>
+<p>All this politeness, keeping up a <br>
+Courteous demeanor -<br>
+Forget about it!</p>
+<p>Worldly and religious work<br>
+Is the province of gentlemen.<br>
+Patrul, old boy - that's not for you. </p>
+<p>Haven't you noticed what always happens? <br>
+An old bull, once you've gone to the trouble of borrowing him for his services,<br>
+Seems to have absolutely no desire left in him at all -<br>
+(Except to go back to sleep). </p>
+<p>Be like that - desireless.</p>
+<p>Just sleep, eat, piss, shit. <br>
+There's nothing else in life that has to be done. </p>
+<p>Don't get involved with other things:<br>
+They're not the point. </p>
+<p>Keep a low profile, <br>
+Sleep. </p>
+<p>In the triple universe<br>
+When you're lower than your company<br>
+You should take the low seat. </p>
+<p>Should you happen to be the superior one,<br>
+Don't get arrogant. </p>
+<p>There's no absolute need to have close friends;<br>
+You're better off just keeping to yourself. </p>
+<p>When you're without any worldly or religious obligations,<br>
+Don't keep on longing to acquire some! </p>
+<p>If you let go of everything -<br>
+Everything, everything - <br>
+That's the real point! </p>
+<p>This advice was written by the practitioner Trime Lodro (Patrul Rinpoche) for 
+his intimate friend Ahu Shri (Patrul Rinpoche), in order to give advice that is 
+tailored exactly to his capacities. </p>
+<p>This advice should be put into practice. </p>
+<p>Even though you don't know how to practice, just let go of everything — 
+that's what I really want to say. Even though you aren't able to succeed in your 
+dharma practice. don't get angry. </p>
+<p>May it be virtuous. </p>
+<p>Patrul Rinpoche (1808-1887) was the wandering turn-of-the-century Dzogchen 
+master of Eastern Tibet, beloved by the people. He was renowned as the 
+enlightened vagabond. </p>
+<p>Translation by Constance Wilkinson </p>
+<p>Many questions about the text were clarified according to the extremely kind 
+explanations of the Chogyal Namkhai Norbu Rinpoche, during his stay in New York 
+City, and according to the detailed explanations of Khenpo, Rigdzin Dorje of the 
+Nyingmapa Shedra, Bansbari, Kathmandu, Nepal.</p>
+<p>Thanks to Matthieu Ricard of Shechen Tennyi Dargyeling, and to Anne Burchardi 
+of the Marpa institute of Translation for their advice toward trying to make 
+this translation faithful to both the letter and spirit of the original Tibetan.
+</p>
+<p>All errors and misunderstandings are those of the translator. May this poem, 
+despite all shortcomings of its translation, serve to benefit beings. </p>
+<p><b>Sarva Mangalam.</b></p>
