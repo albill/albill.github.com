@@ -1,6 +1,7 @@
 markdown: rdiscount
+server: false
 pygments: true
-permalink:  /:year/:month/:title/
+permalink:  /:year/:month/:day/:title/
 url: http://www.openbuddha.com
 embedly:
   api_key: ba540e48da1511e0801e4040d3dc5c07
