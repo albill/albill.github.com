@@ -1,0 +1,269 @@
+---
+author: admin
+date: '2011-03-14 12:06:18'
+layout: page
+slug: chapter-twenty-four-bodhisattva-myozon-wondrous-sound
+status: publish
+title: 'Chapter Twenty-four: Bodhisattva Myozon (Wondrous Sound)'
+wordpress_id: '3604'
+---
+
+At that time Shakyamuni Buddha emitted a beam of bright light from the
+knob of flesh [on top of his head], one of the features of a great man,
+and also emitted a beam of light from the tuft of white hair between his
+eyebrows, illuminating the Buddha worlds in the eastern direction equal
+in number to the sands of one hundred eighty thousand million nayutas of
+Ganges. Beyond these numerous worlds was a world called Adorned with
+Pure Light. In this realm there was a Buddha named Pure Flower
+Constellation King Wisdom Thus Come One, worthy of offerings, of right
+and universal knowledge, perfect clarity and conduct, well gone,
+understanding the world, unexcelled worthy, trainer of people, teacher
+of heavenly and human beings, Buddha, World-Honored One. An immeasurably
+and boundlessly great multitude of bodhisattvas surrounded him and paid
+reverence, and for these he preached the Law. The beam of bright light
+from the white tuft of Shakyamuni Buddha illuminated the whole land.\
+ \
+ At that time in the land Adorned with Pure Light there was a
+bodhisattva named Wonderful Sound, who long ago had planted numerous
+roots of virtue, offering alms to and waiting upon immeasurable
+hundreds, thousands, ten thousands, millions of Buddhas. He had
+succeeded in acquiring all kinds of profound wisdom, gaining the samadhi
+of the wonderful banner mark, the Dharma flower samadhi, the pure virtue
+samadhi, the samadhi of the Constellation King's sport, the
+condition-less samadhi, the seal of wisdom samadhi, the samadhi that
+allows one to understand the words of all living beings, the samadhi
+that gathers together all benefits, the pure samadhi, with the samadhi
+of the sport of transcendental powers, the wisdom torch samadhi, the
+adorned king samadhi, the pure light glow samadhi, the pure storehouse
+samadhi, the unshared samadhi, and the samadhi of the suns revolving. He
+has gained all these great samadhis equal in number to the sands of a
+hundred, a thousand, ten thousand, a million Ganges.\
+ \
+ When the light emitted by Shakyamuni Buddha illuminated his body, he
+immediately spoke to the Buddha Pure Flower Constellation King Wisdom,
+saying: "World-Honored One, I must journey to the saha world to do
+obeisance, wait on, and offer alms to Shakyamuni Buddha, and to see
+Bodhisattva Manjushri, Prince of the Dharma, Bodhisattva Medicine King,
+Bodhisattva Brave donor, Bodhisattva Constellation King Flower,
+Bodhisattva Superior Practices Intent, Bodhisattva Adorned King, and
+Bodhisattva Medicine Superior."\
+ \
+ At that time the Buddha Pure Flower Constellation King Wisdom said to
+Bodhisattva Wonderful Sound: "You must not look with contempt on the
+land or come to think of it as a means and inferior. Good man, that saha
+world is uneven, high in places, low in others, and full of dirt,
+stones, mountains, foulness, and impurity. The Buddha is puny in stature
+and the numerous bodhisattvas are likewise small in form, whereas your
+body is forty-two thousand yojanas in height and mine is six million
+eight hundred thousand yojanas. Your body is foremost in shapeliness,
+with hundreds, thousands, ten thousands of blessings and a radiance that
+is particularly wonderful. Therefore when you journey there, you must
+not look with contempt on that land or come to think of the Buddha and
+bodhisattvas or the land itself as mean and inferior!"\
+ \
+ Bodhisattva Wonderful Sound said to the Buddha: "World-Honored One, my
+journey now to the saha world is in all respects due to the power of the
+Thus Come One, a sport carried out by the Thus Come One's transcendental
+powers, an adornment to the Thus Come One's blessings and wisdom."\
+ \
+ Thereupon the Bodhisattva Wonderful Sound, without raising from his
+seat or swaying his body, entered into the samadhi, and through the
+power of the samadhi, in a place not far removed from the Dharma seat on
+Mount Gridhrakuta, created a jeweled mass of eighty-four thousand lotus
+blossoms. Their stems were made of Jambunada gold, their leaves were of
+silver, their stamens of diamond, and their calyxes of kimshuka jewels.\
+ \
+ At that time the Dharma Prince Manjushri, spying the lotus flowers,
+spoke to the Buddha, saying: "World-Honored One, what causes have
+brought about the appearance of this auspicious sign? Here are many ten
+thousands of lotus blossoms, their stems made of Jambunada gold, their
+stamens of diamond and their calyxes of kimshuka jewels!"\
+ \
+ At that time Shakyamuni Buddha said to Manjushri: "This bodhisattva and
+mahasattva Wonderful Sound wishes to leave the land of the Buddha Pure
+Flower Constellation King Wisdom and, surrounded by eighty-four thousand
+bodhisattvas, to come to this saha world to offer alms, wait on, and pay
+obeisance to me. He also wishes to offer alms to and hear the Lotus
+Sutra."\
+ \
+ Manjushri said to the Buddha: "World-Honored One, what good roots has
+this bodhisattva planted, what benefits has he cultivated, that he can
+exercise such great transcendental powers as this? What samadhi does he
+carry out? I beg you to explain for us the name of this samadhi, for we
+too would look like to apply ourselves diligently to its practice. If we
+carry out this samadhi, then we will be able to observe the aspect and
+size of this bodhisattva and his bearing and conduct. We beg the
+World-Honored One to employ his transcendental powers to bring this
+bodhisattva here and enable us to see him!"\
+ \
+ At that time Shakyamuni Buddha said to Manjushri, "Many Treasures Thus
+Come One, who entered extinction so long ago, will manifest his form for
+you.\
+ \
+ Then the Buddha Many Treasures said to the bodhisattva [Wonderful
+Sound], "Come, good man. The Dharma Prince Manjushri wishes to see your
+body."\
+ \
+ With that, Bodhisattva Wonderful Sound vanished from his own land and,
+accompanied by eight-four thousand bodhisattvas, appeared here [in this
+saha world]. The lands that he passed through on his way quaked and
+trembled in six different ways, and in all of them seven jeweled lotus
+flowers rained down and instruments of hundreds and thousands of the
+musicians sounded of themselves without having been struck.\
+ \
+ This bodhisattva's eyes were as big and broad an the leaves of the blue
+Lotus, and a hundred, thousand, ten thousand moons put together could
+not surpass the perfection of this face. His body was pure gold in
+color, adorned with immeasurable hundreds and thousands of blessings.
+His dignity and virtue were splendid, his light shone brightly, he was
+endowed with many special marks and as stalwart in body as Narayana.\
+ \
+ Taking his place on the dais made of seven treasures, he had risen up
+into the air until he was raised above the earth the height of seven
+tala trees. Then with a host of bodhisattvas surrounding him and paying
+reverence, he had journeyed to Mount Gridhrakuta in this saha world.
+When he arrived there he descended from the dais of seven of seven
+pressures. Bearing a necklace worth hundreds and thousands, he proceeded
+to the place where Shakyamuni Buddha was, bowed his head to the ground,
+made obeisance to the Buddha's feet, and presented the necklace,
+addressing the Buddha in these words: "World-Honored One, the Buddha
+Pure Flower Constellation King Wisdom wishes to inquire about the
+World-Honored One. Are your illnesses few, are your worries few? Can you
+come and go easily and conveniently, can you move about in comfort? Are
+the four elements properly harmonized in you? Can you endure the worlds
+affairs? Are the living beings easy to the rescue? Are they not
+excessive in their greed, anger, stupidity, jealousy, stinginess, and
+arrogance? Are they not lacking in filial conduct toward their parents?
+Are they not disrespectful toward shramanas and given to heterodox views
+and other evil? Do they not fail to control their five emotions?
+World-Honored One, are the living beings able to conquer and overcome
+the enmity of the devils? Has Many Treasures Thus Come One, who entered
+extinction so long ago, come in his tower of seven treasures to listen
+to the Law? The Buddha also wishes to inquire about Many Treasures Thus
+Come One, whether he is tranquil and at ease, with few worries, patient
+and long abiding. World-Honored One, I would like to see the body of the
+Buddha Many Treasures. I beg the World-Honored One to allow me to see
+him!"\
+ \
+ At the time Shakyamuni Buddha said to Many Treasures Buddha, "This
+bodhisattva Wonderful Sound wishes to see you."\
+ \
+ Then Many Treasures Buddha addressed Wonderful Sound, saying,
+"Excellent, excellent! You have come here in order to be able to offer
+alms to a Shakyamuni Buddha and to listen to the Lotus Sutra and see
+Manjushri and the others."\
+ \
+ At that time the Bodhisattva Flower Virtue said to the Buddha,
+"World-Honored One, this bodhisattva Wonderful Sound - what good roots
+has he planted, what benefits has he cultivated, that he possesses these
+supernatural powers?"\
+ \
+ The Buddha replied to Bodhisattva flower Virtual: "In ages past there
+was a Buddha named cloud Thunder Sound King, tathagata, arhats,
+samyak-sambuddha. His land was called Manifesting All Worlds and his
+kalpa was called Gladly Seen. For twelve thousand years the Bodhisattva
+Wonderful Sound employed a hundred thousand types of musical instruments
+to provide an offering to the Buddha Cloud Thunder Sound King, and e
+also presented to him eighty-four thousand alms bowls made of the seven
+treasures. In recompense for these actions he has now been born in the
+land of the Buddha Pure Flower Constellation King Wisdom and possesses
+these supernatural powers.\
+ \
+ "Flower Virtue, what is your opinion? The bodhisattva Wonderful Sound
+who at that time made musical offerings to the Buddha Cloud Thunder
+Sound King and presented him with jeweled vessels - was he someone
+unknown to you? In fact is none other than the bodhisattva and
+mahasattva Wonderful Sound who is here now!\
+ \
+ "Flower Virtue, this bodhisattva Wonderful Sound has already made
+offerings to and waited on an immeasurable number of Buddhas. Long ago
+he planted the roots of virtue and encountered hundreds, thousands, ten
+thousands, millions of nayutas of Buddhist equal in number to the sands
+of the Ganges.\
+ \
+ Flower Virtue, you see only the body of Bodhisattva Wonderful Sound
+which is here. But this bodhisattva manifests himself in various
+different bodies and preaches this sutra for the sake of living beings
+in various different places. At times he appears as King Brahma, at
+times as Lord Shakra, at times as the heavenly Being Freedom, at times
+as a great general of heaven, at times as the heavenly King Vaishravana,
+at times as a wheel-turning sage king, at times as one of the petty
+kings, at times as rich man, at times as a householder, to times the
+chief minister, at times as a Brahman, at times as a monk, a nun, a
+layman believer, or laywomen believer, at times as the wife of a rich
+man or a householder, at times as a wife of a chief minister, a times as
+a wife of a Brahman, at times as a young boy or a young girl, at times
+as a heavenly being, a dragon, a yaksha, a gandharva, an asura, a
+garuda, a kimnara, a mahoraga, a human or a nonhuman being, so preaches
+this sutra. The hell dwellers, hungry spirits, beasts, and the numerous
+others who are in difficult circumstances are thus are able to be saved.
+And for the sake of those who are in women's quarters of the royal
+palace, he changes himself into a woman's form and preaches this sutra.\
+ \
+ "Flower Virtue, this bodhisattva Wonderful Sound can save and protect
+the various living beings of the saha world. This bodhisattva Wonderful
+Sound performs various transformations, manifesting himself in different
+forms in this saha land and preaches this sutra for the sake of living
+beings, and yet his transcendental powers, his transformations, and his
+Wisdom suffer no injury or diminution thereby. This bodhisattva employs
+various types of wisdom to illuminate the saha world, causing each one
+among all the living beings to acquire the appropriate understanding,
+and does the same in all the other worlds of the ten directions which
+are numerous as Ganges sands.\
+ \
+ "If the form of a voice-hearer is what is needed to bring salvation, he
+manifests himself in the form of a voice-hearer and proceeds to preach
+the Law. If the form of a pratyekabuddha will bring salvation, he
+manifests himself in the form of a pratyekabuddha and preaches the Law.
+If the form of a bodhisattva will bring salvation, he manifests a
+bodhisattva form and preaches the Law. If the form of a Buddha will
+bring salvation, he immediately manifests a Buddha form and preaches the
+Law. Thus he manifests himself in various different forms, depending
+upon what is appropriate for salvation. And if it is appropriate to
+enter extinction in order to bring salvation, he manifests himself as
+entering extinction.\
+ \
+ "Flower virtue, the bodhisattva mahasattvas Wonderful Sound has
+acquired great transcendental powers and the power of wisdom that enable
+him to do all this!"\
+ \
+ At that time the bodhisattva Flower Virtue said to the Buddha,
+"World-Honored One, this bodhisattva Wonderful Sound as planted the
+roots of goodness very deeply. World-Honored One, samadhi does this
+bodhisattva dwell in, that he is able to carry out all these
+transformations and manifestations to save living beings?"\
+ \
+ The Buddha said to Bodhisattva Flower Virtue, "Good man, this samadhi
+is called Manifesting All Kinds of bodies. The bodhisattva Wonderful
+Sound, dwelling in this samadhi, is able in this manner to enrich and
+benefit immeasurable living beings."\
+ \
+ When [the Buddha] preached this chapter on Bodhisattva Wonderful Sound,
+the eighty-four thousand persons who had come with bodhisattva Wonderful
+Sound all acquired the samadhi enabling them to manifest all kinds of
+bodies, and the immeasurable bodhisattvas in this saha world also
+acquired this samadhi and dharani.\
+ \
+ At that time the bodhisattva and mahasattva Wonderful Sound, having
+finished offering alms to Shakyamuni Buddha and to the tower of Many
+Treasures Buddha, returned to his original land. The lands that he
+passed through on his way quaked and trembled in six different ways,
+jeweled lotus flowers rained down, and hundreds, thousands, ten
+thousands, millions of different kinds of music played.\
+ \
+ After he had arrived in his original land and was surrounded by his
+eighty-four thousand bodhisattvas, he proceeded to the place of the
+Buddha Pure Flower Constellation King Wisdom and addressed the Buddha
+saying, "World-Honored One, I have visited the saha world, enriched and
+benefited the living beings, saw Shakyamuni Buddha and the tower of Many
+Treasures Buddha, and offered obeisance and alms to them. I also saw
+bodhisattva Manjushri, prince of the Dharma, as well as Bodhisattva
+Medicine King, Bodhisattva Gaining Diligent Exertion Power, Bodhisattva
+Brave Donor, and others. And I made it possible for these eighty-four
+thousand bodhisattvas to gain the samadhi enabling them to manifest all
+kinds of bodies."\
+ \
+ When [the Buddha] preached this chapter on the comings and goings of
+Bodhisattva Wonderful Sound, forty-two thousand sons of gods gained the
+truth of the birthless-ness of all phenomena, and Bodhisattva Flower
+Virtue gained the Dharma flower samadhi.

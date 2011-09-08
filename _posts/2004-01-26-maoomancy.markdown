@@ -1,0 +1,34 @@
+---
+author: admin
+date: '2004-01-26 21:57:00'
+layout: post
+slug: maoomancy
+status: publish
+title: Maoomancy
+wordpress_id: '35'
+categories:
+- Daily Life
+- Humor
+---
+
+![image](http://www.arcanology.com/images/redbook.jpg)At least one or
+two of my coworkers have no heard my opinion of the new be-all and
+end-all of divination methods: Maoomancy. Maoomancy is similar to
+Bibliomancy where a question is asked and then the Christian Bible is
+opened to a random passage. This passage contains the universe's pointer
+to the answer to the question. Sort of a Christian Magic Eight Ball, it
+seems. There are variations with dictionaries but they aren't nearly as
+fun. Maoomancy does the same thing but using a copy of Chairman Mao's
+**Little Red Book** as the source of Wisdom. Chairman Mao knows all,
+he's dead, and as a former dictator, is an open source (heh) of endless
+derision from certain people. In any case, since I actually own a copy
+of Mao's book (don't ask!), it works for me. Today, at the War Team
+meeting for my team at work, I asked the discarnate spirit of Chairman
+Mao if we would ship our next item within schedule. He replied:
+
+> "At the present stage, the period of building socialism, the classes,
+> strata and social groups which favour, support and work for the cause
+> of socialist construction all come within the category of the people,
+> while the social forces and groups which resist the socialist
+> revolution and are hostile to or sabotage socialist construction are
+> all enemies of the people."

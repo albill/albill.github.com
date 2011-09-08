@@ -1,0 +1,73 @@
+---
+author: admin
+date: '2004-01-10 13:05:00'
+layout: post
+slug: this-week
+status: publish
+title: This week...
+wordpress_id: '13'
+categories:
+- Daily Life
+- Esoteric
+- Spirituality
+---
+
+I haven't posted much this week. It's been fairly busy at work but not
+too bad. We're working on a big patch and we also have ongoing work with
+the Service Pack 2 for Windows XP. Those that care about such things
+probably heard about the Beta for that which MS released a few weeks
+back. Along with a lot of addressing of root security vulnurabilities in
+a lot of areas (RPC, IE, OE, etc) it includes some new features for IE
+like Pop-Up Management, Management of Active-X controls, etc. The latter
+work is all tested by my immediate direct reports. On the personal
+front, I met with a British Traditional Wiccan High Priestess friend of
+mine of many years over coffee and dinner. It looks like I'll be working
+with her on her training of a small group of people new to Brit Trad
+Craft. I had some training in this over 12 years ago and have been
+speaking with her about doing more official training, getting initiated
+into their lineage properly, etc. She's also interested in doing this in
+an organized fashion that will allow us to have an organized curriculum
+that I (and ) can use in our Prison Ministry work with the guys at
+McNeil Island. I don't know how often the Wiccan group will meet but I
+expect it to be a couple of times a month. I'm also turning in my
+application for the local Masonic lodge that has OTO members actively
+playing a role in it within the next few days. This brings my likely
+regular ritual/groups commitments to:
+
+-   **The Citadel of the Ouroboros** - My longest lasting commitment. We
+    meet a few times a month and at other odd times to do regular ritual
+    work on Ogdoadic lines and to continue to pursue the training
+    relating to our initiation. This is my main ritual focus most of the
+    time.
+-   **Ordo Templi Orientis** - Not always a month to month commitment
+    but I do like to go to Gnostic Mass when I can, attend the
+    appropriate initiation ceremonies for community members and be
+    somewhat involved. I have an outstanding degree that I can apply for
+    when I decide it is time to do so as well.
+-   **Dzogchen Community** - There is a local branch of Namkhai Norbus'
+    *Dzogchen Community* here in Seattle. It isn't super active most of
+    the time but they generally do a ganapuja on the full moons (as
+    measured on the Tibetan Calendar) and I want to make a regular
+    presence there. On a personal level, I'm trying to integrate the
+    medium Tun ritual, which is basic Dzogchen ritual work, into my
+    regular practice.
+-   **Unnamed Wiccan Training Group** - This is what I speak about
+    above. No details about this yet but I expect that it will meet a
+    couple of times a month (perhaps even weekly, I don't know) and will
+    also involve a bit of work outside of meetings.
+-   **Queen Anne Masonic Temple** - Assuming my application is accepted
+    and I am initiated, I know that QAMT meets on at least once a month
+    and I would want to make a regular presence there as I study the
+    masonic material.
+-   **McNeil Island Wiccan Ministry** - and I are going out once a month
+    for a study group or class with the inmates at this facility with
+    the occasional celebrations of Sabbats and the annual feast. This is
+    an ongoing commitment and I'd like to make sure that we provide the
+    guys with the best possible help.
+-   **Seattle Salon** - This is the proposed discussion group on magical
+    topics that and I have begun organizing. This doesn't meet yet but
+    there will be a monthly discussion going here.
+
+Hmm... That seems like quite a bit of stuff. Luckily, some of them are
+only once a month sorts of things so it isn't like I have to meet with
+all of these groups every week or two.

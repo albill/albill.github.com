@@ -1,0 +1,16 @@
+---
+author: admin
+date: '2003-12-27 17:32:00'
+layout: post
+slug: pictures-2
+status: publish
+title: Pictures
+wordpress_id: '2097'
+categories:
+- Daily Life
+---
+
+Oooh, I figured out how to use the timer function on my camera (I'd
+never read the manual before...).
+![image](http://www.arcanology.com/images/self-auto.jpg) And the dreaded
+ferret, Thalia: ![image](http://www.arcanology.com/images/thalia-2.jpg)

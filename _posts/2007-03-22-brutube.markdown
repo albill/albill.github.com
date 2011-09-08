@@ -1,0 +1,19 @@
+---
+author: admin
+date: '2007-03-22 21:23:48'
+layout: post
+slug: brutube
+status: publish
+title: BruTube
+wordpress_id: '1572'
+categories:
+- Notable People
+- Science Fiction
+- Society
+---
+
+A Bruce Sterling Fan-boy moment... I present to you, Bruce on Youtube
+vlogging. Go watch.
+Bruce discusses the various buildings of Belgrade from their various
+eras, their symbolism and the meanings inherent in the architecture of
+the city around him. It is his "Tour of Urban Futurity."

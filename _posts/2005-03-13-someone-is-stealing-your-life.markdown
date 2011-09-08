@@ -1,0 +1,181 @@
+---
+author: admin
+date: '2005-03-13 22:07:22'
+layout: post
+slug: someone-is-stealing-your-life
+status: publish
+title: Someone is stealing your life
+wordpress_id: '423'
+categories:
+- Daily Life
+---
+
+I've always really liked this essay by Michael Ventura. I think it
+speaks to the experience of a lot of people in this world. I posted it
+on a weblog a long time ago but I felt like doing so again.
+
+# **Someone is stealing your life**
+
+## **by Michael Ventura**
+
+### **(Excerpted from LA Weekly 26-Jan-90)**
+
+Most American adults wake around 6 to 7 in the morning. Get to work at 8
+or 9. Knock off around 5. Home again, 6-ish. Fifty weeks a year. For
+about 45 years.
+
+Most are glad to have the work, but don't really choose it. They may
+dream, they may study and even train for work they intensely want; but
+sooner or later, for most, that doesn't pan out. Then they take what
+they can and make do. Most have families to support, so they need their
+jobs more than their jobs admit to needing them. They're employees. And,
+as employees, most have no say whatsoever about much of anything on the
+job. The purpose or service, the short and long-term goals of the
+company, are considered quite literally "none of their business" -
+though these issues drastically influence every aspect of their lives.
+No matter that they've given years to the day-to-day survival of the
+business; employees (even when they're called "managers") mostly take
+orders. Or else. It seems an odd way to structure a free society: Most
+people have little or no authority over what they do five days a week
+for 45 years. Doesn't sound much like "life, liberty, and the pursuit of
+happiness." Sounds like a nation of drones.
+
+It used to be that one's compensation for being an American drone was
+the freedom to live in one's own house, in one's own quirky way, in a
+clean and safe community in which your children had the chance to be
+happier, richer drones than you. But working stiffs can't afford houses
+now, fewer communities are clean, none are safe, and your kid's
+prospects are worse. (This condition may be because for five days a
+week, for 45 years, you had no say - while other people have been making
+decisions that haven't been good for you.) I'm not sure whose happiness
+we've been pursuing lately, but one thing is clear: It's not the
+happiness of those who've done our society's work.
+
+On the other hand - or so they say - you're free, and if you don't like
+your job you can pursue happiness by starting a business of your very
+own, by becoming an "independent" entrepreneur. But you're only as
+independent as your credit rating. And to compete in the business
+community, you'll find yourself having to treat others - your employees
+- as much like slaves as you can get away with. Pay them as little as
+they'll tolerate and give them no say in anything, because that's what's
+most efficient and profitable. Money is the absolute standard. Freedom,
+and the dignity and well-being of one's fellow creatures, simply don't
+figure in the basic formula.
+
+This may seem a fairly harsh way to state the rules America now lives
+by. But if I sound radical, it's not from doing a lot of reading in some
+cozy university, then dashing off to dispense opinion as a prima donna
+of the alternative press. I learned about drones by droning. From ages
+18 to 29 (minus a few distracted months at college when I was 24) I
+worked the sort of jobs that I expected to have all my life: typesetter
+for two years, tape transcriber for three, proofreader (a grossly
+incompetent one) for a few weeks, messenger for a few months, and
+secretary (yes, secretary) for a year and a half. Then I stopped working
+steadily and the jobs got funkier: hospital orderly, vacuum-cleaner
+salesman, Jack-in-the-Box counterperson, waiter, nail hammerer, cement
+mixer, toilet scrubber, driver.
+
+It was during the years of office work that I caught on: I got two
+weeks' paid vacation per year. A year has 52 weeks. Even a comparatively
+unskilled, uneducated worker like me, who couldn't (still can't) do
+fractions or long division - even I had enough math to figure that two
+goes into 52 ... how many times? Twenty-sic. Meaning it would take me 26
+years on the job to accumulate one year for myself. And I could only
+have that in 26 pieces, so it wouldn't even feel like a year. In other
+words, no time was truly mine. My boss merely allowed me an illusion of
+freedom, a little space in which to catch my breath, in between the 50
+weeks that I lived that he owned. My employer uses 26 years of my life
+for every year I get to keep. And what do I get in return for this
+enormous thing I am giving? What do I get in return for my life?
+
+A paycheck that's as skimpy as they can get away with. If I'm lucky,
+some health insurance. (If I'm really lucky, the employer's definition
+of "health" will include my teeth and my eyes - maybe even my mind.)
+And, in a truly enlightened workplace, just enough pension or
+"profit-sharing" to keep me sweet but not enough to make life different.
+And that's it.
+
+Compare this to what my employer gets: If the company is successful, he
+(it's usually a he) gets a standard of living beyond my wildest dreams,
+including what I would consider fantastic protection for his family, and
+a world of access that I can only pitifully mimic by changing channels
+on my TV. His standard of living wouldn't be possible without the labor
+of people like me - but my employer doesn't think that's a very
+significant fact. He certainly doesn't think that this fact entitles me
+to any say about the business. Not to mention a significant share in
+ownership. Oh no. The business is his to do with as he pleases, and he
+owns my work. Period.
+
+I don't mean that bosses don't work. Most work hard, and have the
+satisfaction of knowing that what they do is theirs. Great. The problem
+is: What I do is theirs too. Yet if my companion workers and I didn't do
+what we do - then nobody would be anybody's. So how come what we do is
+hardly ours? How come he can get rich while we're lucky to break even?
+How come he can do anything he wants with the company without consulting
+us, yet we do the bulk of the work and take the brunt of the
+consequences?
+
+The only answer provided is that the employer came up with the money to
+start the enterprise in the first place; hence, he and his money people
+decide everything and get all the benefits.
+
+Excuse me, but that seems a little unbalanced. It doesn't take into
+account that nothing happens unless work is done. Shouldn't it follow
+that, work being so important, the doers of that work deserve a more
+just formula for measuring who gets what? There's no doubt that the
+people who risked or raised the money to form a company, or bail it out
+of trouble, deserve a fair return on their investment - but is it fair
+that they get everything? It takes more than investment and management
+to make a company live. It takes the labor, skill, and talent of the
+people who do the company's work. Isn't that an investment? Doesn't it
+deserve a fair return, a voice, a share of the power?
+
+I know this sounds awfully simplistic, but no school ever taught me
+anything about the ways of economics and power (perhaps because they
+didn't want me to know), so I had to figure it out slowly, based on what
+I saw around me every day. And I saw:
+
+That it didn't matter how long I worked or what a good job I did. I
+could get incremental raises, perhaps even medical benefits and a few
+bonuses, but I would not be allowed power over my own life - no power
+over the fundamental decisions on which my life depends. My future is in
+the hands of people whose names I often don't know and whom I never
+meet. Their investment is the only factor taken seriously. They feed on
+my work, on my life, but reserve for themselves all power, prerogative,
+and profit.
+
+Slowly, very slowly, I came to a conclusion that for me was fundamental:
+My employers are stealing my life.
+
+They. Are. Stealing. My. Life.
+
+If the people who do the work don't own some part of the product, and
+don't have any power over what happens to their enterprise - they are
+being robbed. And don't think for a minute that those who are robbing
+you don't know they are robbing you. They know how much they get from
+you and how little they give back. They are thieves. They are stealing
+your life.
+
+The assembly-line worker isn't responsible for the decimation of the
+American auto industry, for instance. Those responsible are those who've
+been hurt least, executives and stockholders who, according to the Los
+Angeles Times, make 50 to 500 times what the assembly-line worker makes,
+but who've done a miserable job of managing. Yet it's the workers who
+suffer most. Layoffs, plant closings, and such are no doubt necessary -
+like the bumper stickers say, shit happens - but it is not necessary
+that workers have no power in the fundamental management decisions
+involved.
+
+As a worker, I am not an "operating cost." I am how the job gets done. I
+am the job. I am the company. Without me and my companion workers,
+there's nothing. I'm willing to take my lumps in a world in which little
+is certain, but I deserve a say. Not just some cosmetic "input," but
+significant power in good times or bad. A place at the table where
+decisions are made. Nothing less is fair. So nothing less is moral.
+
+And if you, as owners or management or government, deny me this - then
+you are choosing not to be moral, and you are committing a crime against
+me. Do you expect me not to struggle?
+
+Do you expect us to be forever passive while you get rich stealing our
+lives?

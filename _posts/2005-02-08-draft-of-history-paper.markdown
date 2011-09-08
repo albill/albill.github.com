@@ -1,0 +1,38 @@
+---
+author: admin
+date: '2005-02-08 00:14:10'
+layout: post
+slug: draft-of-history-paper
+status: publish
+title: Draft of History Paper
+wordpress_id: '390'
+categories:
+- Academic
+- Daily Life
+---
+
+I just finished what I've marked as "Draft 5" of my History 501 paper.
+After my frustration with the Philosophy 505 paper experiences (and I
+regret turning it in early now), I am determined to get the history
+paper right. It is a seven page paper so it shouldn't be too bad.
+
+I've been working on it off and on since this weekend, doing about a
+third of it on Saturday and then hammering out a full draft on Sunday. I
+then went back over it a few times. Last night, I asked R to read it for
+errors and she agreed so I printed it out. Tonight, she went through it,
+found a bunch of the kind of typos that spellcheckers don't catch and
+quite a few places where my language was too longwinded or I had
+sentences with too many clauses for comfort. I wound up getting a little
+sharp during the connection process, which is bad since she's doing me a
+favor. I apologized but I do value having someone literate enough to
+proofread at home as I am going to be writing, on average, three or four
+papers a class.
+
+I went back and rearranged entire sections to flow more logically. The
+paper is set up to answer three separate questions from an introductory
+text on the study of history that we read. My paper answered those
+questions but linking them up into an overall theme was difficult. R had
+some ideas there and I pondered them a while. Eventually, I think I
+created something that flows better. I'll print out Draft 5 tomorrow and
+go over it. I'd like to turn it in by Wednesday since it is due by
+Friday. Luckily, the prof prefers papers by e-mail.

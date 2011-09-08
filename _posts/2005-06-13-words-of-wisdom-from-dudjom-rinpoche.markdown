@@ -1,0 +1,120 @@
+---
+author: admin
+date: '2005-06-13 15:12:58'
+layout: post
+slug: words-of-wisdom-from-dudjom-rinpoche
+status: publish
+title: Words of Wisdom from Dudjom Rinpoche
+wordpress_id: '483'
+categories:
+- Buddhism
+---
+
+Homage to my teacher! The Great Master of Oddiyana once said: Don’t
+investigate the root of things, Investigate the root of Mind! Once the
+mind’s root has been found, You’ll know one thing, yet all is thereby
+freed. But if the root of Mind you fail to find, You will know
+everything but nothing understand. When you start to meditate on your
+mind, sit up with your body straight, allowing your breath to come and
+go naturally. Gaze into the space in front of you with eyes neither
+closed nor wide open. Think to yourself that for the sake of all beings
+who have been your mothers, you will watch awareness, the face of
+Samantabhadra. Pray strongly to your root teacher, who is inseparable
+from Padmasambhava, the Guru from Oddiyana, and then mingle your mind
+with his. Settle in a balanced, meditative state. Once you are settled,
+however, you will not stay long in this empty, clear state of awareness.
+Your mind will start to move and become agitated. It will fidget and run
+here, there, and everywhere, like a monkey. What you are experiencing at
+this point is not the nature of the mind but only thoughts. If you stick
+with them and follow them, you will find yourself recalling all sorts of
+things, thinking about all sorts of needs, planning all sorts of
+activities. It is precisely this kind of mental activity that has hurled
+you into the dark ocean of samsara in the past, and there’s no doubt it
+will do so in the future. It would be so much better if you could cut
+through the ever spreading, black delusion of your thoughts. What if you
+are able to break out of your chain of thoughts? What is awareness like?
+It is empty, limpid stunning, light, free, joyful! It is not something
+bounded or demarcated by its own set of attributes. There is nothing in
+the whole of samsara and nirvana that it does not embrace. From time
+without beginning, it is within us, inborn. We have never been without
+it, yet it is wholly outside the range of action, effort, and
+imagination. But what, you will ask, is it like to recognize awareness,
+the face of rigpa? Although you experience it, you simply cannot
+describe it – it would be like a dumb man trying to describe his dreams!
+It is impossible to distinguish between yourself resting in awareness
+and the awareness you are experiencing. When you rest quite naturally,
+nakedly, in the boundless state of awareness, all those speedy,
+pestering thoughts that would not stay quiet even for an instant – all
+those memories, all those plans that cause you so much trouble – lose
+their power. They disappear in the spacious, cloudless sky of awareness.
+They shatter, collapse, vanish. All their strength is lost in awareness.
+You actually have this awareness within you. It is the clear, naked
+wisdom of dharmakaya. But who can introduce you to it? On what should
+you take your stand? What should you be certain of? To begin with, it is
+your teacher who shows you the state of your awareness. And when you
+recognize it for yourself, it is then that you are introduced to your
+own nature. All the appearances of both samsara and nirvana are but the
+display of your own awareness; take your stand upon awareness alone.
+Just like the waves that rise up out of the sea and sink back into it,
+all thoughts that appear sink back into awareness. Be certain of their
+dissolution, and as a result you will find yourself in a state utterly
+devoid of both meditator and something meditated upon - completely
+beyond the meditating mind. "Oh, in that case," you might think,
+"there’s no need for meditation." Well, I can assure you that there is a
+need! The mere recognition of awareness will not liberate you.
+Throughout your lives from beginningless time, you have been enveloped
+in false beliefs and deluded habits. From then till now you have spent
+every moment as a miserable, pathetic slave of your thoughts! And when
+you die, it’s not at all certain where you will go. You will follow your
+karma, and you will have to suffer. This is the reason why you must
+meditate, continuously preserving the sate of awareness you have been
+introduced to. The omniscient Longchenpa has said, "You may recognize
+your own nature, but if you do not meditate and get used to it, you will
+be like a baby left on a battlefield: you’ll be carried off by the
+enemy, the hostile army of your own thoughts!" In general terms,
+meditation means becoming famiIiar with the state of resting in the
+primordial uncontrived nature, through being spontaneously, naturally,
+constantly mindful. It means getting used to leaving the state of
+awareness alone, divested of all distraction and clinging. How do we get
+used to remaining in the nature of the mind? When thoughts come while
+you are meditating, let them come; there’s no need to regard them as
+your enemies. When they arise, relax in their arising. On the other
+hand, if they don’s arise, don’t be nervously wondering whether or not
+they will. Just rest in their absence. If big, well-defined thoughts
+suddenly appear during your meditation, it is easy to recognize them.
+But when slight, subtle movements occur, it is hard to realize that they
+are there until much later. This is what we call namtok wogyu, the
+undercurrent of mental wandering. This is the thief of your meditation,
+so it is important for you to keep a close watch. If you can be
+constantly mindful, both in meditation and afterward, when you are
+eating, sleeping, walking, or sitting, that’s it – you’ve got it right!
+The great master Guru Rinpoche has said: A hundred things may be
+explained, a thousand told, But one thing only should you grasp. Know
+one thing and everything is freed- Remain within your inner nature, your
+awareness! It is also said that if you do not meditate, you will not
+gain certainty: if you do, you will. But what sort of certainty? If you
+meditate with a strong, joyful endeavor, signs will appear showing that
+you have become used to staying in your nature. The fierce, tight
+clinging that you have to dualistically experienced phenomena will
+gradually loosen up, and your obsession with happiness and suffering,
+hopes and fears, and so on, will slowly weaken. Your devotion to the
+teacher and your sincere trust in his instructions will grow. After a
+time, your tense, dualistic attitudes will evaporate and you will get to
+the point where gold and pebbles, food and filth, gods and demons,
+virtue and nonvirtue, are all the same for you - you’ll be at a loss to
+choose between paradise and hell! But until you reach that point (while
+you are still caught in the experiences of dualistic perception), virtue
+and nonvirtue, buddhafields and hells, happiness and pain, actions and
+their results – all this is reality for you. As the Great Guru has said,
+"My view is higher than the sky, but my attention to actions and their
+results is finer than flour." So don’t go around claiming to be some
+great Dzogchen meditator when in fact you are nothing but a farting
+lout, stinking of alcohol and rank with lust! It is essential for you to
+have a stable foundation of pure devotion and samaya, together with a
+strong, joyful endeavor that is well balanced, neither too tense nor too
+loose. If you are able to meditate, completely turning aside from the
+activities and concerns of this life, it is certain that you will gain
+the extraordinary qualities of the profound path of Dzogchen. Why wait
+for future lives? You can capture the primordial citadel right now, in
+the present. This advice is the very blood of my heart. Hold it close
+and never let it go! Dudjom Rinpoche

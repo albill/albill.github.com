@@ -1,0 +1,52 @@
+---
+author: admin
+date: '2003-04-17 03:34:00'
+layout: post
+slug: weapons-of-ass-destruction
+status: publish
+title: Weapons of Ass Destruction
+wordpress_id: '1355'
+categories:
+- Humor
+- Notable People
+---
+
+Weekly World News -
+[http://entertainment.yahoo.com/entnews/wwn/20030410/104998680005.html](http://entertainment.yahoo.com/entnews/wwn/20030410/104998680005.html)
+**Saddam Starred in Gay Porn Films!** Thursday April 10, 2003 KUWAIT
+CITY -- Iraqi dictator Saddam Hussein has been caught with his pants
+down -- literally. A shocking 1968 porn film has surfaced, in which the
+flamboyant strongman appears performing raunchy homosexual acts! The
+image quality of the grainy 16mm film, uncovered by the Kuwaiti secret
+police, is poor -- but experts who've taken a close look at the
+hairy-chested actor are "100 percent certain" it is a younger, trimmer
+Saddam. "There is no doubt in my mind that this is Saddam -- there's no
+mistaking those eyes and that distinctive nose," declares Hussein
+biographer Sadiq al-Sabah of Kuwait, who's seen the eye-popping footage
+first-hand. "It may be hard to believe that a man who now leads one of
+the most powerful nations in the Middle East once acted in blue movies,
+but to anyone familiar with how reckless and sexually promiscuous Saddam
+was in his youth, this will come as no surprise. It's also a known fact
+that the young, desperate soldier did anything for money. "Saddam
+appeared in as many as 85 of these films under a variety of stage names,
+most frequently Omar Studdif," reveals the researcher. Still photographs
+from the sizzling XXX-rated film, La'iba al-Waladaani (The Two Boys
+Played), were leaked to a Kuwait news magazine after authorities found
+it amid a stash of illicit porn in the vault of a recently deceased
+sheik. Release of the pictures has resulted in howls of protest from
+Baghdad. "President Hussein is the manliest of men. He would never
+behave in such a repugnant manner," says an Iraqi spokesman. "This is
+CIA propaganda." But rumors that Saddam appeared in gay porn films in
+his younger days have dogged him for decades and almost torpedoed his
+political career when he was a rising star in the ruling Baath Socialist
+party. "He was able to squelch the rumors in the past, but now it looks
+like the Kuwaitis have found the smoking gun," says a State Department
+source. Al-Sabah claims that Saddam, then a struggling law student,
+acted in porn to make ends meet -- and because he was addicted to gay
+sex. In the newly uncovered 86-minute prison flick, Saddam, then just
+34, plays a naive young peasant who is wrongly convicted and sent to
+jail. He is initiated into homosexuality by a series of older and more
+experienced cons. "Saddam's acting in the picture is actually quite
+good," al-Sabah notes. "One scene, in which he buries his face in a
+pillow and cries, is so touching you almost can forget you're watching a
+low-budget sexploitation film." -- By MIKE FOSTER

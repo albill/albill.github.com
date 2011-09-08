@@ -1,0 +1,63 @@
+---
+author: admin
+date: '2005-06-18 01:02:15'
+layout: post
+slug: from-buddhism-with-an-attitude-by-b-alan-wallace
+status: publish
+title: From Buddhism With An Attitude by B. Alan Wallace
+wordpress_id: '485'
+categories:
+- Buddhism
+---
+
+This was posted in the Buddhists community today that I frequent on
+Livejournal. I find it appropriate based on various thoughts I've had
+for the last couple of years. What it means for life changes for me in
+the long run remains to be seen (and may surprise people).
+
+> "*Spiritual practice is not a shortcut to the American Dream* nor is
+> it an embellishment to a comfortable life. Dharma addresses the root
+> causes of suffering and requires that we take a hard look at the
+> preconceptions that maintain our worldview and perpetuate our
+> problems. As much as success seems to be the source of the good things
+> in life, happiness included, *success isn't the goal of spiritual
+> practice.* Our ideas about success are themselves based on
+> preconceptions and are also part of a self-perpetuating cycle
+> preventing us from achieving the genuine success and happiness that we
+> seek. "The Buddhist tradition addresses preconceptions about success
+> head-on with an eight-term differential diagnosis called **"the eight
+> mundane concerns,"**eight orientations toward the pursuit of happiness
+> based on unexamined assumptions. Fixation on these concerns subverts
+> our best efforts, leading either to counterfeit success or true
+> frustration. "The eight mundane concerns consist of four pairs of
+> priorities: [1] the pursuit of material acquisitions and [2] the
+> avoidance of their loss; [3] the pursuit of stimulus-driven pleasure
+> and [4] the avoidance of discomfort; [5] the pursuit of praise and [6]
+> the avoidance of blame; and [7] the pursuit of good reputation and [8]
+> the avoidance of bad reputation. "There is nothing bad about having
+> material acquisitions -- a car, a house; and, conversely, poverty is
+> not necessarily a virtue. There is nothing wrong with enjoying a
+> sunset, a good book, pleasant conversation, or beautiful music. It is
+> not a bad thing to be praised. Being loved and respected by others is
+> not bad either. *On the other hand, it is not bad to be rejected by
+> others if you are leading a wholesome and meaningful life.* Many
+> accomplished Dharma practitioners are content and happy living in
+> total poverty. Reputation may go up and down, but it is possible for
+> contentment to remain constant. The true source of happiness does not
+> lie in mastery of the eight mundane concerns. Rich, poor, praised,
+> blamed, stimulated, bored, respected, reviled -- none of these mundane
+> concerns are in themselves sources of happiness. Nor do they prevent
+> happiness. "The problem is that when we focus on mundane concerns as a
+> means to happiness, life becomes a crap shoot. There are no
+> guarantees. If you aspire to material wealth, you may not get it, but
+> if you do, there is no guarantee you will be happy. If you aspire to
+> pleasure, once a stimulus is over, so is satisfaction. There is no
+> lasting happiness in scurrying after praise. People who are respected
+> and famous tend to have the same personal problems as everyone else.
+> The fatal shortcoming of the eight mundane concerns is that they are
+> counterfeit Dharma, misguided ways of seeking happiness, and by
+> habitually mistaking mundane concerns for genuine Dharma, our efforts
+> to achieve genuine happiness are continually undermined."
+
+[B. Alan Wallace, *Buddhism with an Attitude*. Snow Lion Publications:
+New York, 2001. p19-20]

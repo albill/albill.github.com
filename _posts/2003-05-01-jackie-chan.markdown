@@ -1,0 +1,26 @@
+---
+author: admin
+date: '2003-05-01 03:58:00'
+layout: post
+slug: jackie-chan
+status: publish
+title: Jackie Chan
+wordpress_id: '1365'
+categories:
+- Daily Life
+---
+
+My Tivo knows that I love Jackie Chan movies so records them for me.
+Tonight R and I had a seemingly rare weekday evening together (between
+classes for both of us and friends, we can be out a bit). She made a
+nice dinner for us and we proceeded to watch **The Legend of the Drunken
+Master**, which I'd never seen before. I sometimes forget how good of a
+martial artist, at least for performance, Jackie Chan really did.
+Watching him move in this movie and knowing that he does all of his own
+stunts, it was fairly impressive to watch in places. I give the film a
+thumbs up. The Tivo is gradually recording more **Reign** so we'll be
+able to watch an hour or two of Alexander the Great and Pythagorean
+Ninjas again soon. I still haven't watched the **Cowboy Bebop** episodes
+that I've been recording. Maybe this weekend though with a big Beltane
+event on Saturday, lodge on Sunday night and Madeline coming over, I'm
+not sure when...

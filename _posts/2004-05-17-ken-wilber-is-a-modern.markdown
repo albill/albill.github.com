@@ -1,0 +1,50 @@
+---
+author: admin
+date: '2004-05-17 00:09:00'
+layout: post
+slug: ken-wilber-is-a-modern
+status: publish
+title: Ken Wilber is a modern
+wordpress_id: '112'
+categories:
+- Spirituality
+---
+
+Ken Wilber is a modern philosopher-scholar whose work I tend to follow.
+He's notorious for not giving many interviews over the last 25 years or
+having public appearances, preferring to write and let his work stand
+for itself. There are two exceptions to this in book form. One is "Grace
+and Grit," which is composed largely of the journals of his late wife
+with some framing work by Wilber. Treya Wilber was diagnosed with cancer
+ten days after Ken and she married and they spent about a decade in a
+battle with the disease. That book is about that struggle. The other
+exception is "One Taste." In 1997, Ken kept a journal for a year as an
+experiment in recording his day to day thoughts and some of his work,
+specifically with the thought that he might get something interesting to
+publish along with the value as an experiment. "One Taste" is the
+collection of the entries from that year and I've been reading it this
+last week. In speaking with Vajranatha, we were discussing Ken Wilber's
+spiritual practices a bit, along with other work. While he has had many
+influences and teachers with various degrees of fame (or infamy, such as
+Adi Da or Chogyam Trungpa), he's also studied with some reputable
+people. I've often wondered about Ken's exposure to Dzogchen and he
+makes a couple of references to being taught it here and there by
+Chagdud Rinpoche, among others. I came across the following entry about
+an hour ago. (This is an excerpt from a longer piece.) I thougt it might
+be of interest. \>From One Taste, November 11: [...] In any event,
+around four or five A.M. I do one or two hours of more typical
+meditative and contemplative practices. Even if constant consciousness
+is present, I try to do these practices, because they exercise and
+express that Song more beautifully than anything else I know. (Suzuki
+Roshi, when asked why we should meditate, always said the same thing: We
+do not meditate to attain Buddha-nature -- because, being ever-present,
+it is literally unattainable -- rather, we meditate to express the
+Buddha-nature that we always already are.) Although I have been
+meditating for around 25 years -- and have tried dozens of different
+spiritual practices -- most of those that I do at this time were
+received at the Longchen Nyingthig given by His Holiness Pema Norbu
+(Penor) Rinpoche, now head of the Nyingma school of Tibetan Buddhism.
+These especially include tigle gyachen and the shi tro (elaborate
+practices that include togyal and trekchod, the two major practices of
+Dzogchen or Maha-Ati Buddhism). Many of these practices were also
+initiated by my primary Dzogchen teacher, Chagdud Tulku Rinpoche.

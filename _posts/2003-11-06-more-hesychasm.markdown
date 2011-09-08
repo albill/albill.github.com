@@ -1,0 +1,271 @@
+---
+author: admin
+date: '2003-11-06 03:35:00'
+layout: post
+slug: more-hesychasm
+status: publish
+title: More Hesychasm
+wordpress_id: '1978'
+categories:
+- Spirituality
+---
+
+**Hesychasm** (Greek hesychos, quiet). The story of the system of
+mysticism defended by the monks of Athos in the fourteenth century forms
+one of the most curious chapters in the history of the Byzantine Church.
+In itself an obscure speculation, with the wildest form of mystic
+extravagance as a result, it became the watchword of a political party,
+and incidentally involved again the everlasting controversy with Rome.
+It is the only great mystic movement in the Orthodox Church. Ehrhard
+describes it rightly as "a reaction of national Greek theology against
+the invasion of Western scholasticism" (Krumbacher, Byzant. Litt., p.
+43). The clearest way of describing the movement will be to explain
+first the point at issue and then its history. **I. THE HESYCHAST
+SYSTEM** Hesychasts (hesychastes -- quietist) were people, nearly all
+monks, who defended the theory that it is possible by an elaborate
+system of asceticism, detachment from earthly cares, submission to an
+approved master, prayer, especially perfect repose of body and will, to
+see a mystic light; which is none other than the uncreated light of God.
+The contemplation of this light is the highest end of man on earth; in
+this way is a man most intimately united with God. The light seen by
+Hesychasts is the same as appeared at Christ's Transfiguration. This was
+no mere created phenomenon, but the eternal light of God Himself. It is
+not the Divine essence; no man can see God face to face in this world
+(John i, 18), but it is the Divine action or operation. For in God
+action (energeia, actus, operatio) is really distinct from essence
+(ousia). There was a regular process for seeing the uncreated light; the
+body was to be held immovable for a long time, the chin pressed against
+the breast, the breath held, the eyes turned in, and so on. Then in due
+time the monk began to see the wonderful light. The likeness of this
+process of auto-suggestion to that of fakirs, Sunnyasis, and such people
+all over the East is obvious. Hesychasm then contains two elements, the
+belief that quietist contemplation is the highest occupation for men,
+and the assertion of real distinction between the divine essence and the
+divine operation. Both points had been prepared by Greek theologians
+many centuries before. Although there was comparatively little mysticism
+in the Byzantine Church, many Greek Fathers and theologians had
+maintained that knowledge of God can be obtained by purity of soul and
+prayer better than by study. The quotations made by Hesychasts at the
+councils (see below) supply many such texts. Clement of Alexandria was
+most often invoked for this axiom. Pseudo-Dionysius seems to have
+brought the statement a step nearer to Hesychasm. He describes a medium
+in which God may be contemplated; this medium is a mystic light that is
+itself half darkness. But it was Simeon, "the new theologian" (c.
+1025-c. 1092; see Krumbacher, op. cit., 152-154), a monk of Studion, the
+"greatest mystic of the Greek Church" (loc. cit.), who evolved the
+quietist theory so elaborately that he may be called the father of
+Hesychasm. For the union with God in contemplation (which is the highest
+object of our life) he required a regular system of spiritual education
+beginning with baptism and passing through regulated exercises of
+penance and asceticism under the guidance of a director. But he had not
+conceived the grossly magic practices of the later Hesychasts; his ideal
+is still enormously more philosophical than theirs. There seems also to
+have been a strong element of the pantheism that so often accompanies
+mysticism in the fully developed Hesychast system. By contemplating the
+uncreated light one became united with God so intimately that one became
+absorbed in Him. This suspicion of pantheism (never very remote from
+neo-Platonic theories) is constantly insisted on by the opponents of the
+system. The other element of fourteenth-century Hesychasm was the famous
+real distinction between essence and attributes (specifically one
+attribute -- energy) in God. This theory, fundamentally opposed to the
+whole conception of God in the Western Scholastic system, had also been
+prepared by Eastern Fathers and theologians. Remotely it may be traced
+back to neo-Platonism. The Platonists had conceived God as something in
+every way unapproachable, remote from all categories of being known to
+us. God Himself could not even touch or act upon matter. Divine action
+was carried into effect by demiurges, intermediaries between God and
+creatures. The Greek Fathers (after Clement of Alexandria mostly
+Platonists) had a tendency in the same way to distinguish between God's
+unapproachable essence and His action, energy, operation on creatures.
+God Himself transcends all things. He is absolute, unknown, infinite
+above everything; no eye can see, no mind conceive Him. What we can know
+and attain is His action. The foundation of a real distinction between
+the unapproachable essence (ousia) and the approachable energy
+(energeia) is thus laid. For this system, too, the quotations made by
+Hesychasts from Athanasius, Basil, Gregory, especially from
+Pseudo-Dionysius, supply enough examples. The Hesychasts were fond of
+illustrating their distinction between God's essence and energy (light)
+by comparing them to the sun, whose rays are really distinct from its
+globe, although there is only one sun. It is to be noted that the
+philosophic opponents of Hesychasm always borrow their weapons from St.
+Thomas Aquinas and the Western Schoolmen. They argue, quite in terms of
+Latin Aristotelean philosophy, that God is simple; except for the
+Trinity there can be no distinctions in an actus purus. This distinct
+energy, uncreated light that is not the essence of God, would be a kind
+of demiurge, something neither God nor creature; or there would be two
+Gods, an essence and an energy. From one point of view, then, the
+Hesychast controversy may be conceived as an issue between Greek
+Platonist philosophy and Latin rationalist Aristoteleanism. It is
+significant that the Hesychasts were all vehemently Byzantine and bitter
+opponents of the West, while their opponents were all latinizers, eager
+for reunion. **II. HISTORY OF THE CONTROVERSY** The leaders of either
+side were Palamas the Hesychast and Barlaam, from whom the other side is
+often called that of the Barlaamites. Gregory Palamas (d. about 1360;
+Krumbacher, op. cit., 103-105) was a monk at Athos, then from 1349
+Bishop of Thessalonica. He wrote no less than sixty works in defence of
+Hesychasm, one especially against the Scholastic identification of God's
+essence and attributes. He found fifty heresies in his opponents. He was
+also vehemently anti-Latin, wrote a refutation of John Beccus's
+latinizing work, and did his duty by Orthodoxy in supplying the usual
+treatise against the double procession of the Holy Ghost. Naturally his
+opponents call him a ditheist, while he considers them Arians,
+Sabellians, and Epicureans. Barlaam (Krumbacher, op. cit., 100), his
+chief adversary, was a monk from Calabria who came to Constantinople in
+the reign of Andronicus III (1328-1341). At first he opposed the Latins,
+but eventually he wrote in defence of reunion, of the Filioque, and the
+papal primacy. In 1348 he left Constantinople and became Bishop of
+Gerace in Calabria. The date of his death is unknown. It was from this
+Barlaam that Petrarch learned Greek. Gregory Akindynos, a friend and
+contemporary of Barlaam, also a monk, wrote a work against the
+Hesychasts "Peri ousias kai energeias," in six books, of which the first
+two are nothing but translations from St. Thomas's "Summa contra
+Gentes". Nicephorus Gregoras (ib., 101, 293-298), the historian (d.
+after 1359), was also one of the chief opponents of Hesychasm. He came
+to the emperor's court as a young man, was educated by the most famous
+scholars of that time the Patriarch John Glycus (John XIII, 1316-1320),
+and the Great Logothete Theodorus Metochites, and became himself perhaps
+the most distinguished man of learning in the Greek world of the
+fourteenth century. He wrote theology, philosophy, astronomy, history,
+rhetoric, poetry, and grammar. His best-known work is a Roman history in
+thirty-seven books, describing the period from 1204 to 1329. In the
+midst of so many occupations he made the acquaintance of Barlaam, and
+entered the lists with him against Palamas and the Hesychasts. He wrote
+a number of controversial works to confute these people, and tells the
+story of the quarrel in his history (books XV, XVIII, XIX, XXII) with
+much animus against them. Like most of the anti-Hesychasts Gregoras was
+a pronounced latinizer. At the time when Barlaam was opposed to the
+Latins Gregoras wrote against him; with Palamas too he discussed the
+question of reunion with the West in a friendly and conciliatory way.
+Eventually Gregoras fell into disfavour with the Court and disappeared.
+The monks of Athos might have contemplated their uncreated light without
+attracting much attention, had not the question become mixed up with the
+unending Latin controversy and with political issues. They had already
+practised their system of auto-suggestion for a long time when Barlaam,
+arriving at Constantinople, began to denounce it as superstitious and
+absurd. There had been some opposition before. People had heard Palamas
+boast that he could see the light of God with his eyes, and had accused
+him of blasphemy; but, since Isaias, the Patriarch of Constantinople
+(1323-1334), was himself a monk of Athos and a disciple of Palamas, the
+opposition had not been very successful. However, from the year 1339,
+when Barlaam arrived in the city, began the really serious quarrel which
+for twenty years was to rend Orthodox theology, cause enormous commotion
+at Constantinople, Athos, and all the great centres of the Orthodox
+world, and lead even to active persecution. Barlaam, like all opponents
+of Hesychasm, based his objections mainly on a vehement denial of the
+possibility of an uncreated light that was yet not God's essence;
+throughout the controversy he and his party used the arguments they had
+learned in the West to show the impossibility of such distinctions in
+God. He also made bitter mockery of what he calls the Homphalopsychia of
+the monks who sit with bent heads gazing at their own person, and
+brought various accusations against Palamas's life and manners. After
+Isaias, John XIV (John Aprenus, 1334-47) had become patriarch. Barlaam
+demanded of him a synod to settle the question. For a time the patriarch
+refused to take the matter so seriously; eventually, since the quarrel
+became more and more bitter, in 1341 the first synod of the Hesychast
+question was summoned at Constantinople. The emperor (Andronicus III)
+presided. This first synod considered only two questions; (1) Whether
+the light of Thabor (that of the Transfiguration) was created or not;
+(2) a certain prayer used by Hesychasts, stated by Barlaam to contain
+ditheism. The enormous influence of the monks at Court and the want of
+energy of the patriarch (who was in his heart on Barlaam's side) made
+this first synod a victory for Hesychasm. In both points the monks and
+their theory were approved, and Barlaam was forced to withdraw his
+accusations. Soon afterwards he left Constantinople forever; his cause
+was taken up by Gregory Akindynos. The emperor died a few days after the
+synod. John VI, Cantacuzenus (1341-1355), who gradually usurped the
+imperial power, first as rival, then as fellow-emperor, of Andronicus's
+son John V, Palæologus (1341-76), was always a friend of Palamas and the
+Hesychast monks. The second Hesychast synod under Cantacuzenus, but
+without the patriarch, condemned Akindynos and introduced a new element
+by representing him and all its opponents as latinizers who were trying
+to destroy Orthodoxy. In 1345 the patriarch summoned the third synod. By
+now he had definitely made up his mind to withstand the Hesychasts. This
+synod then, under his direction, excommunicated Palamas and Isidore
+Buchiras, Bishop elect of Monembasia in Thessaly, one of Palamas's
+disciples. Buchiras and Palamas withdrew their heresy outwardly, and
+waited for a better chance. The chance came in 1347. By this time their
+protector John Cantacuzenus had entered Constantinople in triumph and
+had been crowned emperor. The other party (that of the child-emperor
+John Palæologus and of his mother Ann of Savoy) was now helpless. The
+controversy from this time is complicated by a political issue.
+Cantacuzenus and his friends were Hesychasts; the party of the Palæologi
+were Barlaamites. As long as Cantacuzenus triumphed the Hesychasts
+triumphed with him; by the time he fell Hesychasm had become so much
+identified with the cause of the Orthodox Church against the Latins that
+the other side never succeeded in ousting it. On 2 February, 1347, the
+fourth Hesychast synod was held. It deposed the patriarch, John XIV, and
+excommunicated Akindynos. Isidore Buchiras, who had been excommunicated
+by the third synod, was now made patriarch (Isidore I, 1347-1349). In
+the same year (1347) the Barlaamites held the fifth synod, refusing to
+acknowledge Isidore and excommunicating Palamas. From this time
+Nicephorus Gregoras becomes the chief opponent of Hesychasm. Isidore I
+died in 1349: the Hesychasts replaced him by one of their monks,
+Callistus I (1350-1354). In 1351 the sixth synod met in the Blachernæ
+palace under Cantacuzenus. Gregoras defended his views boldly and
+skillfully, but again the Hesychasts had it all their own way, deposed
+Barlaamite bishops, and used violence against their own opponents. In
+this synod six questions about God's essence and attributes were
+answered, all in the Hesychast sense, while Palamas was declared to be
+without any doubt orthodox and unimpeachable. The synod finally
+published, in defence of Palamas and his views, a decree (Tomos) which
+eventually was looked upon as an authentic declaration of the Orthodox
+Church. From this time Hesychasm may be said to have defeated all
+opposition. Gregoras was arrested and kept in custody in his own house.
+He was not set free till Cantacuzenus (with whom rests the eternal
+disgrace of having first invited to Turks to Europe) was deposed and the
+Palæologi triumphed in 1354. Cantacuzenus then withdrew to Athos, became
+a monk himself, taking the name of Joasaph, and spent the rest of his
+life writing a history of his own times and contemplating the uncreated
+light. This history in four books (in Migne, P.G., CLIII, CLIV) covers
+the period from 1320 to 1356, and tells the whole story of the Hesychast
+controversy. Being written by a violent partisan, it forms an
+interesting contrast to that of Gregoras. After the deposition of
+Cantacuzenus, the Barlaamites held an anti-Hesychast synod at Ephesus;
+but the patriarchs of Constantinople and the great mass of the people
+had by now become too firmly persuaded that the cause of Hesychasm was
+that of Orthodoxy. To oppose it was to incur the guilt of latinizing; so
+even Cantacuzenus's fall was not enough to turn the scale. Hesychasm
+from this time is always triumphant. About 1360 Palamas died. In 1368
+the seventh Synod of Constantinople (concerning this matter) under the
+Patriarch Philotheus (1364-1376: Callistus's successor) excommunicated
+the Barlaamite monk Prochorus Cydonius, confirmed the "Tomus" of 1351 as
+a "Faultless Canon of the true faith of Christians", and canonized
+Palamas as a Father and Doctor of the Church. So by the end of the
+fourteenth century Hesychasm had become a dogma of the Orthodox Church.
+It is so still. The interest in the question gradually died out, but the
+Orthodox still maintain the Tomus of 1351 as binding; the real
+distinction between God's essence and operation remains one more
+principle, though it is rarely insisted on now, in which the Orthodox
+differ from Catholics. Gregory Palamas is a saint to them. They keep his
+feast on the second Sunday of Lent and again on 14 November (Nilles,
+"Kalandarium manuale", Innsbruck, 1897, II, 124-125). The office for
+this feast was composed by the Patriarch Philotheus. In the nineteenth
+century there was among the Orthodox a certain revival of interest in
+the question, partly historical, but also speculative and philosophical.
+Nicodemus, a monk of Athos, defended the Hesychasts in his Egcheiridion
+symbouleutichon (1801); Eugenius Bulgaris and others, especially Athos
+monks, have again discussed this old controversy; it is always evident
+that their theology still stands by the Tomus of 1351, and still
+maintains the distinction between the Divine essence and energy. There
+was a very faint echo of Hesychasm in the West. Latin theology on the
+whole was too deeply impregnated with the Aristotelean Scholastic system
+to tolerate a theory that opposed its very foundation. That all created
+beings are composed of actus and potentia, that God alone is actus
+purus, simple as He is infinite -- this is the root of all Scholastic
+natural theology. Nevertheless one or two Latins seem to have had ideas
+similar to Hesychasm. Gilbertus Porretanus (de la Porrée, d. 1154) is
+quoted as having said that the Divine essence is not God -- implying
+some kind of real distinction; John of Varennes, a hermit in the Diocese
+of Reims (c. 1396), said that the Apostles at the Transfiguration had
+seen the Divine essence as clearly as it is seen in heaven. About the
+same time John of Brescain made a proposition: Creatam lucem infinitam
+et immensam esse. But these isolated opinions formed no school. We know
+of them chiefly through the indignant condemnations they at once
+provoked. St. Bernard wrote to refute Gilbert de la Porrée; the
+University of Paris and the legate Odo condemned John of Brescain's
+proposition. Hesychasm has never had a party among Catholics. In the
+Orthodox Church the controversy, waged furiously just at the time when
+the enemies of the empire were finally overturning it and unity among
+its last defenders was the most crying need, is a significant witness of
+the decay of a lost cause. from:
+[http://www.newadvent.org/cathen/07301a.htm](http://www.newadvent.org/cathen/07301a.htm)

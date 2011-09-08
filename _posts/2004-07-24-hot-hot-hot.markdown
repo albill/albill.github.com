@@ -1,0 +1,60 @@
+---
+author: admin
+date: '2004-07-24 18:09:12'
+layout: post
+slug: hot-hot-hot
+status: publish
+title: Hot, Hot, Hot!
+wordpress_id: '190'
+categories:
+- Daily Life
+---
+
+Hot enough for you? I haven't looked but its got to be in the 90s or so
+in Seattle today. For around here, with our humidity, it's nasty hot. My
+cats are passed out on the floor and haven't moved for hours. Hell, the
+ferret even looks tired.
+
+I finished **Iron Sunrise** by Charles Stross while I was home sick
+yesterday. (I think it was my curry from the other day...). It is quite
+a different book from **Singularity Sky**. I haven't decided how I feel
+about it though I think, at a basic level, it is an entertaining read.
+To read something light, I started my used copy of
+**[Wyrmhole](http://www.amazon.com/exec/obidos/tg/detail/-/0451459490/)**
+today. So far, it is interesting but I'm not sure if it is interesting
+enough...
+
+Today was "Wicca in the Prison" day. I got up a little before 6:00 AM
+and drove down to McNeil Island and...missed my ferry by about two
+minutes. I watched it pull away as I got up to the doc. So, I waited an
+hour and fifteen for the next one. Once I got out there, I found the
+guys waiting and I did a normal two hour session or so with them. I
+handed out some study material and we'll see how it goes. The dynamics
+of dealing with inmates is kind of interesting and the group has
+undergone some kind of internal power shift over the last six months.
+Some of the people that used to go have either been transferred out or
+have quit coming, depending on the guy. One particular fellow and his
+buddies is kind of in charge of their ritual work now but the others
+seem to back this. It isn't really my call to make since they need to
+come to accommodations on their own for what they do and how they
+practice. I got back to the mainland around noon, drove up to Seattle
+and did a little time-wasting on Capitol Hill.
+
+This week, R and I joined Netflix so we'll be turning off the TV portion
+of our cable soon. That's the deal for how we're justifying the costs
+for it. We've received **The Man Who Wasn't There**, **The Triplets of
+Belleville**, and **Millenium, Season 1, Disc 1** today. The triplets is
+for her and the Millenium show stuff is for me. R and I also went out
+for ice cream last night and, while we were out, I picked up a couple of
+things for my camping trip in New York this coming week (like a tarp and
+such). We also, finally, picked up a cheap GPS unit so we can play the
+geocache game. Of course, I can also use it while camping... uh huh...
+
+I also went and hung out with Sarastro for a bit at Third Place Books on
+Friday and discussed topics esoteric with him. He's doing volunteer work
+at the library there. Nothing out of the ordinary in our discussions,
+the normal ranting and such.
+
+I'm feeling a little wiped today between the heat and the roughly five
+hours of sleep I got last night. R and I wanted to do something tonight
+but we haven't nailed down any specific plans.

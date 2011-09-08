@@ -1,0 +1,37 @@
+---
+author: admin
+date: '2003-05-27 16:30:00'
+layout: post
+slug: good-stuff-from-an-e-mail-list
+status: publish
+title: Good Stuff from an E-mail List
+wordpress_id: '1395'
+categories:
+- Humor
+- Spirituality
+---
+
+This was sent to mock the original poster by another member of this
+e-mail list I'm on but I think it stands well on its ow n... \> the
+bible and all religius texts of the ancient world evolved from \> the
+pyramid texts and egyptian religion Well, actually, no, they didn't, but
+I can see why you would think that they did. This is a false secret, put
+out by the Ophidian master race to deceive people into thinking that
+they have discovered the truth and seeking no further. Actually, all of
+the religious texts of the world are derived from an Ophidian
+supercomputer running Enochian-based programs in the hollow center of
+the earth, overseen by the secret Aryan masters of Mu. No, really, it's
+true! But wait there's more... The Illuminati used their secret
+vrilloscope to read the writings, releasing one for each macrocosmic Age
+of Mankind as determined by the Clock of Llulu the Impeccable. This
+process continued until the Clock was stopped by the threat of sexual
+molestation (someone wanted to gangbang Llulu). Lovecraft's dreams of
+the Cthulhoid beings opened a portal in time for them to contact Joseph
+Smith, enabling him to find the Golden Tablets with the access codes for
+the Ophidian computer and hack out his own religious program. He has
+been in constant conflict with the Ophidians ever since, but the Church
+of Jesus Christ of Latter-Day Saints, if translated into Bantu and
+spelled backwards, actually provides the stellar coordinates of Sirius
+according to the tables of the Taoist master Huang Lo Dong! This is the
+secret that thousands have died to protect, but at last I tell it to
+you. Do not abuse it.

@@ -1,0 +1,27 @@
+---
+author: admin
+date: '2006-05-04 01:08:44'
+layout: post
+slug: candide
+status: publish
+title: Candide
+wordpress_id: '767'
+categories:
+- Academic
+- Daily Life
+---
+
+My new term in school started on Monday, May 1. This term I am only
+taking a single class, which is on Rousseau and the Enlightenment. Along
+with reading Rousseau's confessions and a number of his political works,
+we are also reading [**Candide**](http://en.wikipedia.org/wiki/Candide)
+by Voltaire. In fact, we are starting the class with it, which actually
+seems to be a bit of a good thing. I am about 10% through it (which is
+to say twenty pages), having started this evening. I must say I find
+Voltaire to be quite funny and charmy. This is probably the most ribald
+thing I've read in ages. From the references to the philosopher Pangloss
+engaging in "experimental physics" with the maid to prove cause and
+effect to the scandalous comments about Catholicism and Kings. I am
+quite surprised that Voltaire was never assassinated by someone. Given
+the era that he wrote he, I can see why he gained the reputation that
+lasts to today.

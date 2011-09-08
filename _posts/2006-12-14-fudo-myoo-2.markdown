@@ -1,0 +1,18 @@
+---
+author: admin
+date: '2006-12-14 00:43:11'
+layout: post
+slug: fudo-myoo-2
+status: publish
+title: Fudo Myoo
+wordpress_id: '1479'
+categories:
+- Buddhism
+---
+
+Fudo Myoo is the patron of both Tendai and Shingon Buddhism, the
+Japanese forms of Vajrayana. He is the immovable one and the wrathful
+form of Dainichi Nyorai, who embodies the Dharmakaya.
+
+[![Fudo
+Myoo](http://static.flickr.com/125/322003067_e0e20652ce_o.jpg)](http://www.flickr.com/photos/albill/322003067/ "Photo Sharing")

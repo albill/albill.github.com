@@ -1,0 +1,185 @@
+---
+author: admin
+date: '2003-03-27 20:28:00'
+layout: post
+slug: to-catch-the-conscience-of-a-king
+status: publish
+title: To Catch the Conscience of a King
+wordpress_id: '1328'
+categories:
+- Society
+---
+
+This was written by one of the fellows that works for me that I've known
+for the past year or so. ;-) **TO CATCH THE CONSCIENCE OF A KING** A
+Modest Proposal to President Bush, Today would seem to be another
+glorious day for America and its handlers.Not since the last time war
+was brought to us have we had such a pleasurable villain to annihilate,
+or such a historic city to have an opportunity to rebuild. Like the rest
+of patriotic America, I am proud that our troops have had the
+opportunity to train against actual enemies, and I must say I am
+impressed at how efficiently they have met with and dispatched this
+peasant army with a minimum of American casualties. This bodes very well
+for the many coming wars. Indeed, it is hard to imagine how a war could
+be fought more convincingly even were the opposition more aggressively
+fighting back. It has been, in a word, potent, a great banner to hang
+across the world. Our initial projections for casualties, on both sides,
+are proving staggeringly, absurdly high. It might even be said that when
+this military action was greenlit, we were expecting a war. As a nation
+which you have rightly said considers war a last option, we applaud your
+restraint in radically limiting the scope of combat to what may be only
+a few thousand Iraqi dead, far less than budgeted, at least barring
+evidence that an actual war is necessary. This windfall is surely to
+your credit. Submitted for your approval, I have a modest proposal for
+how to spend this surplus of Iraqi lives, which the markets of public
+opinion and policy have already priced into the cost of war. As you may
+know, my company has several drugs and treatments in the pipeline in
+need of human trials, many of which have the potential to reinvent our
+society to a degree beyond the dreams of any Patriot Act or Homeland
+Security department. I would like to enlist these spared soldiers into
+another war which has been brought to us, namely the war against the
+medical terror of impotence. Your recent experience with the United
+Nations puts you in a unique perspective to appreciate the powerful
+humiliation of impotence. To be fixated on your prize, eager to go in
+with shock and awe, only to be denied fulfillment, surely must awaken
+your compassion for those Americans tormented by impotence every day of
+their lives. Your frustration was, of course, quite temporary, your
+potency currently proven for all the world to see, with such an
+unambiguity as to be virtually pornographic. Well done indeed. In fact,
+I may confide to you that your example has had therapeutic effects on
+many of my current subjects, which though not expected to continue
+indefinitely, have certainly given them an enjoyable respite from their
+frustration. Of course, my patients are not Great Men like you, and
+cannot simply overcome their shortcomings by will of strength. A more
+permanent solution will be required. Since our funding is not from the
+military budget, you may be surprised to know that my company has a
+handful of drugs and techniques that are ready for clinical trials.
+Frankly, however, this process is very slow. It could take as much as a
+few years to follow the established process of getting these
+revolutionary cures in our pipeline to market. The sticking point is the
+ethical concern of human trials, which requires very deliberate,
+incremental testing on lower forms of life before we are authorized to
+validate our theories on American humans. American courts have been very
+difficult on this point. Frankly, curing the terror of impotence could
+be the work of many years. It is even possible that, given the short
+terms which my fellow Chief Executives are subject, I may be ousted by
+my shareholders before I have made my historical mark by curing this
+disease. I have considerable political need within my company for
+immediate results. While my company would certainly never think of
+making a habit of violating the established process, these desperate
+times call for a short-circuiting of the process to achieve the results
+we so desperately need. Let me be blunt on how you can help in this war
+against terror. Americans have considerable rights that prevent us from
+conducting our trials on them at this stage, but as terrorists, the
+Iraqi people are not subject to the American civil and criminal courts
+which have stymied us. Indeed, as soldiers in league with international
+terrorism, they need not be subject to the Geneva Convention, which I
+understand suggests against this proposal, so you need not be concerned
+with that. You have the power to appropriate these people and enjoin
+them as soldiers in your war, subject to your laws, to which no
+challenge is recognized. American courts, legislators, media, and even,
+for what it is worth, the people, have missed their opportunity to
+challenge you, and all projections indicate that it is now too late for
+them to become relevant again. You alone in all the world are exempt
+from the mortal concerns of ethics, public opinion, and constitutional
+legalism. In short, you alone in all the world, my lawyers have assured
+me, have the might and will to make the difficult measures required by
+these terrible times right. You may be concerned that it would be
+illegal to consign Iraqi people to non-military experimentation. As
+noted above, this is a frivolous concern easily circumvented. But let me
+add that my public relations experts have concluded it would be quite
+easy to spin these trials as enacted for the good of the Iraqi people.
+What could be better than to share your potency with the Iraqi people,
+who have known nothing but frustration and terror for years? Indeed, it
+is expected that Iraq will contribute its resources in compensation for
+American life force spilled penetrating Iraqi defenses. It should be
+obvious that a country has no greater resource than its people. Why
+should not the enemies spared by your benevolence be included in the
+reparations which Iraqi people surely owe us for their newfound freedom?
+Of course, my challenge is not to convince you of the value of sexual
+fulfillment on the eve of your conquest of a decade-long foe. My aim is
+far more modest. To be able to utilize these would-be-dead Iraqi forces
+during our occupation, it is necessary for you to capture opposition
+forces whenever possible, not just when convenient. I understand this
+has considerable political risk. Using the currently established
+exchange rate, an American life has considerably more value than an
+Iraqi life, and additionally even has a name and family. Losing even one
+soldier in the act of capturing ten Iraqi would-be-deads would seem a
+losing political trade. As a fellow businessman, believe me I understand
+your reluctance to accept such terms, if that were the simple, cold
+equation. One must, of course, think of the bigger picture. The bigger
+picture is your legacy. The destruction to this date has been simply
+breathtaking, characterized by both relentlessness and restraint, but it
+is becoming increasingly apparent that there is no legacy upside in
+dropping more bombs even on buildings that have only symbolic or
+historical value, or in pressing so quickly to Baghdad as to not give
+the meager opposition the opportunity to surrender. Conquering a
+civilization in two weeks is not less impressive than in one. As
+mentioned, we can with good conscience perform needed clinical trials
+more easily, perhaps only, on the would-be-dead Iraqis. Only those that
+come in under budget are a developable resource for us. When an Iraqi
+soldier fires ineffectually at your staggering might, please consider
+recognizing the value in letting him realize the futility of fighting
+back instead of casually destroying him. Fire warning shots, give them a
+chance to see your might instead of simply accepting his suicide. Why
+needlessly destroy such an economic asset simply because it doesn’t
+understand your deepdown benevolence? You have wisely elected to pause
+to put out oilfield fires when they present themselves. It would seem a
+simple matter to extend this policy to human assets as well. Well, lives
+are of course fine for you, even Iraqi lives, and I have no doubt you
+would wish to help me cure a plague of manhood were it not too
+inconvenient, but you may ask what is the value to you politically of
+conquering this affliction, since clearly you are now the most potent
+man on the planet. A reasonable question. Simply put, you have an
+opportunity to become a worldwide hero by liberating men of their
+frustration. Statues of you will be erected by half the world. Even by
+American standards, this is non-trivial market share. Nor will any part
+of my proposal endanger your ability to seed Iraq in your image. You’ll
+simply have to go a little slower and fight the enemy only when
+engagement cannot be avoided as opposed to whenever your commendably
+restrictive rules of engagement can justify annihilation. If that isn’t
+clear, please ask your handlers to explain it to you slowly. Perhaps you
+fear that your new Iraqi subjects will be more critical of your
+martyring them in a jihad against impotence than Americans have been.
+This is the beauty of the people of Iraq: they won’t. They understand
+far better than your unruly American subjects what it is to be
+emasculated for a greater man, an easier good. They expect suffering,
+compliance, fear. They have no expectations of freedom, no rule of law,
+no common decency. You will not need to court their votes. They have no
+need, in short, of the long, ongoing process of de-Americanizing that
+your American subjects continue to require. They have fear that has no
+need of constant reinforcement or color-coding. They have been
+terrorized, brutalized, oppressed, annihilated. They have no society
+left, and have only you to give them one. In short, they will question
+nothing, accept whatever is given to them, do anything asked of them,
+without thought of whether it is right. They will simply accept you as a
+fact of life, an act of god. You will be a father to them. You will soon
+have the most perfect country on earth for you to lead, resource rich
+without character, pliant, historical, terrified: Iraq is virgin snow
+eager for your name. But you are not the only man who requires the Iraqi
+people as exploits of war. You are an inspiration to any man who would
+not back down in humiliation when he is determined to stand up. But
+there are those of us who, with all our wealth, power, and influence,
+still lack the one thing that gives us the peace within ourselves to
+accept and enjoy our privileged lot in life. Iraq may be enough of a
+substitute for your purposes, but participating vicariously in your
+manifest destiny is no longer enough for us. We need more. We need this.
+It has been years since we have felt like ourselves. There is something
+pent-up inside us which must be let go. We turn to you, Mr. Bush, as our
+greatest symbol of potency, to fix this ineffectual, embarrassing prick
+and help us become whole again. If you can’t, it is clear no one can.
+There is no one left. Our American essence is so frail at this moment
+that even those able to stand no longer do. It may soon be lost forever.
+Even at the height of your power, you are in danger of becoming the last
+American, the only one left standing when the rest of us have recoiled
+from this duty. Please consider carefully this modest proposal. Save our
+people from this impotence, at any cost. In these desperate times,
+patriots are called upon to do difficult things in the name of our
+country, things we fear to do, things we cannot accept. This civil war
+has always been about America, about whether we have the moral stones to
+faithfully execute this evil deed and secure our place on this earth. It
+is to your credit as a leader, and to the still quite strong residual
+value of America’s good name, that we have so far answered your call.
+But our will is flagging. The next time you call for all good Americans
+to join you, I fear you will be standing alone, with only the fearsome
+power of your office where a great, just country once stood.

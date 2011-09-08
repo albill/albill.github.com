@@ -1,0 +1,15 @@
+---
+author: admin
+date: '2003-09-16 02:50:00'
+layout: post
+slug: my-mama
+status: publish
+title: My Mama
+wordpress_id: '1889'
+categories:
+- Esoteric
+- Notable People
+---
+
+Look! My mom is in the paper!!
+[http://www.sltrib.com/2003/sep/09152003/utah/92633.asp](http://www.sltrib.com/2003/sep/09152003/utah/92633.asp)

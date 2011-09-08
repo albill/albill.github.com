@@ -1,0 +1,155 @@
+---
+author: admin
+date: '2005-04-24 14:39:22'
+layout: post
+slug: microsoft-and-gay-rights
+status: publish
+title: Microsoft and Gay Rights
+wordpress_id: '452'
+categories:
+- Society
+---
+
+As a general rule, I don't talk about my work on my blog. This isn't a
+technical blog and even though I am a geek, I have a lot of other
+interests. It is also just easier, in so many ways, to "not go there"
+given the controversies around my employer with various factions. Some
+critics have good points that I even occasionally agree with but I've
+always thought that it was best to stay out of the line of fire.
+
+I'm breaking this unwritten rule because I've been pretty pissed off the
+last few days about the current controversy around Microsoft and Gay
+Rights, specifically the bill that Microsoft pulled its backing from in
+the Washington State legislature to extend the anti-discrimination laws
+to gays and lesbians.
+
+On Thursday, I found the following online. **The Stranger** is a local
+paper that I've read since I was in college, off and on.
+
+> **Another reason to switch?**
+>
+> [http://www.salon.com/politics/war\_room/index.html?blog=/politics/war\_room/2005/04/21/msft/index.html](http://www.salon.com/politics/war_room/index.html?blog=/politics/war_room/2005/04/21/msft/index.html "http://www.salon.com/politics/war_room/index.html?blog=/politics/war_room/2005/04/21/msft/index.html")
+>
+> Maybe Microsoft isn't the Great Satan that it once was -- in the
+> public imagination, Wal-Mart has pretty much overtaken that role --
+> but there are still plenty of folks who hold a special place in the
+> darkest corners of their hearts for the world's largest software
+> company.
+>
+> According to [The
+> Stranger](http://www.salon.com/politics/war_room/%20http://www.thestranger.com/2005-04-21/feature.html%20 "http://www.salon.com/politics/war_room/%20http://www.thestranger.com/2005-04-21/feature.html"),
+> an alternative weekly from Seattle, there's a whole new reason to
+> dislike Microsoft: The company, the paper says, withdrew its support
+> from legislation in the state of Washington that would have outlawed
+> discrimination based on sexual orientation or gender identity. The
+> bill was
+> [defeated](http://www.salon.com/politics/war_room/%20http://seattlepi.nwsource.com/local/aplocal_story.asp?category=6420&slug=WA+XGR+Gay+Rights "http://www.salon.com/politics/war_room/%20http://seattlepi.nwsource.com/local/aplocal_story.asp?category=6420&slug=WA+XGR+Gay+Rights")
+> in the Washington Senate this afternoon, 25-24.
+>
+> According to The Stranger, Microsoft withdrew its support for the bill
+> after the leader of a mega-church from Redmond threatened a boycott of
+> Microsoft's products. Earlier this month, the paper says, a Microsoft
+> senior vice president told a group of gay and lesbian employees about
+> the threatened boycott -- and explained that Microsoft would
+> henceforth be "neutral" on a bill it had previously supported. War
+> Room contacted Microsoft for a response this morning; while a member
+> of Microsoft's "rapid response" PR team promised us we'd be hearing
+> from a Microsoft spokeswoman promptly, we're still waiting.
+>
+> Although Microsoft is generally considered a gay-friendly employer,
+> news that it may have waffled on the anti-discrimination measure --
+> especially in the face of a single threat from an NFL
+> linebacker-turned-evangelical-minister -- has gay-rights activists
+> none too happy with the company. "Apparently, Microsoft's new motto is
+> 'your potential, our passion, as long as you're not gay or lesbian,'"
+> Dan Kully, a spokesman for Equal Rights Washington, told us this
+> afternooon. Earlier today, John Aravosis of
+> [AMERICAblog](http://www.salon.com/politics/war_room/%20http://www.americablog.org/ "http://www.salon.com/politics/war_room/%20http://www.americablog.org/")
+> suggested in an open letter to Microsoft that advocates of gay rights
+> in Washington could retaliate against the company by organizing
+> concentrated local opposition to its plan to expand its Redmond
+> campus.
+>
+> "You may have thought 'Hell, the evangelicals boycott us, the gays
+> boycott us -- we've got to choose one, and the evangelicals are in
+> power, so let's screw the gays,'" Aravosis wrote. "But here's
+> something you didn't count on. You messed with the wrong faggots."
+> Aravosis wrote those words just as the story of Microsoft's position
+> on the bill was first making the rounds on the internet -- and before
+> the state senate had rejected the bill by a single vote. If Microsoft
+> was beginning to feel the pain then, we can only imagine what life is
+> like in Redmond right now.
+
+Later, this same news made it into **The New York Times** and the
+**Seattle Post-Intelligencer**, among other papers.
+
+On Thursday, before the shitstorm had completely hit the media, I quoted
+the bit above and wrote an e-mail to the Vice President of my
+organization at work. I don't know him well but he knows me by name
+because of shared history, time in the same organization, and a number
+of meetings where I and others have presented to him on minor issues. I
+wanted to express my concerns.
+
+In my e-mail, I expressed my anger and dismay about this if it was true.
+I made it clear that I recognized that he wasn't likely to have been
+involved in this whole thing but I wanted to communicate it up the food
+chain at work. He wrote me back on Thursday evening (after work) and
+made it clear that he hadn't known about this before it got brought up
+on Thursday and he took it seriously. The next morning, before I got to
+work, I had another e-mail from him where he cc'd his head of human
+resources and told me that Stafford Mays, who does a lot of the
+diversity work in our Human Resources at Microsoft, would be giving me a
+call on Friday. If I didn't hear from him, I should let my VP know.
+About 20 minutes after this e-mail was sent (again, before I'd even
+gotten in), I had a voice mail from Stafford trying to reach me. He
+called me back shortly after work and had a good conversation.
+
+All of this left me unhappy with the overall situation but happy that
+the people that I work with were taking it seriously and that there was
+activity going on. I was told to expect that an e-mail to the entire
+company would be going out about it. That happened late Friday. Robert
+Scoble, a Microsoft blogger, links to it
+[here](http://radio.weblogs.com/0001011/stories/2005/04/23/steveBallmersEmailAboutAntidiscriminationBill.html).
+
+I've been doing a lot of thinking about this memo. I'm not happy with it
+at all. I think it sets a bad precedent. It also doesn't address some of
+the factual issues raised in the article in **The Stranger** and in
+subsequent reports from talking to legislature. It feels, to me, like
+corporate spin and damage control and, actually, it pisses me off.
+
+Some people that I know at work say "We shouldn't be involved in any of
+this legislation. We should only be making money for shareholders." I
+think that's bunk. Business is not separate from the rest of society and
+companies can and do take a moral stance on issues. If this was the
+early 1960s and we were talking about race, would people still feel that
+not supporting the bill would be ok?
+
+To be clear, since some people are painting this as a culture war or gay
+activism issue, all the bill was going to go is extend the **existing**
+state wide anti-discrimination laws to include sexual orientation. This
+isn't a gay marriage law or the like. This is strictly a bill about
+anti-discrimination. The same rules are already in effect in King
+County, where Microsoft is based, and have been for years.
+
+Microsoft already has very progressive internal rules and policies about
+discrimination, including based on sexual orientation. I have been
+required to take anti-harrassment training (and they check if you do it)
+in an effort to promote this. Microsoft's benefits extend to domestic
+partnerships for gays and lesbians. This is about walking the talk. If
+it is good enough to be progressive within the company, why not back a
+bill that extends anti-discrimination outside the company? It is
+inconsistent, at best, not to do so. The only explanation that I see is
+that Microsoft's leadership is afraid of being seen as being pro-gay
+rights. Well, I'm sorry folks but Microsoft internal policies and
+benefits already put us in that particular camp. Anyone that would go
+after the company for backing the bill is going to have their knickers
+in a twist about the internal policies.
+
+I find it sad that Boeing and Washington Mutual, for example, could
+continue to back this bill without blinking an eye but Microsoft, who
+has been backing a version of this bill every year for 13 years, blinked
+when challenged by the kind of people that want to dehumanize our fellow
+citizens. It isn't right.
+
+**Update:** New York Times coverage of the controversy:
+[http://www.nytimes.com/2005/04/22/national/22gay.html](http://www.nytimes.com/2005/04/22/national/22gay.html).

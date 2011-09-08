@@ -1,0 +1,15 @@
+---
+author: admin
+date: '2007-06-13 13:31:48'
+layout: post
+slug: first-day
+status: publish
+title: First Day
+wordpress_id: '1799'
+categories:
+- Mozilla
+---
+
+Tomorrow, June 14, is my first day on the Mozilla QA team. I expect it
+to be a little crazy during the next few weeks. I'm looking forward to
+working with people both inside and outside the company though.

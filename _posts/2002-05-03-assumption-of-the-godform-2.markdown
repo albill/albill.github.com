@@ -1,0 +1,161 @@
+---
+author: admin
+date: '2002-05-03 02:03:00'
+layout: post
+slug: assumption-of-the-godform-2
+status: publish
+title: Assumption of the Godform
+wordpress_id: '811'
+categories:
+- Esoteric
+- Spirituality
+---
+
+Here is an excerpt from [Mysteria
+Magica](http://www.llewellyn.com/bookinfo/J169) by Melita Denning and
+Osborne Philips, one of the published (and out of print) books detailing
+parts of the Ogdoadic system of magic, the main magical tradition that I
+work within. The contents of this section are fairly typical in
+post-Golden Dawn Hermetic magic though.
+
+## *IDENTIFYING WITH GOD-FORCES*
+
+In present-day occult working several techniques exist by which
+identification with God-forces may be achieved. The procedure here given
+is traditional to the A.S. This work takes time to complete, but the
+emphasis throughout is upon the individual character of the chosen
+deity. If the earlier parts of the work are fulfilled to the highest
+degree, the final phase will culminate in a profound mystical
+experience. N.B. For this work, a deity is not to be chosen from the
+Voudoun pantheons. The Loa are only to be approached through the cult
+methods traditionally associated with them.
+
+### 1
+
+In this, which is one of the most noble usages of High Magick, the
+student must as a preliminary make a serious study of the deity which is
+to be the subject and center of his operation; of the deity in itself,
+according to its own nature; of the deity in context of its native
+pantheon, and in relation to other deities thereof; of the deity
+furthermore in context of the Qabalah, and in relation to the Sephiroth.
+
+### 2
+
+This preliminary study accomplished so that he is familiar with every
+aspect which may have a bearing upon his work, the student must begin
+the operation itself by undertaking steadfastly the cult of the deity.
+He will establish his own personal shrine of that deity, equipping the
+shrine with everything within his power to associate it with both
+traditional and magical worship of the deity. The student shall devise
+words and modes of worship for the deity, introducing traditional forms
+where possible or suitable; these words and modes he may if he desires
+vary, according to hour or day or season, so that this worship shall be
+always a living reality to him. For he must in full reality worship, he
+must meditate, he must adore, he must praise, so as to grow continually
+in love and in understanding of the divine being about whom this work
+revolves.
+
+### 3
+
+When he has grown in his cult, the student will regularly, at the
+conclusion of his worship, assume the god-form of his deity (that is to
+say, he will imagine himself to be enveloped in the form characteristic
+of his deity).^1^ He will learn to feel at ease therein; but he will
+keep silence while the god-form is maintained. This technique, as his
+love and understanding of the deity increase, will gather increased
+meaning and richness for the worshipper. Whenever he can, the worshipper
+will visit historic shrines, or sites of shrines, of his deity; there he
+will worship, always performing at least some act of adoration, spending
+some time in meditation, and assuming in silence the god-form. In the
+use of the forms of worship which he has compiled, the student will give
+heed continually to their suitability to the deity. Should he find as he
+advances in understanding and in perceptivity that they fail in that
+respect, he will amend them. He will make of his cult as it were a
+mirror of the deific force, so that he may find reflected there all that
+he has gathered by study and by meditation of the nature of his god; and
+through the continual interchange, the cult influencing the student and
+his further work influencing the cult, an increasing affinity with the
+divine force will be built up.
+
+* * * * *
+
+**1. Assumption of god-form is concluded by re-centering upon the
+magical personality, while the god-formulation is allowed to fade from
+the consciousness.**
+
+### 4
+
+As a principal effect of these practices, the student will develop an
+awareness, which is a completely objective certainty, of the numinous
+power of his deity. This awareness is a clear sign of the progress of
+the operation towards success; but still it does not suffice to indicate
+that the student should proceed to the final phase of the operation.
+Indeed, the student should postpone the final phase as long as he can,
+acquiring greater knowledge, giving augmented worship, developing more
+profound love for the deity, while the power of the god, at once radiant
+and magnetic, encompasses him and draws him strongly and yet more
+strongly, onward irresistibly. For it is no light thing, and no small
+thing, to seek, as the final phase of the operation will do, the uniting
+of consciousness with a living force of godhead. In developing a
+relationship with any divine power the operator receives in proportion
+as he gives; when a deity is approached in the exalted and intensely
+magical mode which is required by this work, progressively higher levels
+of the psyche become engaged in reciprocity with the deity.
+
+### 5
+
+*The final phase of the operation will take place when the previous work
+has been brought to reality and when the bond between god and devotee
+has become such as to compel the culmination.* The place may be the
+personal shrine; equally it may be a traditional shrine of the deity,
+some historic focal point of that worship; or again in certain
+circumstances it may be a place which by its natural features and its
+beauty powerfully brings to the cultist a conviction that his deity is
+*here.* To actuate the climax of the work the operator proceeds with the
+Deific Formula -- which combines the Formula of the Triple Vibration
+with the technique of assumption of god-form -- employing therewith the
+name of his deity.
+
+### The Deific Formula
+
+1.  The operator makes adoration of his deity.
+2.  He states his intention of uniting his consciousness with his deity.
+3.  He assumes the Wand Posture and establishes the Rhythmic Breath.
+4.  He visualizes the Corona Flammae as an intense pulsating sphere of
+    white brilliance.
+5.  On an *exhalation* he vibrates the name of the God.
+6.  As he *inhales* he visualizes a shaft of brilliance descending from
+    the Corona to the breast, where it expands into a sphere of radiant
+    golden yellow light.
+7.  He *exhales,* vibrating for the second time the name of the God;
+    while doing so, he visualizes the shaft of brilliance descending
+    from the Orbis Solis to the feet, where it expands into a sphere of
+    whiteness.
+8.  As he *inhales* he visualizes a charge of intense rose-gold flame
+    rising from the Instita Splendens and passing into the Orbis Solis.
+9.  As he *exhales* he vibrates for the third time, and powerfully, the
+    name of the God, simultaneously assuming the god-form.
+
+In using the Deific Formula, the operator opens the door to the
+fulfillment of the entire work. The successive vibrations of the name of
+the deity build up a tremendous and sublime force, which, in combination
+with the assumption of god-form in the final step of the Formula,
+precipitates the experience of identification as an exaltation sweeping
+away and replacing the personal selfhood-consciousness of the operator.
+He perceives, he knows, he has power as a god: not as himself deified
+nor as godhead generally, but as the especial and glorious deity of his
+adoration. It is the presence, the character, and the very nature of
+that deity which-for a longer or shorter time, as it may be -- he
+experiences from within. When he has returned to normal consciousness,
+the operator performs the Rousing of the Citadels (1st Formula Clavis
+Rei Primae.)
+
+### 6
+
+Successful completion of this work will confer the magical power of
+identification with the god. *On subsequent occasions,* the operator
+should find it possible to realize the identification by means of the
+Deific Formula, without recapitulation of the work indicated in the
+previous sections; but a reverent approach is to be preserved. The
+Rousing of the Citadels should always be performed after the return to
+normal consciousness.

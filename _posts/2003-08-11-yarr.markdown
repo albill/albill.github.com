@@ -1,0 +1,16 @@
+---
+author: admin
+date: '2003-08-11 00:16:00'
+layout: post
+slug: yarr
+status: publish
+title: Yarr
+wordpress_id: '1839'
+categories:
+- Daily Life
+---
+
+Just back from Notocon with the five hour drive (with traffic) home from
+Portland. I'm exhausted, only got a few hours of sleep and am recovering
+from a hangover. Party on, Wayne! I'll post more when I've had time to
+settle in at home and reboot my brain.

@@ -1,0 +1,208 @@
+---
+author: admin
+date: '2002-11-07 03:57:00'
+layout: post
+slug: some-thoughts-on-the-coming-storm
+status: publish
+title: Some thoughts on the coming storm
+wordpress_id: '1012'
+categories:
+- Society
+---
+
+I don't necessarily agree with all of this but I do feel that many
+changes are coming. America is not immune to change and the worm always
+turns...We won't be on top and in charge forever (unless with a jackboot
+and even that won't last...) **Notes on the Coming Transformation of
+American Life** by Jim Kunstler I get e-mail from people who object to
+what they construe to be an excessively pessimistic view of our national
+scene. Well, what if you suggested to the people of Germany in 1936 that
+Dresden would be turned into an ashtry within a decade and that
+Berliners would cut down all the trees in the Tiergarten to heat their
+homes? What I've been suggesting about the direction of our country is
+hardly that drastic. I personally believe that there is much we can do
+as a nation, and as a collection of communities, to mitigate the
+problems I have been describing, even to create conditions in which
+American civilization can advance beyond the hardships of the early 21st
+century. The overriding imperative task for us in the face of the
+problems ahead will be the downscaling of virtually all activities in
+America. This should not be misunderstood. I do not mean that we ought
+to become any less of a nation, or less of a democracy, only that the
+scale at which we conduct the work of American life will have to be
+adjusted to fit the requirements of a post-globalist, post-cheap-oil
+age. The future is already telling us very clearly what must be done. If
+we fail to pay attention, we risk very costly distraction in political
+turmoil, military mischief, civil disturbance, and permanent economic
+loss. I will focus here on examples of three national "systems," so to
+speak, that will have to be downscaled sooner rather than later: retail
+trade, agriculture, and schooling. America made the unfortunate choice
+(by inattention, really) of allowing nearly all of its retail trade to
+be consolidated by a very few huge national operations, the Wal-Marts
+and other gigantic discounters. Many Americans viewed this as a bonanza
+of bargain shopping without noticing the significant losses and costs
+entailed to their communities, and to the long-term health of their
+nation's economy. I have described the extreme vulnerability of the
+giant national retail operations to the vicissitudes ahead: disrupted
+oil markets, far-flung supply chains, and so forth. When these behemoths
+go down - and they will go down hard and fast - everyday retail trade
+will have to be reorganized in America. This is a tremendous task. It
+will have to be reorganized at the local and regional scale. It will
+have to be based on moving merchandise shorter distances at multiple
+increments and probably by multiple modes of transport. It is almost
+certain to result in higher costs for the things we buy - which is
+another way of stating we face a period of austerity - but it is apt to
+bring back many lost civic benefits in return. The national chains
+eliminated practically all the "middlemen," who were disparaged as
+parasites adding needless costs to everyday products. The fact is that
+these middlemen, the wholesalers, jobbers, warehousers, distributors,
+played necessary roles in a complex system that operated very
+differently than the current model. They were members of local
+communities; they were economic participants in their communities; they
+made decisions that had to take the needs of their communities into
+account; they were caretakers of civic institutions, and they were
+employers. We will need this category of business person again, as we
+will need the local retailer, the persons and families who run local
+businesses trading with the public at large. We will need a
+multi-layered system for the distribution of regular goods, even if it
+costs more to operate. Some of the infrastructure needed to re-localize
+American commerce is there, though it is not in very good shape - the
+urban downtowns, small town main streets and business districts. Some of
+the big boxes might be integrated with it - dead Kmarts may be the local
+warehouses of the future, and some shopping centers and malls may be
+retrofitted into neighborhood centers - but much of this newer
+car-oriented fabric will more likely end up as salvage. The railroad
+system the US needs to replace the long-haul trucking system that we
+have relied on for decades is also in poor shape, but railroad track is
+much easier to repair and restore per mile than comparable amounts of
+interstate highway. Perhaps our biggest problem is that so many products
+we're accustomed to are no longer manufactured in the United States. The
+factories themselves have physically disappeared. Hence, another feature
+of the years ahead: for a period of time, Americans may have to make do
+with a lot less and with smaller selections of fewer products. This is
+another reason to regard the coming era as one of austerity. It would be
+a mistake to take this view of the coming decades as nostalgic. The
+future will simply demand it. I happen to believe that there is much to
+gain in amenity from the downscaling of American life. We will benefit
+from knowing the people we do business with. There is a good chance that
+many people currently underemployed will find a gainful niche to occupy
+in the reorganization of American trade, and communities will benefit
+from their being gainfully occupied. But at the same time, we will be
+saying goodbye to a way of life which, however unsustainable and even
+crazy it might have been, was a set of arrangements we had grown
+accustomed to, and it is never easy for a culture to change the way it
+does things as fundamental as everyday commerce. Agriculture faces a
+similar predicament. Today, we grow a few monocultures of grain or milk
+or beef or pork in vast quantities on gigantic factory farms, process
+most of the outputs at a similar enormous scale, and truck it great
+distances to gigantic super-stores. The end of cheap oil means this will
+no longer be possible. We are going to have to grow at least some of our
+food closer to home. We will have to do it with fewer petroleum inputs,
+the fossil-fuel-based fertilizers and pesticides. Our methods will have
+to be along lines that are today labeled as "organic." Farming will have
+to be done at a smaller scale, and it will probably entail more
+intensive human labor. A class of people will re-emerge on the scene:
+American agricultural laborers. Their lives will probably be far from
+idyllic. Don't count on this kind of work being done by foreign migrants
+when we are engaged in border disputes and demographic / territorial
+contests with Mexico. When the US economy shudders and stumbles, life
+will become worse by orders of magnitude in Mexico, which is already
+struggling. The re-localization of farming in America is going to be
+very difficult. Our relationship with land the past half century has
+been one almost exclusively of brutal commodity exploitation. A lot of
+farmland in California is close to being ruined from over-irrigation;
+you can see the salt precipitates in the fields off Interstate Five in
+the Central Valley today. Some of the best eastern farmland has been
+paved over. The years ahead will require us to rediscover a relationship
+of caring for land and doing so by hand, tenderly. In an age when the
+farmland around our towns and cities seemed to have value only as
+potential development - for monocultures of suburban houses and discount
+shopping - stewardship was regarded as merely prissy. In the future, our
+lives will depend on how we take care of the land. The re-localization
+of agriculture presumes that many so-called value-added activities will
+take place on a more local and regional basis, too: the conversion of
+milk into dairy products, the production of meats, hams, sausages, wine,
+preserved foods, and so on. Europeans never stopped doing this. Their
+models and methods exist to be emulated, and we will have to do it as
+the end of globalism becomes a more emphatic condition of life. Today,
+there are probably fewer than fifty immense factories producing most of
+the cheese in America, all absolutely dependent on long-haul trucking
+based on cheap diesel fuel. Twenty years in the future, there may be
+thousands of smaller dairies operating across the US. They will probably
+put out better products. They will employ people in complex vocations.
+They will have regional differences. The downscaling of agriculture
+presents some obvious problems. Farms take years to establish. The
+knowledge for running diverse, small-scale farms becomes a little more
+lost every day as elderly farmers die and the culture of farming dies
+with them. Theend of the cheap oil economy may bring dysfunction so
+swiftly to our current arrangements that we will not have time to make
+an orderly transition. This could result in a specific food emergency in
+the US that might go on for years. As the Chinese proverb goes: a
+well-fed person may have many problems but a starving person only has
+one problem - another reason to be prepared for political strife here in
+the US. In the meantime, we may see swiss chard and potatoes sprout
+where formerly the monocultures of Kentucky bluegrass, stoked by
+oil-based turf-builders, grew so luxuriantly on the lawns of suburbia.
+School, is another major system facing drastic reorganization. The
+failure of schooling in America is already manifest. Our inner-city
+schools are in nearly complete state of entropy due to the effects of
+our overall disinvestment in cities - the school buildings themselves
+are crumbling while books and supplies are beyond the point of critical
+shortage - and to an array of social conditions ranging from the
+disintegration of families to the absence of standards of normative
+behavior. Whether these might all be lumped together as the consequences
+of poverty is debatable, in my opinion, but the effects are not
+debatable. These schools are not producing literate citizens with
+adequate social skills. Gigantic alienating schools are producing so
+much anxiety and depression that multiple slayings have occurred at
+regular intervals in recent years. Our schools are too big. The
+centralized suburban schools with their fleets of buses will become
+rapidly obsolete when the first oil market disruptions occur. The inner
+city schools will be too broken to fix. The suburban schools will be too
+large to heat economically (especially since the overwhelming majority
+of them all over the nation, regardless of climate, are sprawling
+one-story modernist boxes). School will have to be reorganized on a
+local basis, at a much smaller scale, in smaller buildings that do not
+look like medium security prisons. School will be required for fewer
+years, and with more deliberate sorting of children into academic and
+vocational tracks. Children will have to live closer to the schools they
+attend - the yellow bus fleets will be history. Children and teachers
+will benefit from being in physically smaller institutions where all
+will at least have the chance to know one another. In a post-cheap-oil
+world, teens might be needed to work part of the day or part of the
+year. Leon Botstein, President of Bard College and one of the leading
+reformers of education in America, has argued that people need to finish
+regular school by age 16 and assume a new set of responsibilities to
+increase their sense of adulthood.13 He advocates abolishing high school
+as it is now known altogether. Years from now fewer will go on to
+college. Colleges, too, are likely to go through severe downsizing,
+especially the enormous state universities, as college ceases to be a
+mass consumer activity. Real life may not be so easily postponable.
+Vocational trades requiring real skills may gain in status and some
+professions such as law may lose status (and earning power). Some
+occupations - public relations, travel agentry, authoring books - may
+shrink or disappear altogether. Work for many may become a matter of
+making oneself useful to others with the added benefit of earning a
+living. One hazard to the enterprise of reforming education will be the
+psychology of previous investment. We have poured our accumulated
+national wealth into building gigantic central schools and
+galactic-scale university campuses, with their semi-professional sports
+facilities and vast parking lots, and there will be a tendency to try to
+make them work no matter what conditions prevail in the real world. But
+circumstances will demand nonetheless that we change. What is liable to
+happen to these three major activities, retail, agriculture, and school
+is also true of virtually all other things we do in the US. Everything
+you can imagine from banking to real estate development to church-going
+to professional sports will have to reduce its scale and scope of
+operation or fail. The problems ahead will compel us to move from being
+a culture of quantity to a culture of quality. We will have to make do
+with fewer and less, and we can compensate by demanding that it be
+finer. We will have to live locally and we can benefit from the
+restoration of robust civic relations. Many of the beliefs and accepted
+dogmas of the late 20th century will fall away as a new and very
+different reality asserts itself. Cultural relativism will be
+discredited in an era when it becomes necessary, even for intellectuals,
+to make distinctions between good and bad, between excellence and
+worthlessness - because our lives may depend on the ability to make
+these distinctions. Hierarchies of value will become normative. Elitism
+will no longer be a pejorative but rather a recognition that some things
+really are better than other things.

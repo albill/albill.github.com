@@ -1,0 +1,16 @@
+---
+author: admin
+date: '2005-10-14 18:40:28'
+layout: post
+slug: whoa
+status: publish
+title: Whoa
+wordpress_id: '574'
+categories:
+- Humor
+---
+
+Vikings, demons, dueling guitars and walking robots to a funk
+soundtrack...
+
+[http://www.cockrockdisco.com/JFDSwpweb.mov](http://www.cockrockdisco.com/JFDSwpweb.mov)

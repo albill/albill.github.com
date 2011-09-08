@@ -1,0 +1,92 @@
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:og="http://ogp.me/ns#" 
+      xmlns:fb="https://www.facebook.com/2008/fbml" 
+      xmlns:hcard="http://www.w3.org/2006/03/hcard"> 
+
+<head>
+   <meta charset="UTF-8" />
+   <title>{{ page.title }}</title>
+   
+   <!-- Atom Feed -->
+   <link href="{{ site.url }}/atom.xml" rel="alternate" title="Open Buddha" type="application/atom+xml" />
+
+   <!-- CSS -->
+   <link rel="stylesheet" href="http://robbieio.s3.amazonaws.com/css/style.css" type="text/css" media="screen, projection" />
+
+   <!-- Open Graph -->
+   <meta property="og:title" content="{{ page.title }}" />
+   <meta property="og:type" content="blog" />
+   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+   <meta property="og:site_name" content="Open Buddha" />
+   <meta property="og:description" content="Open Source Buddhism, Technology, and Geekery" />
+   <meta property="og:image" content="http://robbieio.s3.amazonaws.com/images/new_rt.png" />
+   <meta property="og:street-address" content="1xxx" />
+   <meta property="og:locality" content="Oakland" />
+   <meta property="og:region" content="CA" />
+   <meta property="og:postal-code" content="94612" />
+   <meta property="og:country-name" content="United States" />
+   <meta property="og:email" content="albill@openbuddha.com" />
+   <meta property="og:phone_number" content="xxx" />
+
+   <!-- SEO -->
+   <meta name="keywords" content="buddhism, zen, open source buddhism, mozilla, firefox, hacking, hackerspaces, oakland, california, oakland california, bay area, nerd, geek" />
+   <meta name="description" content="Open Source Buddhism, Technology, and Geekery" />
+   <meta name="author" content="Al Jigen Billings" />
+   <meta name="robots" content="all" />
+
+   <!-- iPhone -->
+   <meta name="apple-mobile-web-app-capable" content="yes" />
+   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+   <meta name="viewport" content="width = device-width, initial-scale = 0.5, maximum-scale = 5" />
+   <link rel="apple-touch-icon-precomposed" href="{{ site.url }}/images/new_rt.png"/>
+   
+   <!-- jQuery and externals -->
+   <script type="text/javascript" src="http://robbieio.s3.amazonaws.com/js/script.min.js"></script>
+</head>
+<body>
+<div class="site">
+  <!-- Header -->
+  <div class="title">
+    <a title="input/output">Open Buddha</a>
+    <a class="extra" href="/">Home</a>
+    <a class="extra" href="/about-me.html">About</a>
+    <a class="extra" href="/what-is-open-source-buddhism.html">Open Source Buddhism</a>
+    <a class="extra" href="/resources.html">Resources</a>
+
+  </div>
+  
+  {{ content }}
+  
+  <hr/>
+  <!-- Footer -->
+  <div id="footer">
+    <p>
+      <a href="{{ base.url }}/about.html">Al Jigen Billings</a> is a Zen priest, QA Engineer, and hackerspace founder living in Oakland, California. You can follow me on <a href="http://twitter.com/openbuddha">Twitter</a>.
+    </p>
+  </div>
+  <!-- hCard -->
+  <div id="hcard-Al-Jigen-Billings" class="byline author vcard">
+    <img style="float:left; margin-right:4px" src="http://robbieio.s3.amazonaws.com/images/new_rt.png" alt="photo of Robert" class="photo"/>
+   <a class="url fn n" href="http://openbuddha.com">  <span class="given-name">Al</span>
+    <span class="additional-name">Jigen</span>
+    <span class="family-name">Billings</span>
+  </a>
+   <a class="email" href="mailto:albill@openbuddha.com">albill@openbuddha.com</a>
+ </div>
+  <!-- Disqus code for X replies link -->
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = '{{ site.albill }}'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+  </script>
+</div>
+</body>
+</html>

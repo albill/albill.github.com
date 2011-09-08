@@ -1,0 +1,174 @@
+---
+author: admin
+date: '2004-11-30 13:16:16'
+layout: post
+slug: basic-meditation-instruction
+status: publish
+title: Basic Meditation Instruction
+wordpress_id: '301'
+categories:
+- Spirituality
+---
+
+I sent this to my wife, R, today since we're going to start sitting
+together.
+
+# MEDITATION INSTRUCTION
+
+## By Sakyong Mipham Rinpoche
+
+The practice of mindfulness/awareness meditation is common to all
+Buddhist traditions. Beyond that, it is common to, inherent in, all
+human beings.
+
+In meditation we are continuously discovering who and what we are. That
+could be quite frightening or quite boring, but after a while, all that
+slips away. We get into some kind of natural rhythm and begin to
+discover our basic mind and heart.
+
+Often we think about meditation as some kind of unusual, holy spiritual
+activity. As we practice, that is one of the basic beliefs we try to
+overcome. The point is that meditation is completely normal; it is the
+mindful quality present in everything we do.
+
+That is a straightforward principle but we are continuously distracted
+from coming to our natural state, our natural being. Throughout our day
+everything pulls us away from natural mindfulness, from being on the
+spot. Our natural tendency to rush means that we're rushing past
+opportunities. We're either too scared or too embarrassed or too proud
+or just too crazy, to be who we are.
+
+That is what we call the journey or the path: continuously trying to
+recognize that we can actually relax and be who we are. So practicing
+meditation begins by simplifying everything. We sit on the cushion,
+follow our breath and watch our thoughts. We simplify our whole
+situation.
+
+Mindfulness/awareness meditation, sitting meditation, is the foundation
+of this particular spiritual journey. Unless we are able to deal with
+our mind and body in a very simple way, it is impossible to think about
+doing high-level practices. How the Buddha himself, having done all
+kinds of practices, became the Buddha was simply to sit. He sat under a
+tree and he did not move. He practiced exactly as we are practicing.
+
+What we're doing is taming our mind. We're trying to overcome all sorts
+of anxieties and agitation, all sorts of habitual thought patterns, so
+we are able to sit with ourselves. Life is difficult, we may have
+tremendous responsibilities, but the odd thing, the twisted logic, is
+that the way we relate to the basic flow of our life is to sit
+com-pletely still. It might seem more logical to speed up but here we
+are reducing everything to a very basic level.
+
+How we tame the mind is by using the technique of mindfulness. Quite
+simply, mindfulness is complete attention to detail. We are completely
+absorbed in the fabric of life, the fabric of the moment. We realize
+that our life is made of these moments and that we cannot deal with more
+than one moment at a time. Even though we have memories of the past and
+ideas about the future, it is the present situation that we are
+experiencing.
+
+Thus we are able to experience our life fully. We might feel that
+thinking about the past or the future makes our life richer, but by not
+paying attention to the immediate situation, we are actually missing our
+life. There's nothing we can do about the past, we can only go over it
+again and again, and the future is completely unknown.
+
+So the practice of mindfulness is the practice of being alive. When we
+talk about the techniques of meditation, we're talking about the
+techniques of life. We're not talking about something that is separate
+from us. When we're talking about being mindful and living in a mindful
+way, we're talking about the practice of spontaneity.
+
+It's important to understand that we're not talking about trying to get
+into some kind of higher level or higher state of mind. We are not
+saying that our immediate situation is unworthy. What we're saying is
+that the present situation is completely available and unbiased, and
+that we can see it that way through the practice of mindfulness.
+
+## SITTING MEDITATION PRACTICE
+
+At this point we can go through the actual form of the practice. First,
+it is important how we relate with the room and the cushion where we
+will practice. One would relate with where one is sitting as the centre
+of the world, the centre of the universe. It is where we are proclaiming
+our sanity, and when we sit down the cushion should be like a throne.
+
+When we sit, we sit with some kind of pride and dignity. Our legs are
+crossed, shoulders relaxed. We have a sense of what is above, a sense
+that something is pulling us up at the same time that we have a sense of
+the ground. The arms should rest comfortably on the thighs. Those who
+cannot sit down on a cushion can sit in a chair. The main point is to be
+somewhat comfortable.
+
+The chin is tucked slightly in, the gaze is softly focusing downward
+about four to six feet in front, and the mouth should be open a little.
+The basic feeling is one of comfort, dignity and confidence. If you feel
+you need to move you should just move, just change your posture a little
+bit. So that is how we relate with the body.
+
+And then the next part-actually the simple part-is relating with the
+mind. The basic technique is that we begin to notice our breath, that we
+could have a sense of our breath. The breath is what we're using as the
+basis of our mindfulness technique; it brings us back to the moment,
+back to the present situation. The breath is something that is
+constant-otherwise it's too late.
+
+We put the emphasis on the out-breath. We don't accentuate or alter the
+breath at all, just notice it. So we notice our breath going out, and
+when we breathe in, there is just a momentary gap, a space. There are
+all kinds of meditation techniques and this is actually a more advanced
+one. We're learning how to focus on our breath while at the same time
+giving some kind of space to the technique.
+
+Then we realize that, even though what we're doing is quite simple, we
+have a tremendous number of ideas, thoughts and concepts-about life and
+about the practice itself. And the way we deal with all these thoughts
+is simply by labeling them. We just note to ourselves that we're
+thinking, and return to following the breath.
+
+So if we wonder what we're going to do for the rest of our life, we
+simply label it thinking. If we wonder what we're going to have for
+lunch, simply label it thinking. Anything that comes up, we gently
+acknowledge it and let it go.
+
+There are no exceptions to this technique: there are no good thoughts
+and no bad thoughts. If you're thinking how wonderful meditation is,
+then that is still thinking. How great the Buddha was, that's still
+thinking. If you feel like killing the person next to you, just label it
+thinking. No matter what extreme you go to, it's just thinking, and come
+back to the breath.
+
+In the face of all these thoughts, it is difficult to be in the moment
+and not be swayed. Our life has created a barrage of different storms,
+elements and emotions that are trying to unseat us, trying to
+destabilize us. All sorts of things come up, but they are labeled
+thoughts and we are not drawn away. That is known as holding our seat,
+just dealing with ourselves.
+
+## POSTMEDITATION PRACTICE
+
+The idea of holding our seat continues when we leave the meditation room
+and go about our lives. We maintain our dignity and humour and the same
+lightness of touch we use dealing with our thoughts. Holding our seat
+doesn't mean we are stiff and trying to become like rocks; the whole
+idea is learning how to be flexible. The way that we deal with ourselves
+and our thoughts is the same way that we deal with the world.
+
+When we begin to meditate, the first thing we realize is how wild things
+are-how wild our mind is, how wild our life is. But once we begin to
+have the quality of being tamed, when we can sit with ourselves, we
+realize there's a vast wealth of possibility that lies in front of us.
+Meditation is looking at our own backyard, you could say, looking at
+what we really have and discovering the richness that already exists.
+Discovering that richness is a moment-to-moment process, and as we
+continue to practice our awareness becomes sharper and sharper.
+
+This mindfulness actually envelopes our whole life. It is the best way
+to appreciate our world, to appreciate the sacredness of everything. We
+add mindfulness and all of a sudden, the whole situation becomes alive.
+This practice soaks into everything that we do; there's nothing left
+out. Mindfulness pervades sound and space. It is a complete experience.
+
+*The following transcript is a condensed compilation of talks given on
+the first day of a two-day seminar entitled Fearless in Meditation,
+which took place at the Shambhala Centre on March 26 and 27, 1994*

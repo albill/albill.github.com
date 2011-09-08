@@ -1,0 +1,51 @@
+---
+author: admin
+date: '2002-06-18 04:00:00'
+layout: post
+slug: fire-class-and-rituals
+status: publish
+title: Fire Class and Rituals
+wordpress_id: '853'
+categories:
+- Academic
+- Daily Life
+---
+
+Sometimes I wonder if I'm really cut out to be a public performer. I'm a
+decent ritualist and do public rites with both my group and with others
+on occasion but it isn't the same as a general performance piece. R and
+I have been working with friends on the main ritual for the Black Sun
+Gathering, where we have minor parts and which combines ritual with
+performance. We're in a set of four roles and the other two people are
+fire performers and dancers (while R and I qualify as the former on good
+days). I watch them move and I see people with ten times the grace that
+I have. Now, I realize that they probably have years more experience
+than me and some actual dancing ability, which I lack, but it can be
+kind of discouraging for me. I don't really dance and never have. I've
+done some movement based disciplines and can get by on movement much of
+the time but I don't particularily feel graceful about it. I look at
+dance classes and it isn't clear what to take to actually get decent
+movement skills. I mean, do I really need to learn how to Salsa dance?
+;-) I had fire class tonight and it was kind of a mixed bag. Some of the
+people started learning some sword work in a pre-class class tonight
+that kind of merged into the fire class. The sword work being taught
+isn't really my sort of thing at the moment. I mean, it is interesting
+and I wouldn't mind learning it but it isn't what I come to these
+classes for. I've had about 2 1/2 years of martial arts and I fenced
+throughout high school and early college. I can swing a pointy thing and
+remember some footwork. I'm sure will have some comments on why the
+class is being done though. I need to sign up for some classes so I'm
+doing more after work. I'm stuck in a quandry of how much time do I have
+for classes and how to split it against what I want to take. I really
+need to take some language classes in the longterm. I need to know how
+to read at least Koine Greek and probably Ancient Greek for much of my
+spiritual work and research. I have to be able to read that stuff in the
+original language. Along the same lines, I really want to learn Tibetan
+at some point. So much written material isn't translated which I'd like
+to be able to read and I dislike saying things in a spiritual context
+that I don't understand. On the other hand, I need to round out some of
+my skills. I'm very much an in the head kind of person and I should take
+some non-head classes such as the aforementioned dance or maybe some art
+related classes. I've thought of stained glass or sculpture... So many
+ideas and such a short lifespan and so much of the time it doesn't
+matter because motivation after work is a precious commodity...

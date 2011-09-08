@@ -1,0 +1,60 @@
+---
+author: admin
+date: '2002-10-04 03:08:00'
+layout: post
+slug: woot
+status: publish
+title: Woot!
+wordpress_id: '969'
+categories:
+- Esoteric
+- Spirituality
+---
+
+Alright. This is too fucking cool. I hadn't seen this on Shadowplay's
+website before but I was digging around.
+[http://www.shadowplayzine.com./timing/shadow.html](http://www.shadowplayzine.com./timing/shadow.html).
+This is current for when I did it. It is javascript and is current each
+time you run it. Sunrise will be at: Thu Oct 3 07:12:18 PDT 2002 Sunset
+will be at: Thu Oct 3 18:44:27 PDT 2002 In the day, a planetary hour
+today is 57.67 minutes long In the night, a planetary hour today is
+62.32 minutes long Today is ruled by **Jupiter** The Gateway of Night is
+ruled by **The Moon** We are in *Apas*, the Tattvic Tide of Water. The
+Western Season is Autumn. The Element of Autumn is Water.
+
+### The Magickal Hours for the day are:
+
+  -------------------------------------------------------------------------- ------------
+  **Day![image](http://www.shadowplayzine.com./timing/images/7star2.gif)**
+  Jupiter                                                                    7:12 a.m.
+  Mars                                                                       8:10 a.m.
+  The Sun                                                                    9:07 a.m.
+  Venus                                                                      10:05 a.m.
+  Mercury                                                                    11:03 a.m.
+  The Moon                                                                   12:00 p.m.
+  Saturn                                                                     12:58 p.m.
+  Jupiter                                                                    1:56 p.m.
+  Mars                                                                       2:53 p.m.
+  The Sun                                                                    3:51 p.m.
+  Venus                                                                      4:49 p.m.
+  Mercury                                                                    5:46 p.m.
+  -------------------------------------------------------------------------- ------------
+
+  ---------------------------------------------------------------------------- ------------
+  **Night![image](http://www.shadowplayzine.com./timing/images/7star0.gif)**
+  The Moon                                                                     6:44 p.m.
+  Saturn                                                                       7:47 p.m.
+  Jupiter                                                                      8:49 p.m.
+  Mars                                                                         9:51 p.m.
+  The Sun                                                                      10:54 p.m.
+  Venus                                                                        11:56 p.m.
+  Mercury                                                                      12:58 a.m.
+  The Moon                                                                     2:01 a.m.
+  Saturn                                                                       3:03 a.m.
+  Jupiter                                                                      4:05 a.m.
+  Mars                                                                         5:07 a.m.
+  The Sun                                                                      6:10 a.m.
+  ---------------------------------------------------------------------------- ------------
+
+*Code: Copyright (C) 2001 Elf M. Sternberg* *Graphics, concept and text:
+Copyright (C) 2000 Rhea M. Loader*

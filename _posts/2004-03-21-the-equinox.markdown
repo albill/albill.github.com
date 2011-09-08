@@ -1,0 +1,78 @@
+---
+author: admin
+date: '2004-03-21 17:53:00'
+layout: post
+slug: the-equinox
+status: publish
+title: The Equinox
+wordpress_id: '64'
+categories:
+- Buddhism
+- Spirituality
+---
+
+R and I went out to Egypt's place (yes, that's a person) on Friday night
+to attend an Invocation of Ra-Hoor-Khuit to celebrate the 100th
+anniversary of the Equinox of the Gods. Various parties were in
+attendence Matertiamat, Regulus666, Babalonyieh and many others...).
+Other than it being quite a bit of a drive from the city since it is out
+in the next county away from any major towns, it was kind of nice to get
+out into the country. Egypt has about an acre with a small house on it
+and a tree covered hill out behind it. The top of the hill is largely
+open and has been cleared as a ritual space. The invocation was
+performed and the roles were officiated in a superb manner by all. R and
+I then chatted for a while, had a bit of wine and then headed home. Thus
+passes the 100th anniversary. The equinox itself was, I believe, around
+11:00 PM on Friday night. Yesterday (Saturday), I attended a five hour
+ngondro and meaning of refuge workshop with Kilung Rinpoche and [Pema
+Kilaya Sangha](http://www.pemakilaya.org) (of which I am a member).
+Rinpoche spoke at length about the meaning of refuge in each of the main
+three vehicles (Sutra, Mahayana and Vajrayana with Dzogchen included in
+the context of Vajrayana). He then discussed the ngondro practices a
+bit, gave us the visualizations used with the refuge tree in the
+Longchen Nyingtik lineage and had a quiet period of meditation. For
+those that don't know, the act of taking refuge is where one commits
+oneself to the Buddhist path. After doing so, one is considered to be a
+Buddhist. Kilung Rinpoche is one of those that feels that people should
+study and practice basic meditation for some period of time before
+taking refuge in order to be sure that this is the right course for them
+and to make a connection to the tradition. I took refuge in the summer
+of 2001 with the local [Sakya](http://www.sakya.org) monastery after
+beginning to practice. I had been reading books and otherwise
+intellectually examining Tibetan Buddhism for some years before that.
+Generally speaking though, I feel the most connection to the Nyingma
+school of practice within Tibetan Buddhism. Crazy tantrics up in the
+hills and all that. Yesterday evening, after I came home from the
+workshop, R and I did a Golden Dawn-based ritual for the Equinox that my
+ex-whatever, Lesa, had rewritten for two people (a man and a woman) back
+in 1998 and which we had done back then. R has been interested in doing
+more ritual work with me and I still had a copy of the ritual on file.
+It was actually quite interesting to look at it as I hadn't examined it
+closely in some years. A number of the ritual techniques in it (such as
+pentagram rituals) are things that I haven't done in some years since I
+joined the Aurum Solis and switched the focus of my practice to a more
+Ogdoadic context. It's amazing how it all comes back to you though. A
+little prompting before the ritual and I could remember all of the
+ritual forms. The ritual itself uses some of the Cadmon imagry that Lesa
+and I were working with at that time as part of our project (my
+project??) for the Church of the Cadmon. This was a post-Golden Dawn
+fusion of Hermetic imagery and magical practice that we worked on
+together as I tried to create a mass for the elements of the body of the
+Cadmon. The original group that is now my Astrum Sophia working group
+with and was an outgrowth of a study group that Lesa and I ran on
+Hermetic magic and Qabalah using John Michael Greer's early books as a
+basis. That eventually became a working group that was originally
+founded under the moniker of the "Cor Cadmonis." Doing this ritual
+brought much of that earlier work back to me. The ritual went well and R
+and I are discussing other ritual work that we might do together. A
+ganapuja, at the very least, is likely. Today, I slept in a bit and then
+hung around the house for a while with R. The space is much nicer than
+it was a few days ago as R hung up much of our artwork while I was at
+the workshop yesterday. There is a lot of Hermetic, Classical or Tibetan
+stuff on various walls now. I am still planning on painting our very
+white main bathroom in the near future. I went down to the University
+District to get some obscure books that I had photocopied spiral-bound
+at a copy shop and visit the used book stores. That accomplished, I'm
+home now for the evening. Tomorrow, I am taking the day off from work. I
+haven't made specific plans for that time though I may try to repair the
+semi-functional Tivo device. Damn linux.

@@ -1,0 +1,269 @@
+---
+author: admin
+date: '2003-06-23 19:42:00'
+layout: post
+slug: rainman
+status: publish
+title: Rainman
+wordpress_id: '1617'
+categories:
+- Daily Life
+---
+
+**Savant for a Day** *By LAWRENCE OSBORNE*
+[http://www.nytimes.com/2003/06/22/magazine/22SAVANT.html](http://www.nytimes.com/2003/06/22/magazine/22SAVANT.html)
+In a concrete basement at the University of Sydney, I sat in a chair
+waiting to have my brain altered by an electromagnetic pulse. My
+forehead was connected, by a series of electrodes, to a machine that
+looked something like an old-fashioned beauty-salon hair dryer and was
+sunnily described to me as a ''Danish-made transcranial magnetic
+stimulator.'' This was not just any old Danish-made transcranial
+magnetic stimulator, however; this was the Medtronic Mag Pro, and it was
+being operated by Allan Snyder, one of the world's most remarkable
+scientists of human cognition. Nonetheless, the anticipation of
+electricity being beamed into my frontal lobes (and the consent form I
+had just signed) made me a bit nervous. Snyder found that amusing. ''Oh,
+relax now!'' he said in the thick local accent he has acquired since
+moving here from America. ''I've done it on myself a hundred times. This
+is Australia. Legally, it's far more difficult to damage people in
+Australia than it is in the United States.'' ''Damage?'' I groaned.
+''You're not going to be damaged,'' he said. ''You're going to be
+enhanced.'' The Medtronic was originally developed as a tool for brain
+surgery: by stimulating or slowing down specific regions of the brain,
+it allowed doctors to monitor the effects of surgery in real time. But
+it also produced, they noted, strange and unexpected effects on
+patients' mental functions: one minute they would lose the ability to
+speak, another minute they would speak easily but would make odd
+linguistic errors and so on. A number of researchers started to look
+into the possibilities, but one in particular intrigued Snyder: that
+people undergoing transcranial magnetic stimulation, or TMS, could
+suddenly exhibit savant intelligence -- those isolated pockets of
+geniuslike mental ability that most often appear in autistic people.
+Snyder is an impish presence, the very opposite of a venerable
+professor, let alone an internationally acclaimed scientist. There is a
+whiff of Woody Allen about him. Did I really want him, I couldn't help
+thinking, rewiring my hard drive? ''We're not changing your brain
+physically,'' he assured me. ''You'll only experience differences in
+your thought processes while you're actually on the machine.'' His
+assistant made a few final adjustments to the electrodes, and then, as
+everyone stood back, Snyder flicked the switch. A series of
+electromagnetic pulses were being directed into my frontal lobes, but I
+felt nothing. Snyder instructed me to draw something. ''What would you
+like to draw?'' he said merrily. ''A cat? You like drawing cats? Cats it
+is.'' I've seen a million cats in my life, so when I close my eyes, I
+have no trouble picturing them. But what does a cat really look like,
+and how do you put it down on paper? I gave it a try but came up with
+some sort of stick figure, perhaps an insect. While I drew, Snyder
+continued his lecture. ''You could call this a creativity-amplifying
+machine. It's a way of altering our states of mind without taking drugs
+like mescaline. You can make people see the raw data of the world as it
+is. As it is actually represented in the unconscious mind of all of
+us.'' Two minutes after I started the first drawing, I was instructed to
+try again. After another two minutes, I tried a third cat, and then in
+due course a fourth. Then the experiment was over, and the electrodes
+were removed. I looked down at my work. The first felines were boxy and
+stiffly unconvincing. But after I had been subjected to about 10 minutes
+of transcranial magnetic stimulation, their tails had grown more
+vibrant, more nervous; their faces were personable and convincing. They
+were even beginning to wear clever expressions. I could hardly recognize
+them as my own drawings, though I had watched myself render each one, in
+all its loving detail. Somehow over the course of a very few minutes,
+and with no additional instruction, I had gone from an incompetent
+draftsman to a very impressive artist of the feline form. Snyder looked
+over my shoulder. ''Well, how about that? Leonardo would be envious.''
+Or turning in his grave, I thought. As remarkable as the cat-drawing
+lesson was, it was just a hint of Snyder's work and its implications for
+the study of cognition. He has used TMS dozens of times on university
+students, measuring its effect on their ability to draw, to proofread
+and to perform difficult mathematical functions like identifying prime
+numbers by sight. Hooked up to the machine, 40 percent of test subjects
+exhibited extraordinary, and newfound, mental skills. That Snyder was
+able to induce these remarkable feats in a controlled, repeatable
+experiment is more than just a great party trick; it's a breakthrough
+that may lead to a revolution in the way we understand the limits of our
+own intelligence -- and the functioning of the human brain in general.
+Snyder's work began with a curiosity about autism. Though there is
+little consensus about what causes this baffling -- and increasingly
+common -- disorder, it seems safe to say that autistic people share
+certain qualities: they tend to be rigid, mechanical and emotionally
+dissociated. They manifest what autism's great ''discoverer,'' Leo
+Kanner, called ''an anxiously obsessive desire for the preservation of
+sameness.'' And they tend to interpret information in a hyperliteral
+way, using ''a kind of language which does not seem intended to serve
+interpersonal communication.'' For example, Snyder says, when autistic
+test subjects came to see him at the university, they would often get
+lost in the main quad. They might have been there 10 times before, but
+each time the shadows were in slightly different positions, and the
+difference overwhelmed their sense of place. ''They can't grasp a
+general concept equivalent to the word 'quad,''' he explains. ''If it
+changes appearance even slightly, then they have to start all over
+again.'' Despite these limitations, a small subset of autistics, known
+as savants, can also perform superspecialized mental feats. Perhaps the
+most famous savant was Dustin Hoffman's character in ''Rain Man,'' who
+could count hundreds of matchsticks at a glance. But the truth has often
+been even stranger: one celebrated savant in turn-of-the-century Vienna
+could calculate the day of the week for every date since the birth of
+Christ. Other savants can speak dozens of languages without formally
+studying any of them or can reproduce music at the piano after only a
+single hearing. A savant studied by the English doctor J. Langdon Down
+in 1887 had memorized every page of Gibbon's ''Decline and Fall of the
+Roman Empire.'' At the beginning of the 19th century, the splendidly
+named Gottfried Mind became famous all over Europe for the amazing
+pictures he drew of cats. The conventional wisdom has long been that
+autistics' hyperliteral thought processes were completely separate from
+the more contextual, nuanced, social way that most adults think, a
+different mental function altogether. And so, by extension, the
+extraordinary skills of autistic savants have been regarded as flukes,
+almost inhuman feats that average minds could never achieve. Snyder
+argues that all those assumptions -- about everything from the way
+autistic savants behave down to the basic brain functions that cause
+them to do so -- are mistaken. Autistic thought isn't wholly
+incompatible with ordinary thought, he says; it's just a variation on
+it, a more extreme example. He first got the idea after reading ''The
+Man Who Mistook His Wife for a Hat,'' in which Oliver Sacks explores the
+link between autism and a very specific kind of brain damage. If
+neurological impairment is the cause of the autistic's disabilities,
+Snyder wondered, could it be the cause of their geniuslike abilities,
+too? By shutting down certain mental functions -- the capacity to think
+conceptually, categorically, contextually -- did this impairment allow
+other mental functions to flourish? Could brain damage, in short,
+actually make you brilliant? In a 1999 paper called ''Is Integer
+Arithmetic Fundamental to Mental Processing? The Mind's Secret
+Arithmetic,'' Snyder and D. John Mitchell considered the example of an
+autistic infant, whose mind ''is not concept driven. . . . In our view
+such a mind can tap into lower level details not readily available to
+introspection by normal individuals.'' These children, they wrote, seem
+''to be aware of information in some raw or interim state prior to it
+being formed into the 'ultimate picture.''' Most astonishing, they went
+on, ''the mental machinery for performing lightning fast integer
+arithmetic calculations could be within us all.'' And so Snyder turned
+to TMS, in an attempt, as he says, ''to enhance the brain by shutting
+off certain parts of it.'' ''In a way, savants are the great enigma of
+today's neurology,'' says Prof. Joy Hirsch, director of the Functional
+M.R.I. Research Center at Columbia University. ''They exist in all
+cultures and are a distinct type. Why? How? We don't know. Yet
+understanding the savant will help provide insight into the whole
+neurophysiological underpinning of human behavior. That's why Snyder's
+ideas are so exciting -- he's asking a really fundamental question,
+which no one has yet answered.'' If Snyder's suspicions are correct, in
+fact, and savants have not more brainpower than the rest of us, but
+less, then it's even possible that everybody starts out life as a
+savant. Look, for example, at the ease with which children master
+complex languages -- a mysterious skill that seems to shut off
+automatically around the age of 12. ''What we're doing is
+counterintuitive,'' Snyder tells me. ''We're saying that all these
+genius skills are easy, they're natural. Our brain does them naturally.
+Like walking. Do you know how difficult walking is? It's much more
+difficult than drawing!'' To prove his point, he hooks me up to the
+Medtronic Mag Pro again and asks me to read the following lines: A bird
+in the hand is worth two in the the bush ''A bird in the hand is worth
+two in the bush,'' I say. ''Again,'' Snyder says, and smiles. So once
+more: ''A bird in the hand is worth two in the bush.'' He makes me
+repeat it five or six times, slowing me down until he has me reading
+each word with aching slowness. Then he switches on the machine. He is
+trying to suppress those parts of my brain responsible for thinking
+contextually, for making connections. Without them, I will be able to
+see things more as an autistic might. After five minutes of electric
+pulses, I read the card again. Only then do I see -- instantly -- that
+the card contains an extra ''the.'' On my own, I had been looking for
+patterns, trying to coax the words on the page into a coherent, familiar
+whole. But ''on the machine,'' he says, ''you start seeing what's
+actually there, not what you think is there.'' Snyder's theories are
+bolstered by the documented cases in which sudden brain damage has
+produced savant abilities almost overnight. He cites the case of Orlando
+Serrell, a 10-year-old street kid who was hit on the head and
+immediately began doing calendrical calculations of baffling complexity.
+Snyder argues that we all have Serrell's powers. ''We remember virtually
+everything, but we recall very little,'' Snyder explains. ''Now isn't
+that strange? Everything is in there'' -- he taps the side of his head.
+''Buried deep in all our brains are phenomenal abilities, which we lose
+for some reason as we develop into 'normal' conceptual creatures. But
+what if we could reawaken them?'' Not all of Snyder's colleagues agree
+with his theories. Michael Howe, an eminent psychologist at the
+University of Exeter in Britain who died last year, argued that
+savantism (and genius itself) was largely a result of incessant practice
+and specialization. ''The main difference between experts and savants,''
+he once told New Scientist magazine, ''is that savants do things which
+most of us couldn't be bothered to get good at.'' Robert Hendren,
+executive director of the M.I.N.D. Institute at the University of
+California at Davis, brought that concept down to my level: ''If you
+drew 20 cats one after the other, they'd probably get better anyway.''
+Like most neuroscientists, he doubts that an electromagnetic pulse can
+stimulate the brain into creativity: ''I'm not sure I see how TMS can
+actually alter the way your brain works. There's a chance that Snyder is
+right. But it's still very experimental.'' Tomas Paus, an associate
+professor of neuroscience at McGill University, who has done extensive
+TMS research, is even more dubious. ''I don't believe TMS can ever
+elicit complex behavior,'' he says. But even skeptics like Hendren and
+Paus concede that by intensifying the neural activity of one part of the
+brain while slowing or shutting down others, TMS can have remarkable
+effects. One of its most successful applications has been in the realm
+of psychiatry, where it is now used to dispel the ''inner voices'' of
+schizophrenics, or to combat clinical depression without the damaging
+side effects of electroshock therapy. (NeuroNetics, an Atlanta company,
+is developing a TMS machine designed for just this purpose, which will
+probably be released in 2006, pending F.D.A. approval.) Meanwhile,
+researchers at the National Institute of Neurological Disorders and
+Stroke found that TMS applied to the prefrontal cortex enabled subjects
+to solve geometric puzzles much more rapidly. Alvaro Pascual-Leone,
+associate professor of neurology at the Beth Israel Deaconess Medical
+Center in Boston (who, through his work at the Laboratory for Magnetic
+Brain Stimulation, has been one of the American visionaries of TMS), has
+even suggested that TMS could be used to ''prep'' students' minds before
+lessons. None of this has gone unnoticed by canny entrepreneurs and
+visionary scientists. Last year, the Brain Stimulation Laboratory at the
+Medical University of South Carolina received a $2 million government
+grant to develop a smaller TMS device that sleep-deprived soldiers could
+wear to keep them alert. ''It's not 'Star Trek' at all,'' says Ziad
+Nahas, the laboratory's medical director. ''We've done a lot of the
+science on reversing cognitive deficiencies in people with insomnia and
+sleep deficiencies. It works.'' If so, it could be a small leap to the
+day it boosts soldiers' cognitive functioning under normal
+circumstances. And from there, how long before Americans are walking
+around with humming antidepression helmets and math-enhancing ''hair
+dryers'' on their heads? Will commercially available TMS machines be
+used to turn prosaic bank managers into amateur Rembrandts? Snyder has
+even contemplated video games that harness specialized parts of the
+brain that are otherwise inaccessible. ''Anything is possible,'' says
+Prof. Vilayanur Ramachandran, director of the Center for Brain and
+Cognition at the University of California at San Diego and the noted
+author of ''Phantoms in the Brain.'' Snyder's theories have not been
+proved, he allows, but they are brilliantly suggestive: ''We're at the
+same stage in brain research that biology was in the 19th century. We
+know almost nothing about the mind. Snyder's theories may sound like
+'The X-Files,' but what he's saying is completely plausible. Up to a
+point the brain is open, malleable and constantly changing. We might
+well be able to make it run in new ways.'' Of those who dismiss Snyder's
+theories out of hand, he shrugs: ''People are often blind to new ideas.
+Especially scientists.'' Bruce L. Miller, the A.W. and Mary Margaret
+Claussen distinguished professor in neurology at the University of
+California at San Francisco, is intrigued by Snyder's experiments and
+his attempts to understand the physiological basis of cognition. But he
+points out that certain profound questions about artificially altered
+intelligence have not yet been answered. ''Do we really want these
+abilities?'' he asks. ''Wouldn't it change my idea of myself if I could
+suddenly paint amazing pictures?'' It probably would change people's
+ideas of themselves, to say nothing of their ideas of artistic talent.
+And though that prospect might discomfort Miller, there are no doubt
+others whom it would thrill. But could anyone really guess, in advance,
+how their lives might be affected by instant creativity, instant
+intelligence, instant happiness? Or by their disappearance, just as
+instantly, once the TMS is switched off? As he walked me out of the
+university -- a place so Gothic that it could be Oxford, but for the
+intensely flowering jacaranda in one corner and the strange Southern
+Hemisphere birds flitting about -- and toward the freeway back to
+downtown Sydney, Snyder for his part radiated the most convincingly
+ebullient optimism. ''Remember that old saw which says that we only use
+a small part our brain? Well, it might just be true. Except that now we
+can actually prove it physically and experimentally. That has to be
+significant. I mean, it has to be, doesn't it?'' We stopped for a moment
+by the side of the roaring traffic and looked up at a haze in the sky.
+Snyder's eyes contracted inquisitively as he pieced together the
+unfamiliar facts (brown smoke, just outside Sydney) and eased them into
+a familiar narrative framework (the forest fires that had been raging
+all week). It was an effortless little bit of deductive, nonliteral
+thinking -- the sort of thing that human beings, unaided by TMS, do a
+thousand times a day. Then, in an instant, he switched back to our
+conversation and picked up his train of thought. ''More important than
+that, we can change our own intelligence in unexpected ways. Why would
+we not want to explore that?''

@@ -1,0 +1,34 @@
+---
+author: admin
+date: '2004-12-01 21:25:54'
+layout: post
+slug: sweet
+status: publish
+title: Sweet!
+wordpress_id: '303'
+categories:
+- Technology
+---
+
+This is so cool that I want one even though I don't have an immediate
+use!
+
+From
+[Gizmodo](http://www.gizmodo.com/gadgets/portable-media/traxdata-travelstudio-026581.php):
+**TraxData TravelStudio**
+
+[![traxdata\_travelstudio.jpg
+image](http://www.gizmodo.com/gadgets/images/traxdata_travelstudio.jpg "http://www.mobilemag.com/content/100/337/C3456/")](http://www.mobilemag.com/content/100/337/C3456/ "http://www.mobilemag.com/content/100/337/C3456/")There's
+so much to the TraxData TravelStudio that it's hard to know where to
+begin. Here you have a portable device which can read almost any media
+(CF-I and II, SD, MD, MS, MS Pro, MMC, CD, DVD) connect to any TV or PC
+and play many media formats (DVD, VCD, MP3, JPG, MPEG, WAV) *and* burn
+CDs as well. There are obviously many uses for such a device, but it
+would really be swank if it included a hard drive and played DiVX—take
+your DVDs with you, without actually carting around a library of DVDs
+(or a laptop). Not bad at $400, but no word on whether TraxData's US
+distributor will be bringing them stateside.
+
+[TraxData TravelStudio All-in-One
+Device](http://www.mobilemag.com/content/100/337/C3456/ "http://www.mobilemag.com/content/100/337/C3456/")
+[MobileMag]

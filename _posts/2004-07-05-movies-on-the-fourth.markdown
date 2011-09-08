@@ -1,0 +1,71 @@
+---
+author: admin
+date: '2004-07-05 11:08:26'
+layout: post
+slug: movies-on-the-fourth
+status: publish
+title: Movies on the Fourth
+wordpress_id: '162'
+categories:
+- Books
+---
+
+The long weekend makes it a bit of a movie weekend for us at home. We
+went down to Scarecrow on Saturday morning and picked up a few moview.
+Yesterday, I watched **[Alive](http://www.imdb.com/title/tt0331834/)**,
+which is a Japanese Science Fiction movie by the fellow that did
+**Versus**, which was a "Zombies in the Woods" meets "Undying Immortals
+with Swords" movie. **Alive** was the next movie, from what I can tell,
+that he did after that. I would say it is interesting, the premise being
+a condemned prisoner who survives his suggestive execution being given a
+choice between life and death, but it doesn't take it very far. The
+early part of the film is a bit more psychological with two prisoners
+trying to figure out what is being done to them but, around the middle,
+it degenerates into a bit of mumbo-jumbo, alien entities, and then fight
+scenes. I enjoyed watching it and it was fun but it didn't come together
+very well. I'm a pretty easygoing movie fan so this is a bit damning
+from me. In the evening, R and I watched **[Big
+Fish](http://www.imdb.com/title/tt0319061/)** by Tim Burton. I wasn't
+sure what to expect from this one as I had heard varied reviews from
+friends when it was in the theatres. I actually liked it a lot. It was
+humorous and I enjoyed the "tall tale" aspects of it. The whole bit
+about trying to understand your father and it being difficult (or
+impossible) to do on your own terms was touching. Probably true to life
+in the ways that matter as well but then my father and I are friendly
+but don't really "know" each other like so many father - son pairs.
+Overall, it was an endearing story and fun to watch and I'd recommend it
+to my friends. Today, R and I will be watching **[Suicide
+Club](http://www.imdb.com/title/tt0312843/)**, another Japanese movie.
+We know almost nothing about it other than it involves the strange
+deaths of Japanese schoolgirls and some kind of mystery about people
+knowing of the deaths beforehand. I also finished reading
+**[Hominids](http://www.amazon.com/exec/obidos/tg/detail/-/0765345005)**
+by Robert Sawyer last night. I had been reading
+**[Cowl](http://www.amazon.co.uk/exec/obidos/ASIN/1405001372)** but R
+and I were going to the gym and **Cowl** is a hardcover so I grabbed the
+paperback that I had of **Hominids** to read. I like Robert Sawyer a lot
+at times. Sometimes he seems to be one of the old school "idea man"
+Science Fiction writers where the idea is much cooler than the
+characters but most of the time, the idea is really secondary to
+whatever personal crisis that the characters are undergoing. I
+recommend**[Factory
+Humanity](http://www.amazon.com/exec/obidos/tg/detail/-/0765309033/)**
+in that way. **Hominids** was not an exception to that as the novel is
+in two parts, a murder story in one world and, effectively, a woman
+dealing with rape in another. The book didn't tie things up how I would
+have wanted but I also know it is the first book of a trilogy so I
+didn't have the expectation. I'll probably read
+**[Humans](http://www.amazon.com/exec/obidos/tg/detail/-/0765346753)**
+after I finish **Cowl**. On the Buddhist front, I'm finally getting
+around to reading Reginald Ray's **[Secret of the Vajra
+World](http://www.amazon.com/exec/obidos/tg/detail/-/157062917X/)**,
+which I picked up in hardcover last year but hadn't gotten around to
+reading. I had the fifth person or so recommend it to me so I figured
+that it was about time. One of them told me that Ray had written it
+partially because he teaches on Buddhism at [Naropa
+University](http://www.naropa.edu) and at the University of Colorado and
+there were no general texts that gave an overview of Tibetan Buddhism
+and also focused on the actual spirituality of practice as opposed to
+being surveys of the intellectual philosophy and its arguments. Ray
+wanted a book that focused on the day to day spirituality of Tantric
+Buddhism so he wrote one...

@@ -1,0 +1,355 @@
+---
+author: admin
+date: '2011-03-14 12:05:29'
+layout: page
+slug: chapter-twenty-three-the-former-deeds-of-bodhisattva-medicine-king
+status: publish
+title: 'Chapter Twenty-three: The Former Deeds of Bodhisattva Medicine King'
+wordpress_id: '3602'
+---
+
+At that time bodhisattva Constellation King Flower spoke to the Buddha,
+saying: "World-Honored One, how does the bodhisattva Medicine King come
+and go in the saha world? World-Honored One, this bodhisattva Medicine
+King has carried out some hundreds, thousands, ten thousands, millions
+of nayutas of difficult practices, arduous practices.. Very well,
+World-Honored One, could I ask you to explain a little? The heavenly
+beings, dragons, gods, yakshas, gandharvas, asuras, garudas, kimnaras,
+mahrogas, human and nonhuman beings, and the bodhisattvas who have come
+from other lands and the multitude of voice-hearers, will all be
+delighted to hear you."\
+ \
+ At that time the Buddha addressed the bodhisattva Constellation King
+Flower, saying: "Many kalpas in the past, immeasurable as Ganges sands,
+there was a Buddha named Sun Moon Pure Bright Virtue Thus Come One ,
+worthy of offerings, of right and universal knowledge, perfect clarity
+and conduct, well gone, understanding the world, unexcelled worthy,
+trainer of people, trainer of heavenly and human beings, Buddha,
+World-Honored One. This Buddha had eighty million great bodhisattvas and
+mahasattvas and a multitude of great voice-hearers equal to the sands of
+seventy-two Ganges. This Buddha's life span was forty-two thousand
+kalpas, and the life span of the bodhisattva's was the same. In his land
+there were no women, hell dwellers, hungry spirits, beasts or asuras,
+and no kind of tribulation. The ground was as level as the palm of a
+hand, made of lapis lazuli and adorned with jeweled trees. Jeweled
+curtains covered it over, banners of jeweled flowers hung down, and
+jeweled urns an incense burners filled the land everywhere. There were
+daises made of the seven treasures, with a tree by each dais, the tree
+situated an arrow-shot length from the dais. These jeweled trees all had
+bodhisattvas and voice-hearers sitting under them, and each of the
+jeweled daises had hundreds of millions of heavenly beings playing on
+heavenly instruments and singing the praises of the Buddha as an
+offering.\
+ \
+ "At the time, for the sake of the bodhisattva Gladly Seen by All Living
+Beings and the other numerous bodhisattvas and multitude of
+voice-hearers, the Buddha preached the Lotus Sutra. This bodhisattva
+Gladly Seen by All Living Beings delighted in carrying out arduous
+practices. In the midst of the Law preached by the Buddha Sun Moon Pure
+Bright Virtue he applied himself diligently and traveled about here and
+there, single-mindedly seeking Buddhahood for a period of fully twelve
+thousand years. After that he was able to gain the samadhi in which one
+can manifest all physical forms. Having gained this samadhi, his heart
+was filled with great joy and he thought to himself: My gaining the
+samadhi in which I can manifest al physical forms is due entirely to the
+fact that I heard the Lotus Sutra. I must now make an offering to the
+Buddha Sun Moon Pure Bright Virtue and to the Lotus Sutra!\
+ \
+ "Immediately he entered the samadhi and in the midst of the sky rained
+down mandarava flowers, great mandarava flowers, and finely ground, hard
+black particles of sandalwood; they filled the whole sky like clouds as
+they came raining down. He also rained down the incense of the
+sandalwood that grows by the southern seashore. Six taels of this
+incense is worth as much as the saha world. All these he used as an
+offering to the Buddha.\
+ \
+ "When he had finished making this offering, he rose from this samadhi
+and thought to himself: Though I have employed my supernatural powers to
+make this offering to the Buddha, it is not as good as making an
+offering of my own body.\
+ \
+ "Thereupon he swallowed various perfumes, sandalwood, kunduruka,
+turushka, prikka, aloes, and liquidambar gum, and he also drank the
+fragrant oil of champaka and other kinds of flowers, doing this for a
+period of fully twelve hundred years. Anointing his body with the
+fragrant oil, he appeared before the Buddha Sun Moon Pure Bright Virtue,
+wrapped his body in heavenly jeweled robes, poured fragrant oil over his
+head and, calling on his transcendental powers, set fire to his body.
+The glow shown forth, illuminating worlds equal in number to the sands
+of eighty million Ganges. The Buddhas in these worlds simultaneously
+spoke out in praise, saying: 'Excellent, excellent, good man! This is
+true diligence. This is what is called a true Dharma offering to the
+Thus Come One. Though one may use flowers, incense, necklaces, incense
+for burning, powdered incensed, paste incense, heavenly silken banners
+and canopies, along with the incense of the sandalwood that grows by the
+southern seashore, presenting offerings of all such things as these, he
+can never match this! Though one may make donations of his realm and
+cities, his wife and children, he is no match for this! Good men, this
+is called the foremost donation of all. Among all donations, this is
+most highly prized, for one is offering the Dharma to the Thus Come
+One'\
+ \
+ "After they had spoken these words, they each fell silent. The body of
+the bodhisattva burned for twelve hundred years, and when that period of
+time had passed, it at last burned itself out.\
+ \
+ "After the bodhisattva Gladly Seen By All Living Beings had made this
+Dharma offering and his life had come to an end, he was reborn in the
+land of the Buddha Sun Moon Pure Bright Virtue, in the household of the
+King Pure Virtue. Sitting in cross-legged position, he was suddenly born
+by transformation, and at once for the benefit of his father he spoke in
+verse form, saying:\
+ \
+ Great king, you should now understand this.\
+ Having walked about in a certain place,\
+ I immediately gained the samadhi\
+ that allows me to manifest all physical forms.\
+ I have carried out my endeavors with great diligence\
+ and cast aside the body that I loved.\
+ \
+ "When he had recited this verse, he said to his father: 'The Buddha Sun
+Moon Pure Bright Virtue is still present at this time. Previously I made
+an offering to this Buddha and gained a dharani that allows me to
+understand the words of all living beings. Moreover I have heard this
+Lotus Sutra with its eight hundred, thousand, ten thousand, millions of
+nayutas, kankaras, vivaras, akshobhyas of verses6 Great king, I must now
+once more make on offering to this Buddha.\
+ \
+ "Having said this, he seated himself on a dais made of the seven
+treasures, rose up into the air to the height of seven tala trees and,
+proceeding to the place where the Buddha was, bowed his head to the
+ground in observance to the Buddha's feet, put the nails of his ten
+fingers together and spoken this verse in praise of the Buddha:\
+ \
+ The countenance so rare and wonderful,\
+ its bright beams illuminating the ten directions!\
+ At a previous time I made an offering.\
+ And now once more I draw near.\
+ \
+ "At the time, after the bodhisattva Gladly Seen by All Living Beings
+had spoken this verse, he said to the Buddha: 'World-Honored One, is the
+World-Honored One still present in the world?'\
+ \
+ "At that time the Buddha Sun Moon Pure Bright Virtue said to the
+bodhisattva Gladly Seen by All Living Beings: 'Good man, the time has
+come for my nirvana. The time has come for extinction. You may provide
+me with a comfortable couch, for tonight will be my parinirvana.'\
+ \
+ "He also commanded the bodhisattva Gladly Seen by All Living Beings,
+saying: 'Good man, I take this Law of the Buddha and entrust it to you.
+In addition, the bodhisattvas and great disciples, along with the Law of
+anuttara-samyak-sambodhi, and the thousand-millionfold seven-jeweled
+world, with its jeweled trees and jeweled daises and heavenly beings who
+wait on and attend them - all these I hand over to you. I also entrust
+you the relics of my body that remain after I have passed into
+extinction. You must distribute them abroad and arrange for offerings to
+them far and wide. You should erect many thousands of towers [to house
+them].'\
+ \
+ "The Buddha Sun Moon Pure Bright Virtue, having given these commands to
+the bodhisattva Gladly Seen by Living Beings, that night, in the last
+watch of the night, entered Nirvana.\
+ \
+ "At that time the bodhisattva Gladly Seen by All Living Beings, seeing
+the Buddha pass into extinction, was deeply grieved and distressed. Out
+of his great love and longing for the Buddha he at once prepared a pyre
+made of sandalwood from the seashore, and with this as an offering to
+the Buddha's body, he cremated the body. After the fire had burned out,
+he gathered up the relics, fashioned eighty-four thousand jeweled urns,
+and built eighty-four thousand towers, high as the three worlds, adorned
+with central poles, draped with banners and canopies and hung with a
+multitude of jeweled bells.\
+ \
+ "At that time the bodhisattva Gladly Seen by All Living Beings once
+more thought to himself: 'Though I have made these offerings, my mind is
+not yet satisfied. I must make some further offering to the relics.\
+ \
+ "Then he spoke to the other bodhisattvas and great disciples, and to
+the heavenly beings, dragons, yakshas, and all the members of the great
+assembly, saying, 'You must give your undivided attention. I will now
+make an offering to the relics of the Buddha Sun Moon Pure Bright
+Virtue.'\
+ \
+ "Having spoken these words, immediately in the presence of the
+eighty-four thousand towers he burned his arms, which were adorned with
+a hundred blessings, for a period of seventy-two thousand years as his
+offering. This caused the numberless multitudes who were seeking to
+become voice-hearers, along with an immeasurable asamkhya of persons, to
+conceive the desire for anuttara-samyak-sambodhi, and all of them were
+able to dwell in the samadhi where one can manifest all physical forms.\
+ \
+ "At that time the bodhisattvas, heavenly and human beings, asuras and
+others, seeing that the bodhisattva had destroyed his arms, were alarmed
+and saddened and they said: 'This bodhisattva Gladly Seen by All Living
+Beings is our teacher, instructing and converting us. Now he has burned
+his arms and his body is no longer whole!'\
+ \
+ "At that time, in the midst of the great assembly, the bodhisattva
+Gladly Seen by All Living Beings made this vow, saying: 'I have cast
+away both my arms. I'm certain to attain the golden body of a Buddha. If
+this is true and not false, then may my two arms become as they were
+before!'\
+ \
+ "When he had finished pronouncing this vow, his arms reappeared of
+themselves as they had been before. This came about because the merits
+and wisdom of this bodhisattva were many-fold and profound. At that time
+the thousand-million-fold world shook and trembled in six different
+ways, heaven rained down jeweled flowers, and all the heavenly and human
+beings gained what they had never had before."\
+ \
+ The Buddha said to the bodhisattva Constellation King Flower: "What do
+you think? Is this bodhisattva Gladly Seen by All Living Beings someone
+unknown to you? He is in fact none other than the present bodhisattva
+Medicine King! He cast aside his body as an offering in this fashion
+immeasurable hundreds, thousands, ten thousands, millions of nayutas of
+times.\
+ \
+ "Constellation King Flower, if there are those have made up their minds
+and wish to gain anuttara-samyak-sambodhi, they would do well to burn a
+finger or one toe of their foot as an offering to the Buddha towers. It
+is better than offering one's realm and cities, wife and children, or
+the mountains, forests, Rivers, and lakes in the 'lands of
+thousand-million-fold world, or all their precious treasures. even if a
+person were to fill the whole thousand-million-fold world with the seven
+treasures as an offering to the Buddha and the great bodhisattvas,
+pratyekabuddhas and arhats, the benefits gained by such a person cannot
+match those gained by accepting and upholding this Lotus Sutra, even
+just one four-line verse of it! The latter brings the most numerous
+blessings of all.\
+ \
+ "Constellation King Flower, among all the rivers, streams, and other
+bodies of water, for example, the ocean is foremost. And this Lotus
+Sutra is likewise, being the most profound and greatest of the sutras
+preached by the Thus Come Ones. Again just as among the Dirt Mountains,
+Black Mountains, Small Iron Encircling Mountains, Great Iron Encircling
+mountains, Ten Treasure Mountains and all the other mountains, Mount
+Sumeru is foremost, so this Lotus Sutra is likewise. Among all the
+sutras, it holds the highest place. And just as among all the stars and
+their like, the moon, a god's son, is foremost, so this Lotus Sutra is
+likewise. For among all the thousands, ten thousands, millions of types
+a sutra teachings, it shines the brightest. And just as the sun, a god's
+son, con banish all darkness, so too this sutra is capable of destroying
+the darkness of all that is not good.\
+ \
+ "As among the petty kings the wheel-turning sage king is foremost, so
+this sutra is the most honored among all the many sutras. As the lord
+Shakra is king among the thirty-three heavenly beings, so this sutra
+likewise is king among all the sutras. And as the heavenly king, great
+Brahma, is the father of all living beings, so this sutra likewise is
+father of all sages, worthies, those still learning, those who have
+completed their learning, and those who set their minds on becoming
+bodhisattvas. And as among all the ordinary mortals, the srotaapanna,
+sakridagamin, anagamin, arhats and pratyekabuddhas are foremost, so this
+sutra likewise is foremost among all the sutra teachings preached by all
+the Thus Come Ones, preached by all the bodhisattvas, or preached by all
+the voice-hearers and pratyekabuddhas, and in the same way this sutra is
+foremost among all the sutra teachings. As the Buddha is king of the
+doctrines, so likewise this sutra is king of the sutras.\
+ \
+ "Constellation King Flower, this sutra can save all living beings. The
+sutra can cause all living beings to free themselves from suffering and
+anguish. The sutra can bring great benefits to living beings and fulfill
+their desires, as a clear pond can satisfy all those who are thirsty. It
+is like a fire to one who is cold, a robe to one who is naked, like a
+band of merchants finding a leader, the child finding its mother,
+someone finding a ship in which to cross the water, a sick man finding a
+doctor, someone in darkness finding a lamp, the poor finding riches, the
+people finding a ruler, a traveling merchant finding his way to the sea.
+It is like a torch that banishes darkness, Such is this Lotus Sutra. It
+can cause living beings to cast off all distress, all sickness and pain.
+It can unloose all the bonds of birth and death.\
+ \
+ "If a person is able to hear this Lotus Sutra, if he copies it himself
+or causes others to copy it, the benefits he gains thereby will be such
+that even the Buddha wisdom could never finish calculating their extent.
+If one copies these sutra scrolls and uses flowers, incense, necklaces,
+incense for burning, powdered incense, paste incense, banners, canopies,
+robes, various kinds of lamps such as lamps of butter oil, oil lamps,
+lamps with various fragrant oils, lamps of champaka oil, or lamps of
+navamalika oil to make offerings to them, the benefits that he acquires
+will likewise be immeasurable.\
+ \
+ "Constellation King Flower, if there is a person who hears this chapter
+on the Former Affairs of the Bodhisattva Medicine King, he too will gain
+immeasurable and boundless benefits. If there is a woman hears this
+chapter of the Former Affairs of the Bodhisattva Medicine King and is
+able to accept and hold it, that will be her last appearance in a
+woman's body and she will never be born in that form again.\
+ \
+ "If in the last five hundred year period after the Thus Come One has
+entered extinction there a woman who hears this sutra and carries out
+its practices as this sutra directs, when her life here on earth comes
+to an end she will immediately go to the world of Peace and Delight
+where the Buddha Amitayus dwells surrounded by the assembly of great
+bodhisattvas and there will be born seated on a jeweled seat in the
+center of a lotus blossom. He 7 will no longer know the torments of
+greed, desire, anger, rage, stupidity or ignorance, or the torments
+brought about by arrogance, envy or other defilements. He will gain the
+bodhisattva's transcendental powers and the truth of the birthlessness
+of all phenomena. Having gained this truth, his faculty of sight will be
+clear and pure, and with this clear pure faculty of sight he will see
+Buddhas and Thus Come Ones equal in number to the sands of ¨¬ven hundred
+twelve thousand million nayutas of Ganges.\
+ \
+ "At that time Buddhas will join him praising them from afar, saying:
+'Excellent, excellent, good man! In the midst of the Law of Shakyamuni
+Buddha you have been able to accept, uphold, read, recite and ponder
+this sutra and to preach it for others. The good fortune you gain
+thereby is immeasurable and boundless. It cannot be burned by fire or
+washed away by water. Your benefits are such that a thousand Buddhas
+speaking altogether could never finish describing them. Now you have
+been able to destroy all devils and thieves, to annihilate the army of
+birth and death, and all others who bore you enmity or malice have
+likewise been wiped out.\
+ \
+ "Good man, a hundred, a thousand Buddhas will employ their
+transcendental powers to join in guarding and protecting you. Among the
+heavenly and human beings of all the worlds, there will been no one like
+you. With the sole exception of the Thus Come One, there will be none
+among the voice-hearer, pratyekabuddhas or bodhisattvas whose wisdom and
+ability in meditation can equal yours!'\
+ \
+ "Constellation King Flower, such will be the benefits and the power of
+wisdom successfully acquired by this bodhisattva.\
+ \
+ "If there is a person who, hearing this chapter on the Former Affairs
+of the Bodhisattva Medicine King, is able to welcome it with joy and
+praise its excellence, then in this present existence this person's
+mouth will constantly emit the fragrance of the blue lotus flower, and
+the pores of his body will constantly emit the fragrance of ox-head
+sandalwood. His benefits will be such as have been described above.\
+ \
+ "For this reason, Constellation King Flower, I entrust this chapter on
+the Former Affairs of the Bodhisattva Medicine King to you. After I pass
+into extinction, in the last five hundred period you must spread it
+abroad widely throughout Jambudvipa and never allowed to be cut off, nor
+must you allow evil devils, the devils' people, heavenly beings,
+dragons, yakshas or kumbhanda demons to seize the advantage!\
+ \
+ "Constellation King Flower, you must use your transcendental powers to
+guard and protect this sutra. Why? Because this sutra provides good
+medicine for the ills of the people of Jambudvipa. If a person who has
+an illness is able to hear this sutra, then his illness will be wiped
+out and he will know neither old age or death.\
+ \
+ "Constellation King Flower, if you see someone who accepts an upholds
+this sutra, you must take blue lotus blossoms, heap them with powdered
+incense, and scatter them over him as an offering. And when you have
+scattered them, you should think to yourself: Before long this person
+will pick grasses, spread them as a seat in the place of practice, and
+conquer the armies of the devil. Then he will sound the conch of the
+Law, beat the drum of the great Law, and free all living beings from the
+sea of old age, sickness and death!\
+ \
+ "For this reason when those who seek the Buddha way see so someone who
+accepts and upholds this sutra, they should approach him with this kind
+of respect and reference."\
+ \
+ When [the Buddha] preached this chapter on the Former Affairs of the
+Bodhisattva Medicine King, eighty-four thousand bodhisattvas gained the
+dharani that allows them to understand the words of all living beings.
+Many Treasures Thus Come One in the midst of his treasure tower praised
+the bodhisattva Constellation King Flower, saying: "Excellent,
+excellent, Constellation King Flower. You succeeded in acquiring
+inconceivable benefits and thus were able to question Shakyamuni Buddha
+about this matter, profiting immeasurable numbers of living beings."

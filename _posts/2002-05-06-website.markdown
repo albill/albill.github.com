@@ -1,0 +1,17 @@
+---
+author: admin
+date: '2002-05-06 13:23:00'
+layout: post
+slug: website
+status: publish
+title: Website
+wordpress_id: '815'
+categories:
+- Daily Life
+- Technology
+---
+
+I've started doing some work on my [website](http://www.zhangzhung.net)
+again. I haven't updated much content in about six months or more but I
+just updated the look and will be changing, deleting and adding pages
+over the next week or two probably. Out with the old, in with the new!

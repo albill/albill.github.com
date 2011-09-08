@@ -1,0 +1,19 @@
+---
+author: admin
+date: '2004-08-31 21:43:24'
+layout: post
+slug: donnie-darko
+status: publish
+title: Donnie Darko
+wordpress_id: '222'
+categories:
+- Science Fiction
+---
+
+An interesting article about the re-release of **Donnie Darko**.
+
+> *RK: They're appreciating your commitment to Sparkle Motion. We never
+> doubted your commitment. MM: I was a little bit of a bitch about it,
+> but I was committed.*
+
+[http://www.alternet.org/movies/19627/](http://www.alternet.org/movies/19627/)

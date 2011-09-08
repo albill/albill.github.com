@@ -1,0 +1,13 @@
+---
+author: admin
+date: '2003-03-26 02:57:00'
+layout: post
+slug: the-ring
+status: publish
+title: The Ring
+wordpress_id: '1326'
+categories:
+- Daily Life
+---
+
+The Ring Bearer has discharged his duties to R.

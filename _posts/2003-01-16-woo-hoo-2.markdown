@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2003-01-16 19:48:00'
+layout: post
+slug: woo-hoo-2
+status: publish
+title: Woo hoo!
+wordpress_id: '1248'
+categories:
+- Daily Life
+---
+
+My corporate master's announced a stock split today. Even with reduced
+expectations, it's probably a very good thing.

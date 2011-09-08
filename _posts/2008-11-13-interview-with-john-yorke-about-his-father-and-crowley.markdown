@@ -1,0 +1,30 @@
+---
+author: admin
+date: '2008-11-13 17:27:25'
+layout: post
+slug: interview-with-john-yorke-about-his-father-and-crowley
+status: publish
+title: Interview with John Yorke about his father and Crowley
+wordpress_id: '2545'
+categories:
+- Daily Life
+---
+
+I just came across this interview with John Yorke by the Julian Doyle.
+John Yorke is the son of Gerald Yorke. The elder Yorke was a close
+associate of Aleister Crowley's who produced many of the typescripts of
+Crowley's texts. He is also the source of the "Gerald Yorke Collection"
+at the [Warburg Institute](http://warburg.sas.ac.uk/) in the UK. This is
+one of the few public collections of Golden Dawn materials (as well as
+those of Crowley) and I referenced some of its contents while working on
+my Master's thesis on the Golden Dawn. Julian Doyle recently directed
+the over-the-top Crowley-inspired horror movie, [Chemical
+Wedding](http://www.chemicalweddingmovie.com/). As an aside, it is
+interesting to note that in his later life, after giving up his pursuit
+of occultism, Gerald Yorke became quite well known as an emissary of the
+Dalai Lama. In this interview, Julian Doyle discusses some of the
+memorialbilia that John Yorke inherited from his father, including
+Crowley's magical wand (*ahem*).
+
+**Warning:** There are a couple of not safe for work images flashed in
+the video for my sensitive Buddhist readers (or corporate types).

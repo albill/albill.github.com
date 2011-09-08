@@ -1,0 +1,32 @@
+---
+author: admin
+date: '2005-09-24 07:41:27'
+layout: post
+slug: bangkok-is-here
+status: publish
+title: Bangkok is Here
+wordpress_id: '563'
+categories:
+- Daily Life
+---
+
+We survived the 16 hours of plane travel in a plane full of Taiwanese.
+;-)
+
+We were picked up at the airport by a driver from the hotel. We aren't
+as badly off as we could be given that our flight left at 4:00 AM and we
+had no sleep before that. By sleeping a bit on the plane, our bodies are
+completely confused but not as jet lagged as when we've gone to Europe.
+
+Bangkok is pretty cool so far. The standard of living here actually
+seems higher than when we were in Greece. Go figure. Everything is
+relatively cheap except drinks cost more than food. A good coffee costs
+about 40 baht and a decent meal costs about 40 baht...which is about a
+dollar so...
+
+We are in an Internet Cafe down the street from our hotel. We have to
+stay awake in order to completely get on local time. I'll probably post
+something more tomorrow. I mainly wanted to check my e-mail.
+
+The day after tomorrow, in the morning, our tour leaves for the north
+for a week.

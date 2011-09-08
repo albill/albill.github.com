@@ -1,0 +1,83 @@
+---
+author: admin
+date: '2003-08-27 04:34:00'
+layout: post
+slug: pema-kilaya
+status: publish
+title: Pema Kilaya
+wordpress_id: '1871'
+categories:
+- Buddhism
+- Spirituality
+---
+
+![image](http://www.arcanology.com/images/pemakilaya.jpg)I went to a
+sangha meeting for [Pema Kilaya](http://www.pemakilaya.org) this
+evening. This is the local organization or sangha (yes, that term is
+explicitly used) for [Kilung Rinpoche](http://www.kilung.org). Kilung
+Rinpoche is a Nyingma lama that I'm a student of though I'm not working
+with him as my exclusive teacher or whatnot. In the outer of the two
+levels of studying with him. Pema Kilaya has been meeting since it
+formed early this year (I posted about that then) in the apartment of
+Diane, who is the main person running it and the non-profit Kilung
+Foundation with Rinpoche. When he is in town, Rinpoche lives in the
+spare bedroom of her place and teaches there. The group had begun to
+talk about getting at least an office space for the non-profit
+foundation with the eventual goal of getting a permanent practice space
+and office for Pema Kilaya so we weren't just cramming 27 members into
+Diane's living room and kitchen. There is a local, of all things,
+Baptist Church ("First Baptist") on Capitol Hill in Seattle that does a
+lot of work with the homeless, children, abuse, the dying, etc. as a big
+part of its overall mission. For Christians, it seems to be **very**
+progressive and very much living the Christian values of Charity. Kilung
+Rinpoche has used their sanctuary hall in the past because they are
+friendly to Buddhists and have some sort of Buddhist-Christian
+meditation group in their church. (Which I think is really freaky for
+Baptists, of all people!) Anyway....they have a Chinese clinic, a
+daycare and other organizations that rent space from them in their annex
+building. One of thse was the **Still Point Center**, which sounds
+familiar but I can't place. They vacated recently and their space has
+become available. Pema Kilaya hasn't really been to the point of renting
+anything beyond talking but this becoming available has just driven the
+conversation to the next stage. The space they have available is an 900+
+sq. ft. space with a large classroom/practice room and two offices, one
+right off the the room and one down the hall. The rest of the church
+building is also available for no extra charge (including their sanctury
+and fellowship hall) to renters for events. They are only charging $8
+per sq. ft. **per year** or, to put it another way, less than $1 per sq.
+ft. per month. This is something like a third of the going rate if not
+less. It's also within walking distance of Diane's apartment where
+Rinpoche will live and close to the central part of Seattle where the
+group wants to stay. So, the meeting tonight was about two things. One
+was a question and answer bit with Rinpoche because he's back and town
+and knew people had questions about practice and such. The other half
+was devoted to a discussion of the pros and cons of renting the space,
+the increase in dues that would have to be done to cover it and a lot of
+related discussion. It's funny that in a room of 22 people, I found
+myself asking 90% of the logistics questions about income, risks,
+organization, etc. Makes you wonder about what the others were thinking.
+The group is going to do an anonymous mailed survey to try to get
+neutral, name-free responses on this but it looks like we'd have to add,
+roughly, $35 a month extra in dues to cover the space. Extra money from
+various talks, teachings, etc. would help add a buffer over time. This
+is a big commitment for a lot of people in the group so no decisions
+have been made. Personally, I think the group should do it as it really
+opens up a lot of possibilities and we'd have 24 hour access to the
+space for practice sessions (on our own or in groups) and for doing
+other work. We'd turn the classroom into a shrine room and practice
+area. I do kind of wonder how it is that a group of about 25 mostly
+middle aged people can go from meeting in someone's living room to
+looking at renting a permanent space with offices in roughly eight
+months (with about a year of various teachings and contact before that
+with Rinpoche) but most pagan or occult groups, even ones organized for
+years and years, can't manage to do the same. Why is it that Buddhists,
+Christians, what-have-you are willing to pay the fees necessary to build
+this sort of thing but ye olde pagan umbrella organization or church
+can't do the same? The ones that do are few and far between. I can think
+of only a few examples in the whole country that aren't also someone's
+backyard... In any case, I'm excited about that. I'm also excited
+because it looks like Rinpoche is going to teach and/or supervise a
+class on Tibetan Yoga (physical and energetic) in October or November
+based on my prompting and asking questions of a few people about it.
+It's part of the daily practices that he teaches and I really want to
+learn it.

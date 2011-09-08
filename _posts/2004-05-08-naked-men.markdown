@@ -1,0 +1,15 @@
+---
+author: admin
+date: '2004-05-08 15:09:00'
+layout: post
+slug: naked-men
+status: publish
+title: Naked Men
+wordpress_id: '99'
+categories:
+- Humor
+---
+
+Via Warren Ellis, comics guy:
+[http://www.codewolf.com/video/9naked.mov](http://www.codewolf.com/video/9naked.mov).
+Not work safe.

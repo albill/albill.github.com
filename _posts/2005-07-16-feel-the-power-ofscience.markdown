@@ -1,0 +1,19 @@
+---
+author: admin
+date: '2005-07-16 18:36:18'
+layout: post
+slug: feel-the-power-ofscience
+status: publish
+title: Feel the Power of...SCIENCE!
+wordpress_id: '513'
+categories:
+- Daily Life
+---
+
+This is where R and I will be this evening.
+[![image](http://www.arcanology.com/images/weird_genius_color1.gif)![image](http://www.arcanology.com/images/weird_genius_color2.gif)\
+![image](http://www.arcanology.com/images/weird_genius_color3.gif)![image](http://www.arcanology.com/images/weird_genius_color4.gif)\
+![image](http://www.arcanology.com/images/weird_genius_color5.gif)![image](http://www.arcanology.com/images/weird_genius_color6.gif)](http://soap.inability.org/home.html)
+**Update:** Apparently friends of ours are helping run this, including
+some of the people that we went to Burning Man with in 2001. Small
+world. Life-size baking soda volcano, here we come!

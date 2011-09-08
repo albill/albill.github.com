@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2003-01-31 15:42:00'
+layout: post
+slug: wwad
+status: publish
+title: WWAD?
+wordpress_id: '1262'
+categories:
+- Esoteric
+- Humor
+---
+
+![image](http://sixsixfive.com/anubis.gif)

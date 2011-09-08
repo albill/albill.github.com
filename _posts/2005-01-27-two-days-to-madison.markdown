@@ -1,0 +1,39 @@
+---
+author: admin
+date: '2005-01-27 00:09:22'
+layout: post
+slug: two-days-to-madison
+status: publish
+title: Two Days to Madison
+wordpress_id: '381'
+categories:
+- Daily Life
+---
+
+It sounds like a song... In two days, I'll be in Madison, Wisconsin. I
+leave my house around 4:30 AM Friday morning to catch a 7:09 AM plane
+via Minneapolis. When I get there, I'll meet my friend, Bill Bainbridge,
+and his wife and we'll get the rental car and maybe find our motel.
+Friday night is a lecture/talk with Younge Khachab Rinpoche. Saturday
+and Sunday, we are meeting for a few hours in the morning and then in
+the afternoon. There will be a Dorje Drollo empowerment done at that
+time and Rinpoche will also be discussing Dream Yoga. Bill, who has been
+Younge Khachab's student for a couple of years now, arranged (seemingly)
+for me to get an interview with him with his translator present (a big
+plus!). Rinpoche is relatively well regarded as a Dzogchen teacher so I
+want to discuss my interests and my background over the last couple of
+years including the Tsegyalgar retreat I attended with Namkhai Norbu,
+etc. to give him some context of where I am at. Rinpoche has a pretty
+sebstantial Vajrayana program set up for his students in Madison and is
+starting a shedra there but Bill has not been required to run through
+the multiyear Vajrayana track before Rinpoche was willing to work with
+him on Dzogchen. Bill has explained to me that Younge Khachab is pretty
+open to where students are at, what their interests are, etc. as long as
+they seem like they'll practice and work with the material given. He
+figures that Rinpoche will get a sense of me on meeting, perhaps give me
+some instruction on Khorde Rushen or an introduction to the Guru Yoga
+that he teaches which includes a section that is Semde Trekchod. Even if
+we don't have time (or he isn't inclined) for anything beyond the
+interview, this lays the groundwork for maybe bringing him to Seattle
+this Fall and should also open the door for my attending his five day
+Dzogchen retreat in May, which is only open by permission.

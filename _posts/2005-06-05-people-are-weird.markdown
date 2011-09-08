@@ -1,0 +1,54 @@
+---
+author: admin
+date: '2005-06-05 22:48:05'
+layout: post
+slug: people-are-weird
+status: publish
+title: People are Weird
+wordpress_id: '475'
+categories:
+- Daily Life
+---
+
+People are fucking weird sometimes and I don't always know what to make
+of it. I have a friend online that I've known for something like five or
+seven years. I'm not entirely sure. We've never met in person (he lives
+in Toronto) but we corresponded for years. Sometimes it was every day or
+two and sometimes there were gaps of many months but there has always
+been some kind of communication. The last time I heard from him was
+September 9 last year. He was mentioning some big news to me and
+explaining a lot of thoughts that were on his mind that he thought would
+be helpful to me given the problems that we had both seen in an
+organization that we were mutually in. It was a long, heartfelt, even
+loving, e-mail but I haven't heard from him since then. I wrote a
+response then and I've written several times since then (including a few
+days ago). I haven't heard anything back. Checking with one mutual
+friend, I heard about a family emergency but that, otherwise, my friend
+was fine and the mutual friend had been seeing him and communicating
+with him relatively often. So, he's not dead. My choices seem to be:
+
+1.  He's not reading or replying to e-mail in general anymore after
+    years of being online.
+2.  He's being a superflake in general.
+3.  He's not replying to me for some reason.
+
+Given how unlikely the first two are, I'd assume number three but the
+tone of his last e-mail was very much a friend and mentor offering
+advice to another and being very helpful. It was emotionally warm. To
+me, that doesn't make sense as a final letter if he's decided not to
+communicate with me. So, that leaves me justing wondering what's
+happened to him and whether he's really ok or whether there is some
+issue between us that I'm unaware of that happened somehow. I'm not
+losing sleep over this but it is sad. I'm pretty attached to the people
+that I consider friends (as opposed to many of the friendl acquaintances
+that I have) and I really feel their loss when things go wrong,
+sometimes for years. This is a person that helped spur my interest in
+Buddhism and he's been one of my main sources of advice in walking the
+difficult path between that path and being a magician. Hopefully he'll
+come back at some point but after sending four or five e-mails over nine
+months, I'm beginning to wonder. **Update:** A mutual friend saw this
+who lives local to him. This friend tracked him down and told him to
+contact me. It turns out that he changed e-mail addresses, has been
+staying offline for personal reasons, and has some new passions (so to
+speak) so he's just not been around. He didn't realize how long it had
+been. Problem solved.

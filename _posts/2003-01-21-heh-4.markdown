@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2003-01-21 19:48:00'
+layout: post
+slug: heh-4
+status: publish
+title: heh
+wordpress_id: '1255'
+categories:
+- Daily Life
+---
+
+![image](http://www.arcanology.com/images/al-r-web.jpg) Just for the
+record, I love R very much!!!

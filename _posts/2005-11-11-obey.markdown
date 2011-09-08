@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2005-11-11 00:29:32'
+layout: post
+slug: obey
+status: publish
+title: Obey!
+wordpress_id: '588'
+categories:
+- Humor
+---
+
+A little something from my brother-in-law:
+![image](http://www.arcanology.com/images/obey-frank.gif)

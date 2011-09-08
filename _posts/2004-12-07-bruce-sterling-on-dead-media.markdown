@@ -1,0 +1,624 @@
+---
+author: admin
+date: '2004-12-07 12:16:48'
+layout: post
+slug: bruce-sterling-on-dead-media
+status: publish
+title: Bruce Sterling on Dead Media
+wordpress_id: '313'
+categories:
+- Technology
+---
+
+I found this online today from St. Sterling. It's an interesting read.
+
+From
+[http://www.horizonzero.ca/textsite/ghost.php?is=18&file=4&tlang=0](http://www.horizonzero.ca/textsite/ghost.php?is=18&file=4&tlang=0)
+
+## Bruce Sterling:\
+ A Lecture On Dead Media and Never Realized Media Histories
+
+Technology affects society in two ways: by its presence and by its
+absence. The twentieth century was the nineteenth century with
+automobiles, but without horses. People rarely pay attention to
+technological absences. New technologies attract a frenzy of interest,
+while dead technologies are curiosities or embarrassments. That's
+because we live in a commercial society, and it is hard to sell dead
+technologies. Dead technologies have fallen out of the revenue stream.
+They lie beached on the deserted shores of obsolescence. It is hard to
+promote or sell a technology that no longer exists. Except for the
+occasional hobbyist or intellectual eccentric, no one wants to retail
+the defunct.
+
+I am a science fiction writer. When we first began the Dead Media
+Project in 1995, we were climbing the dizzy heights of the Internet
+boom. My interest in dead media was odd and even a little perverse.
+Which was why science fiction writers like myself and my friend Richard
+Kadrey were pioneering this field of study. When Richard and I first
+explained our intentions in a manifesto for dead media studies, many
+people seriously wondered if there were any forms of media that could
+possibly be dead. Time, however, has lavishly favoured my analysis.
+
+**Mass Media Extinction**\
+ In the year 2004, it is blatantly obvious that so-called new media -
+digital media - die much faster than any previous form of media. Digital
+media are dying in such numbers, and in such profusion, and in such
+variety, that it is impossible for anyone to keep up with the death
+toll. They die without even stabilizing long enough to establish a
+subtle terminology. The "Information Superhighway" was not about
+information. Nor was it ever a publicly owned superhighway. And yet it's
+already defunct.
+
+Some forms of media are blatantly dead. Bypassed. Superceded. Irrelevant
+to daily life. It's very hard to send a telegram these days, even though
+telegraphy was the Victorian Internet, and Morse code once circled the
+globe. If you are on a sinking ship, and you send out an SOS radio
+message in Morse code - as the Titanic once famously did - you will
+drown in the 21st century, because nobody anywhere is listening for
+Morse code anymore. You cannot send a message by "rocketmail" or
+"balloon post". Such technologies were invented, but they do not exist
+now. There are no pigeon services ready to carry your urgent messages
+strapped to their small bird legs. There is no longer any Lipkens System
+of Optical Telegraphs in the Netherlands sending Dutch messages to
+clerks with telescopes by waving huge wooden arms in semaphore signals.
+You cannot order any music in a café through a telephonic jukebox. You
+cannot pay for television signals over the telephone with the Zenith
+PhoneVision.
+
+These media are dead. But it's harder for us to fully comprehend that
+high-tech, expensive, sophisticated digital devices, so recently
+referred to in hushed tones by major news organizations, are also going
+fast. It's very hard - and getting harder - to find or use an Apple 2E,
+an Apple Newton, Microsoft DOS, any Commodore computer, a Sony Bookman,
+a Rocketbook, or any kind of virtual reality system. On the Internet you
+can no longer use Gopher or WAIS. FDDI and token ring networks have been
+surpassed. The life span of the average Web page is about fourty-five
+days. The holocaust is all around us now. We are bathing in the inferno
+of dead media.
+
+**Digital Decay (or: The Blue Screen of Death)**\
+ The preservation of digital media is an extremely difficult problem.
+Those of us who work in digital media are working in a torrent of
+unstable ones and zeroes. We are building on digital sand. My friend Jon
+Ippolito is the Curator for Digital Media at the Guggenheim Museum in
+New York. Like many of his fellow archivists and curators, Jon Ippolito
+is very concerned with the subject of digital preservation issues in the
+digital art world. That situation is worsening steadily. There are no
+simple answers or simple solutions for the digital world. The computer
+industry has been built to be complicated, and designed to frustrate
+attempts at repair and maintenance.
+
+Paper is simple. If you are an archivist who is trying to preserve a
+document of ink and paper, you can put the paper into a dry, dark place
+that is fireproof and sealed against vermin. Then you have only two
+serious problems basically: the ink, and the paper itself. The paper can
+rot or the ink can fade. Or the ink may have some acid in it which will
+eat the paper, and that is sadly common. Paper documents do die, rather
+slowly. But the alphabetical symbols on this paper can be copied fairly
+cheaply and quickly, and without much loss in fidelity.
+
+However, if you have a computer with digital data inside it, you have
+not one problem, or two problems, but level after level after level of
+sophisticated instabilities. Basically, you the lonely archivist are
+trying to support and preserve an entire cybernetic post-industrial
+system.
+
+This enterprise was not built for the convenience of librarians. You,
+the museum curator, have to become the tech support for the entire
+cybernetic enterprise. And oh, what vistas of woe and decline, what
+fretful hauntings of threatening ghosts and phantoms: The central
+processing chip can fail. The operating system can fail. The language
+that supports the operating system may be discontinued and no longer
+supported. Unlike paper, which degrades rather gracefully, computers
+have sudden catastrophic failures. If that central processor fails to
+move its electrical current, due to any of many thousands of possible
+microscopic flaws and faults, that computer suddenly and totally stops
+working. Catastrophic failure means the blue screen of death.
+
+It gets worse. You may lose the subtler forms of adjunct software, such
+as the screen display software, the printer drivers, the audio chips.
+The keyboard format may not work. The application may fail. The data
+storage formats for the application may no longer be supported. You may
+have different screen dimensions, or different graphics formats that
+fail to display for various bulky, difficult, inexplicable reasons. The
+material you are trying to preserve may be encrypted. The key may have
+been lost. There may be digital rights management difficulties that
+forbid copying. And, the storage media themselves are physically
+unstable.
+
+There is no archival, long-term medium for storing ones and zeroes.
+None. It does not exist. We have yet to invent one. Long-term storage
+for software - fifty years of storage, one hundred years of storage -
+that is an imaginary medium. Paper tape, punch cards, reel-to-reel
+magnetic tape, cd-rom, floppy disks, dvds - these are all temporary
+stopgap solutions. And they all have serious flaws. As they grow smaller
+and more compact, storage media also inherently grow more delicate, more
+fragile. This should be a great public scandal - a scandal on the
+grandiose worldwide scale of the greenhouse effect.
+
+But the greenhouse effect isn't a scandal either, and for a lot of the
+same reasons. We are not thinking our issues through. We are exporting
+our own unsustainable problems onto future generations for the sake of a
+present day economic advantage. But the clock of history doesn't stop
+ticking merely because we are running twice as fast.
+
+**Planned Obsolescence (or: Why Study Dead Media?)**\
+ Instead, I would like to convince you that, although it does have many
+arcane and fantastic aspects, the subject of dead media is not a remote
+one. Media obsolescence is an ongoing civilizational process with broad
+implications that ought to be intimately familiar to anyone in this
+room. People involved in digital culture have made our bed, and now we
+are lying in it. We imagined that our bed was a clean, abstract,
+mathematical, Euclidean , platonic, computer science, rational,
+electronic kind of bed. But we were deceiving ourselves. The bed of
+digital culture is a very rumpled, dirty, makeshift, anarchic kind of
+bed. It smells of viruses and worms. And it is surrounded by vast, ever
+growing heaps of our discarded trash. The sheets are owned by other
+people, and they want us to rent that mattress by the hour. The digital
+media industry - the computer industry - looks and acts a whole lot like
+other forms of highly polluting, poorly regulated industries. It's got
+robber barons, and corruption and pollution, and rampant speculation,
+and, well, many other classical technical phenomena that one can easily
+recognize from the wildcat boom days of aviation, or automobiles, or
+railroads, or nuclear power.
+
+We lack a good methodology with which to recognize our technology's
+engagement with the passage of time. We lack a proper long-term view.
+And this lack of insight leads us to repeat ourselves. Anyone who has
+seriously used computers for any length of time has found that the
+technological sublime is shot full of personal humiliation. We've all
+suffered these classic dead media moments of shattering disillusionment
+and stupefying squalor over our computers. These are the lethal moments
+in which we realize that the crash is finally here and our back-ups
+simply don't work. Or when we suddenly know that our new machine can no
+longer retrieve and display all the mail that we industriously wrote
+with our older mail reader. Or that a new word processor can't, won't ,
+and doesn't smoothly interoperate with the files of the old one. Or that
+an old spreadsheet turns to garbage when we try to open it with the new
+Office suite.
+
+These used to be mere accidents due to computation's rapid, pell-mell
+advance. Nowadays, however, these snags have been rationalized and built
+into the business model. In these monopoly days, computers do not
+advance, except in fresh methods of digging money from the pockets of
+users. We have been cruelly trapped on a treadmill of purported upgrades
+- a cycle designed to lure us into the system and then to demand endless
+payoffs for the supporting infrastructure. We have come to expect, as
+consumers in an age of technological decadence, that the landscape of
+the computer industry will be full of deliberate roadblocks, potholes,
+and barbed wire.
+
+Dead media - our older computers - were not simply superceded by
+improvements, but killed off as industrial policy. It's not enough to
+create the new for the sake of improvement. The old must be actively
+annihilated. The hard bedrock of the technological imperative has been
+eaten away, eroded by the revenue streams of a wide variety of
+interested parties. Software monopolies, movie companies, music
+companies, postal and telecom monopolies, regulatory bodies, standards
+bodies, non-governmental groups of software activists, national
+governments, regional governments, non-governmental organizations, and
+various criminal enterprises engaged in virus writing or computer
+intrusion, or spam, or fraud. We fail to recognize how and why our
+society rewards all of this behaviour.
+
+In believing the platonic mythology of the cool, clean electro-world, we
+have brought all this lively squalor directly onto ourselves. We sought
+the absolute and we found only products. They are not user-friendly
+products, because the users are not the kings. The users are the prey.
+And the users are not innocent either. The users are us - they are just
+like the rest of us. We stared into the fibre-optic pipes and found a
+mirror.
+
+**Contingent Evolution**\
+ People have many folk mythologies about technological development. The
+foremost myth is the ideology of unbroken technical progress. This is
+often called the "Whig theory of history". In the Whig theory of
+history, every event in the past has a rather simple and direct
+explanation. All of that complicated activity in the past existed in
+order to create us, you and I, the happy people of present day. We are
+the proper measure of all things. We are the crown of creation. Our
+time, this time, is the best time ever. Our technologies are the best
+technologies ever. Because all previous versions were halting, unworthy
+versions of the fine things that we use [today]. They were primitive
+technologies, not yet fully developed. And if certain amusing mistakes
+were made in the past that are no longer [available to us as media],
+then those were blind alleys that were best abandoned anyways. They
+failed because the past was insufficiently like us - the present.
+
+Now as you might guess, my own technological studies have led me to a
+rather different conclusion. My idea of technological development is not
+this Hegelian march toward the sunlit uplands of historical determinism.
+That's because I actually know some engineers personally. And I consider
+technologists to be those peculiar, vaguely congenial people who buy and
+read my fantasies. So given these facts on the ground, I consider
+technology to be a fertile, squalid orgy of invention and caprice that
+is always teetering on the edge of chaos. I may be a futurist, but I
+write what I see, dear people. And the past is this place - it is this
+very place at a different time.
+
+Every historian is an imaginative author, engaged in an act of
+retro-diction. When it comes to media palaeontology, I favour the ideas
+of biological evolution developed by Stephen Jay Gould. Now, according
+to Gould's ideas of punctuated equilibrium, our current moment in
+evolutionary history was never any matter of destiny. In Gould's idea of
+nature, there is no teleology, no divine single guiding force to
+development. Nature is not destiny. There is no predetermined, so-called
+"natural" way of life. The idea of the "natural" is severely under
+question. Nature is the result of repeated contingencies. If, for
+instance, the dinosaurs had not been wiped out by a random asteroid,
+then it's unlikely that we human beings would have ever existed in
+anything like our present form - this form we have inherited: bipedal,
+mammalian, upright, ten fingers, two opposable thumbs. It has some clear
+operational advantages, but it is not any perfect or ideal solution. It
+is a workable, emergent compromise, this rugged, optimal, animal body we
+have.
+
+The body is a result of many biological revolutions, shake-outs, purges,
+wild cards, upheavals, genetic bottlenecks. And the same is true for the
+shape and functions of our artifacts, including media artifacts. Serious
+technologies are shaped by forces beyond the imagination of their
+inventors. No rational battle plan can long survive contact with the
+enemy. Here is a cogent example: In the media world of analog videotape,
+there was once a mighty struggle for survival between Sony Beta Max and
+the VHS format. Beta Max was better engineered in almost every way. But
+VHS vendors were willing to sell pornography.
+
+Now it's a little bit difficult for us to comprehend that these very
+human, depraved, semi-legal, sexual urges can be a matter of life and
+death for media technologies. In real life, though, this is quite often
+the case. New media that can attract pornographers almost always survive
+and flourish. Pornography is a profound sign of health for a new medium.
+The Internet? Absolutely saturated with pornography. There is
+pornography in daguerreotypes. When the Magic Lantern Society of London
+holds its historical magic lantern exhibits, there is always fierce
+interest in magic lantern erotica. In the Franco-Mexican war of the
+1860s, there was microscopic pornography, created and smuggled for 19th
+century microscopes.
+
+**From the Squalid to the Sublime**\
+ After working in dead media for four years, I derived a general theory
+of media life and death. Why do some media live while some media die?
+Clearly any media theorist who could answer this vital question would be
+in supreme command of the field. That was my ambition, that was my
+primary interest in the Dead Media Project. And after years of thought
+and effort, I reached a firm conclusion. I call it the "Dairy Products
+Theory" of dead media.
+
+Now, in this Dairy Products Theory, media is understood to be a primeval
+human need. Something like milk. Milk we always have with us. We live on
+milk. We need milk. Milk even comes right out of the human body itself.
+Milk is older than the human body, much like language is older than
+humanity - and symbolic representation was clearly used by pre-human
+beings. The palaeontology of media is older than the human race.
+Neanderthals buried their dead with rituals, and pre-humans almost
+certainly danced, spoke languages, had rituals, and blazed and marked
+trails with symbolic abstractions so that they themselves could
+successfully migrate across the planet. Milk is old, and milk technology
+has had a long, varied, complicated, contingent history. Milk has wide
+variety. Human milk, cow milk, horse milk, goat milk, sheep milk.
+Thousands of different cheeses, yoghurts, fermented alcoholic milk,
+pasteurized milk, canned milk, dried milk, freeze-dried milk, milk from
+cloned sheep, milk from cows shot chock full of growth hormone. Dairy
+products may seem cheap and humble and quotidian, but when you look at
+their technical details you will find that entire industrial histories
+are involved. But although milk is *the* constant factor in the
+technological history of milk, milk is never the *determining factor*.
+In a similar way, media does not rule the development of media. Like
+milk, media is determined by its surrounding technological and social
+circumstances.
+
+People handle communication they way that they handle milk. They make
+media in the way they make war - with anything at hand. People have
+created media out of smoke, silk, braided yarn, flowers, stone, wood,
+palm leaves, wax, skin, and hair. There is media for the wilderness, the
+tent, the home; for horseback, cars, trains, and aircraft; for towns and
+massive urban centres. Media is a highly variegated set of specialized
+substances. Like dairy products, it can be liquid or solid or gas;
+cheese, syrup, or mush. It can be for immediate consumption or preserved
+for the long term; for the individual diarist or beamed to the global
+masses. Media we always have with us, and we do best and most wisely if
+we do not valorize media as media, but look upon it in a humbler and
+more pragmatic spirit. If we seek the absolute, we will mire ourselves
+in the squalid. But if we study the squalid with an accepting spirit of
+scholarly engagement, we may discover the sublime.
+
+**Balloons and Pigeons**\
+ In extreme social conditions, media reveals its ductile nature most
+clearly. There is no better example of this than the heroic story of the
+siege of Paris during the Franco-Prussian War of 1871. Paris was the
+capital of the 19th century. Paris was a highly mediated city, full of
+sophisticated technological invention. The city of Jules Verne and
+Albert Robida. In the Franco-Prussian War, Paris was surrounded and
+entirely cut off by the best troops in Europe. The result was a *tour de
+force* of explosive media invention. It is really without parallel
+before or since.
+
+The Parisians were desperate to communicate with the outside world. They
+tried methods of media previously unimagined. They tried sending
+underwater cables on a special telegraph hidden in the bed of the Seine.
+But the cable was found and cut by the enemy. They tried putting
+messages into watertight metal balls and floating them downstream with
+the river current. They tied messages to the collars of dogs. Through
+trial, error, and ferocious Gallic ingenuity, they finally patched
+together a functional communications system suitable for a capital city.
+It involved, as its integral parts, homing pigeons, gas balloons,
+telegraphy, post cards, money transfers, and microfilm.
+
+On September 18, 1870, Paris was entirely encircled by the Prussian
+armies. The balloonist and photographer, Nadar - the father of aerial
+photography - urgently created a Parisian company of gas balloons.
+Within five days, Nadar's first balloon left Montmartre carrying 125
+kilograms of paper dispatches. During the five months of the siege of
+Paris, sixty-five balloons left Paris. No balloon could return to land
+within Paris because the winds were too unpredictable. So Parisian
+balloons landed in various parts of Europe. Some balloons fell near the
+German lines - their pilots had to scramble for it. One balloon traveled
+on the winds all the way to Norway. The Germans quickly devised special
+anti-aircraft balloon guns. One aeronaut told of seeing Prussian
+cannonballs reaching almost to his basket, then fall back to earth.
+
+The Parisian balloons were made of a thin cotton cloth covered with
+varnish. They were inflated with gas from the streetlights of Paris.
+From the city of Metz during its own smaller siege, smaller unmanned
+balloons were sent up - balloons made of strong paper fired with hot
+air. The balloons could fly out of Paris on gas or hot air. But how to
+get messages back to the besieged population?
+
+Nadar contacted another photographer - a colleague named Rene Dagron - a
+Frenchman who had been experimenting with microfilms and
+microphotography. Dagron was smuggled out of Paris inside a balloon. In
+the pressure of war, Dagron rapidly advanced his microfilm process. He
+was able to place the photographed images of 3000 documents onto a
+collodium film of fifteen square centimeters. So, thanks to Dagron, this
+bulk of paper was abolished and the mail of Paris was practically
+virtualized. Then these microscopic films were carried into Paris on the
+legs of carrier pigeons.
+
+These birds were smuggled out of Paris in the balloons. Many birds
+successfully returned to Paris. But many were shot. Some were pursued by
+special pigeon-hunting hawks brought by the Prussians. Of the 355
+pigeons that left Paris inside balloons only fifty-seven pigeons safely
+returned. But the messages were repeatedly sent into Paris until the
+people of Paris acknowledged their arrival. Some message packets were
+sent as many as thirty times. When the microfilms finally reached Paris,
+they were plucked off of the legs of the birds, projected onto an
+enlarger, recopied, and distributed to the people receiving them.
+Hundreds of thousands of documents arrived by bird and microfilm, with
+the record being held by one heroic pigeon that transported eighteen
+microfilms with 54,000 documents.
+
+Now, this use of microfilm as a mass postal medium is sometimes
+considered the first use of microfilm as a communications system. But it
+was not. Hobbyists in England were making and selling microfilm
+entertainments for microscopes as early as 1853. And in the American
+Civil War, years earlier than the Franco-Prussian War, British agents
+spying for the Confederate States were arrested moving from Canada into
+the northern United States and carrying secret microfilm messages
+concealed inside buttons on their clothing.
+
+We will likely never know the true origin of microfilm as a favourite
+medium for spies and couriers. How can we know? We are not meant to
+know. The truth was hidden in the world of international espionage. It
+has been deliberately concealed from history. Spies are even more
+secretive and ubiquitous than pornographers. This story of the Paris
+balloon post is a heroic tale of the life a death of nations. But these
+newly invented forms of ingenious communication were swiftly forgotten
+once the pressure of the war was over. Once the siege of Paris had
+lifted there was no Balloon Post established. There was no regular
+Pigeon Post, no mass microfilmings by the Paris postal authorities.
+Except for a bronze monument to the pigeons, which was later destroyed
+by the Nazis, there was very little record left of this feverish
+experiment in media. It simply folded up and vanished as if the entire
+episode had been dreamed.
+
+**The Cahill Factor**\
+ In the Dead Media Project, particularly odd and bizarre forms of dead
+media are appraised for their "high Cahill factor". I should take a
+moment to explain this "Cahill factor" and why we dead media
+connoisseurs find this of interest. You see, some historical efforts are
+simply so improbable in retrospect that they defy the imagination. High
+among them was the invention of Thaddeus Cahill. The Cahill factor was
+named after Cahill because his story is so thrillingly incredible, so
+near to legend, so intriguingly odd, and so revelatory to us moderns.
+
+Thaddeus Cahill was an American entrepreneur and inventor who is one of
+the unknown fathers of electronic music. Thaddeus and his brothers
+constructed the Cahill Teleharmonium, a massive musical instrument plus
+electrical generating plant plus musical distribution system. This
+Teleharmonium was designed and constructed to provide pure electronic
+music to a mass audience using telephone lines - in 1906. Cahill placed
+the first of his five US patents in 1895. He completed three
+Teleharmonium instruments, including commercial models in 1906 and 1911.
+Dazzled industrial investors sank millions of dollars into Cahill's
+teleharmonic music services. And by 1907 Cahill was successfully piping
+live electronic music into Manhattan restaurants.
+
+But the Teleharmonium was massive and powerful, a gigantic multi-tonne
+device with its own generators. It distorted telephone voice services by
+overwhelming switching stations, and telephone users complained. And
+because he was a musical whiz as well as an electrical genius, Cahill
+insisted on a high-tech, thirty-six-note-per-octave electronic keyboard.
+People - and musical performers - didn't much care for this musical
+innovation of Cahill's, however. Electronic music simply sounded too
+strange. There was a financial panic in 1907. His finances fell through.
+The Teleharmonium died slowly in a welter of licensing problems and
+business disagreements. There was an abortive Teleharmonium comeback in
+1911 that struggled all the way to 1918. And the last physical vestige
+of the Teleharmonium machine finally vanished in the 1950s.
+
+The Cahill factor was named after Cahill because his dead media story is
+so exemplary. It is daring in conception, colossal in scale. Widely
+publicized, it trembles on the brink of mass acceptance - and then it
+vanished utterly. It is now easy to understand this adventure of
+Cahill's as a precursor of the dot.com bust. "Who would pay for this
+so-called service of his? Music on telephones? Where is the business
+model? He's building his business on mere hype - where is his common
+sense? Were his investors all crazy?"
+
+Maybe. Until you consider the industry of ringtones - for cellphones,
+that is. Cellular ringtones: tiny scraps of music. Ringtones are one of
+the most successful parts of the modern cellphone business. They're
+certainly one of the most successful aspects of the faltering modern
+music business. Is the ghost of Cahill in those ringtones? Would he
+smile to see people's pockets and purses suddenly playing bursts of
+telephonized electronic music?
+
+**Quipu Rockin' in the New World**\
+ Did the Teleharmonium die for its own inherent inadequacies, or was it
+killed off before its due time? Some forms of media are violently
+annihilated by events that are beyond any possible control of their
+designers or engineers. The most interesting of these - a truly alien
+parallel universe of communication and record keeping - would be the
+quipu system of the Incas in Peru.
+
+The very first notes in the Dead Media Project were about the Incan
+quipu. (And incidentally all of these notes are still publicly available
+on the Web site
+[www.deadmedia.org](http://www.deadmedia.org "Dead Media Project").) A
+quipu was not pre-literate, it was para-literate. Not only did it lack
+an alphabet, it even lacked written symbols of any kind. It was not a
+writing system. The quipu was a collection of chords with knots tied
+into them. These chords were usually made of cotton, and they were often
+dyed one or more colours. There are other methods of using knotted
+strings to make records. It is a natural idea that has occurred to many
+different cultures. There were similar efforts in Egypt, Hawaii, Tibet,
+Bengal, and Formosa. Besides the Incan quipu, there was the Tlascaltec
+nepohualtzitzin, the Okinawan warazan, the Bolivian chimpu, American
+Indian wampum, and Zulu beadwork. But this Incan quipu was by far the
+most elaborate development of this string-based media concept.
+
+This was a society without ink. The Incans were investing their entire
+need for agriculture, governance, taxation, record keeping, and
+literature into knotted yarn. Quipu-makers knew which end of the quipu
+was which. Quipu had a knot on one end and a loop on the other. They had
+vertical directions. The strings hung down or up out of a central woven
+backbone. Quipu have levels - chords are attached to the main chord,
+there's a second level of subsidiary chords, a third level of chords off
+of the second chords, and so forth. Each chord also had a colour, and
+extra chord colours could be created by spinning two coloured yarns
+together. So a quipu is basically a chorded network, in three
+dimensions, with colour.
+
+Nobody knows how to read quipu now, because the Spanish destroyed all
+the quipu they could find as instruments of sin. This was a cultural
+holocaust very like the destruction of the Mayan books, the codices. The
+Incans were a young civilization, but they were achieving surprisingly
+sophisticated results with their quipu systems. Quipu were light,
+portable, sturdy, made of natural materials, difficult to forge. What
+might they have achieved with this if left to their own devices? We
+cannot go back there - we don't even quite know what we have lost by
+losing quipu.
+
+Now, a Whig historian might argue at this point that it's rather silly
+to mourn such things. Of what practical consequence is a quipu? Will
+anyone in the future ever feel a need for such a halting, difficult,
+alien medium? Have we lost anything that could genuinely benefit us? And
+if the loss is of no practical consequence, why should we fuss? We can
+leave dead media to the world of imaginary media - curios that may be
+fun to think about, or entertaining for fiction writers to write about,
+but which are quite properly left in the tomb. Let the dead bury the
+dead. And that is a good question.
+
+**Raising the Dead**\
+ One has to ask: are there any dead media that were really unjustly
+killed, and that should rise and walk once more among us? To conclude my
+speech, I would like to suggest a few. These are forms of media that may
+be revived in the future. If they are revived, I can almost guarantee
+that they will not be revived under their original names. They will not
+be received in quite the same context. History does not repeat itself.
+But history does tend to rhyme.
+
+In the heyday of Hollywood cinema, movies were shown in large,
+sumptuous, cavernous movie palaces. These were not just places to watch
+films on a screen, but air-conditioned social centres with refreshments
+and uniformed ushers. They had huge screens, and peculiar film formats
+such as Panavision and TODD-AO. And specialized sound systems. If the
+Motion Picture Association of America fails to keep films from being
+widely pirated digitally, I think they might very well find it
+advantageous to quietly return to the days of the movie palace. These
+events would probably no longer be called "movies", and the movie
+palaces would not be called "palaces". I envision them as something more
+like gated high-tech communities. Movie malls that offer Disney-style,
+thrilling, branded entertainments complete with costumed characters and
+movie-associated souvenirs and so forth. But the point would be to get
+the population to congregate and spend money for a single,
+irreproducible cultural experience.
+
+And what if recorded music dies as an industry? My friend William Gibson
+speculates that there may be a seventy or eighty-year historical window
+in which music was a commercial commodity. If no one pays to listen to
+packaged music, because it is so easy and cheap to obtain digitally,
+what about live music within live venues, complete with star appearances
+and variety acts - perhaps spinning plates, trained dogs? This might be
+called a rave, or Lollapalooza, or Lilith Fair - but it would be
+Vaudeville. It would be a return to the world of entertainment before
+the radio star, before the movie star, before the television star, or
+the video star. Live entertainment by dancers and singers hoofing it in
+crowds from city to city.
+
+And then there is the interesting historical figure of the town crier.
+The humble town crier, this man who simply walks through the town
+shouting the city's news aloud with his own un-amplified mouth. People
+trust the town crier because they are used to him. If he lies about the
+news, you simply find him and kick him.
+
+It may seem weird to get your news direct from the physical human lips
+of some trusted individual, instead of from media - radio, newspapers,
+television, the Internet. But what if you know very well that radio,
+newspapers, television, and the Internet have all been debased? What if
+your best and most reliable news really does arrive personally, hand to
+hand, from people you trust? After all, that was how Vaclav Havel and
+his dissident friends from the Charter 77 movement had their Velvet
+Revolution in 1989. It was obvious that the Czechoslovakian regime media
+were debased, and entirely detached from popular reality.
+
+John Perry Barlow is an American writer and journalist and sometime
+musician. He is rather famous for once saying that the invention of the
+Internet was the most important invention since the invention of fire.
+And John Perry Barlow is saying some rather interesting things these
+days. To conclude my speech, I would like to quote you one of the things
+that John Perry Barlow recently said:
+
+> Some of us believe that another four years of the Bush administration
+> might turn America into something so oligarchical that it will make
+> Mexico look like Sweden. So broke that the dollar will buy less than
+> the Hungarian pengo. Surveillant enough to make East Germany look like
+> a good start. And puritanical enough to make Cotton Mather feel at
+> home. Some of us want a president who is straight about his real
+> reasons for sending our kids off to die and kill other kids. A
+> government that is of, for, and by more people than will fit on the
+> Forbes list. And a military that isn't simply a private security force
+> for the Fortune 500. We want to give our grandchildren something more
+> than a crushing debt, and a country too stripped of resources and
+> opportunities to pay it off. The stakes seem high to us. But if we
+> feel that way, and many of us do, then we will have to knock on doors
+> and persuade the folks inside to turn off their televisions and talk
+> about what's really going on - just as we will have to turn off our
+> computers occasionally to have such exchanges. If we are to restore
+> democracy in America we will have to get out amongst them and engage
+> in it. I believe our arguments are persuasive, but we have to present
+> them in-person to the people who don't already believe us.
+
+In other words, John Perry Barlow, of all the unlikely people, is
+encouraging his fellow citizens to abandon mediation and show up in
+person to discuss the issues of the day. This is the town crier model of
+news media. Is there anything new about this? Or anything dead about
+this? Should we be surprised to see media cyberpundits showing up as
+human beings? Maybe we could just sit together, breath the air we
+jointly breath, have a beer in the bar. Maybe we can be human. Why not
+give this a try? Let us savour these brief, delightful, historical
+moments when we are alive, and our technologies are alive, and our
+societies are alive.
+
+And maybe that's what I've been doing with you here all along.
+
+---
+
+Bruce Sterling is a science fiction author and media writer whose novels
+include Holy Fire (1996) and The Difference Engine (1991), a book about
+Charles Babbage's anachronistic Victorian invention co-written with
+William Gibson. Sterling's non-fiction books include The Hacker
+Crackdown: Law and Disorder on the Electronic Frontier (1992), and
+Tomorrow Now: Envisioning the Next 50 Years (2002). With Richard Kadrey,
+Sterling started the Dead Media Project in 1995, and has since continued
+to pursue a serious enthusiasm for the defunct.

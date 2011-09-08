@@ -1,0 +1,13 @@
+---
+author: admin
+date: '2002-09-14 22:21:00'
+layout: post
+slug: hmm
+status: publish
+title: hmm...
+wordpress_id: '950'
+categories:
+- Society
+---
+
+![image](http://homepage.mac.com/leperous/.Pictures/dissent.jpg)

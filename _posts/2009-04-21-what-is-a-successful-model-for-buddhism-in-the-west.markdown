@@ -1,0 +1,79 @@
+---
+author: admin
+date: '2009-04-21 12:28:44'
+layout: post
+slug: what-is-a-successful-model-for-buddhism-in-the-west
+status: publish
+title: What is a successful model for Buddhism in the West?
+wordpress_id: '2757'
+categories:
+- Buddhism
+- Spirituality
+---
+
+[![View of Bell from
+Zendo](http://farm4.static.flickr.com/3016/2582260910_d308248850.jpg)](http://www.flickr.com/photos/albill/2582260910/ "View of Bell from Zendo")
+My post on whether Vajrayana can survive seems to have gotten more
+attention than many recent posts. I should poke the anthill more often,
+it seems. A question related to my last post is "what is a successful
+model for Buddhism in the West?" By this, I mean organizational model.
+Now, certain die-hard purists will point out that the Buddha personally
+established a model, that of the monastic sangha that begs for alms and
+receives donations of land or other property. My reply to that is that
+many forms of Buddhism have not actually followed that model, either
+altering it somewhat (such as the spread of Buddhism in China and Korea)
+or much more severely, such as the Buddhism of Japan, where Vinaya-based
+monasticism really doesn't even exist and hasn't for quite a while. It
+has been noted by religious scholars that many religious groups in
+America undergo an organizational shift that renders them somewhat
+similar to the congregational model used by Protestant Christianity.
+(I'm sure there is a term for this but I don't have the sources handy
+for this.) This is done as either a conscious or unconscious means of
+cultural assimilation to the model that is familiar to most of us here
+in the United States. I'm not sure if it happens as much in Europe but I
+would expect that it does. This process leads to a "church" model in
+which one has a congregation led by one or more religious specialists,
+often called "ministers" if not "priests." I believe that, for example,
+the Jodo Shinshu sect chose this model for the [Buddhist Churches of
+America](http://buddhistchurchesofamerica.org/home/) partially because
+of concerns about seeming too foreign as a largely immigrant Japanese
+church, especially around World War II when there was much anti-Japanese
+animosity. (I'm sure one or two of my blog readers will correct me if
+I'm grossly wrong.) There is nothing inherently wrong or incorrect about
+this church model, so please don't read this as a criticism of it. It is
+a response to the question of how to organize. You see this in other,
+non-Buddhist, religious traditions as well. I've seen a number of
+Neopagan organizations set themselves up as churches led by a priest or
+a priestess, having a board of directors, etc. It seems to happen as a
+default choice for some when things grow to the point of requiring
+organization. Even if we call the churches, "Dharma Centers," they are
+still effectively following the same model and may be carrying hidden
+assumptions on the part of members as they function within the
+structure. (As an aside, the matter of people going to Buddhist priests
+or monks for counseling and on certain life issues has been commented on
+as a phenomena that happens here that does not necessarily occur
+elsewhere. People expect priests to minister to a group and to act as
+guides because of historical expectations from Christianity, I feel.)
+There are other models though. If nothing else, there is the "living
+room" model of fellow travelers meeting together in each others' homes.
+There is the traditional Buddhist model of setting up a monastery with
+celibate monastics (if funds can be raised and maintained). There is the
+temple model, much like a parish church, with hereditary priests
+overseen by a larger organization for a sect. I'm not sure which of
+these, if any, is the best model in the longer term. Natural selection
+will play a role as we see what survives over time but as someone who is
+a priest within a larger organization, how we organize and what the role
+or roles of a priest may be (and of non-priests, for that matter) is
+something that I've been thinking about off and on. Also, reading books
+like "Shoes Outside the Door" about the crisis at the San Francisco Zen
+Center reminds me that these questions are very important, as is the
+relationship between various roles in an organization and the
+expectations people have for their teachers or priests. (For those that
+haven't read the book, it deals with a specific sexual scandal, the
+issues around it, and how the community did and did not address it
+before and after it became a crisis. It has been required reading within
+my teacher's organization in the past.) I'm curious as to what models
+people reading this are working within, if they are Buddhists. What do
+you think will work best and why? How do you see see yourselves
+organizing to practice the Dharma? How do you want to pass it to the
+next generation?

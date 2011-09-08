@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2002-05-31 02:58:00'
+layout: post
+slug: an-image
+status: publish
+title: An image...
+wordpress_id: '840'
+categories:
+- Daily Life
+---
+
+Cropped from the cover of the novel I'm reading:
+![image](http://www.arcanology.com/images/archangel.jpg)

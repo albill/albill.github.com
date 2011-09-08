@@ -1,0 +1,63 @@
+---
+author: admin
+date: '2002-12-02 18:35:00'
+layout: post
+slug: wowair-travel-sucks-donkey-dick
+status: publish
+title: Wow...air travel sucks donkey dick
+wordpress_id: '1038'
+categories:
+- Daily Life
+- Spirituality
+---
+
+So, R and I got back from her folks' place at 11:00 pm last night via
+that cattlecar of the sky, the Boeing airplane. I don't blame Boeing
+though, I blame airlines. It wouldn't have been so bad if the security
+measures at our wonderful airports didn't require coming over two hours
+early to guarantee making your flight and if our flight hadn't left
+almost an hour late because of some dumbass' inability to go "hmmm...we
+have X gates and X+25 planes coming in... perhaps this could be a
+problem...." I'm convinced that the airlines and greyhound are in
+competition for the shittiest travel experience and it's a toss up right
+now. At least the airlines compress the misery into only a few hours
+(until I go to Greece). Anyway...R and I managed to bum around quite a
+bit in Berkeley and surounding areas while we were there. California is
+so damn brown though. It's nice to return to the green Pacific Northwet.
+The cats and the ferret (Mr. Doodle) were quite happy to see us and they
+hadn't even attacked each other. On Saturday, we went to the
+[Rosicicrucian Egyptian Museum](http://www.egyptianmuseum.org/) in San
+Jose at the suggestion of and others. I was actually fairly well
+impressed. For a small museum run by aging Californian weirdo
+Rosicrucians (who used to advertise in Popular Mechanics!) it was very
+well put together and professionally run. They have two floors of stuff
+dividing into sections. One, on the afterlife, has an Egyptian mummy,
+many sarcophogi and the only full size replica of an existing Egyptian
+tomb in the Western Hemisphere (they claim). You go down many faux stone
+stairs and through a number of chambers. The scenes are accurately
+painted on the walls and such. Cool. They also had a large selection of
+jewelry and textiles from Egypt and a small section on Mespotamia and
+surrounding cultures. That one had a lot of the seals and amulets along
+with many clay tablets. My personal favorite there was the diorama of
+what is called, in the Ogdoadic magical tradition, the Ziggurat of
+Light. This is the seven leveled ziggurat (built by Sargon II, I
+believe) which had each of the levels associated with a god, its planet
+and painted in the appropriate color. The whole complex was orientated
+to the cardinal points. All of the planetary magical rituals that I
+would with use the imagry of this ziggurate so it was a nice surprise to
+see a decent sized model of it. R and I also shopped at many many
+bookstores. Among the various things that I picked up were yet another
+copy of an out of print Denning and Philips book (for members of my
+group), a copy of Chagdud Rinpoche's P'howa Commentary (which Chagdud
+Gonpa will no longer sell to you until you take that empowerment) along
+with his "Gates of Buddhist Practice" book. I found a 1960's hardcover
+edition of W.E. Butler's "Apprenticed to Magic" (my favorite book on
+magic) and a book by Guenther on Buddhism that I hadn't seen before. My
+bag was pretty loaded down by the time we came back to Seattle. Our
+Atkins diet got fairly scrambled by Thanksgiving and we paid the price
+in gastromic distress as our bodies tried to figure out what to do with
+the carbs we ate. Back on the protein train!! On a positive note there,
+we did find out our scale at home is about five pounds heavy so I'm
+actually within about 15 pounds of my target weight. (I've lost about 25
+from where I was six months ago.) Alright, enough now. I'm going to go
+find coffee and tease Doodle.

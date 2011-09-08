@@ -1,0 +1,16 @@
+---
+author: admin
+date: '2004-01-06 12:06:00'
+layout: post
+slug: guenther
+status: publish
+title: Guenther
+wordpress_id: '6'
+categories:
+- Spirituality
+---
+
+For those that have ever tried to read Herbert Guenther's writings on
+Buddhist philosophy and thought, there is a resource now for all of his
+invented jargon:
+[Guenthesaurus](http://www.toad.net/~bsimon/guenthesaurus.html)

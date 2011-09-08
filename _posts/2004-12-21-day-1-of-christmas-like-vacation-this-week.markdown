@@ -1,0 +1,70 @@
+---
+author: admin
+date: '2004-12-21 00:06:38'
+layout: post
+slug: day-1-of-christmas-like-vacation-this-week
+status: publish
+title: Day 1 of Christmas-like Vacation (this week)
+wordpress_id: '329'
+categories:
+- Daily Life
+---
+
+Get up a bit after seven instead of sleeping in so I can let furnace
+service guy into house. He, for once, shows up early even. He leaves
+around 9:10 AM, having made me sign a bill and finishing his work.
+
+Around 10:20 AM, I realize that the house is fucking cold. Look at
+thermostat...hmmm...it's set to 68 but it about 62 in house. I hear
+furnace running but have no heat coming out. Call furnace guys. Furnace
+guy says "I'll be there in 20 minutes" and shows up an hour later. :-)
+
+He finally leaves just before noon and my furnace is working properly.
+Goodbye, my first morning of slack.
+
+I cook breakfast after calling R to confirm lack of recently purchased
+hamburger in fridge is as observed.
+
+I spent the rest of the afternoon:
+
+1.  Playing on Internet (including actually glancing at work e-mail)
+2.  Reading **[The Mahasiddha and his Idiot
+    Servant](http://www.celticbuddhism.org/publications.htm)**
+3.  Drinking coffee at Third Place Books while purchasing more Christmas
+    presents for my family and friends.
+
+I took a present over to Rubylou (and one for that bastard, Sean) and
+chatted with her a bit about her efforts to sponge paint a wall in the
+living room. She's just started it and guests are coming over Christmas
+Day. She admits this was a questionable plan. Lulu the love kitty (who
+hates all non-Rubylou lifeforms) decides I'm the cutest thing in the
+world and not only lets me pet her but won't go away and actually lets
+me pick her up three times, hold her for a while, and put her down (for
+her only to return). For any that know this cat, this is beyond
+freakish. As Rubylou mentioned, I'm one of the few people she actually
+likes but "like" here normally equates to "pet me from three feet away
+and then I'll run" for her.
+
+Eventually, I go home and R and I go to see **Team America**, which was
+funny but marred by the moron with the super-geek laugh who decided
+everything from 30 seconds or so in was the funniest thing that he'd
+ever seen (especially if it was Muslims being shot) and wouldn't shut up
+the whole time. I liked the movie and found it funny but I know that
+I'll never watch it again. Once was definitely enough. We saw a preview
+for **Napoleon Dynamite**, which was playing down the hall at this cheap
+theatre, and I still want to see it.
+
+Note: R brought love in the form of tacos from the taco truck on her way
+home so I actually did eat dinner.
+
+The rest of this evening has been decaf Americanos and reading weblogs.
+I want to finish **The Mahasiddha and his Idiot Servant** before I go to
+bed tonight so I can start a dzogchen book tomorrow.
+
+On January 10, my classes for my MA program start. Since it is a
+distance based program, this will be mostly reading and report writing
+but it will suck up a lot of time. R and I are also attending training
+with the Shambhala Center in sitting meditation practice on January 14.
+
+Perhaps I'll write a solstice ceremony tomorrow morning for R and I to
+do in the evening of the Longest Night of the year.

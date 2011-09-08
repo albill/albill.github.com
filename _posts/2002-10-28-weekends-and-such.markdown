@@ -1,0 +1,44 @@
+---
+author: admin
+date: '2002-10-28 21:02:00'
+layout: post
+slug: weekends-and-such
+status: publish
+title: Weekends and such
+wordpress_id: '998'
+categories:
+- Daily Life
+- Technology
+---
+
+So, we shipped MSN8 last week. If you go to any of the major news
+outlets, you'll see a review of it (like the Washington Post, or PC
+Magazine or the New York Times). They are largely favorable, especially
+for the area that I ran the test team for: Parental Controls. I'm happy
+that we've been mentioned favorably in almost every review and I'm
+**very** happy that we've shipped. I've been working about half time on
+our new project, which is within Windows, and I can now concentrate
+fully there. This will make my day to day life a bit easier. We had a
+goodbye lunch for one of my contractors on Friday. He's going to go work
+for another team now that we've shpped. This isn't so bad since we're
+now free to hang out a bit easier as I am no longer the "boss." He's
+come to some OTO stuff and has interests in Thelema. Since we shipped, I
+got a couple of extra days off. I'm home today and tomorrow and I'll get
+11/11 and 11/12 off too. Combined with Thanksgiving, I'm winding up with
+most of a month of three day work weeks. That really breaks my heart.
+**;-)** R and I spent most of the weekend quietly together and didn't go
+out a whole bunch except for a big chunk in the middle of Saturday for
+local OTO initiations that we attended and witnessed. We watched a bunch
+of cable, cleaned the house a bit and I practiced my skills at
+Neverwinter Nights. Today was more of the same but R has just gone to
+work. I'm going to go down to "La Tienda" in a few and pick up a couple
+Day of the Dead items for our shrine in the living room. We tried to go
+yesterday but they were closed. We did get our new passport pictures for
+our trip to Greece. Tomorrow is my five hour tattoo session. I'm getting
+my first tattoo, which will be on my upper, right arm. It's a scarab
+beetle with the sun and it should cover my entire upper arm. We're going
+to *attempt* to do it in one sitting. We'll see how well that works...
+I'm sure to be a hurtin' unit tomorrow night and I have Greek then too.
+Combining this with my big dental cleaning on Thursday, this will,
+indeed, be the week of achy pain... Anyway, I'm off to view smiling dead
+things. Ta ta!

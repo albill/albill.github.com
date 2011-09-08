@@ -1,0 +1,298 @@
+---
+author: admin
+date: '2002-09-15 15:32:00'
+layout: post
+slug: science-fiction-roots-of-al-qaida
+status: publish
+title: Science Fiction Roots of Al-Qaida?
+wordpress_id: '951'
+categories:
+- Science Fiction
+- Society
+---
+
+**War of the worlds**
+[http://books.guardian.co.uk/review/story/0,12084,779530,00.html](http://books.guardian.co.uk/review/story/0,12084,779530,00.html)
+*It has become synonymous with the terrorist attacks of September 11 -
+but what is the origin of the name al-Qaida? Giles Foden on how Bin
+Laden may have been inspired by Isaac Asimov's Foundation* **Saturday
+August 24, 2002 The Guardian** In October last year, an item appeared on
+an authoritative Russian studies website that soon had the
+science-fiction community buzzing with speculative excitement. It
+asserted that Isaac Asimov's 1951 classic Foundation was translated into
+Arabic under the title "al-Qaida". And it seemed to have the evidence to
+back up its claims. "This peculiar coincidence would be of little
+interest if not for abundant parallels between the plot of Asimov's book
+and the events unfolding now," wrote Dmitri Gusev, the scientist who
+posted the article. He was referring to apparent similarities between
+the plot of Foundation and the pursuit of the organisation we have come
+to know, perhaps erroneously, as al-Qaida. The Arabic word qaida -
+ordinarily meaning "base" or "foundation" - is also used for
+"groundwork" and "basis". It is employed in the sense of a military or
+naval base, and for chemical formulae and geometry: the base of a
+pyramid, for example. Lane, the best Arab-English lexicon, gives these
+senses: foundation, basis of a house; the supporting columns or poles of
+a structure; the lower parts of clouds extending across a horizon; a
+universal or general rule or canon. With the coming of the computer age,
+it has gained the further meaning of "database": qaida ma'lumat
+(information base). Qaida itself comes from the root verb q-'-d : to sit
+down, remain, stay, abide. Many people appear to think al-Qaida's name
+emerged from some idea of a physical base - a command centre from where
+Bin Laden and other leaders could direct operations. "We've got to get
+back to al-Qaida on that one," it's possible to imagine a footsoldier
+saying. Bin Laden himself has spoken, post-September 11, of being in "a
+very safe place". There have also been stories that his father had a
+vernal estate called al-Qaida in Yemen or Saudi Arabia. Could there be a
+sense in which the name of the organisation represents a notion of the
+eternal home in the consciousness of its fugitive leader? On the
+surface, the most improbable explanation of the name is that Bin Laden
+was somehow inspired by a Russian-born writer who lived most of his life
+in the US and was once the world's most prolific sci-fi novelist (born
+in 1920 in Smolensk, Asimov died in New York in 1992). But the deeper
+you dig, the more plausible it seems that al-Qaida's founders may have
+borrowed some rhetoric from Foundation and its successors (it became a
+series) and possibly from other science fiction material. As Nick
+Mamatas argued in an article on sci-fi fans in Gadfly magazine, "even
+the terror of September 11th had science fictional overtones: it was
+both an attack on New York from a tin-plated overlord with delusions of
+grandeur and a single cataclysmic event that seemingly changed
+everything, for ever". Science fiction has often featured "evil empires"
+against which are set utopian ideas whose survival must be fought for
+against the odds by a small but resourceful band of men. Such empires
+often turn out to be amazingly fragile when faced by intelligent
+idealists. Intelligent idealists who are also psychopaths might find
+comfort in a fictional role model - especially one created by a novelist
+famous for castigating that "amiable dunce" Ronald Reagan: the president
+who prosecuted the CIA's secret war in Afghanistan. The Empire portrayed
+in Asimov's novels is in turmoil - he cited Gibbon's Decline and Fall of
+the Roman Empire as an influence. Beset by overconsumption, corruption
+and inefficiency, "it had been falling for centuries before one man
+really became aware of that fall. That man was Hari Seldon, the man who
+represented the one spark of creative effort left among the gathering
+decay. He developed and brought to its highest pitch the science of
+psycho-history." Seldon is a scientist and prophet who predicts the
+Empire's fall. He sets up his Foundation in a remote corner of the
+galaxy, hoping to build a new civilisation from the ruins of the old.
+The Empire attacks the Foundation with all its military arsenal and
+tries to crush it. Seldon uses a religion (based on scientific
+illusionism) to further his aims. These are tracked by the novel and its
+sequels across a vast tract of time. For the most part, his predictions
+come true. Seldon, like Bin Laden, transmits videotaped messages for his
+followers, recorded in advance. There is also some similarity in
+geopolitical strategy. Seldon's vision seems oddly like the way Bin
+Laden has conceived his campaign. "Psycho-history" is the statistical
+treatment of the actions of large populations across epochal periods -
+the science of mobs as Asimov calls it. "Hari Seldon plotted the social
+and economic trends of the time, sighted along curves and foresaw the
+continuing and accelerating fall of civilisation." So did Bin Laden use
+Foundation as a kind of imaginative sounding-board for the creation of
+al-Qaida? Perhaps reading the book in his pampered youth, and later on
+seeing his destiny in terms of the ruthless manipulation of historical
+forces? Did he realise much earlier than anyone else that the march of
+globalisation would provide opportunities for those who wanted to rouse
+and exploit the dispossessed? In the Arab newspaper al-Hayat, the Muslim
+intellectual Yussuf Samahah put it like this: "Anyone who believes that
+his [Bin Laden's] 'ideas' and the new phenomenon [globalisation] are
+contradictory would be mistaken, because while globalisation is
+gradually uniting the planet, it is causing many introverted and
+revivalist reactions which use the tools that globalisation provides to
+give the impression that they are not only fighting it but will
+ultimately defeat it." Using something like game-theory, Asimov's Hari
+Seldon worked on exactly such principles, taking into account, across
+time, the dynamic between intergalactic megatrends and local reactions
+to them. If Bin Laden did read Asimov, when was it? It is clear that
+from an early age he consumed western products and media, until a
+fundamentalist reversion occurred when he met the Palestinian preacher
+Abdullah Azzam, who was to be a crucial influence. As Bin Laden's best
+biographer, Yossef Bodansky, puts it, he "started the 1970s as did many
+other sons of the affluent and well-connected - breaking the strict
+Muslim lifestyle in Saudi Arabia with sojourns in cosmopolitan Beirut.
+While in high school and college, Osama visited Beirut often,
+frequenting flashy nightclubs, casinos, and bars. He was a drinker and
+womaniser, which often got him into bar brawls." If Bin Laden did read
+Foundation, it most likely would have been in these wild years, when he
+was aping western habits. Maybe he read an English version, bought in
+one of Beirut's English-language bookshops, or during a trip to the US
+or London (where he bought property in Wembley). Was there any science
+fiction for him to read in Arabic? A search dating from 1972 to the
+present of the Index Translationem, Unesco's register of translated
+books, reveals a reasonable amount of classic fantastic fiction in
+Arabic: The Time Machine, The Invisible Man, Twenty Thousand Leagues
+Under the Sea. But so far as 20th-century science fiction is concerned,
+a search found only two clear-cut examples: a 1985 Kuwait book which
+collected Ray Bradbury's Pillar of Fire and The Fog Horn and a 1988
+Iraqi edition of Colin Wilson's The Mind Parasites. Maybe, says Dennis
+Lien from the University of Minnesota, who made the search, the fabled
+Arabic edition of Foundation was published prior to 1972 and has not
+been reprinted since, but passed from hand to hand. "I suppose one could
+argue that since Asimov was Jewish it may have become politically
+incorrect in the Islamic world to reprint his books, but the same
+argument would apply against their being printed to any great degree in
+the first place." In the wake of September 11, the spectre of another
+science-fiction novel, Frank Herbert's Dune, was also raised as a
+possible influence on Bin Laden's self-mythology. It features a
+mysterious man whose followers, Arabic-speaking sons of the desert, live
+in caves and tunnels. They engage in a religious jihad against a corrupt
+imperialist civilisation. The case that science fiction, and in
+particular Asimov, could have had an effect on Bin Laden is strengthened
+by their better documented effects on other psychopathic personalities.
+Japan's Aum Shinrikyo sect - which released 11 packets of deadly sarin
+gas into the Tokyo subway in 1995 - was also apparently trying to build
+a community of scientists modelled on the members of Asimov's
+Foundation. "Aum's bible was, believe it or not, the Foundation series
+by Isaac Asimov," says David Kaplan, author of The Cult at the End of
+the World, a book on the sect, or "guild" as it styled itself. This is
+backed up by others. According to Yoichi Clark Shimatsu, former editor
+of the Japan Times Weekly, "The ultimate purpose of the guild, said the
+sect's science minister Hideo Murai, before he was murdered by a Korean
+gangster, is to rebuild civilisation after a cataclysm and to combat the
+powerful globalist institutions that are bringing on an apocalypse." In
+1995, after the subway attacks, a coded letter arrived at the magazine
+Takarajima 30. Believed to have been from Aum sympathisers, it gives a
+sense of how seriously the sect's members took Asimov and science
+fiction more generally. The letter, which promised an attack on the
+Tokaimura nuclear reprocessing plant, embedded its threat in a passage
+of literary criticism. Shimatsu explains: "The letter was a rebuttal to
+an essay by Susan Sontag in which she claims the sci-fi film genre is
+based on a fascination with catastrophe in the age of the bomb. Instead,
+this critic asserted, science fiction is really about surviving
+catastrophe, and is therefore optimistic - and the key to the genre is
+the longing for a sense of scientific community resembling the craft
+guilds of the past. "A professor of American literature at one of
+Tokyo's top universities, a specialist in science fiction, immediately
+recognised the passage as the work of literary critic Frederic Jameson.
+It was obviously selected as a defense of the Aum sect's effort to build
+a community of scientists modelled after Isaac Asimov's Foundation
+series." A small, unplanned nuclear reaction took place at the Tokaimura
+plant in 1999, the same year the Japanese government cracked down on the
+sect. There had been other, more minor incidents. All are generally
+attributed to human error, but Shimatsu believes they may be connected
+to a second, resurgent wing of Aum working in the nuclear industry on
+Asimovian lines. "Aum enjoys a huge following within Japan's nuclear
+establishment, which is riddled with believers from millennialist sects.
+Another clue is contained in Asimov's masterpiece. After the visible
+First Foundation was crushed by the Galactic Empire, the invisible
+Second Foundation persisted to eventually win the universal struggle."
+One can't blame Asimov for fuelling the swollen fantasies of the
+murderous. It is the last thing this committed pacifist ("violence is
+the last refuge of the incompetent") would have wanted. He may not be
+the only famous sci-fi author to have been taken up by lunatics, anyway.
+Killer cultist Charles Manson's favourite book is said to have been
+Stranger in a Strange Land, written by Asimov's rival for the
+imaginative future Robert Heinlein. More generally, the space opera
+sub-genre of science fiction offers the possibility of a massive
+expansion of self-mythologising will-to-power. In a 1999 New Yorker
+article on galactic empires, Oliver Morton beamed up French philosopher
+Gaston Bachelard, author of The Poetics of Space, to explain all this:
+"Immensity is a philosophical category of daydream. Daydream undoubtedly
+feeds on all kinds of sights, but through a sort of natural inclination,
+it contemplates grandeur. And this contemplation produces an attitude
+that is so special, an inner state that is so unlike any other, that the
+daydream transports the dreamer outside the immediate world to a world
+that bears the mark of infinity." A world, one might add, in which
+knocking down the twin towers with passenger jets seems a possibility
+that can be realised. As a genre, science fiction can't claim exclusive
+villainous effect. Other figures of extreme public animus have been
+influenced by different types of novels. Ted Kaczynski, the Unabomber,
+who held science in contempt, told his family that he'd read Conrad's
+The Secret Agent "about a dozen times" in his Montana hut, and is
+thought to have modelled himself on Conrad's anarchist. He also
+registered under the name "Conrad" in the Sacramento hotel from which
+he's believed to have sent his bombs. Earth First!, the militant US
+environmental gang, claim inspiration from Edward Abbey's 1975 novel,
+The Monkey-Wrench Gang, in which eco-guerrillas sabotage dams and
+bridges. Oklahoma bomber Timothy McVeigh was a fan of neo-Nazi William
+Pierce's The Turner Diaries, which tells of a group that blows up the
+FBI headquarters in Washington. As, in that very same biscuit-brown
+building in Federal Plaza, more "Most Wanted" pictures of Bin Laden were
+being pinned up in the wake of September 11, the Asimov/al-Qaida story
+was spreading. There was a piece in the Ottawa Citizen. On Ansible, one
+of the most popular science-fiction websites, hip sci-fi novelist China
+Miéville was quoted: "An expert on the Middle East told me about a
+rumour circulating about the name of Bin Laden's network. The term
+al-Qaida seems to have no political precedent in Arabic, and has
+therefore been something of a conundrum to the experts... Unlikely as it
+sounds, this is the only theory anyone can come up with." The expert
+Miéville was referring to is Fred Halliday, who teaches international
+relations at the LSE. Trying to define al-Qaida, Halliday included the
+Asimov connection as a glancing aside in the "keywords" section of Two
+Hours that Shook the World, a book about September 11: "The term has no
+apparent antecedents in Islamic or Arabic political history:
+explanations range from a protected region during the communist era in
+Afghanistan, to it being an allusion to the Bin Laden family's
+construction company, to the title of a 1951 Isaac Asimov novel which
+was translated into Arabic as al-Qaida." Many readers of Gusev's
+original website posting disagreed with its thesis entirely. "Asimov's
+story hinges on a secular extrapolation of human history based on
+mathematics," says John Jenkins, an expert on the author. "It's an idea
+which would make a Muslim extremist cringe." A letter to the most
+important British science-fiction magazine, Interzone, pointed out that
+the German title of Karl Marx's preparatory musings on capital,
+Grundrisse, can also be translated as "base" or "foundation". Fantasy
+has certainly been an element in other terror campaigns, as in the
+influence of Celtic myths of nationhood on Irish Republicanism. Fergal
+Keane brought a quotation from Yeats into his contribution to the BBC's
+9/11 book The Day that Shook the World: "The heart fed on fantasy, grown
+brutal from the fare." What Yeats was indicating, says Keane, "was the
+power of mythology in the shaping of the terrorist's consciousness". To
+be capable of sustaining a savage war, he went on, "it is necessary to
+narrow the mind, make it subject to a very limited range of ideas and
+influences". That would seem to cut out Asimov. But other reasons why
+al-Qaida might be so called are no less mysterious. After all,
+communiques issued by Bin Laden and his associates never use the name.
+Instead they refer to themselves as the "World Islamic Front for Jihad
+against Jews and the Crusaders", the "Islamic Army for the Liberation of
+Holy Places" and so on. The first use of al-Qaida in western media was
+in 1996 in an American newspaper report which identified it as another
+name of the Islamic Salvation Foundation, one of Bin Laden's jihadi
+charities. The term only came into general usage after the group's
+bombing of the US embassies in East Africa in 1998, when the FBI and CIA
+fingered it as an umbrella organisation for various projects of Bin
+Laden and his associates - many of which grew out of ideas originally
+hatched by Abdullah Azzam, who'd been killed by a car-bomb in Peshawar
+in 1989. The network grew exponentially. By the time Bin Laden was
+expelled from Sudan in 1996, his roster of jihadis had been
+computerised. Flying back to Afghanistan on a C-130 transport plane, he
+is said to have had with him, along with his wives and 150 supporters, a
+laptop computer containing the names of the thousands of fighters and
+activists who would help him further expand his struggle against the
+west. This qaida ma'lumat, this "information base", seems a very
+plausible source of the name. Dr Saad al-Fagih, a Saudi dissident and
+former Afghan mujahideen, thinks the term is over-used: "Well I really
+laugh when I hear the FBI talking about al-Qaida as an organisation of
+Bin Laden." Al-Qaida was just a service for relatives of jihadis, he
+said, speaking to the American PBS show Frontline. "In 1988 he [Bin
+Laden] noticed that he was backward in his documentation and was not
+able to give answers to some families asking about their loved ones gone
+missing in Afghanistan. He decided to make the matter much more
+organised and arranged for proper documentation." Fascinatingly, the
+acclaimed biography of Bin Laden by Yossef Bodansky, director of the US
+Congressional Task Force on Terrorism, hardly mentions the name
+al-Qaida. Written before September 11, it does so only to emphasise that
+al-Qaida is the wrong name altogether: "A lot of money is being spent on
+a rapidly expanding web of Islamist charities and social services,
+including the recently maligned al-Qaida. Bin Laden's first charity,
+al-Qaida, never amounted to more than a loose umbrella framework for
+supporting like-minded individuals and their causes. In the aftermath of
+the 1998 bombings in Nairobi and Dar-es-Salaam, al-Qaida has been
+portrayed in the west as a cohesive terrorist organisation, but it is
+not." There's no doubt that the name came to prominence in part because
+America needed to conceptualise its enemy. This is certainly what
+Bodansky thinks now. "In the aftermath of September 11," he says, "both
+governments and the media in the west had to identify an entity we
+should hate and fight against." Rohan Gunaratna, research fellow at the
+centre for the study of terrorism and political violence at the
+University of St Andrews, takes a different view. In an important recent
+book on al-Qaida, he argues that the name came from political theory,
+citing the concept of al-Qaida al-Sulbah (the solid base) formulated in
+an essay by Abdullah Azzam, Bin Laden's intellectual mentor. The solid
+base provided a platform, Gunaratna writes, for the "sole purpose of
+creating societies founded on the strictest Islamic principles".
+Al-Qaida al-Sulbah mixes a type of revolutionary vanguardism, borrowed
+from European political philosophy, with Islamic martyrdom: it's the
+pioneering vanguard that must, in Azzam's phrase, after "a long period
+of training and hatching", be prepared to "jump into the fire". And
+there may be another borrowing: the essay reads like nothing so much as
+Hari Seldon's plans for his foundation. Perhaps it was Azzam, after all,
+who read Asimov. · Zanzibar, Giles Foden's novel about the 1998 embassy
+bombings, is published by Faber at £14.99 on September 2
