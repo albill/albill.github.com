@@ -4,46 +4,38 @@ title: Open Buddha
 ---
 
 <div id="home">
-<!-- Begin first post -->
+  <!-- Show three posts on front page -->
+    {% for post in site.posts limit:3 %}
 <article class="hentry">
-  <!-- First post datetime -->
-  <time datetime="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ site.posts.first.date | date: "%d %B" }}</time>
-  <!-- First post title -->
-  <h2 class="entry-title"><a class="post_title" href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-  <!-- First post content -->
+  <!-- Date and time of post -->
+  <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%d %B" }}</time>  
+  <!-- Post title -->
+  <h2 class="entry-title"><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+  <!-- Post content -->
   <span class="entry-content">
-  {{ site.posts.first.content }}
+  {{ post.content }}
   </span>
-  {% if site.posts.first.social %}
+  {% if post.social %}
   <span id="social">
-  <!-- First post social -->
-  <!-- First post Facebook button -->
+  <!-- Post Facebook button -->
   <script type="text/javascript">
   //<![CDATA[
-  document.write('<fb:like href="{{ site.url }}{{ site.posts.first.url }}" send="true" layout="button_count" width="450" show_faces="true" colorscheme="dark" font="lucida grande"></fb:like>');
+  document.write('<fb:like href="{{ site.url }}{{ post.url }}" send="true" layout="button_count" width="450" show_faces="true" colorscheme="dark" font="lucida grande"></fb:like>');
   //]]>
   </script>
-  <!-- First post comment count -->
-  {% if site.posts.first.comments %}
-  <a href="{{ site.posts.first.url }}#disqus_thread" data-disqus-identifier="{{ page.date | date_to_xmlschema }}"></a>
+  <!-- Post comment count -->
+  {% if post.comments %}
+  <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.date | date_to_xmlschema }}"></a>
   {% endif %}
-  <!-- First post Tweet Button -->
+  <!-- Post Tweet Button -->
   <span style="float:right;">
-    <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ site.posts.first.url }}" data-text="{{ site.posts.first.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ post.url }}" data-text="{{ post.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
   </span>
   {% endif %}
   <br/>
 </article>
-<!-- End first post -->
-<hr/>
+    {% endfor %}
+    	    
 <!-- Old posts -->
-<h2>Archive</h2>
-<ol id="archive">
-  {% for post in site.posts offset:1 %}
-    <li>
-      <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%d %B, %Y" }}</time>
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    </li>
-  {% endfor %}
-</ol>
+<div><a href="archive.html style="font-size:200%">Post Archive</a></div>
 </div>
