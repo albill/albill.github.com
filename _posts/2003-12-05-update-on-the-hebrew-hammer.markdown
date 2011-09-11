@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 2057
+layout: post
+title: Update on The Hebrew Hammer
+date: 2003-12-05 21:23:00
+wordpress_url: http://www.arcanology.com/2003/12/05/update-on-the-hebrew-hammer/
+---
+<img align="right" src="http://us.i1.yimg.com/us.yimg.com/i/mo/pre_thehebrewhammer270.jpg" width="270" height="181" hspace="10" vspace="10" border="1" />Comedy Central is apparantly playing the Hebrew Hammer next week:<ul>
+                                                                                                                                                                                                                                                                                                                                              <li>
+                                                                                                                                                                                                                                                                                                                                                12/8/2003 900 PM<li>
+                                                                                                                                                                                                                                                                                                                                                  12/9/2003 300 PM<li>
+                                                                                                                                                                                                                                                                                                                                                    12/14/2003 1000 AM<li>
+                                                                                                                                                                                                                                                                                                                                                      12/14/2003 800 PM</ul>All Times ET/PT More film information: <a href="http://www.filmjerk.com/nuke/modules.php?name=News&file=article&sid=165">FilmJerk.com</a> <a href="http://movies.yahoo.com/shop?d=hp&cf=prev&id=1808410864&intl=us">Yahoo Movies</a>

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 1155
+layout: post
+title: New China Mieville
+date: 2006-08-06 23:07:07
+wordpress_url: http://www.arcanology.com/?p=1155
+---
+Apparently, China Mieville is coming out with a new book in February...a <em>children's book</em>. The mind shudders. <p align="center">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <img vspace="5" hspace="5" border="1" src="http://www.arcanology.com/images/un-lun-dun-cover.jpg" />
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </p>

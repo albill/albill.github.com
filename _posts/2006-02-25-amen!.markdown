@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 695
+layout: post
+title: Amen!
+date: 2006-02-25 23:24:20
+wordpress_url: http://www.arcanology.com/?p=695
+---
+<a href="http://www.redmeat.com/redmeat/2006-02-21/">http://www.redmeat.com/redmeat/2006-02-21/</a>

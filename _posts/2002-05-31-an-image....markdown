@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 840
+layout: post
+title: An image...
+date: 2002-05-31 02:58:00
+wordpress_url: http://www.arcanology.com/?p=840
+---
+Cropped from the cover of the novel I'm reading: <img src="http://www.arcanology.com/images/archangel.jpg" height="382" width="298" />

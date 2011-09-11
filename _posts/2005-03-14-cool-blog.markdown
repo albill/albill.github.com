@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 425
+layout: post
+title: Cool Blog
+date: 2005-03-14 22:38:57
+wordpress_url: http://www.arcanology.com/?p=425
+---
+I wanted to mention a cool new blog to people: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <b>Generation Sit</b>. It's over at <a href="http://www.generationsit.org/">http://www.generationsit.org/</a> strangely enough. I've been following the blogs of some of the members for some time and one of them is a local that I've had coffee with before. It approaches spiritual practice from an active, practice oriented viewpoint informed by Ken Wilber's work on Integral Studies. Cool stuff and highly recommended as a blog to follow.

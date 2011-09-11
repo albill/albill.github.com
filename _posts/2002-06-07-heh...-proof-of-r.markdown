@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 844
+layout: post
+title: heh... Proof of R
+date: 2002-06-07 00:15:00
+wordpress_url: http://www.arcanology.com/?p=844
+---
+She exists! See <a href="http://www.arcanology.com/images/al-r-web.jpg">here...</a>

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1917
+layout: post
+title: Color me uncaring
+date: 2003-10-08 05:20:00
+wordpress_url: http://www.arcanology.com/2003/10/08/color-me-uncaring/
+---
+I'm seeing a lot of people ranting about Arnold being governor and what a catastrophy it is... I'm rather unconvinced. I think he's going to be hamstrung and in over his head but I really doubt if he will mismanage your state any worse than Davis. On the plus note, he's Pro-Choice and Pro-Gay Rights so you could be worse off. My own governor is the best Republican governor we've ever had, as the joke goes. (He's a Democrat...)

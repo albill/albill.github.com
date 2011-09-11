@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1246
+layout: post
+title: Argh!!
+date: 2003-01-16 03:57:00
+wordpress_url: http://www.arcanology.com/?p=1246
+---
+I just found out that the Math Store about eight blocks away from me (just down the street) has a web site. <a href="http://www.math-n-stuff.com/">http://www.math-n-stuff.com/</a>. I&apos;ve never been in there because their hours have often been limited. So, I look at their site and found out that, yes, indeed, they have sets of Platonic Solids ("Geometric Solids") for $9.99. As people may recall, I bought a set of large dice, sanded them, filled the lines and painted them to make my set that I haven&apos;t been happy with. I know what I&apos;m buying this weekend...

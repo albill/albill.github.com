@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1060
+layout: post
+title: Christmas Eve Eve...
+date: 2002-12-23 23:56:00
+wordpress_url: http://www.arcanology.com/?p=1060
+---
+I slept in until 11:30 today (was up late fucking around on the net looking up martial arts stuff). The damn dog next door is going to die one of these days. The neighbor lady, a nice little ol' lady, has the most irritating kick-me dog in the world. It yips all of the time and it is one of those things that we wished we'd known about before we moved in... It makes sleeping in problematic since it barks at <strong><em>everything</em></strong>. I picked up Madeline in the early afternoon and took her Christmas shopping for her mom. She wanted to get Chris (my ex-wife) something so I paid for a present she selected. I did exercise my veto authority on her first choice (of jewelry) as it well a little silver wiener dog brooch. Ick! We went back to the house and watched "Ice Age," which R continues to refuse to rent with me! ;-) Madeline loved it and I found it quite enjoyable for a kid's movie. I like the little squirrel... I also rented "Minority Report," which I did see in the theatre but I've been wanting to see it again. I realized that I have no plans for Christmas Eve. I don't feel bad about that but some people seem to think it is unusual. Maybe John and I will get together. is out of town and he&apos;s just finished a bit of stage work so he's not working at the moment. He wanted to go see the Two Towers today (well, he's actually going but asked me to go too...) but I saw it last week and R wants to see it when she gets back at the end of the week so I begged off. In any case, I think I'll go watch my show and then either read the new John Meaney novel or play Neverwinter Nights.

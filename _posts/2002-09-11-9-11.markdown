@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 946
+layout: post
+title: 9/11
+date: 2002-09-11 15:33:00
+wordpress_url: http://www.arcanology.com/?p=946
+---
+I'm not going to talk about 9/11 much at all today. I think the media is focusing on it enough, perhaps even too much. I still react emotionally when thinking about it too intensely. While that isn't necessarily bad, it isn't something that I need on my way to work or at work when I have to focus on other things.
