@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1862
+layout: post
+title: My Cheese
+date: 2003-08-22 04:16:00
+wordpress_url: http://www.arcanology.com/2003/08/22/my-cheese/
+---
+My boss has made me read <a href="http://www.whomovedmycheese.com/">Who Moved My Cheese?</a> He has this thing for management and business books and tries to get us to read things. The funny thing is, as...cheesy...as this particular book is, it does have some decent advice about impermanence and change. I just wish it wasn&apos;t couched in such stupid business-ese. R and I went out to a nice dinner as Azteca. Given that we are normally on Atkins to some degree, this was a nice change for us. We actually spoke about her work for a change. As funny as it sounds, we never talk shop even though we are both testers. I actually didn&apos;t know any but the vaguest details about the project she works on. It was kind of interesting to hear about it even though I work for the competition in a way. Tomorrow night, we go to <b>Alegria</b> at the Cirque du Soleil. Woot!

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 1817
+layout: post
+title: The Car from Mars?
+date: 2007-09-08 00:22:29
+wordpress_url: http://www.arcanology.com/2007/09/08/the-car-from-mars/
+---
+Who says innovation in America is dead? <div align="center">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <lj-embed></lj-embed>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </div> The walking spider, courtesy of Burning Man.

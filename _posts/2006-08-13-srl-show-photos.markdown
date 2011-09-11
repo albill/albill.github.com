@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 1163
+layout: post
+title: SRL Show Photos
+date: 2006-08-13 01:45:38
+wordpress_url: http://www.arcanology.com/?p=1163
+---
+Laughing Squid has photos up on Flickr from the Survival Research Labs (SRL) show on Friday night in San Jose. This is the show from which I posted a camera video... 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <a href="http://www.flickr.com/photos/laughingsquid/sets/72157594233781723/">http://www.flickr.com/photos/laughingsquid/sets/72157594233781723/</a>

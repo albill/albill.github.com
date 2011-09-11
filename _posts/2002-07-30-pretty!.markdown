@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 900
+layout: post
+title: Pretty!
+date: 2002-07-30 21:29:00
+wordpress_url: http://www.arcanology.com/?p=900
+---
+I have this image on the status page I maintain for Parental Controls (which I'm the test lead for on MSN Explorer). Some people seem to find it disturbing but I don't know why... <img width="362" height="216" border="0" src="http://www.zhangzhung.net/lj/candyland-smaller.jpg" />

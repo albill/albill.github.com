@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1326
+layout: post
+title: The Ring
+date: 2003-03-26 02:57:00
+wordpress_url: http://www.arcanology.com/?p=1326
+---
+The Ring Bearer has discharged his duties to R.

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 650
+layout: post
+title: A Political Message...
+date: 2005-12-29 14:40:49
+wordpress_url: http://www.arcanology.com/?p=650
+---
+<div style="text-align: center">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <img title="Impeachment" alt="Impeachment" src="http://aclu.org/images/bushnixonwiretappingnytadsmall122905.jpg" />
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </div>

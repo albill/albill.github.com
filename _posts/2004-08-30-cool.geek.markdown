@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 221
+layout: post
+title: Cool.Geek
+date: 2004-08-30 23:04:43
+wordpress_url: http://www.arcanology.com/?p=221
+---
+I like these guys. <a href="http://www.carbondefense.org/">http://www.carbondefense.org/</a>
