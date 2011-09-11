@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 2035
+layout: post
+title: Matthieu Ricard on Happiness
+date: 2007-11-03 23:57:55
+wordpress_url: http://www.arcanology.com/2007/11/03/matthieu-ricard-on-happiness/
+---
+The <a href="http://www.ted.com/index.php/talks">Talks page</a> on the <a href="http://www.ted.com/">TED site</a> has a talk done by Matthieu Ricard in 2004 on happiness, its development, and generally the idea of developing habits of happiness and mind. Ricard is a former scientist who is now a Tibetan Buddhist monk. He has written several books, two of them are <a href="http://www.amazon.com/Quantum-Lotus-Journey-Frontiers-Buddhism/dp/1400080797/"><strong class="sans">The Quantum and the Lotus</strong></a><span class="sans"> and </span><strong class="sans"><a href="http://www.amazon.com/Happiness-Guide-Developing-Lifes-Important/dp/0316167258">Happiness: A Guide to Developing Life's Most Important Skill</a></strong>. The talk is obviously more focused on the areas of his second book. I found the video to be interesting in that it is a simple explanation of why the study of mental states is important, whether one is a Buddhist or not. I also think that he's a relatively engaging speaker. You can <a href="http://www.ted.com/index.php/talks/view/id/191">watch the video or download it</a> on the TED site. <lj-embed></lj-embed> There are many interesting talks available from the last few years of TED conferences. You can get an RSS feed of them for downloading in your favorite feed reader or itunes at http://feeds.feedburner.com/TEDTalks_video.

@@ -31,14 +31,14 @@ ul.posts span{color:#aaa;font-family:"Palatino","Book Antiqua","Helvetica Neue",
 /* Site
 /*
 /*****************************************************************************/
-.site{font-size:110%;text-align:justify;width:40em;margin:3em auto 2em auto;line-height:1.5em;}
+.site{font-size:110%;text-align:justify;width:50em;margin:3em auto 2em auto;line-height:1.5em;}
 .title{color:#fff;font-weight:bold;margin-bottom:2em;font-family:"Palatino",Helvetica,Arial,clean,sans-serif;}
 .site .title a{color:#fff;text-decoration:none;}
 .site .title a:hover{color:#B3B3B3;}
 .site .title a.extra{color:#fff;text-decoration:none;margin-left:1em;}
 .site .title a.extra:hover{color:#B3B3B3;}
 .site .meta{color:#aaa;}
-ul.vcard{display:none;}
+.vcard{display:none;}
 /*****************************************************************************/
 /*
 /* Posts

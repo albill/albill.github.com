@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 718
+layout: post
+title: Political Quote of the Day
+date: 2006-03-20 16:46:28
+wordpress_url: http://www.arcanology.com/?p=718
+---
+From moxiegrrrl.com: <blockquote>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "I would rather someone was wrapped in the Constitution burning the flag than wrapped in the flag burning the Constitution."
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </blockquote>

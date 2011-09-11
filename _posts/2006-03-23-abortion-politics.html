@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 719
+layout: post
+title: Abortion Politics
+date: 2006-03-23 19:57:34
+wordpress_url: http://www.arcanology.com/?p=719
+---
+This was shameslessly stolen via an online friend of mine: 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="http://www.arcanology.com/images/bill.jpg">http://www.arcanology.com/images/bill.jpg</a>
