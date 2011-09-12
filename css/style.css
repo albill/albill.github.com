@@ -31,7 +31,7 @@ ul.posts span{color:#aaa;font-family:"Palatino","Book Antiqua","Helvetica Neue",
 /* Site
 /*
 /*****************************************************************************/
-.site{font-size:110%;text-align:justify;width:50em;margin:3em auto 2em auto;line-height:1.5em;}
+.site{font-size:110%;text-align:justify;width:38em;margin:3em auto 2em auto;line-height:1.5em;}
 .title{color:#222;font-weight:bold;margin-bottom:2em;font-family:"Palatino",Helvetica,Arial,clean,sans-serif;}
 .site .title a{color:#222;text-decoration:none;}
 .site .title a:hover{color:#B3B3B3;}
