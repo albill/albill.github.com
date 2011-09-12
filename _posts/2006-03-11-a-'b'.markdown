@@ -1,8 +1,0 @@
---- 
-wordpress_id: 712
-layout: post
-title: A 'B'
-date: 2006-03-11 01:29:15
-wordpress_url: http://www.arcanology.com/?p=712
----
-Oh, and I got my second 'B' of my entire graduate work (and the last one was a 'B+'). My prof didn't like the way I didn't discuss the entire Symposium in his six page paper (which I pushed to seven as it was) along with Sophocles. Personally, I felt utterly constrained by the space requirements or I would have done so.

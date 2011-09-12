@@ -1,8 +1,0 @@
---- 
-wordpress_id: 2223
-layout: post
-title: Two Years!
-date: 2008-05-12 23:50:31
-wordpress_url: http://www.arcanology.com/?p=2223
----
-I realized today that it had been two years, to the day, since I quit Microsoft. In most ways, it doesn't seem like it has been quite that long but in others, it has. This means that we'll have been living in the Bay Area for two years next month as well. I still miss the trees, fog, and chilly rain though.

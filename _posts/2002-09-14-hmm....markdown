@@ -1,8 +1,0 @@
---- 
-wordpress_id: 950
-layout: post
-title: hmm...
-date: 2002-09-14 22:21:00
-wordpress_url: http://www.arcanology.com/?p=950
----
-<img width="330" height="445" src="http://homepage.mac.com/leperous/.Pictures/dissent.jpg" />

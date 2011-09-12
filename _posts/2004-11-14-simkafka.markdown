@@ -1,8 +1,0 @@
---- 
-wordpress_id: 285
-layout: post
-title: SimKafka
-date: 2004-11-14 20:49:07
-wordpress_url: http://www.arcanology.com/?p=285
----
-I found this earlier today via <a href="http://www.jwz.org">JWZ</a>. <a href="http://www.livejournal.com/users/nematoddity/133711.html">http://www.livejournal.com/users/nematoddity/133711.html</a>

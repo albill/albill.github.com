@@ -1,8 +1,0 @@
---- 
-wordpress_id: 636
-layout: post
-title: Tired
-date: 2005-12-15 03:15:07
-wordpress_url: http://www.arcanology.com/?p=636
----
-I'm tired. It's been a loooong evening. I am now a Master Mason in the Free and Accepted Masons of the Grand Lodge of Washington. I want to thank all of the brothers that attended, especially Ken, Josh, and Doug.

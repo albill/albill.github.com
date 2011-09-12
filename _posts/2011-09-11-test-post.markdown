@@ -1,0 +1,9 @@
+--- 
+layout: default
+title: A Test Post
+---
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5566086106/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5222/5566086106_54064d4eed.jpg" width="375" height="500" alt="" /></a><br>Feigning Holiness and Exuding Stillness</p>
+
+## Hi.
+
+This is a *test post*. I may be ignored.

@@ -1,8 +1,0 @@
---- 
-wordpress_id: 643
-layout: post
-title: Huzzah!
-date: 2005-12-20 19:48:45
-wordpress_url: http://www.arcanology.com/?p=643
----
-The Winter Solstice is tonight, sunset (4:19) to sunrise (7:54). The Solstice is upon us!!

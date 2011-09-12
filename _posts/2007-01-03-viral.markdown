@@ -1,8 +1,0 @@
---- 
-wordpress_id: 1508
-layout: post
-title: Viral
-date: 2007-01-03 19:18:42
-wordpress_url: http://www.arcanology.com/?p=1508
----
-I think I saw the doctor with the least developed bedside manner today. It's atrophied completely away. Because of my ongoing mild vertigo/ringing in ears/bleh feeling, I decided to do a walk-in at a clinic about a mile from my work today. After an hour and 15 minutes, I got to see the doctor for all of five minutes. His attendant (I won't say nurse) had taken my temperature, blood pressure, etc. already. All readings were normal. The doctor listened to my breathing and peered (painfully) into my ears. Everything looked and sounded disease free. His conclusion was, surprise, that my infection was not from bacteria but was viral. This means that there is no real medication for it (since antibiotics only work on bacteria) and I would need to wait it out. The symptoms of my vertigo (which are specific to head movement) and my ear ringing (uncommon but not rare) point to a viral infection in my inner ear. He assured me, with a complete lack of fervor, that it was "probably" get better in a few days, maybe a week. Sometimes it comes back after you get better for a while but not normally. When asked about the ringing, he said that it would probably go away as well (or not but most likely). I felt very reassured.

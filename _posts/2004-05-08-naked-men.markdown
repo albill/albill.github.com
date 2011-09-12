@@ -1,8 +1,0 @@
---- 
-wordpress_id: 99
-layout: post
-title: Naked Men
-date: 2004-05-08 15:09:00
-wordpress_url: http://www.arcanology.com/?p=99
----
-Via Warren Ellis, comics guy: <a href="http://www.codewolf.com/video/9naked.mov">http://www.codewolf.com/video/9naked.mov</a>. Not work safe.
