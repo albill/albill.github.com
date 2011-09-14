@@ -42,49 +42,37 @@
    <script type="text/javascript" src="/js/script.min.js"></script>
 </head>
 <body>
-  <img src="images/steampunk_manjushri-new.png" style="float:left;display:block;position:fixed;margin-left:20px;">
-<div class="site">
-  <!-- Header -->
-  <div class="title">
-    <a class="blogname" href=/index.html>Open Buddha</a><br>
-    <a class="extra" href="/about-me.html">About</a>
-    <a class="extra" href="contact.html">Contact</a>
-    <a class="extra" href="/resources.html">Resources</a>
-    <a class="extra" href="/what-is-open-source-buddhism.html">Open Source Buddhism</a>
-  </div>
-  
-  {{ content }}
-  
-  <hr/>
-  <!-- Footer -->
-  <div id="footer">
-    <p>
-      <a href="{{ base.url }}/about.html">Al Jigen Billings</a> is a Zen priest, QA Engineer, and hackerspace founder living in Oakland, California. You can follow me on <a href="http://twitter.com/openbuddha">Twitter</a>.
-    </p>
-  </div>
-  <!-- hCard -->
-  <div id="hcard-Al-Jigen-Billings" class="vcard">
-   <span class="fn n">
-      <span class="given-name">Al</span>
-    <span class="additional-name">Jigen</span>
-    <span class="family-name">Billings</span>
-  </span>
-   <a class="email" href="mailto:albill@openbuddha.com">albill@openbuddha.com</a>
-  </div>
-  <!-- Disqus code for X replies link -->
-  <script type="text/javascript">
-      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = '{{ site.albill }}'; // required: replace example with your forum shortname
-
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function () {
-          var s = document.createElement('script'); s.async = true;
-          s.type = 'text/javascript';
-          s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-      }());
-  </script>
-</div>
-</body>
-</html>
-
+    <div class='openyoucontainer'>
+      <div class='openyoupage'>
+	<div class='sidebar'>
+	  <div class='sidebar-header-image'>
+	    <a href='/'><IMG SRC='/images/steampunk-manjushri.png' /></a>
+	  </div>
+	  <div class='main-links'>
+	    <ul>
+	      <li><a href=/index.html>Open Buddha</a></li>
+	      <li><a href="/about-me.html">About</a></li>
+	      <li><a href="contact.html">Contact</a></li>
+	      <li><a href="/resources.html">Resources</a></li>
+              <li><a href="/what-is-open-source-buddhism.html">Open Source Buddhism</a></li>
+	    </ul>
+	  </div>
+	  <div class='sidebar-sub'>
+	    <H1>RSS</H1>
+	    <A HREF="http://feeds.feedburner.com/openbuddha"><IMG SRC="/images/rss2.png" /></A>
+	  </div>
+	  <div class='sidebar-sub'>
+	    <H1>TWITTER</H1>
+	    <A HREF="http://www.twitter.com/openbuddha">@openbuddha on twitter</A><BR/>
+	  </div>
+	</div>
+	<div class='content'>
+	  {{content}}
+	</div>
+      </div>
+	<div class='copyright'>
+	  <p>Copyright 2011 <A HREF='http://www.openbuddha.com'>Al Billings</A> - Logo by <a href="http://thekamikazen.com/">The KamikaZEN</a></p>
+	</div>
+    </div>
+  </BODY>
+</HTML>
