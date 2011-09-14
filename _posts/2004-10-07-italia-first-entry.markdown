@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Italia - First Entry
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+First Entry from Italy and I'm on a freakin' Italian keyboard so you'll have to bear with the occasional typographical errors.
+
+We left Monday morning from Seattle and took a flight to JFK in New York and, from there, took the daily flight to Milan. Local time in Milan when we landed was about 10 am, which is nine hours ahead. Needless to say, we were a bit jet lagged. 
+
+Milan has a nice train system from the airport, which is about 50km outside of town, into the central part of the city. We rode in and then, with a little luck, found the "hotel" that I'd scoped out from our guidebook. It was about three blocks from the piazza del duomo where the cathedral is. It was clean but a little bit of a dive despite my hopes. Ah well. Milan! 
+
+We quickly checked in and went exploring for a bit. Milan isn't too hard to get around in and we eventually wandered to the piazza and did a tour of the cathedral. It is the fourth largest in the world and I must say that it is very impressive inside, especially when you consider how long it has been standing. The pillars holding up the roof are at least ten or twelve feet thick and the whole thing is immense and cavernous. I took some pictues of some of the art (statues and shrines) but it is also a functioning cathredral so we had to keep it down. 
+
+The guard at the door was amusing. He spoke English and, as he went through our bags, asked if we had any bombs or similar for him. He was from one of the national police agencies and seemed a bit bored...
+
+We took a long nap (jet lag!) and went out for a nice dinner. Milan was just a one day trip for us as we are really looking forward to Venice, Florence and Rome the most. Needless to say, we went to bed early...
+
+In the morning, we had a quick breakfast and took the Metro to the train station, which is immense and looks like some fascist's wet dream of modernized Imperial Rome. I liked the architecture quite a bit though. At 9:00 am, we caught the express to Venice.

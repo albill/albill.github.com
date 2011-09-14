@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: WWAD?
+published: true
+meta: {}
+
+tags: 
+- Esoteric
+- Humor
+type: post
+status: publish
+---
+<img border="1" src="http://sixsixfive.com/anubis.gif" />

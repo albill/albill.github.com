@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: It had to happen...
+published: true
+meta: {}
+
+tags: 
+- Society
+type: post
+status: publish
+---
+<a href="http://www.anarcho-transhumanism.com/">http://www.anarcho-transhumanism.com/</a>
+
+Anarchism: The political theory that aims to create a society absent of all forms of authority, particularly those involving domination and exploitation.
+	
+Transhumanism: The cultural movement that affirms the desirability of fundamentally altering the human condition through applied science and technology.
+Anarcho-Transhumanism stands for:<ul><li>Political Freedom: Against the tyranny of government.</li><li>Economic Freedom: Against the tyranny of capitalism.</li><li>Biological Freedom: Against the tyranny of genes.</li></ul>	
+Anarcho-Transhumanism is not:
+Libertarian: It does not believe in free-market fantasies.
+Extropian: It does not believe in optimistic futurism.

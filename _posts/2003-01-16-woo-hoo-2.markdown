@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Woo hoo!
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+My corporate master&apos;s announced a stock split today. Even with reduced expectations, it&apos;s probably a very good thing.

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Update on Operation Papertrail
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+R and I are at a hotel in Denver. Let me tell you, Denver is not a place I  plan to visit again. It is easy to get around as the streets are in a grid but  it is all brown and pretty ugly. I wouldn't want to live here.
+
+Tonight, we closed down my dad's apartment. R and I (especially R) cleaned  out and got rid of a lot of the junk in there. We sold a few items (like his TV)  to neighbors and gave quite a bit of stuff away, especially his stack after  stack of soda and cat supplies.
+
+The mystery of my dad's missing cat has been solved as well. Dad originally  (a year or so ago) had a grey tabby that had run off when he stopped by the side  of a middle of nowhere road in Wyoming. He couldn't find it again and he was  pretty upset about it. To replace it, he got a new cat. He'd just had it fixed  and it generally traveled with him. I was told by the admitting nurse that he  had the cat when he was in the hospital in Casper, Wyoming a week before he  died. (He'd been traveling slowly and a state trooper thought he seemed a bit  loopy and forced my dad to either let them do blood tests and admit him or have  him committed. It turned out that he had a near lethal lack of sodium at the  time so it was a good thing.) When Lou was found dead, the cat was not with him.  Family kept asking me this week if I'd found the cat. While receiving a phone  call from the hospital when they were looking to settle the bill, the lady on  the other end said she'd check the two places in Casper for me as a favor. I'd  mentioned it to her as a puzzle since I thought that she might be able to ask  the nurse. It turns out that the nurse took his cat to the local animal shelter  for him (temporarily) but when he'd gotten out, he had insisted that the cat  they brought to him was not his cat and that his cat was a grey tabby... It  turns out that his new cat was a Siamese and it matched what I knew about his  pet. I think he was not thinking straight and was looking for his old cat. I  spoke to the shelter today and to the woman that had been on the receiving end  of his verbal expression of unhappiness. She's going to see that the cat is  adopted out and she doesn't think it will be a problem as he's young, in good  health, and sweet. One mystery solved.
+
+I still have not found any of my dad's deeds or titles except for the car  that he bought while living in Denver. His Denver safe deposit box is completely  empty. It turns out that he has one in the town with the storefront that he owns  but he hasn't been in it in months. He should have brought some papers back from  Thanksgiving in Seattle but I can't figure out where they are. Upton, where the  storefront is located, is about 50 miles from Gillette, Wyoming. It turns out  that you can fly from Seattle to Denver and then to Gillette. It looks like I'll  have to go to that place in person and give it a search along with visiting the  bank there.
+
+The other town where he owned two two bedroom houses and one one bedroom  house is 400 miles away from there. Apparently, he visited both places after  Thanksgiving, but the houses are rented out so the only place anything could be  there would be one of the banks. He just moved a renter in over the phone a  couple of days before he died but no papers nor money had been exchanged yet.  One of the other houses has a renter planning on bolting for another state,  according to my grandpa. I've been in contact with a realty agency in town there  that has managed properties for my grandfather and they are willing to manage  the places for 15% of the rent. Total rent is probably about $1,100 a month so I  can deal with that. My grandfather would like to buy the properties but he has  to work it out with my step-grandmother. Another fellow, whom my dad knew and my  grandfather knows, wants to buy the storefront and he offered my dad his asking  price before. My dad then jacked it up $5,000 and the guy backed out. If he's  still interested, I'll be selling it but I have to reconnoiter the place in  person first.
+
+My dad was one of these paranoid types who liked to hide things in various  places so I'll have to check all of the banks in the areas of both towns and  Gillette for accounts opened by him. Apparently his mother was the same way  (which leave me little hope). It would have been nice if he'd left me a pirate  map. There is some thought that there might be a bit of money squirreled away  somewhere but it might just be a story too.
+
+I met with my lawyer in Denver today and signed papers so I should have all  of the legal matters taken care of in the next couple of weeks. R and I will be  back in Seattle mid-Saturday.

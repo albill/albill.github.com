@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Toys
+published: true
+meta: 
+  ljID: "2384"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+tags: 
+- Buddhism
+type: post
+status: publish
+---
+The Japanese will make a cute little plastic toy out of anything.
+
+Here is <a href="http://www.onmarkproductions.com/html/dainichi.shtml">Dainichi Nyorai</a> as a toy:
+<p align="center"><a href="http://www.flickr.com/photos/albill/372855847/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/163/372855847_c13f7f8c74.jpg" alt="Dainichi Nyorai Toy" border="1" height="500" width="297" /></a></p>

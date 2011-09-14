@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Happy Beltane
+published: true
+meta: {}
+
+tags: 
+- Esoteric
+type: post
+status: publish
+---
+Yesterday, R and I went out to Marc and Nef's place for the 10th anniversary of their Beltane gatherings. They have about three acres about half an hour from where we live. We got there around 8:30 or so and there was the largest group I've seen there in the few years that I've been going. We hung out with a bunch of people, drank a bit, hung out a bit more, and, at midnight, burned a more-than-life-size wicker man on the bonfire. It was the nicest that it has been in years. Usually it is a bit damp and rainy on May 1 around here.
+
+Today, I woke up late after sleeping off the evening, puttered around the house for a while, and did a little work via remote to take care of some issues. Later on, R and I went and saw <strong>Hellboy</strong>, which we enjoyed in a low-key way, and then went out to dinner for Thai food.
+
+<a href="http://kenmacleod.blogspot.com/2004_05_01_kenmacleod_archive.html#108349309892487667">This</a> is an interesting post by Ken McLeod, the well known, rather Left, science-fiction writer.
+
+I can identify with what he's saying though I was never quite the political agitator that he was in his youth. It reminds me of some thoughts that I had while finishing the last volume of <strong>The Invisibles</strong> this weekend. There is no enemy. We are the enemy and they are us. For all of us that railed against the system when we were younger, how many of us realized that we either were or would become the system? The really funny part is most people, as I recall, that had an idea that they might become the system always thought of it as a whole-hearted embrace. "Yeah, I'll be like those guys that were hippies in the 60's and then successful Wall Street brokers if it comes to it. Ah well, at least I'll be rich and happy." McLeod's post reminds me, as does <strong>The Invisibles</strong>, that many, if not most, people who find themselves co-opted by life and just getting by probably have never fully bought into it consciously, it just kind of happened to them. You wake up one day and you have a career, a mortgage, a wife, kids...Where did the the wild dreams go?
+
+Of course, on the other hand, let's not glorify not having any of these things and being career-less, lacking in ties or some of the trappings of success. Sure, they aren't everything that the lies on TV and in school make them out to be but they aren't all bad either. Part of the reason that I wound up in the career and place I'm in was when I was 20 or 21, I had friends who were a decade or more older than me and we were all doing the same pointless jobs going nowhere. The difference was that I was in school and they were just working. I promised myself then that I wouldn't be doing that kind of pointless office job a decade later and it came to pass that I have not. I have some measure of success. The downside, of course, is that you find that it doesn't necessarily make your life meaningful or make you happy, you have to do that on your own and figure it out.

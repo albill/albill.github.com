@@ -1,0 +1,47 @@
+--- 
+layout: post
+title: Water Magic
+published: true
+meta: {}
+
+tags: 
+- Science Fiction
+type: post
+status: publish
+---
+<p>A quiet day. I went to Home Depot and bought a sump pump to replace the one 
+that melted itself to slag (and the cables attached to it) during the last rainy 
+season. I was informed that anything that restricts water flow is &quot;bad&quot; and is 
+probably the reason for the melting behavior. I bought 30 feet of 1 1/2&quot; 
+flexible PVC piping to go with it. Turns out that I need 15 feet more. When I 
+have these, I&#39;ll be able to reach the street, which is really where water should 
+go rather than the middle of my back yard when leaving the pump... (For those 
+that don&#39;t know, some genius who owned my house buried pipe that drains the 
+water from three of my gutter spouts to a sump pit near the decommissioned pool 
+in the back yard.&nbsp; The problem is that the pump then pump the water to a 
+random spot about 15 feet away, which is as far as the loose hose from it 
+stretched...) I&#39;ll probably use the pump to finish draining what is left of the 
+pool. At least when the rain comes, I know my back yard should be fine. 
+Installing the whole thing went relatively well also.</p>
+<p>Later on, R and I went to my friend John&#39;s BBQ party and hung out for a few 
+people. Only one other coworker was present and we attempted to talk about 
+non-computer topics. I think we mostly succeeded. I did walk into one of those 
+conversations that no man should when I wandered by a group of the female 
+guests.</p>
+<p>On a different note, I found an online index of writers, many science fiction 
+writers, online at
+<a href="http://trashotron.com/agony/indexes/audio_interview_index.htm">
+http://trashotron.com/agony/indexes/audio_interview_index.htm</a>. I just 
+listened to the interview with Alastair Reynolds, one of my favorite writers 
+from the U.K. I downloaded the China Mieville one, which is what I was sent to 
+the site to get. </p>
+<p>As part of the same site, I found a fairly good interview with one of my 
+other favorite British authors, Ian McDonald, at
+<a href="http://trashotron.com/agony/columns/2004/08-23-04.htm">
+http://trashotron.com/agony/columns/2004/08-23-04.htm</a>. I recently picked up 
+(actually, I imported it from England) his new novel, <b>
+<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0743256700/">River of Gods</a></b>, 
+and it is going to be one of the next things I read. I&#39;m quite fond of his <i>
+Chaga</i> stories. River of Gods is one of the few science fiction novels set in 
+India which, as Ian points out in the column above, is amazingly ignored for a 
+functioning democracy with a billion people that speak English...</p>

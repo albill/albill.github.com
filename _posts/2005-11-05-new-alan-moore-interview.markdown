@@ -1,0 +1,144 @@
+--- 
+layout: post
+title: New Alan Moore Interview
+published: true
+meta: {}
+
+tags: 
+- Notable People
+type: post
+status: publish
+---
+<p>From <a href="http://enjoyment.independent.co.uk/books/interviews/article324487.ece">http://enjoyment.independent.co.uk/books/interviews/article324487.ece</a></p>
+<h2>Alan Moore: Could it be magic? <span class="starrating"></span></h2>
+<h3>Hollywood may love Alan Moore, but the cult graphic novelist sets his 
+artistic sights higher. Roz Kaveney talks to him about Kabbala, comics and 
+consciousness </h3>
+<h4>Published:&nbsp;04 November 2005 </h4>
+<p>Northampton is one of those towns in the heart of England, up the line from 
+Berkhamsted and Milton Keynes, that seem ordinary until you know their history. 
+The first Parliament was declared here, and the neighbourhood was the location 
+of crucial battles in both the Wars of the Roses and the Civil War. It is the 
+sort of quiet, extraordinary place where the flowing hair and beard of Alan 
+Moore pass unremarked. He has always lived there, and they don&#39;t notice him any 
+more. </p>
+<p>Moore has changed the face of graphic novels, so that we hardly talk about 
+&quot;comics&quot; any more, but that, luckily, does not make him a celebrity. &quot;It means 
+nothing if a million people know your name,&quot; he says. &quot;I didn&#39;t sign up for 
+that.&quot; One of the many themes which have permeated his work since he first 
+started to be noticed for his issues of DC Comics <i>Swamp Thing</i> in the 
+early 1980s is his distaste for the way the mass media turn sometimes quite 
+ordinary people into celebrities, &quot;fuel rods for the Murdoch empire&quot;, then spit 
+them out as drug-addicted or merely boring, only to rediscover them years later 
+as ironic icons. The work is what is important: if Moore&#39;s name is something 
+that the industry uses to shift product, that is because <i>Watchmen</i>, <i>V 
+for Vendetta</i>, <i>From Hell</i>, <i>The League of Extraordinary Gentlemen</i> 
+and all the rest are outstanding, inventive pieces of work.</p>
+<p>His house is just one of a long brick terrace; inside, it is blue and starry. 
+His bath is on a Hollywood scale: a friend who works in fibre-glass got on the 
+wrong side of the local heavies, and Moore settled his debt and took it out in 
+trade. This is the house of a working writer; cases of editions of his work 
+litter the office floor. It is also the home of a working magician, decorated 
+with ritual wands from the Golden Dawn, falcon masks and the haunting art of the 
+occultist Austin Osman Spare. This makes for an appropriately strange setting 
+for the recluse whom Iain Sinclair has described as &quot;the last sane man in 
+England&quot;.</p>
+<p>&quot;Magic and Art are the same,&quot; he affirms. &quot;Which is why Magic is referred to 
+as The Great Art. They are both technologies of Will, both about pulling rabbits 
+out of hats and creating something where there was nothing.&quot; Moore and the 
+artist J H Williams have just published the fifth and final volume of <i>
+Promethea </i>(America&#39;s Best Comics/Titan, £24.99), which is partly a superhero 
+comic about a young woman coming into mystic power at the end of the second 
+millennium, and partly a course of instruction in magic and the occult. It is 
+funny and exciting, and somehow you don&#39;t feel quite the same after reading it; 
+it&#39;s a book that leaves you with a sense of the connectedness of things. A 
+bestselling piece of commercial art, <i>Promethea</i> is also as much Moore&#39;s 
+grimoire as the two CDs of his ritual performances, <i>The Highbury Working</i> 
+and <i>Snakes and Ladders</i>.</p> <lj-cut text="Read the rest...">
+<p>&quot;Books of magic are always written in high metaphor,&quot; he explains. &quot;They are 
+about our relationship to consciousness and how we construe it.&quot; Consciousness 
+is the hole in rationalism. You cannot reproduce it in a laboratory, which is 
+why some rationalist philosophers like Dan Dennett try to deny the shared 
+experience of knowing that there is a &quot;how&quot; to how we feel. For Moore, magic is 
+a way of breaking the paradigm, of making sense of our lives as we live them.</p>
+<p>He is distrustful of many things about magic and the occult: &quot;When I talk 
+about Kabbala, it is a coherent system for organising our understanding of 
+things and the connections between them, not wearing a red string on your wrist 
+or drinking expensive bottled water.&quot; One of the most beautiful sections of <i>
+Promethea</i> is a prolonged wander through the Sephirothim, the realms of 
+reality described by the Kabbala, which are cognate with the planets of 
+non-predictive astrology and with the effects of colour on our moods. Thus, one 
+issue is largely green and discusses that oceanic feeling of belonging and being 
+nurtured that is associated with Venus; it is also Williams&#39;s tribute to the 
+swirly softness of Alphonse Mucha and much Underground art of the 1960s.</p>
+<p><i>Promethea</i> was also about setting himself and Williams challenges. 
+After the episode in which they had presented the history of the world as a 
+tarot deck, it had to be a matter of ever-escalating virtuoso explorations of 
+different styles of comics and of occult art. The last issue, for example, in 
+which everything we have learned about magic is recapitulated, is designed both 
+page by page, and to fold out as two large posters of Promethea.</p>
+<p>&quot;One of the problems with the occult is the vested interest of most 
+occultists in obfuscation,&quot; says Moore. &quot;They sell the possibilities of magic 
+short and lose touch with reality.&quot; In <i>Promethea</i>, partly because it is 
+also a high-octane story about the misunderstood Sophie Bangs (whom the FBI are 
+chasing for fear that she will destroy the world), Moore is free to talk more or 
+less clearly about what, for example, the end of the world means. As Promethea, 
+Sophie does, in a sense, end the world; she makes everyone see things in a new 
+light: &quot;It was always going to be a book about Apocalypse. Then issue 17, which 
+had as its teaser for the next issue Panic in Manhattan, Hell on Earth, appeared 
+in mid- September 2001.&quot;</p>
+<p><i>Promethea</i> is only one, though perhaps the most interesting, of the 
+projects Moore has been doing for his imprint America&#39;s Best Comics. There is <i>
+Tom Strong</i>, with its deliberate evocation of a more innocent era of chunky, 
+brilliant heroes who make peace with menaces as often as they fight them. There 
+is <i>The League of Extraordinary Gentlemen</i>, a piece of cynical Victoriana 
+in which Alan Quartermain, Mina Harker, Captain Nemo, Mr Hyde and the Invisible 
+Man join forces against Chinese warlords and Martian invaders, and there is the 
+sardonic anthology series, <i>Terrific Tales</i>.</p>
+<p>My personal favourite is <i>Top Ten</i> and its just-published prequel <i>The 
+49ers</i>, which are smart, humane and funny, but also a nuanced meditation on 
+the &quot;heroic&quot; part of the concept of the superhero. They are, effectively, a 
+version of <i>The Bill</i> or <i>Hill Street Blues</i> set in Neopolis, where 
+everyone is a superhero, a robot, a vampire or a god. &quot;I had been thinking about 
+why superhero team-up comics almost never work,&quot; says Moore, &quot;and I think it is 
+because you have to set your team against ever-escalating menaces. And I had 
+been thinking about the ensemble in cop shows.&quot;</p>
+<p>This is, quite possibly, one of Alan Moore&#39;s swansongs in the traditional 
+comics industry. Gerald Jonas in his book <i>Men of Tomorrow</i> documented the 
+way that the creators of comics&#39; most enduring icons - Superman and Batman - 
+were cheated by businessmen who had a more than passing association with the 
+Mafia. Things may have changed, but not enough. &quot;Proper grown-up writers have a 
+moral right to their work - it says so right there on the page,&quot; says Moore.</p>
+<p>Specifically, he hates the way that many of his colleagues get excited when a 
+wonderful comic book gets turned into a worthless movie franchise. He is in the 
+process of severing his links with DC as a result of a press release which said 
+that he was enthusiastic about the forthcoming film of <i>V for Vendetta</i>. On 
+the contrary, &quot;I have made it clear that I want nothing to do with films of my 
+work. I don&#39;t want my name on them and I insist that the money go to other 
+creators.&quot;</p>
+<p>In 2006, Moore and his partner Melinda Gebbie will be publishing <i>Lost 
+Girls</i>, a graphic novel that explores the erotic and the pornographic; it is 
+startling and innovative, and the artwork is quite remarkably beautiful.</p>
+<p>In the summer of 1914, at a spa in Austria, three women of varying ages meet, 
+and talk about their sexual awakenings. Since the three women in question are 
+Alice, Wendy and Dorothy - the protagonists of three of the most metaphor-rich 
+children&#39;s books of literary history - their conversations stray into some weird 
+and wonderful territory. &quot;Why can&#39;t a pornographic graphic novel be as fine as 
+anything in the field, and still be sexy?&quot; Moore asks. For all his disillusion 
+with the actual industry, Alan Moore is as in love as ever with the wonderful 
+possibilities of hybrid comics to do things that no other art form can manage.</p>
+<p><b>Biography</b></p>
+<p>Alan Moore was born in 1953 in Northampton, where he still lives. In the 
+1970s he co-founded an underground magazine, <i>Embryo</i>. He came to 
+prominence as a comics writer with the dystopian <i>V for Vendetta</i> (1982). 
+Working for DC Comics in the 1980s, he created <i>Swamp Thing</i> and <i>
+Watchmen</i>. In 1988, <i>Watchmen</i> became the first graphic work to win a 
+Hugo science-fiction award. He also contributed influential new stories for <i>
+Batman</i> and <i>Superman</i>. After 1988, Moore worked for small companies, 
+producing graphic novels such as <i>From Hell</i>. Moore now has his own 
+imprint, America&#39;s Best Comics, a vehicle for series such as <i>The League of 
+Extraordinary Gentlemen</i> and <i>Promethea</i>, the final volume of which has 
+just appeared. Adaptations of his work include the films of <i>From Hell</i> and
+<i>The League of Extraordinary Gentlemen</i>, with a film of <i>V for Vendetta</i> 
+due next year. In 2006, Moore and his partner, Melinda Gebbie, will publish 
+their erotic graphic novel, <i>Lost Girls</i>. </p>

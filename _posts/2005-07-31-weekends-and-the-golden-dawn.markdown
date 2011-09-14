@@ -1,0 +1,56 @@
+--- 
+layout: post
+title: Weekends and the Golden Dawn
+published: true
+meta: {}
+
+tags: 
+- Academic
+- Daily Life
+type: post
+status: publish
+---
+<p>It's been a busy few days. On Thursday, after all day management training at 
+work, I went shooting with my friend, Tim, at the local gun range. He has a 
+Glock 19 and I've been considering picking one up. It's a pretty solid 9mm. He 
+suggested that we go shoot his so I could get a feel for it. The net result is 
+that I realized that I really need to get a left-handed model (I'm left-handed) 
+or an ambidextrous pistol so R can shoot it easily as well. Shooting right 
+handed pistols always gets old quickly.</p>
+<p>Yesterday, R and I had friends over for the continuing series of somatic 
+workings with the four elements that my friend, Richard, is teaching us on a 
+monthly basis. This was the final form of the Work of Earth, some discussion 
+about how it works (or doesn't) and then some discussion of the Work of Air. I 
+jokingly referred to it as the Taoist Golden Dawn but I know that Richard's 
+ideas flow from two key sources (followed by his own powers of insight):</p>
+<ol>
+	<li>Close study of as much of the original Golden Dawn material as possible. 
+	This followed by heavy working of the material. (He did quite a bit of this 
+	when a lot of other material wasn't available.)</li>
+	<li>Application of points of view and ideas derived from his close contact 
+	with Taoism, Tai Chi, and Taoist practices in general over the last 20 
+	years.</li>
+</ol>
+<p>This isn't to say that he's modifying Golden Dawn practices to fit Taoist 
+patterns. Rather, from the perspective that he's gained through both close study 
+and heavy work in a non-Western tradition, he's noticed things that many people 
+either seem to miss, gloss over or find unimportant. I really wished I'd taped 
+the discussion that he had with us because, as always, it is a lot to take in.
+</p>
+<p>We should be seeing him within a month or so to be introduced to the Work of 
+Water practice.</p>
+<p>After this, R and I went to Thai Kitchen in Bellevue/Redmond (which she'd 
+never gone to before). This is one of the oldest of the local Thai restaurants 
+and is quite good. After this, we went and saw <b>Charlie and the Chocolate 
+Factory</b>. We both <b><i>loved</i></b> it. It was fun, endearing, and 
+occasionally a bit disturbing (looking at it as a children's movie). We laughed 
+uncontrollably during the various songs (not to mention the squirrels!). </p>
+<p>Today, I was supposed to get started on my paper but I wasn't feeling 
+enthused so we watched the original Chinese version of <b>Shaolin Soccer</b>. R 
+hadn't heard about this one and I didn't know what to expect. It was very 
+amusing in a Chinese sort of way. I especially liked the spontaneous singing and 
+dancing amongst the citizens.</p>
+<p>I'm currently still working my way through Dan Simmons' <b>Illium</b> on the 
+fiction front. Beyond that, I am reading <b>The Craft of Research</b> to try to 
+figure out my thesis work. I'd be outside mowing and such but I think I'll wait 
+until twilight to do it. It's too damn hot.</p>

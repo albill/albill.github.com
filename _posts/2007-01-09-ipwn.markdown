@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: iPwn
+published: true
+meta: 
+  ljID: "2358"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+tags: 
+- Technology
+type: post
+status: publish
+---
+Ok, as much as I've bitched about Apple lately, I have to admit that their new phone is incredibly sexy looking.
+
+<img src="http://www.arcanology.com/images/ipwn.jpg" border="1" />
+
+I use a Sprint 6700 PocketPC phone. I like it quite a bit but it is a brick and a functional device. Sometimes not even that functional. The new Apple phone actually runs OS X, has Wifi, and 8GB of storage. Who can complain about that?
+
+See details of today's speech at <a href="http://gaming.engadget.com/2007/01/09/live-from-macworld-2007-steve-jobs-keynote/">Engadget</a>.

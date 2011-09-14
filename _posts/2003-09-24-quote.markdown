@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Quote...
+published: true
+meta: 
+  ljID: "2818"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+  no_lj: "1"
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+<blockquote>He tasks me; he heaps me; I see in him outrageous strength, with an inscrutable malice sinewing it. That inscrutable thing is chiefly what I hate; and be the white whale agent, or be the white whale principal, I will wreak that hate upon him. Talk not to me of blasphemy, man; I'd strike the sun if it insulted me.
+</blockquote>
+— Moby Dick

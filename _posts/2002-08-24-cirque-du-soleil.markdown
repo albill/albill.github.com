@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Cirque Du Soleil
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+R and I went to Cirque Du Soleil this evening (well, yesterday now but I haven&apos;t gone to bed yet). We wound up getting there about an hour early because I had planned for traffic and got to hang out at the expensive beer garden for a while. I have a feeling that they make as much on the concession stand as on anything else. ;-)
+
+The show was "Dralion" and it was pretty good. I can safely say that I&apos;ve never seen anything like it in person before. I wasn&apos;t quite as blown away as some people as I&apos;ve seen people doing many of the same tricks (though not the acrobatics) in the last year or so of hanging out with the Cabiri. I suffer from gear envy though. They&apos;ve got a lot of obviously cool equipment. I&apos;m sure  and J were salivating over their aerial gear and harnesses.
+
+
+The best trick they pulled on everyone is that since they are well known for picking on poor audience members, no one thought twice when the clowns at the opening and various points kept singling out this one guy. He was 40ish, dressed well and clean cut. I had him pegged as some kind of management yuppie. They got him when he was trying to sit down and one of the clowns led him all over the place with him being a good sport. Shortly after that, they dragged him on stage to read part of the opening safety instructions, stole his wallet and generally teased him. He seemed a bit klutzy and kept laughing at himself. He acted about as fumbly, confused but trying to be good natured as you&apos;d expect an audience member to be during it all. Later on, the clowns dragged him on stage again and while getting him to mime things with them, stole his shoe. He got his shoe back but in a really smooth seeming move, one of the clowns pulled his shirt off while he was bent over and taunted him with it. After much back and forth and stumbling about, the guy seemed to be losing his cool a little bit and then suddenly he does this spinning kick and jump thing and then a back flip... oops, <b>RINGER!</b> He bows with the clown and runs off stage with him. This had been going on and off for probably an hour. When things got slow, the clowns came out, did games and funny stuff and every now and then they picked on this guy. As R pointed out, the only slight giveaway is that when he read from the card early on, he was obviously not a native English speaker. He did a great job of seeming not terribly adept, at being a little clumsy with things and not terribly comfortable on stage. I was taken and impressed. Later on, he was on with the clowns in a couple of pieces and it was pretty clear that he was a clown and an acrobat too so it really was an act. They did this whole piece near the end that was a parody of pieces that we&apos;d seen earlier, including mocking trapeze work and dance.
+
+The other really cool thing (and there were many cool things in the show) was one of the final trapeze acts. There was a man and woman pair in blue that descended from the aerial staging area above and did work together with the form of trapeze that is two guazy pieces of cloth (anyone?). They were obviously a paired act and did an incredible job working together as a team on the one pair of cloth pieces. Lots of spinning hanging, hanging from each other, flying around the stage together, etc. They did some fast moving work over 40 feet off the ground and I noticed that, unlike many of the other performers, neither was wearing a safety line. Here is this guy hanging free from the woman, who was anchored in the trapeze, with just the two of them grasping wrists to keep himself from falling. He then swung from her with just one arm to arm connection between the two of them. I&apos;m impressed by skillful work 40+ feet up with no safety equipment and everything resting on one handhold with another person. They were good. 
+
+The acrobats were good. I have a feeling that they recruited from Chinese wu shu schools someplace as a lot of the acrobatics were in a similar fashion to the wu shu demonstrations/performances I&apos;ve seen (but with a lot more people and a lot more intense) and all of the male and female acrobats, with a few exceptions, were obviously Chinese.
+
+The outfits on the singers did remind R and I of 70s David Bowie though.

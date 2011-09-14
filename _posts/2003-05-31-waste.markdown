@@ -1,0 +1,41 @@
+--- 
+layout: post
+title: WASTE
+published: true
+meta: {}
+
+tags: 
+- Technology
+type: post
+status: publish
+---
+So, our old friends at Nullsoft (original developers of Gnutella) have done it again. They created an encrypting file-sharing utility that allows you to set up private networks amongst your friends (and only your friends) that are truly private.
+
+Of course, AOL Time Warner is their parent company and when they got wind that they had posted this as a free program on the web, it got yanked in less than a day. Luckily, that was enough time for people to grab it <strong>and</strong> they had made source available...
+
+I'm not using it at the moment but I do have it installed and am saving the source.
+
+There is an article at <a href="http://www.infoanarchy.org/story/2003/5/29/162732/294">http://www.infoanarchy.org/story/2003/5/29/162732/294</a> on InfoAnarchy, my new favorite site.
+
+There is another site at <a href="http://www.dhorrocks2003.pwp.blueyonder.co.uk/">http://www.dhorrocks2003.pwp.blueyonder.co.uk/</a>.
+<blockquote><em>WASTE is a software product and protocol that enables secure distributed communication for small (on the order of 10-50 nodes) trusted groups of users. </em><em>WASTE is designed to enable small companies and small teams within larger companies to easily communicate and collaborate in a secure and efficient fashion, independent of physical network topology. </em>
+
+<em>Some bits of information about WASTE: </em>
+<ul>
+	<li><em>WASTE is currently available for 32-bit Windows operating systems, and as a limited functionality server for FreeBSD and MacOS X. Porting to other operating systems should be a breeze, as the source is provided (and the network code itself is pretty portable). </em></li>
+	<li><em>WASTE is licensed under the <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>. </em></li>
+	<li><em>WASTE currently provides the following services: </em>
+<ul>
+	<li><em>Instant Messaging (with presence) </em></li>
+	<li><em>Group Chat </em></li>
+	<li><em>File browsing/searching </em></li>
+	<li><em>File transfer (upload and download) </em></li>
+</ul>
+</li>
+	<li><em>Network architecture: WASTE uses a distributed architecture that allows for nodes to connect in a partial mesh type network. Nodes on the network can broadcast and route traffic. Nodes that are not publicly accessible or on slow links can choose not to route traffic. This network is built such that all services utilize the network, so firewall issues become moot. </em></li>
+	<li><em>Security: WASTE uses link-level encryption to secure links, and public keys for authentication. RSA is used for session key exchange and authentication, and the links are encrypted using Blowfish in PCBC mode. The automatic key distribution security model is very primitive at the moment, and may not lend itself well to some social situations. </em></li>
+</ul>
+</blockquote>
+Client is available at <a href="http://www.str8dog.com/?f=32&m=253">http://www.str8dog.com/?f=32&m=253</a>. It will prompt you for the wrong file name but if you rename it as "waste-setup.exe", it works fine.
+
+Source is at <a href="http://www.str8dog.com/?f=32&m=301">http://www.str8dog.com/?f=32&m=301</a> or at <a href="http://cyber.law.harvard.edu/blogs/gems/home/waste.zip">http://cyber.law.harvard.edu/blogs/gems/home/waste.zip</a>.

@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: heh
+published: true
+meta: 
+  no_lj: "1"
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+<img width="374" vspace="10" hspace="10" height="282" border="1" src="http://www.arcanology.com/images/al-r-web.jpg" />
+Just for the record, I love R very much!!!

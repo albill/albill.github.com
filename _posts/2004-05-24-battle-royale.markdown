@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Battle Royale
+published: true
+meta: 
+  no_lj: "1"
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+<p>R and I watched <b><a href="http://www.mandiapple.com/snowblood/battleroyale.htm">Battle Royale</a></b> this evening. Think of a Japanese combination of <b>Lord of the Flies</b>, <b>The Most Dangerous Game</b>, and <b>Survivor</b> and you get the general idea. We had rented this at Scarecrow Video the other day along with <b><a href="http://www.imdb.com/title/tt0104029/">Cronos</a></b>, which I had been waiting to see for a while.</p><p>I actually liked Battle Royale quite a bit. There's nothing like watching Japanese schoolkids attack each other with weapons to make an evening. heh. I didn't know Beat Takeshi was in it or I wouldn't have picked it since R hasn't enjoyed the last few movies I've rented with him either. He did a good job though and it was an amusing role.</p><p>Cronos was good though a mixed bag. I don't think R liked it as much because it wasn't a very tidy story in some ways. I had no idea that Ron Perlman was in it. The bits with the grandfather and daughter were nice and the device itself was fairly cool. I thought the story was ambiguous enough to keep things interesting. If they tried to cover all of the potential parts of the story and make it more complete, I don't think there is any way the movie could have been what it was. The budget would definitely have gone through the roof.</p><p>I suppose that R and I will need to go to Scarecrow more often. It's a ways away but they do have the best movie selection in the Seattle area and have all of the foreign films that we like.</p><p>I'll probably be having coffee with <lj user="Rubylou"> tomorrow night, which will be nice. We've been hanging out a bit more often this recently and she's one of the few people, along with R, that I feel that I can truly talk to and be 
+understood.</p>

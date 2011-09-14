@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Hats
+published: true
+meta: 
+  ljID: "2254"
+tags: 
+- Daily Life
+- Humor
+type: post
+status: publish
+---
+Some people thought my last post with the mouse ears leather cap was disturbing. I wanted to give an object lesson in what "disturbing" actually is.
+
+<strong>This</strong> is disturbing:
+<p align="center"><a href="http://www.flickr.com/photos/rerlin/273122538/in/photostream/"><img src="http://static.flickr.com/99/273122538_c306214510.jpg" /></a></p>
+Any questions?

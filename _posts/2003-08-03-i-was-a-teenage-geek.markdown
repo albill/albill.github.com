@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: I was a teenage geek!
+published: true
+meta: 
+  ljID: "2757"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+Wow. I just found <a href="http://www.bbsmates.com">http://www.bbsmates.com</a> and signed up.
+
+I used to run a BBS on the Pagan/Occult Distribution System (or Network) aka PODS or PODNet called &apos;The Sacred Grove&apos; back in the day.
+
+Before that, it was up for a couple of years as a Citadel BBS and probably 90% of the people that I was friends with in Seattle were members of a small network of Citadel boards. It was a homegrown system, DOS-based, and often quite buggy. We&apos;d get together every Friday night for coffee (later at Beth&apos;s) and once a month for Pizza. We normally got thrown out of the pizza places. 
+
+ Over the years, especially as the Internet boom hit and we all started growing up and getting "real" lives, people just wandered away. I used to see one guy from that crew at work occasionally a few years ago, at least one of my LJ friends (and ex-girlfriends) was in that crowd but mostly people just wandered out of my view. It&apos;s probably mostly my own fault since I was an arrogant shit then (as were many of my friends) and pretty self-absorbed with developing my own life when I got into college and then after I got out. 
+
+ BBSMates.com allows you to become a member and to create or add yourself to listing for BBSs in your area code or others. So, it allows all of the aging geeks from the BBS era to possibly hook up again. I bet we&apos;re all fat. ;-)

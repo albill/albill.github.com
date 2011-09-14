@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Prison
+published: true
+meta: 
+  ljID: "2845"
+  no_lj: "1"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+tags: 
+- Daily Life
+- Esoteric
+- Spirituality
+type: post
+status: publish
+---
+Monk does Prison work as a sponsor for pagans at McNeil Island, a men's prison here in Washington. I've begun talking to him about becoming a sponsor as well in support of the pagan group there. That would mean going out there possibly a couple of times a month to meet with them and support them in their spiritual work.
+
+I need to get more information overall but I gave Monk my personal information so the background check necessary for this could be run. If all goes well, I may go out on November 1 for their Samhain get-together.

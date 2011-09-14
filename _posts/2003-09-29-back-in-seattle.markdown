@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Back in Seattle
+published: true
+meta: 
+  ljID: "2820"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+  no_lj: "1"
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+R and I got back in Seattle this afternoon and back to the house a few hours ago. Her dad is staying with us for the week while her mother attends a conference here in Seattle.
+
+Our weekend trip to California went fairly well. As I said in my previous posting, we stayed at the Red Victorian Thursday night on Haight Street in San Francisco. The hippie vibe there was fairly omnipresent but it was a rather nice place and I'd go there again. They had a nice kitty named "Mr. Mouser" there as well. (Yes, I am the Cat Man.)
+
+Friday, we drove down to Santa Cruz and went out to the world famous "<a href="http://www.mysteryspot.com/">Mystery Spot</a>". That was fairly interesting though obviously done to death in a silly way. R and I both found the place to be odd, even when avoiding the cabin on the site which is (they admit) set up partially to make optical illusions. Some of the weirdness with perspective that we saw on seemingly level concrete surfaces was odd. I don't think it is anything even vaguely supernatural but it was definitely disorienting and worth the few bucks that it cost in order to see.
+
+That evening, we went and looked around the newish shopping district in Santa Cruz and had dinner at an Irish Pub there. Afterwards, we finally went and saw <strong>Underworld</strong>, which actually turned out quite a bit better than I expected. After all of the bitching from certain friends, I did expect it to suck and I was pleasently surprised. It's still a silly Vampires and Werewolves movie so it isn't Oscar material no matter what but I liked it quite a bit (better than the first <strong>Blade</strong> movie, which I own).
+
+After spending a night trying to ignore the partying kids in our motel, R and I met Lefty for lunch and conversation. I think that we all had a nice time and it was pretty cool to put a name to a face after all of this time of speaking online. Following this, we hit the Boardwalk and rode on the roller coasters and such there. A couple of hours of sun and crowds was about all that we could handle.
+
+For Saturday evening, we drove up to San Francisco again and met Kat for dinner at a nice place in Berkeley. She'd called us when we'd gotten into town and invited us to an event but we'd already made plans for Santa Cruz. We hooked up and then went with her to a birthday party for one of the members of the <strong>Open Source Order of the Golden Dawn</strong> that R and I had hung out with during our previous trip to Berkeley. We got to see a number of famliar faces and had a nice time.
+
+Today was taken up by going to the airport, waiting for our delayed plane and then flying into town with R's parents. Eventually I went off for long enough to meet Sarastro and Monk for a magical meet-up.

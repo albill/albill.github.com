@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Guilty
+published: true
+meta: 
+  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
+tags: 
+- Daily Life
+- Technology
+type: post
+status: publish
+---
+I feel guilty for work stuff. What's the matter with me?
+
+I took the bus into work yesterday so I had to leave by 7:00 pm to catch the last one home. That sounds like except one of the people that works for me pulled an all nighter and crashed on the couch in one of the offices. We're trying to finish the last full test pass before we ship our software and it hasn't been tested all of the way through before. So the people working for me have been pulling 12 or more hour days this week. Half of them get overtime but not all.
+
+I left at 5:45 tonight because I had a practice for the Cabiri show this Saturday too.
+
+I shouldn't feel guilty really. I'm a manager and I'm not running any of the test matrices for the pass. I feel bad leaving, even after a nine to ten hour day when I know that someone on my team will be there another four hours or so.
+
+How did this protestant work ethic ever get into my brain? Not only do I have a career but I manage people. Someone shoot me soon. R, her highness, wrote about work things yesterday. Just about everything she said could apply to my life. I'm not doing what I should be doing. I know that. I don't know what I should be doing but I know that this isn't it...
+
+I think I'll go scan some more books into my scanner now. ;-)

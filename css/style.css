@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6{font-size:100%;color:#222;}
 h1{margin-bottom:1em;}
 p{margin:1em 0;color:#222;}
 a{color:color:#000;}
-a:visited{color:rgba(255,255,255,0.8);}
+a:visited{color:#666;}
 table{font-size:inherit;font:100%;}
 article{}
 article time{display:block;margin-top:2.5em;margin-bottom:0.25em;text-transform:uppercase;color:#b3b3b3;font-weight:bold;font-family:"Palatino","Book Antiqua","Helvetica Neue",Helvetica,Arial,clean,sans-serif;}
@@ -57,7 +57,7 @@ ul.posts span{color:#aaa;font-family:"Palatino","Book Antiqua","Helvetica Neue",
 #related{margin-top:2em;}
 #related h2{margin-bottom:1em;}
 .post_title{color:#000;text-decoration:none;border-bottom:1px dashed;}
-a:visited.post_title{color:rgba(255,255,255,0.8);}
+a:visited.post_title{color:#666;}
 a:hover.post_title{color:#000;background-color:rgba(255,255,255,0.8);border:none;}
 ol#archive{margin:0;padding:0;border:none;list-style-type:none;color:#222;}
 ol#archive li{margin-bottom:0.313em;}

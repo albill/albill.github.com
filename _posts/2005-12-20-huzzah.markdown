@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Huzzah!
+published: true
+meta: {}
+
+tags: 
+- Spirituality
+type: post
+status: publish
+---
+The Winter Solstice is tonight, sunset (4:19) to sunrise (7:54).
+
+The Solstice is upon us!!

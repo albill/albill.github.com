@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: More D&D and BoingBoing Madness
+published: true
+meta: {}
+
+tags: 
+- Humor
+type: post
+status: publish
+---
+<P>I used to LARP when I was about, oh, 17 or so. This was almost 17 years ago. Somehow, now, I'm glad that I stopped a year or so later.</P>
+<P>From <A href="http://www.boingboing.net/2005/03/11/dd_reenactment_vid_r.html">BoingBoing Blog</A>:</P>
+<P><B>D&amp;D re-enactment vid remixed to Bon Jovi tune</B> <BR>Boing Boing reader Patrick Grote sez: </P>
+<IMG height=171 src="http://www.boingboing.net/images/lightningbolt.jpg" width=250 hspace="5" vspace="5" border="1" align=left> Someone posted [this Stileproject] video clip of adults dressed up and re-enacting a Dungeons and Dragons melee to our forums, then decided to remix it in slomo to the tune of Bon Jovi's Blaze of Glory. The result is fantastically humorous. An homage to all things geek. <BR clear="all">
+<P>Original video: <A href="http://xnguyen.com/Misc/RPG_Nerds.mpeg">Link</A><BR>Remixed video: <A href="http://www.sportlounge.net/ltoh/MegaDorks.wmv">Link</A> <BR>Thread discussing the remix: <A href="http://sportlounge.net/forum/index.php?showtopic=23910">Link</A>.<BR>Lightning Bolt! Lightning Bolt! Lightning Bolt! Lightning Bolt!</P>

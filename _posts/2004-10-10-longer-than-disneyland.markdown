@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Longer than Disneyland
+published: true
+meta: {}
+
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+It is Sunday here in Florence. Needless to say, since it is a Catholic country, quite a few things are shut down, though not as many as you'd expect. It kind of reminds me of how things were when I was a kid in Seattle and the mall wasn't open on Sundays until I was a teenager.
+
+Last night, R and I went to the Basilica of San Lorenzo, which was the Medici family church. On the outside, it looks like a large but not especially impressive church. It even looks a bit run down and just simply brown on the outside. The inside is quite a contrast. Most of the pews have been removed (only a small set near the front) so it is this cavernous open space. Along the sides are these niches for saints (and candles) with beautiful Renaissance paintings or statuary in them. Some of Donatello's last work is here as he was working on the church befoe his death. We worked our ways up and down the church, visited the original sacristry, peered at the inside of the painted dome over the main part of the basilica and gazed in awe at the Medici family private altar on the side. All very impressive.
+
+Following this, we wandered around for a bit trying to find the Palazzo Medici-Ricardi, which we seem to have barely missed several times as we circles. The streets around San Lorenzo and the Palazzo were full of the kind of street market with people selling knock-offs that you expected someone to try to sell you pot at. Eventually, we made it to the palazzo and we went through the various public rooms of that for a while. One especial highlight of that was a visit to the Chapel of the Magi, which was the Medici family chapel. Every surface inside of it is painted with a complex rendition of the adoration of the magi on their way to see the Christ child. (Speaking of the Christ child, R and I had the ill seeming realization today that just about every Renaissance rendition of the baby Jesus with the Madonna is very creepy looking. The child is almost always rendered with adult body proportions and often with some adult features...it's very much the creepy alien baby Christ...)
+
+Today, R and I had our breakfast delivered to us (well, that was the only option) by the live-in Hotel people at 8:00 AM sharp this morning. From there, we ran over to the Uffizi museum to get in line. As some of you may know, the Uffizi is one of the largest museum/galleries of Renaissance art in the world. We wanted to get there early in order to avoid some of the ginormous lines that occur (waits of up to four hours are known to get in...). We got there and the line was already around the square...<i>sigh</i>...but things are moving so didn't think it would be too long, maybe an hour or two. Well, we were in that line for almost exactly four hours. Dear readers, I've never stood in line for four hours outside of an airport before. Disneyland wasn't this bad!!!
+
+Enough bitching though. While in line, I went for food and drinks twice and R and I worked on our novels. Eventually, we got in and worked our way through the gallery. It was quite pretty and there is a lot of amazing art there. It's really hard to describe. I saw many pieces that I only recognize from seeing in books. They are, obviously, much more impressive in person. Unfortunately, there is a side effect that after an hour or two, the paintings start to blur together. We tended to skip many of the portraits. With my own Roman Catholic history, I did tend to recognize many of the Christian scenes presented. There was also an impressive array of statues of a Classical sort as well.
+
+Eventually, we finished with what we wanted to see and went outside to find the first rains in weeks occuring. We took refuge for a while at a cafe but the rain was not letting up. Because we hadn't brought coats, I was forced to by an umbrella from one of the immigrant street hustlers who are everywhere in Italy (but were selling umbrellas today). This allowed us to get back to the hotel. 
+
+Between four hours in line and a couple of hours in the museum, we are pretty bushed so we probably aren't doing anything more exciting than a nice dinner this evening for the rest of the day.

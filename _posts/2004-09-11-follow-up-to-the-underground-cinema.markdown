@@ -1,0 +1,58 @@
+--- 
+layout: post
+title: Follow-up to the Underground Cinema
+published: true
+meta: {}
+
+tags: 
+- Society
+type: post
+status: publish
+---
+More information on the underground cinema in Paris that I posted about earlier in the week.
+
+<a href="http://www.guardian.co.uk/france/story/0,11882,1302249,00.html">http://www.guardian.co.uk/france/story/0,11882,1302249,00.html</a>
+
+<b>Paris's new slant on underground movies</b> 
+
+ <b>Clandestine group reveals how it built its cinema beneath the city</b> 
+
+Jon Henley in Paris
+Saturday September 11, 2004
+The Guardian
+
+There are, at most, 15 of them. Their ages range from 19 to 42, their professions from nurse to window dresser, mason to film director. And in a cave beneath the streets of Paris, they built a subterranean cinema whose discovery this week sent the city's police into a frenzy.
+
+"They freaked out completely," Lazar, their spokesman, said happily. "They called in the bomb squad, the sniffer dogs, army security, the anti-terrorist squad, the serious crimes unit. They said it was skinheads or subversives. They got it on to national TV news. They hadn't a clue."
+
+To be fair, until recently very few people did have a clue about La Mexicaine de la Perforation, a clandestine cell of "urban explorers" which claims its mission is to "reclaim and transform disused city spaces for the creation of zones of expression for free and independent art".
+
+Huddled round a table in an anonymous Latin Quarter bar, the group's members - of whom only Lazar wanted to be named - relate past exploits: rock concerts for up to 4,000 people in old underground quarries; 2am projections in a locked film theatre; art and photo exhibitions in supposedly sealed-off subterranean galleries.
+
+But since they aim to leave each venue "cleaner, if anything, than when we found it", LMDP's activities have never before come to public attention. Until late last month, when police patrolling one small stretch of the estimated 200 miles of tunnels beneath the city stumbled across the underground cinema.
+
+"In fact, they had a tip-off from a former member with a grudge," said Lazar. "But we don't mind really - we'd done what we set out to do."
+
+The cinema, with restaurant and bar annexe, was open for a seven-week season this summer, showing a suitably subversive programme which included works by Chinese and Korean directors but also Alex Proyas' Dark City, Coppola's Rumble Fish, David Lynch's Eraserhead, and Terry Gilliam's Brazil.
+
+It was constructed in a series of interconnected caves totalling some 400 square metres beneath the Palais de Chaillot, across the Seine from the Eiffel tower. Former quarries, they were partly refurbished during the 1900 Universal Exposition when one of the galleries was clad with concrete to represent a future Channel tunnel and a wall was artfully terraced.
+
+But the caves were sealed off for the last time at least 20 years ago and subsequently "ceased to exist officially", Lazar said. "We knew them well because we used them to get into the Palais de Chaillot every Bastille Day. The roof is the perfect place from which to watch the fireworks."
+
+Indeed most of the LMDP's underground happenings are organised in places the city authorities are not aware of, he added. "There are so many underground networks - the quarries, the metro, the collective heating, the electricity, the sewers - and each is the responsibility of a different bureaucracy," he said.
+
+"Urban explorers are the only people who, between us, know it all. We move between each network. We know where they link up - often, it's us who made the link. The authorities, the police, town hall, they don't know a hundredth, a thousandth, of what's down there."
+
+Building a fully functioning subterranean cinema was, the LMDP admits, a more than usually stiff challenge. The project took some 18 months to complete, though most of the hard work - including shifting a large pile of rubble off the terraces, and shoring up a couple of walls - was done in three or four weekends.
+
+With their long experience of such matters, the group's technicians had little difficulty piping in electricity and phone lines.
+
+"The biggest hassle was that everything - tables, chairs, bar, projector, screen, the lot - had to fit through a 30cm by 40cm hole on the surface," Lazar said. "When the police finally worked out where we were getting in, they couldn't believe it was the right place. It was so small."
+
+The Chaillot underground cinema is now definitively closed, even to a drill-toting and determined urban explorer. But even if the Paris police may have reluctantly (and with considerable embarrassment) decided its builders were neither terrorists, neo-Nazis nor satanists, they would very much like to charge them with some offence.
+
+"As far as we know, they've been reduced to going for theft of electricity," said Lazar. "However, we covered our tracks so well that the electricity board has apparently told them that short of digging up every cable in the district there's no way of knowing where we took it from. But they're not happy. They've seen a tiny fraction of what we do, and it's a big deal for them."
+
+There were, he added, maybe 10 other groups in Paris, all of a roughly similar size, involved in similarly creative, if murky, projects beneath the streets of the capital. "They will never stop it, they are too uncoordinated," he added.
+
+"We will always be a step ahead. And what, in the end, are we guilty of? With that cinema, we should be rewarded for restoring and preserving France's underground heritage. Those caves were in a terrible state."

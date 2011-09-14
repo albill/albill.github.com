@@ -1,0 +1,49 @@
+--- 
+layout: post
+title: White Water Rafting and Weekends
+published: true
+meta: 
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+tags: 
+- Daily Life
+type: post
+status: publish
+---
+<p>Today, R and I went white water rafting on the Wenatchee river out on the 
+other side of the pass. </p>
+<p>This was arranged by a coworker and friend of R&#39;s. Last year, we did a 
+similar trip arranged by her with some friends and co-workers but it was much 
+later in the season. On that occasion, the river was fairly low and it was much 
+more of a relaxing trip. We didn&#39;t wear wet suits and actually swam a bit.</p>
+<p>This year, the amount of water flowing through was about seven times that 
+level. This is fairly early in the season and the water is fairly high and it is 
+still cold enough outside there to wear the wet suits. I must say, it was a 
+completely different experience. We did a lot more of the stereotypical &quot;white 
+water&quot; bit shooting rapids and dropping into holes and such. It was a lot of fun 
+and I&#39;d like to do a lot more of it. </p>
+<p>The trip on the river, itself, was about four hours long with dinner 
+afterwards and some prep time before. This isn&#39;t so bad but it is a two and a 
+half hour drive there and the same back. Needles to say, we left Sunday morning 
+around 7:30 AM and we actually arrived home right about 7:30 PM. That&#39;s a full 
+day.</p>
+<p>Overall, the weekend was fairly fun. On Saturday, R and I slept in a bit and 
+my daughter was dropped off by my ex-wife around noon. Madeline and I hung out 
+for an hour and a half or so watching cartoons and then went down to the theatre 
+to see <b>Shrek 2</b>, which was a lot of fun. I actually liked it about as much 
+as the first (which is a good thing). It&#39;s definitely a fun one for the kids and 
+adults together. </p>
+<p>In the evening, R and I went to the birthday bash for a friend of mine from 
+work, Felicity. A new bar/pub just opened up under her apartment building on 
+lower Queen Anne so we met up there for a few drinks. We met a number of her 
+friends and got to chat with some nice people. We actually spent some time 
+comparing notes with a few people that had travelled quite a bit and it 
+rekindled some of the desire that R and I have to travel to a new country every 
+year for a couple of weeks if possible. After an hour and a half or so, we 
+ducked out and grabbed some of the local Thai food. Mmmm....</p>
+<p>Friday night was the full moon ritual with the High Priestess friend of mine 
+that we&#39;ve been doing work with. This was pretty low key and we spent the first 
+couple of hours BBQing food, hanging out and having a couple of beers. After it 
+got dark, we did our first full moon ritual together as a group. I feel that it 
+went pretty well and that good things will be coming from us working together. I 
+still plan on using it to feed, to some extent, into the prison work I&#39;m doing 
+with Wiccans.</p>

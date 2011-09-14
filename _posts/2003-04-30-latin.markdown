@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Latin
+published: true
+meta: 
+  ljID: "2244"
+tags: 
+- Academic
+- Daily Life
+type: post
+status: publish
+---
+On a plus note, I feel mostly caught up on my Latin. I still don't have the various pronouns completely memorized but I'm not floundering.
+
+I went out and bought a decent sized hardcover Latin-English dictionary and a Latin Grammar book this last weekend too. I'm either dedicated or a consumer...

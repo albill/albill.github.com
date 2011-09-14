@@ -1,0 +1,96 @@
+--- 
+layout: post
+title: Article on Ritual Implements
+published: true
+meta: 
+  ljID: "2444"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
+tags: 
+- Buddhism
+- Spirituality
+type: post
+status: publish
+---
+This is a longish article on ritual implements in Tibetan Buddhism that I found exoticindiaart.com.
+<h2 align="center">Ritual Implements in Tibetan Buddhism:
+A Symbolic Appraisal</h2>
+Rites and rituals are an essential part of Tibetan religion and reflect its practical side. Not restricted to temples alone, they are performed in a variety of places and circumstances, for a myriad of purposes. Daily ceremonies are conducted in temples, although they are perhaps not so elaborate as those that take place in Hindu temples in India and Nepal. Throughout the year, too, special rituals are performed to propitiate deities, to precipitate rain, to avert hailstorms, diseases, and death, to ensure good harvests, to exorcise demons and evil spirits, and of course to destroy the passions of the mind and, ultimately, the ego. All these practices - whether occult, magical, or shamanistic, require various implements which are as important as the images of the deities in whose service they are employed. Each such object is pregnant with symbolic meaning and is frequently imbued with magical power and potency.
+
+<img src="http://www.arcanology.com/images/ze58.jpg" align="left" border="0" height="352" hspace="10" width="229" />
+
+Many of these ritual implements also occur as hand-held attributes of various important Buddhist deities. Many of these weapons and implements have their origins in the wrathful arena of the battlefield and the funerary realm of the cremation grounds. As primal images of destruction, slaughter, sacrifice, and necromancy, these weapons were wrested from the hands of evil and turned-as symbols-against the ultimate root of evil, the self-cherishing ego. In the hands of wrathful and semi-wrathful deities, protective deities, the siddhas and the dakinis, these implements became pure symbols, weapons of transformation, and an expression of the deities' wrathful compassion, which mercilessly destroys the manifold illusions of the inflated human ego.
+
+Some of the important ritual implements are:
+<ul>
+	<li>The Vajra or Thunderbolt, also known in Tibetan as dorje.</li>
+	<li>The Bell, known in Sanskrit as the Ghanta, and in Tibetan as dril bu.</li>
+	<li>The Phurpa (Ritual Dagger)</li>
+	<li>The Skull Cup, known as kapala in Sanskrit.</li>
+	<li>The Curved Knife or Chopper.</li>
+</ul>
+<h3 align="left">The Vajra</h3>
+The Vajra is the quintessential symbol of Vajrayana Buddhism, which derives its name from the vajra itself. The Sanskrit term vajra means 'the hard or mighty one', and its Tibetan equivalent dorje means an indestructible hardness and brilliance like the diamond, which cannot be cut or broken. The vajra essentially symbolizes the impenetrable, immovable, immutable, indivisible, and indestructible state of enlightenment or Buddhahood.
+
+The form of the vajra as a scepter or a weapon appears to have its origin in the single or double trident, which arose as a symbol of the thunderbolt or lightning in many ancient civilizations of the Near and Middle East. Parallels are postulated with the meteoric hammer of the Teutonic sky-god Thor, the thunderbolt and scepter of the Greek sky-god Zeus, and the three thunderbolts of the Roman god Jupiter. As a hurled weapon the indestructible thunderbolt blazed like a meteoric fireball across the heavens, in a maelstrom of thunder, fire and lightning.
+
+In ancient India, the vajra, as a thunderbolt, became the chief weapon of the Vedic sky-god Indra. It controlled the forces of thunder and lightning, breaking open the monsoon storm clouds, bringing the welcome rains to the parched plains of an Indian summer. According to legend, Indra's thunderbolt was fashioned from the bones of the great Rishi Dadhichi, who was decapitated by Indra in sacrifice. Dadhichi's 'indestructible' skull-bones gave Indra the most powerful of weapons. By its energy he slew innumerable of his enemy demons. In mythological descriptions, Indra's thunderbolt or vajra is shaped either like a circular discus with a hole at its center, or in the form of a cross with transverse bladed bars. The Rigveda, the most ancient text in the world, identifies the vajra as a notched metal club with a thousand prongs. What is significant is that all these descriptions identify the vajra as having open prongs, unlike the Buddhist one, which has closed prongs. According to a Buddhist legend, Shakyamuni took the vajra weapon from Indra and forced its wrathful open prongs together, thus forming a peaceful Buddhist scepter with closed prongs. The Buddhist vajra hence absorbed the unbreakable and indestructible power of the thunderbolt.
+
+<img src="http://www.arcanology.com/images/zi03.jpg" align="right" border="0" height="211" hspace="10" width="254" />The Buddhist vajra may be represented with one to nine prongs. It is designed with a central shaft that is pointed at each end. The middle section consists of two lotuses from which may spring, at each end, for example, six prongs of the dorje. Together with the projecting and pointed central shaft, each end thus becomes seven pronged. The outside six prongs face inwards towards the central prong. Each of these outside prongs arise from the
+heads of makaras (mythical crocodiles), which face outwards. The mouths of the makaras are wide open and the prongs emanate from the mouth like tongues of flame.
+
+<img src="http://www.arcanology.com/images/zh19.jpg" align="left" border="0" height="207" hspace="10" width="254" />The vajra is generally two-sided but the vishvavajra or the double thunderbolt has four heads representing the four dhyani Buddhas of the four directions namely, Amoghasiddhi for north, Akshobhya, who presides over the east, Ratnasambhava, lord of the south, and Amitabha who reigns over the west. It is the emblem of the crossed vajra that is inscribed upon the metal base that is used to seal deity
+statues after they have been consecrated.
+
+<img src="http://www.arcanology.com/images/zn02.jpg" align="right" border="0" height="339" hspace="10" width="252" />The vajra is indeed the most important ritual implement and symbol of Vajrayana Buddhism. It is so important that many of the Vajrayana deities have the word vajra prefixed to their names, two of them being Vajradhara and Vajrasattva.
+
+When used in ritual, the vajra is paired with the bell. It represents the masculine principle and is held in the right hand, the bell, held in the left hand, represents the female principle. More on this follows.
+<h3 align="left">The Bell</h3>
+The bell is the most common and indispensable musical instrument in tantric Buddhist ritual. Gods and apotheosized lamas alike hold this popular symbol, along with the thunderbolt in their hands.The bell has an elemental function and its sound, like those made by the trumpet and the drum, is regarded as auspicious; it is said to drive away evil spirits. Like the church bell, the Buddhist hand bell sends the message to evil spirits that they must stay away from the consecrated area where the ritual is being performed.
+
+<img src="http://www.arcanology.com/images/zf16.jpg" align="left" border="0" height="350" hspace="10" width="232" />
+
+As already mentioned, in ritual the bell is paired with the vajra. The vajra represents the compassion of the Buddha, the masculine principle; and the bell represents wisdom, the female principle. To achieve enlightenment, those two principles must be combined. The bell is visualized as the Buddha's body, the vajra is visualized as his mind, and the sound of the bell is visualized as Buddha's speech in teaching of the dharma.
+
+The use of the bell and vajra differs according to the ritual performed or the sadhana chanted. The vajra can be used for visualization or evocation of deities; ringing the bell can be used to request protection or other actions from a deity, or it can represent the teaching of dharma, and can also be a sound offering. As one example of their use, during meditation on the deity Vajrasattva, the vajra is placed on the chest of the practitioner, meaning that Vajrasattva is brought to the meditator, and they become one and inseparable. Ringing the bell then represents the sound of Buddha teaching the dharma and symbolizes the attainment of wisdom and the understanding of emptiness.
+
+While chanting, the vajra is held in the right hand, which faces down, and the bell is held in the left hand, which usually faces up, and they are moved in graceful gestures. Sometimes the hands are held with the wrists crossed over each other, against the chest. This represents the union of the male and female principles.
+<h3 align="left">The Phurpa</h3>
+A phurpa, sometimes called a "magic dagger", is a tantric ritual object used to conquer evil spirits and to destroy obstacles. It is utilized in magic rituals by high level tantric practitioners. The word phurpa is used primarily in Central Tibet, while the word phurbu is used more often in Kham, Amdo and Ladakh.
+
+The component phur in the word phurpa is a Tibetan rendering of the Sanskrit word kila, meaning peg or nail. The phurpa is an implement that nails down as well as binds. It was thus by stabbing a phurpa into the earth, and thereby nailing and binding the evil spirits, that Padmasambhava, regarded as the inventor of this implement, consecrated the ground on which the Samye monastery was established in the eighth century. Whatever the original shape of the Indian kila may have been (none has survived), it seems very likely that in Tibet the form of the phurpa, with its three-sided blade, was suggested by the pegs that were driven into the earth to hold the rope stays of the tent. Due to the essentially nomadic nature of life in ancient Tibet, the tent was an important part of their routine. While traveling it was used by all, the peasants, the traders, the royalty, nobility and even the exalted monks. Indeed, the peg of the tent is the prototype of the phurpa. Its triple blade is really not a dagger but a peg, precisely the kind of peg used to secure tents.
+
+<img src="http://www.arcanology.com/images/zi63.jpg" align="left" border="0" height="162" hspace="10" width="317" />The triple blade of the phurpa symbolizes the overcoming or cutting through of the three root poisons of ignorance, desire, and hatred, and also represents control over the three times of past, present and future. The triangular shape represents the element of fire and symbolizes wrathful activity. The tenacious grip of the makara-head at the top of the blade represents its ferocious activity.
+
+When using the phurpa, the practitioner first meditates, then recites the sadhana of the phurpa, and then invites the deity to enter the phurpa. As he does so, the practitioner visualizes that he is frightening and conquering the evil spirits by placing the evil under the point of the phurpa. Or sometimes the practitioner visualizes throwing the phurpa in order to impale and subdue the spirits. The success will depend on the practitioner's spirituality, concentration, motivation, and his karmic connections with the deity of the phurpa and the evil spirits.
+<h3 align="left">The Skull Cup</h3>
+The skull cup, known as kapala in Sanskrit, is fashioned from the oval upper section of a human cranium. It serves as a libation vessel for a vast number of Vajrayana deities, mostly wrathful.
+
+As a ritual implement, the selection of the right skull is of immense importance for the success of the ritual. The skull of a murder or execution victim is believed to possess the greatest tantric power; the skull of one who has died from a violent or accidental death, or from a virulent illness, possesses a medium magical power; the skull of a person who died peacefully in old age has virtually no occult power. The skull of a child who died during the onset of puberty also has great potency, as do the skulls of miscegenated or misbegotten child of unknown paternity, born from the forbidden union of castes, out of wedlock, from sexual misdemeanor, or particularly from incest. The 'misbegotten skull' of a seven or eight-year-old child born from an incestuous union is considered to possess the greatest power in certain tantric rituals. Here the vital force or potential of the skull's 'previous owner' is embodied within the bone as a spirit, rendering it as an effective power object for the performance of tantric rituals.
+
+<img src="http://www.arcanology.com/images/zg95.jpg" align="right" border="0" height="281" hspace="10" width="211" />
+
+As the libation vessel of the Vajrayana practitioner, the skull cup essentially parallels the clay pot (kumbha in Sanskrit) of the Vedic sacrifice, the alms bowl of the Buddha, and the sacred water vase (Kalasha in Sanskrit) of the bodhisattvas. As a receptacle for sacrificial offerings presented to wrathful deities, it parallels the precious tray containing auspicious substances-the jewels, flowers, or fruit presented to peaceful deities. In its most benign symbolism, as the begging bowl or food vessel of an ascetic, the skull cup serves as a constant reminder of death and impermanence.
+
+In the iconography of wrathful protective deities the skull cup, held at the level of the heart, may also be paired with the curved knife or chopper which may be held above the skull cup. Here the chopper is the weapon that severs the life veins and vital organs of demonic enemies, and the cup is the oblation vessel in which the blood and organs are collected as the deity's sustenance. Descriptions of the contents of a wrathful deity's kapala include warm human blood, blood and brains, blood and intestines, human flesh and fat, the heart or the heart and lungs of an enemy, the heart of Mara and the blood of Rudra.
+
+<img src="http://www.arcanology.com/images/ze87.jpg" align="left" border="0" height="292" hspace="10" width="197" />
+
+But it is not only the wrathful deities who hold the skull-cup. Certain other deities may hold other attributes within their skull cups. Padmasambhava, for example, holds a skull cup described as an ocean of nectar, in which floats a longevity vase.
+<h3 align="left">The Curved Knife or Chopper</h3>
+The chopper is one of the most prominent weapons used by Buddhism's angry deities, both male and female. Continuously brandished by them or simply carried in their hands, its purpose is to chop up disbelievers.
+
+<img src="http://www.arcanology.com/images/zh60.jpg" align="right" border="0" height="243" hspace="10" width="289" />This curved flaying-knife is modeled on the Indian ' knife of the butchers', used for skinning animal hides. The gibbous crescent of its blade, which terminates in a sharp point or curved hook, combines the flaying implements of a cutting-knife and scraping blade, and the piercing activity of a dagger or pulling-hook. The blade's crescent is used for cutting through flesh and scraping it clean, separating the outer and inner as 'appearance and emptiness'. The sharp hook or point of the blade is used for the more delicate acts of flaying: the initial incising of the carcass, the pulling out of veins and tendons, and cutting around the orifices of the skin.
+
+An interesting but somewhat disturbing legend is related about the Mahakala 'protector chapel' at Samye monastery in Central Tibet. Traditionally, this forbidding chapel was kept locked for most of the year and entry into its precinct was rarely permitted. The attendant monk who supervised the chapel would each year ceremoniously replace an iron chopper and wooden chopping board which had become blunt and worn down by its nocturnal activities. Even though the chapel was locked and empty, at night the screams of the ethereal miscreants hacked under Mahakala's chopper could be clearly heard from outside the chapel.
+
+<img src="http://www.arcanology.com/images/ze65.jpg" align="left" border="0" height="350" hspace="10" width="242" />In Mahakala's symbolism the curved knife cuts through the life veins of enemies such as oath-breakers and hindering spirits; and his skull cup is filled with the heart-blood of these enemies. This crescent shaped chopper, held by deities such as Mahakala, corresponds in shape to the cavity of the skull cup and functions to make 'mincemeat' of the hearts, intestines, lungs, and life-veins of enemies hostile to the dharma, which are then collected in the skull cup. As mentioned, a similar crescent shaped hand cleaver is used in oriental cuisine to chop meat and dice vegetables.
+
+Just as the thunderbolt is typically paired with the bell, so do the chopper and skull cup generally accompany each other. The symbolism of the two pairs may be the same. Since the chopper is the instrument for cutting through the fog of ignorance, it represents method, the masculine principle, while the cup symbolizes wisdom, the feminine principle. In many ways, the chopper serves the same purpose as the dorje or the phurpa and is employed in rituals of exorcism by priests and shamans.
+
+Broadly speaking, the category of ritual objects in Tibetan religion includes nearly all objects that serve a religious function. The extensive variety and uses of ritual objects should be noted as one of the defining elements of Tibetan art, for no other culture has generated so wide a range of such implements. The great breadth also holds true for the materials they are made from. These include various metal alloys, precious metals, especially silver, jewels, wood, sculpted butter, and even human bones and ashes, taking the ritual well beyond the usual range of materials familiar among most religious traditions.
+
+Most ritual objects are used in temples by initiated lamas who alone have the right and duty to perform the various rituals. In this and in many other ways the customs are not different from those of Judaism and Christianity, in which the rabbi or priest performs most acts of worship.
+
+Aesthetically appealing and visually resplendent, Tibetan ritual implements are indeed fascinating, as much for their exquisite craftsmanship as for their rich forms and symbolism.
+
+This article by <strong>Nitin Kumar</strong>.

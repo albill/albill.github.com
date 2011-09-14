@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: In Awe...
+published: true
+meta: {}
+
+tags: 
+- Buddhism
+- Spirituality
+type: post
+status: publish
+---
+From the end of <a href="http://www.wie.org/j25/monks.asp">this article</a> on the Marathon Monks of Tendai, <strong>27,000 Miles to Buddhahood</strong>.
+<blockquote>But when asked about the practice, Sakai's spirit shines: “Human life is like a candle,” he says. “If it burns out half-way it does no one any good. I want the flame of my practice to consume my candle completely, letting that light illuminate thousands of places. My practice is to live wholeheartedly, with gratitude and without regret. Practice really has no beginning or end; when practice and daily life are one, that is true Buddhism.”</blockquote>
+<br clear="all" />

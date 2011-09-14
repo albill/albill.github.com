@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Lama Boy?
+published: true
+meta: 
+  ljID: "3167"
+  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
+tags: 
+- Buddhism
+- Humor
+- Spirituality
+type: post
+status: publish
+---
+I don't know if I should be appalled but I'm mostly amused. Popular culture seems to pick up on Buddhist ideas now and then. While the video isn't entirely on the up and up with imagery or message, I generally think that anything that promotes Buddhism (or draws attention to it) is good as long as it doesn't do so in a negative way.
+
+Also, there is a value in laughing at ourselves.
+
+<lj-embed><object width="400" height="350"><param name="allowFullScreen" value="true" /><param name="movie" value="http://www.superdeluxe.com/static/swf/share_vidplayer.swf" /><param name="FlashVars" value="id=D81F2344BF5AC7BB05A896EF37C87AEEAA2634206E5D31EC" /><embed src="http://www.superdeluxe.com/static/swf/share_vidplayer.swf" FlashVars="id=D81F2344BF5AC7BB05A896EF37C87AEEAA2634206E5D31EC" type="application/x-shockwave-flash" width="400" height="350" allowFullScreen="true" ></embed></object></lj-embed>
+
+This is mostly a content free post. I may post something later today...

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Obey!
+published: true
+meta: 
+  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
+tags: 
+- Humor
+type: post
+status: publish
+---
+A little something from my  brother-in-law:
+
+<img src="http://www.arcanology.com/images/obey-frank.gif" border="0" />
