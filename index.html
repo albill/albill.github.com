@@ -15,7 +15,6 @@ title: Open Buddha
   <span class="entry-content">
   {{ post.content }}
   </span>
-  {% if post.social %}
   <span id="social">
   <!-- Post Facebook button -->
   <script type="text/javascript">
@@ -31,7 +30,6 @@ title: Open Buddha
   <span style="float:right;">
     <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ post.url }}" data-text="{{ post.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
   </span>
-  {% endif %}
   <br/>
 </article>
     {% endfor %}
