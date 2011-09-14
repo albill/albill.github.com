@@ -200,3 +200,12 @@ a:visited {
     margin-bottom:5px;
 }
 
+#networks{width:500px;float:left;}
+#networks li{width:250px;height:60px;float:left;list-style-type:none;}
+#networks li a{display:block;width:265px;height:45px;padding:10px 0 3px;text-decoration:none;-web$
+#networks li a:hover,
+#networks li a:focus{background:rgba(164,173,183,.15);}
+#networks li a:active{background:rgba(164,173,183,.25);padding:10px 0 3px}
+#networks li a img{float:left;margin:0 10px 0 15px;-webkit-transition:margin-left 0.25s linear;}
+#networks li a strong{color:#222;font:18px/20px "Palatino","Helvetica Neue",Helvetica,Arial,sans-$
+#networks li a:hover img{margin-left:10px;}
