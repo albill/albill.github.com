@@ -59,10 +59,10 @@ We are looking at the post-traditional approach to Buddhadharma.
 
 At the beginning of this class, we will recite a short refuge first (for those that have taken refuge before). 
 
-<blockquote>I take refuge in the wakefulness: vast, blissful, and emanating.
-I take refuge in the truth: ever-present, open, and changing.
-I take refuge in the congregation of all conscious beings.
-Through this practice I realize my true nature, and bring benefit to all.</blockquote>
+> I take refuge in the wakefulness: vast, blissful, and emanating.
+> I take refuge in the truth: ever-present, open, and changing.
+> I take refuge in the congregation of all conscious beings.
+> Through this practice I realize my true nature, and bring benefit to all.
 
 The Buddhadharma arose with the prince of the clan of the Shakya over 2,500 years ago. He felt a severe crisis engulfing his life sometime in his 20s. After trying to do away with his feelings of unfulfilment and frustration, he decided to leave home, and his wife and child, to master the spiritual disciplines available at that place and time. After doing that for several years and mastering various techniques and their experiences, he found those approaches to be insufficient. He awoke to the idea that there is a deep conditioning around our experience that acts as a veil. This veil acts as something that reduces lucidity or wakefulness. Things appear to exist separately, or independently, including a sense of self. The relationship between self and all things or experiences remains hidden from our awareness. This prompted him to renounce his reliance on these veils. The practices he had done before had not made these veils clear. These were mainly concentration practices that produced trance-like states where the mind appears infinite, endless, or the mind seems to seize and experience a reality that is nothing at all. However, when returning from these experiences, the Buddha found that he was not changed. This is not to say that he was not changed by these experiences but he returned from the experiences of these practices. 
 
