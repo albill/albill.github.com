@@ -5,7 +5,7 @@ title: Open Buddha
 
 <div id="home">
   <!-- Show three posts on front page -->
-    {% for post in site.posts limit:3 %}
+    {% for post in paginator.posts limi:3 %}
 <article class="hentry">
   <!-- Date and time of post -->
   <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%d %B, %Y - %H:%m" }}</time>  
