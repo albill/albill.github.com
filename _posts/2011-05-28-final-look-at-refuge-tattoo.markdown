@@ -17,16 +17,16 @@ type: post
 status: publish
 ---
 Last September, <a href="http://www.openbuddha.com/2010/09/11/sometimes-mindfulness-requires-a-post-it-note/">I blogged</a> about the tattoo work I was having done on my left arm by a friend. I had Buddhist refuge vows done in Sanskrit using the script commonly called "Siddham" here in the West. You see this a lot for mantras and other Sanskrit text in Japan and Korea (and I presume China, at least at some point). The vows go:
-> बुद्धं शरणं गच्छामि।
-> धम्मं शरणं गच्छामि।
-> संघं शरणं गच्छामि।
-
-> Buddhaṃ śaraṇaṃ gacchāmi.
-> Dharmaṃ śaraṇaṃ gacchāmi.
-> Saṃghaṃ śaraṇaṃ gacchāmi.
-
-> I take refuge in the Buddha.
-> I take refuge in the Dharma.
+> बुद्धं शरणं गच्छामि। <br />
+> धम्मं शरणं गच्छामि। <br />
+> संघं शरणं गच्छामि। <br />
+>
+> Buddhaṃ śaraṇaṃ gacchāmi. <br />
+> Dharmaṃ śaraṇaṃ gacchāmi. <br />
+> Saṃghaṃ śaraṇaṃ gacchāmi. <br />
+>
+> I take refuge in the Buddha.<br />
+> I take refuge in the Dharma.<br />
 > I take refuge in the Sangha.
 
 I've posted preliminary pictures before of what it looked like after the initial blackwork was done but not of the final design where it was outlined in red. We actually went over both the black and the red <strong>twice</strong> because I have a perfectionist tattoo artist and he wanted everything to look clean and strong (as did I). 

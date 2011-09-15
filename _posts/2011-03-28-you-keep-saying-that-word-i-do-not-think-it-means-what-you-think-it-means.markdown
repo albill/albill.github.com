@@ -17,11 +17,7 @@ status: publish
 ---
 I was going to write a nice post about the three day retreat from which I just returned with my sangha. Instead, I'm writing, once again, about current Zen scandals. It is the gift that keeps on giving.
 
-
-
 My mother sent me of this today, "<a href="http://www.kanzeonzencenter.org/changes/">Changes at Kanzeon Zen Center</a>." She lives in Salt Lake City and, while not a Buddhist, has connections in the community and an interest in what is going on there. 
-
-
 
 This post opens with the following:
 
@@ -29,29 +25,17 @@ This post opens with the following:
 
 Now, as people may recall, at the beginning of April, Genpo Merzel (aka Genpo Roshi), <a href="http://sweepingzen.com/2011/02/07/dennis-genpo-merzel-disrobes-as-a-zen-priest/">officially disrobed</a> as a Zen priest and stepped down as an elder in the White Plum Asanga. (I'd link to the posts where he announced it at <a href="http://www.bigmind.org/Home.html">http://www.bigmind.org/Home.html</a> and <a href="http://www.bigmind.org/Responsibility.html">http://www.bigmind.org/Responsibility.html</a> but they are now a 404 link and have been removed.)
 
-
-
 When Genpo stepped down, disrobed as a priest, and left his elder position in the White Plum organization, I, like most, figured that meant, well, that he'd disrobed as a Zen priest and wasn't acting as such any longer. That word, "disrobed," generally means that sort of thing to those of us who are Zen practitioners (as well as priests or monks). Apparently, we have a princess bride situation here where Genpo uses that word differently. 
-
-
 
 <p style="text-align: center"><a href="http://www.flickr.com/photos/48600114097@N01/4814228288/" title="Pincess Bride motivational poster by Jonathan Korman"><img src="http://farm5.static.flickr.com/4081/4814228288_2824c49d8f.jpg" width="450" height="317" alt="Pincess Bride motivational poster by Jonathan Korman"></a></p>
 
-
-
 There is no way that you can seriously say that you've disrobed and then say that you are going to "continue as a Zen Master to teach and lead retreats." I mean, seriously, what the hell? That makes his whole "I'll own up to my mistakes, step down, and disrobe as a priest and elder" into a punch line in a bad joke.
 
-
-
 The post on the Kanzeon site also goes on to say (if the preceding wasn't clear enough):
-
-
 
 > <em>(...references to sale of Kanzeon buildings to pay for debts removed...)</em>
 > 
 > The sale will also allow Kanzeon to pay off its obligations and sustain  its existence, with Genpo Roshi continuing as its Abbot, outside Salt Lake City at Solitude in Big Cottonwood Canyon.
-> 
-> 
 > 
 > <em>(...)</em>
 > 
@@ -68,8 +52,10 @@ Any belief that people had that Genpo had shown at least some integrity in stepp
 > A Personal Statement from Genpo Merzel
 > 
 > I have chosen to disrobe as a Buddhist Priest, and will stop giving Buddhist Precepts or Ordinations, but I will continue teaching Big Mind.  I will spend the rest of my life truly integrating the Soto Zen Buddhist Ethics into my life and practice so I can once again regain dignity and respect. My actions have caused a tremendous amount of pain, confusion, and controversy for my wife, family, and Sangha, and for this I am truly sorry and greatly regret.  My behavior was not in alignment with the Buddhist Precepts. I feel disrobing is just a small part of an appropriate response.
+>
 > I am also resigning as an elder of the White Plum Asangha.  My actions should not be viewed as a reflection on the moral fabric of any of the White Plum members.
+>
 > With great humility I will continue to work on my own shadows and deeply rooted patterns that have led me to miss the mark of being a moral and ethical person and a decent human being. I appreciate all the love and support as well as the criticism that has been shared with me.  Experiencing all the pain and suffering that I have caused has truly touched my heart and been the greatest teacher.  It has helped open my eyes and given me greater clarity around my own dishonest, hurtful behavior as well as my sexual misconduct. I recently entered therapy and plan to continue indefinitely with it.  I am in deep pain over the suffering I have caused my wife, children, students, successors and Sangha.
 > 
-> With sadness and love,
+> With sadness and love,<br />
 > D. Genpo Merzel

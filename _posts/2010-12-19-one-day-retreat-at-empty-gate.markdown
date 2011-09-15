@@ -23,12 +23,12 @@ It may sound like I'm focusing on minutiae here and that would be correct, in a 
 
 Zen Master Bon Soeng opened the retreat with a short teaching. He quoted the <a href="http://www.mendosa.com/way.html">Hsin-Hsin-Ming</a>, which is attributed to Seng-ts’an, the third ancestor of Zen in China:
 
-> "The Great Way is not difficult
-> for those who have no preferences.
-> When love and hate are both absent
+> "The Great Way is not difficult<br />
+> for those who have no preferences.<br />
+> When love and hate are both absent<br />
 > everything becomes clear and undisguised.
 >
-> Make the smallest distinction, however,
+> Make the smallest distinction, however,<br />
 > and heaven and earth are set infinitely apart."
 
 This echoes the core teachings about not making things that I mentioned the other day, but accepting the universe in all of its richness (including pain as well as joy) as it is, without preference and without creating some abstract from it within our minds. I found that this quote and Bon Soeng's brief teaching, really set the right tone for the retreat. 

@@ -24,10 +24,11 @@ That said, I'm not sure that the world, or at least the Bay Area, really needs m
 In that circumstance, what does adding a sitting group do? It strikes me as a bit hubristic to say, "Oh hey, I'm going to form a Korean Zen group. We'll all get together and chant and sit" when there is a group that has 30+ people meeting a bit over a mile away. It feels self-focused in the way that we try to avoid. That isn't to say it would be bad to have such a group but a large part of me says, "Get over yourself. Just go to where the other Buddhists are!" Of course, I hear that voice but I generally don't do so!
 
 I think it would be much more useful to form a service-based group or organization and fulfill some actual need (and that need is not to sit on a cushion). A "Helping Hand" organization in some fashion. The back of my rakusu has a poem on it in English. It says:
-> great love,
-> great compassion,
-> the great Bodhisattva way,
+> great love,<br />
+> great compassion,<br />
+> the great Bodhisattva way,<br />
 > attaining Bodhidharma's family tradition.
+
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/4473215203/" title="My Rakusu - 2 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2702/4473215203_c13dd7223a.jpg" width="500" height="375" alt="My Rakusu - 2" /></a></p>
 This comes down to the maxim, the great question of a Bodhisattva, "How can I help you?" 
 

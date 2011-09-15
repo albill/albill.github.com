@@ -21,59 +21,61 @@ I found this randomly on the Internet today. I'm a student of Seung Sahn's linea
 ## Maha Prajna Paramita Hridya Sutra
 ### Commentary by Zen Master Seung Sahn
 
-> Avalokitesvara Bodhisattva 
-> when practicing deeply the Prajna Paramita
-> perceives that all five skandhas are empty
-> and is saved from all suffering and distress.
-
-> Shariputra,
-> form does not differ from emptiness,
-> emptiness does not differ from form.
-> That which is form is emptiness,
-> that which is emptiness form.
-> The same is true of feelings,
+> Avalokitesvara Bodhisattva <br />
+> when practicing deeply the Prajna Paramita <br />
+> perceives that all five skandhas are empty <br />
+> and is saved from all suffering and distress. 
+>
+> Shariputra, <br />
+> form does not differ from emptiness, <br />
+> emptiness does not differ from form. <br />
+> That which is form is emptiness, <br />
+> that which is emptiness form. <br />
+> The same is true of feelings, <br />
+> perceptions, impulses, consciousness. 
+>
+> Shariputra, <br />
+> all dharmas are marked with emptiness; <br />
+> they do not appear or disappear, <br />
+> are not tainted or pure, <br />
+> do not increase or decrease. <br />
+> Therefore, in emptiness no form, no feelings, <br />
 > perceptions, impulses, consciousness.
-
-> Shariputra,
-> all dharmas are marked with emptiness;
-> they do not appear or disappear,
-> are not tainted or pure,
-> do not increase or decrease.
-> Therefore, in emptiness no form, no feelings,
-> perceptions, impulses, consciousness.
-
-> No eyes, no ears, no nose, no tongue, no body, no mind;
-> no color, no sound, no smell, no taste, no touch,
-> no object of mind;
-> no realm of eyes
+>
+> No eyes, no ears, no nose, no tongue, no body, no mind; <br />
+> no color, no sound, no smell, no taste, no touch, <br />
+> no object of mind; <br />
+> no realm of eyes <br />
 > and so forth until no realm of mind consciousness.
-
-> No ignorance and also no extinction of it,
-> and so forth until no old age and death
+>
+> No ignorance and also no extinction of it, <br />
+> and so forth until no old age and death <br />
 > and also no extinction of them.
-
-> No suffering, no origination,
-> no stopping, no path, no cognition,
+>
+> No suffering, no origination, <br />
+> no stopping, no path, no cognition, <br />
 > also no attainment with nothing to attain.
-
-> The Bodhisattva depends on Prajna Paramita
-> and the mind is no hindrance;
-> without any hindrance no fears exist.
+>
+> The Bodhisattva depends on Prajna Paramita <br />
+> and the mind is no hindrance; <br />
+> without any hindrance no fears exist. <br />
 > Far apart from every perverted view one dwells in Nirvana.
-
-> In the three worlds
-> all Buddhas depend on Prajna Paramita
-> and attain Anuttara Samyak Sambodhi.
-> Therefore know that Prajna Paramita
-> is the great transcendent mantra,
-> is the great bright mantra,
-> is the utmost mantra,
-> is the supreme mantra
-> which is able to relieve all suffering
-> and is true, not false.
-> So proclaim the Prajna Paramita mantra,
+>
+> In the three worlds <br />
+> all Buddhas depend on Prajna Paramita <br />
+> and attain Anuttara Samyak Sambodhi. 
+>
+> Therefore know that Prajna Paramita <br />
+> is the great transcendent mantra, <br />
+> is the great bright mantra, <br />
+> is the utmost mantra, <br />
+> is the supreme mantra <br />
+> which is able to relieve all suffering <br />
+> and is true, not false. <br />
+>
+> So proclaim the Prajna Paramita mantra, <br />
 > proclaim the mantra which says:
-
+>
 > gate gate paragate parasamgate bodhi svaha gate gate paragate parasamgate bodhi svaha gate gate paragate parasamgate bodhi svaha.</blockquote>
 
 The Heart Sutra has only two hundred seventy Chinese characters, yet it contains all of Mahayana Buddhism’s teaching. Inside this sutra is the essence of the Diamond Sutra, the Avatamsaka-sutra, and the Lotus Sutra. It contains the meaning of all the eighty-four thousand sutras. It is chanted in every Mahayana and Zen temple in the world. In Korean temples and in our Zen centers in the West, the Heart Sutra is chanted at least twice every day, in the morning and at night, and during retreats it is chanted more. Sometimes if you find that your mind is not clear, and meditation does not help so much, you must read this sutra. Then your mind will become clear.
