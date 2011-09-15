@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink:  /:year/:month/:day/:title/
-paginate: true
+paginate: 3
 url: http://openbuddha.com
 embedly:
   api_key: ba540e48da1511e0801e4040d3dc5c07
