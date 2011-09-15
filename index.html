@@ -11,6 +11,7 @@ title: Open Buddha
   <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%d %B, %Y - %H:%m" }}</time>  
   <!-- Post title -->
   <h2 class="entry-title"><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p><a href='{{ post.url }}#disqus_thread' data-disqus-identifier='{{post.title | replace:" ","_" }}-{{post.date | date: "%Y-%m-%d"}}'>Comments</A></p>
   <!-- Post content -->
   <span class="entry-content">
   {{ post.content }}
