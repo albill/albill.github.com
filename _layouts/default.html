@@ -58,6 +58,13 @@
               <li><a href="/what-is-open-source-buddhism/">Open Source Buddhism</a></li>
 	    </ul>
 	  </div>
+          <div class='sidebar-sub'>
+	    <ul>
+              {% for category in site.categories %}
+              <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+              {% endfor %}
+            </ul>
+          <div>
 	  <div class='sidebar-sub'>
 	    <H1>RSS</H1>
 	    <A HREF="http://feeds.feedburner.com/openbuddha"><IMG SRC="/images/rss2.png" /></A>
