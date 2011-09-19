@@ -4,23 +4,9 @@ title: Archives
 ---
 <h2>Archives</h2>
 <p>You can look at posts by <a href="categories.html">categories</a> and <a href="tags.html">tags</a>.</p>
- 
-{% for year in (2005..2015) reversed %}
-	{% if site.collated_posts[year] %}
-		<h2 class="archives">{{ year }}</h2>
-	{% endif %}
-	{% for month in (1..12) reversed %}
-		{% if site.collated_posts[year][month] %}
-			<h3>{{ month | to_month }}</h3>
-			<ul class="archive-page">
-			{% for day in (1..31) reversed %}
-				{% if site.collated_posts[year][month][day] %}
-					{% for post in site.collated_posts[year][month][day] reversed %}
-						<li><a href='{{ site.base_url }}{{ post.url }}' title="{{ post.title }}">{{ post.title }}</a></li>
-					{% endfor %}
-				{% endif %}
-			{% endfor %}
-			</ul>
-		{% endif %}
-	{% endfor %}
-{% endfor %}
+
+<ul class="posts">
+        {% for post in site.posts %}
+        <li><b>{{ post.date | date_to_string }}</b> >> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+</ul>
