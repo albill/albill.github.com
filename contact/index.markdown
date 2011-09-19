@@ -19,6 +19,9 @@ title: Contact
     <a href="https://kindle.amazon.com/profile/Louis-Albert-Billings/204497" rel="me"><img src="/images/amazon-48x48.png" width="40" height="40" alt="Amazon"> <strong>Amazon</strong> kindle.amazon.com</a>
   </li>
   <li>
+    <a href="http://www.flickr.com/photos/albill/" rel="me"><img src="/images/flickr-48x48.png" widith="40" height="40" alt="Flickr"> <strong>Flickr</strong> flickr.com/albill</a>
+  </li>
+  <li>
     <a href="http://www.goodreads.com/openbuddha" rel="me"><img src="/images/goodreads-48x48.png" width="40" height="40" alt="Goodreads"> <strong>Goodreads</strong> goodreads.com/openbuddha</a>
   </li>
   <li>
