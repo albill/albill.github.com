@@ -1,24 +1,20 @@
 ---
 layout: default
 ---
-<div id="content">
-	<div class="post">
-		<h1 class="post-title">{{ page.year }}</h1>
-		<p class="lead">Posts from the year {{ page.year }}</p>
-		{% for m in (1..12) reversed %}
-			{% if page.collated_posts[page.year][m] %}
-				<h3>{{ m | date_to_month }}</h3>
-				{% for d in (1..31) reversed %}
-					{% if page.collated_posts[page.year][m][d] %}
-						{% for p in page.collated_posts[page.year][m][d] reversed %}
-							<div>
-								<strong>{{ p.date | date: "%d" }}</strong>
-								<a href='{{ p.url }}'>{{ p.title }}</a>
-							</div>
-						{% endfor %}
-					{% endif %}
-				{% endfor %}
-			{% endif %}
-		{% endfor %}
-	</div>
-</div><!-- end: #content-->
+
+<h2>{{ page.year }}</h2>
+
+{% for m in (1..12) reversed %}
+  {% if site.collated_posts[page.year][m] %}
+    <h3>{{ m | to_month }}</h3>
+    <ul>
+    {% for d in (1..31) reversed %}
+      {% if site.collated_posts[page.year][m][d] %}
+        {% for p in site.collated_posts[page.year][m][d] reversed %}
+          <li><span class="fancy">{{post.date | date: "%B %d"}}</span> <a href="{{site.baseurl}}/{{ p.url }}">{{ p.title }}</a></li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

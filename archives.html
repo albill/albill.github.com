@@ -1,0 +1,17 @@
+---
+layout: default
+title: Archives
+---
+<h2>Archives</h2>
+
+<!--<p><span class="fancy">Note:</span> A list of article <a href="{{site.baseurl}}/tags.html" title="Article Tags List">tags</a> or <a href="{{site.baseurl}}/categories.html" title="Categories List">categories</a> is available for perusing specific topics.</p>-->
+
+<ul class="posts">
+    {% for post in site.posts %}
+	<li><b>{{ post.date | date_to_string }}</b> >> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<p>You can look at posts by <a href="categories.html">categories</a> and <a href="tags.html">tags</a> as well.</p>
+
+
