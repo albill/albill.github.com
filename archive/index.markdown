@@ -1,16 +1,14 @@
---- 
-layout: default
-title: Archive
-status: publish
 ---
-## Archive
+layout: default
+title: Archives
+---
+<h2>Archives</h2>
+<p>You can look at posts by <a href="categories.html">categories</a> and <a href="tags.html">tags</a>.</p>
 
-<ul id="archive">
-  {% for monthly_archive in site.monthly_archives reversed %}
-  <li>
-    <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
-  </li>
-  {% endfor %}
+<ul class="posts">
+    {% for post in site.posts %}
+	<li><b>{{ post.date | date_to_string }}</b> >> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
 </ul>
 
 
