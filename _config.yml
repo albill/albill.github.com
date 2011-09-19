@@ -8,3 +8,7 @@ embedly:
 disqus_username: albill
 twitter_name: openbuddha
 facebook_uid: 139700605
+# Change the dir the individual category files are output to
+category_dir: categories # Default is categories
+# Title to be used when generating the individual category html files prefixed to category name
+category_title_prefix: "categories"
