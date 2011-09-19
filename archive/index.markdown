@@ -4,11 +4,10 @@ title: Archives
 ---
 <h2>Archives</h2>
 <p>You can look at posts by <a href="categories.html">categories</a> and <a href="tags.html">tags</a>.</p>
-
-<ul class="posts">
+ 
+    <ul class="posts">
     {% for post in site.posts %}
 	<li><b>{{ post.date | date_to_string }}</b> >> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
-
 
