@@ -1,5 +1,5 @@
 markdown: rdiscount
-pygments: true
+pygments: false
 permalink:  /:year/:month/:day/:title/
 paginate: 3
 url: http://openbuddha.com
