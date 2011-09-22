@@ -2,7 +2,7 @@
 layout: default
 title:  License
 ---
-The content of `openbuddha.com` is licensed under the <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License</a>. This means that your are free to share bits of this website's content under the following conditions:
+The content of *openbuddha.com* is licensed under the <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License</a>. This means that your are free to share bits of this website's content under the following conditions:
 
 1.  You must **attribute** the work to me in a reasonable way. I'd suggest a link back to the original source in a way that makes it clear where the  material originated.
 
@@ -11,3 +11,4 @@ The content of `openbuddha.com` is licensed under the <a href="http://creativeco
 3.  You must distribute the content **without modification**.
 
 4.   This applies to photos as well, folks.
+
