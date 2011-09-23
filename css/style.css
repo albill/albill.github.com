@@ -48,7 +48,7 @@ a:visited {
 }
 
 .openyoucontainer {
-    width:850px;
+    width:900px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -66,8 +66,8 @@ a:visited {
 }
 
 .sidebar-header-image {
-    width:200px;
-    height:200px;
+    width:267px;
+    height:300px;
 }
 
 .sidebar img {
@@ -81,7 +81,7 @@ a:visited {
  }
 
 .sidebar {
-    width : 200px;
+    width : 270px;
     float : left;
 }
 
