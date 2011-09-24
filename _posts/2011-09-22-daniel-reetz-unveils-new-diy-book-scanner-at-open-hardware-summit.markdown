@@ -11,6 +11,8 @@ tags:
 type: post
 status: publish
 ---
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174041867/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6153/6174041867_ce2fb46b28.jpg" width="500" height="374" alt=""></a></p>
+
 My friend, <a href="http://www.danreetz.com">Daniel Reetz</a>, was a speaker at the recent <a href="http://www.openhardwaresummit.org">Open Hardware Summit</a>. His talk there was called "DIY Book Scanning: Open Hardware for Open Content." Daniel is well known for inventing the <a href="http://www.diybookscanner.org">DIY Book Scanner</a>, which has grown into an entire community of people on diybookscanner.org that builds their own scanners.
 
 As I've mentioned before, Myles and I of <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> have been working on an iteration of Daniel's designs (mostly Myles with me for grunt work). Myles, consulting with Daniel, worked out a laser cut version of the platen and some of the difficult pieces of the book scanner which, when combined with commodity parts from a hardware store, make it fairly easy to make your own book scanner. AMT was selling beta kits of these at the Maker Faire a few months ago. 
@@ -28,3 +30,13 @@ You can <a href="http://vimeo.com/29184137">watch the entirety</a> of Daniel's s
 <div style="text-align:center"><object width="500" height="281"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=29184137&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=29184137&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=ffffff&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object></div>
 
 Thanks for all of the hard work you've put into this project, Daniel!
+
+<strong>Update:</strong> Daniel came to the weekly AMT meeting this evening and we all geeked out. He brought his homemade suitcase made to hold the book scanner for the trip to the Open Hardware Summit. He opened it up and he and some of us put the whole thing together from pieces (minus cameras) in about 15 minutes. I took a few photos of it and him (the one at the top of the post) with my phone and added them to the AMT flickr collection that I have. I include two below:
+
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174041265/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6177/6174041265_5eb41a3e14.jpg" width="374" height="500" alt=""></a></p>
+
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174042229/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6164/6174042229_3db4e07acc.jpg" width="374" height="500" alt=""></a></p>
+
+This thing is great. We got to play with how Daniel used bungie to add tension to counterweight the whole thing. Previous book scanners lower the platen (with the glass) onto the carriage holding the book. This design raised the carriage and the book up to the fixed glass for each photo, which is mechanically triggered by the bike brake lever, which also acts as the handle for the whole motion. It is amazingly smooth.
+
+AMT will be looking to potentially sell kits of this scanner as things firm up a bit.
