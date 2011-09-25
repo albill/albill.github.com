@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-09-06 02:38:00'
 layout: post
+slug: radio-free-tantra
+status: publish
 title: Radio Free Tantra
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '938'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I found <a href="http://www.lamrim.com">LamRim.com</a> today. It is a Tibetan Buddhist internet radio site but they make their files available in mp3 format. This is very convenient since I have a largish mp3 player that I can take with me. Now I just need to be able to play mp3 files in the car and I'd be set.
 

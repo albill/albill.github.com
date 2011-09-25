@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-31 11:54:49'
 layout: post
+slug: house-guests-and-shingon
+status: publish
 title: House Guests and Shingon
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1151'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 My friend, Nathan, is staying with us as of yesterday. He arrived on the train from Seattle the other week to work a contract job locally (he's a sysadmin). It turns out that the mutual friend that he was staying with decided to move at the end of the month so Nathan needed to find another place to stay briefly. He's looking at apartments and I've passed his resume around my work so there is a chance we'll wind up working together (or at least in the same building).
 

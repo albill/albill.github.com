@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-10 12:03:45'
 layout: post
+slug: whew
+status: publish
 title: Whew!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1079'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I took some time last night and exported most of the year 2002 from my old Livejournal account to XML and then imported it into this blog. I need to do 2003 and some weeding still.
 

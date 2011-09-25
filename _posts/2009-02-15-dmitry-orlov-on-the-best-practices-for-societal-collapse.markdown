@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2009-02-15 00:27:37'
 layout: post
+slug: dmitry-orlov-on-the-best-practices-for-societal-collapse
+status: publish
 title: Dmitry Orlov on the Best Practices for Societal Collapse
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: dimitry-orlov-on-the-best-practices-for-societal-collapse
-  ljID: "3477"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2685'
+categories:
 - Books
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/3280075527/" title="Brand and Orlov by albill, on Flickr"><img src="http://farm4.static.flickr.com/3186/3280075527_5202e5363f.jpg" width="500" height="376" alt="Brand and Orlov" border="1" /></a><br><em>Stewart Brand and Dmitry Orlov</em></p>
 

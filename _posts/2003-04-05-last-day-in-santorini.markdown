@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-05 23:10:00'
 layout: post
-title: Last Day in Santorini
-published: true
-meta: 
-  ljID: "2224"
-tags: 
-- Daily Life
-type: post
+slug: last-day-in-santorini
 status: publish
+title: Last Day in Santorini
+wordpress_id: '1344'
+categories:
+- Daily Life
 ---
 Today we were going to go on a glass-bottom boat cruise out to the volcano and the hot springs but the weather was very overcast this morning. We went out to breakfast but it was still bad so we cancelled that trip. As it turns out, the weather cleared up by the time the boat would have left but since it is a cable-car trip down a cliff at the old port, we couldn&apos;t make it in time.
 

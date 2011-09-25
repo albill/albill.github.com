@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-05-05 18:21:43'
 layout: post
+slug: happy-birthday-my-mighty-wife
+status: publish
 title: Happy Birthday, My Mighty Wife!
-published: true
-meta: 
-  ljID: "3240"
-tags: 
+wordpress_id: '2216'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 I want to wish my wife, tolerant and heroic soul that she is, a very happy birthday. As you can imagine, she is a bodhisattva with unlimited and heroic compassion for her grump filled, bookish and nerdish spouse.
 

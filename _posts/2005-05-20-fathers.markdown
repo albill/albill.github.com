@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-05-20 01:44:36'
 layout: post
-title: Fathers
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: fathers
 status: publish
+title: Fathers
+wordpress_id: '464'
+categories:
+- Daily Life
 ---
 <p>Thinking tonight, I never really had a father.</p>
 <p>I mean, sure, I have one. We all do. Mine has never, essentially, been in my 

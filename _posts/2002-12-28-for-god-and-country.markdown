@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-28 18:32:00'
 layout: post
+slug: for-god-and-country
+status: publish
 title: For God and Country
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1073'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I'm off soon to go play a minor role that my little lodge, the <a href="http://www.ogdoadic.com/ouroboros/">Citadel of the Ouroboros</a>, is playing at <a href="http://www.oloteas.org/announce.asp#79">Concentric Circles</a> today. This is a local pagan community event. We did a ritual last year, not terribly complex but with lots of people attending, and got asked back this year. We decided to do something much smaller this time.  got suckered into leading it as the senior member of the group (and because I did it last year).
 

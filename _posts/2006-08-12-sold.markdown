@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-12 01:22:46'
 layout: post
-title: SOLD!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: sold
 status: publish
+title: SOLD!
+wordpress_id: '1160'
+categories:
+- Daily Life
 ---
 Our house, after three extensions due to paperwork screwups with the buyer, their agent, and the lendor, finally officially sold just before 5:00 PM on Wedesday. I received the net proceeds via wire transfer on Thursday (I refused to believe the sale until I received the money).
 

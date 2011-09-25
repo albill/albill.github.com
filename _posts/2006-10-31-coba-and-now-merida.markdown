@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-31 21:52:40'
 layout: post
-title: Coba and now Merida...
-published: true
-meta: 
-  ljID: "2273"
-tags: 
-- Daily Life
-type: post
+slug: coba-and-now-merida
 status: publish
+title: Coba and now Merida...
+wordpress_id: '1428'
+categories:
+- Daily Life
 ---
 We left the east coast of the Yucatan peninsula today. We headed east towards Merida via Coba, another well known ruins site.
 

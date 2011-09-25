@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2007-11-30 12:24:27'
 layout: post
-title: More E-sangha Thought Control
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3050"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-- e-sangha
-- Spirituality
-type: post
+slug: more-e-sangha-thought-control
 status: publish
+title: More E-sangha Thought Control
+wordpress_id: '2124'
+categories:
+- Buddhism
+- Spirituality
+tags:
+- e-sangha
 ---
 Zen teacher Jundo Cohen has just <a href="http://treeleafzen.blogspot.com/2007/11/sit-long-with-jundo-banned.html">mentioned on his blog</a> and videocast that he has been banned from E-angha. (E-sangha is a well known (or notorious) Buddhist web forum that I've blogged about before...)
 <p align="center"><a href="http://www.flickr.com/photos/albill/2075792071/" title="jundo-banned by albill, on Flickr"><img src="http://farm3.static.flickr.com/2061/2075792071_a6489402b1_o.jpg" alt="jundo-banned" height="321" width="389" /></a></p>

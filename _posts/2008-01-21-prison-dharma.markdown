@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-01-21 00:58:58'
 layout: post
+slug: prison-dharma
+status: publish
 title: Prison Dharma
-published: true
-meta: 
-  ljID: "3130"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2161'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/2207523369/" title="dhamma-brothers by albill, on Flickr"><img src="http://farm3.static.flickr.com/2267/2207523369_2a0ed7ffb2_o.jpg" width="477" height="321" alt="dhamma-brothers" /></a></div>
 

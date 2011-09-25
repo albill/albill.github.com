@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-30 15:51:51'
 layout: post
-title: When it rains...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: when-it-rains
 status: publish
+title: When it rains...
+wordpress_id: '247'
+categories:
+- Daily Life
 ---
 <p>Alright, that&#39;s enough...</p>
 <p>I took my OTHER cat of many years, Pollux, my tom, to the vet today because 

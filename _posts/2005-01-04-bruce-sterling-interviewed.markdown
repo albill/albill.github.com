@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-04 22:15:03'
 layout: post
-title: Bruce Sterling Interviewed
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: bruce-sterling-interviewed
 status: publish
+title: Bruce Sterling Interviewed
+wordpress_id: '354'
+categories:
+- Notable People
 ---
 <p>St. Bruce is doing his &quot;State of the World 2005&quot; interview at
 <a href="https://user.well.com/engaged/engaged.cgi?c=inkwell.vue&f=0&t=234">

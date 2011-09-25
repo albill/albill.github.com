@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-16 00:43:00'
 layout: post
-title: Gettin' rid of books
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: gettin-rid-of-books
 status: publish
+title: Gettin' rid of books
+wordpress_id: '1379'
+categories:
+- Daily Life
 ---
 This is directed at the Seattle tribe.
 

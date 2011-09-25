@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-18 08:18:28'
 layout: post
-title: Roman Ruins Day!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: roman-ruins-day
 status: publish
+title: Roman Ruins Day!
+wordpress_id: '263'
+categories:
+- Daily Life
 ---
 R and I got up this morning, did the normal breakfast-at-the-hotel thing and then took the subway down to the Coliseum and the Roman Forum. Our plan for the day was to go through the sights there.
 

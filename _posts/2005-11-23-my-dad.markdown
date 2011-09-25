@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-11-23 18:18:51'
 layout: post
-title: My Dad
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: my-dad
 status: publish
+title: My Dad
+wordpress_id: '603'
+categories:
+- Daily Life
 ---
 <p>I heard from my dad. He was supposed to arrive in town yesterday but he  missed his flight in some kind of horror story. In the process of missing his  flight, he also lost (or had stolen) his shaving kit. That wouldn't be so bad  except his medications and his checks (and maybe his credit cards, I'm not sure)  were in them.</p> <p>He finally arrived earlier today but his high school friend picked him up. He  is going to go crash at his friend's place which means he won't be here until <strong> <em>tomorrow</em></strong> now. He had mentioned before about maybe visiting my aunt in  Everett for Thanksgiving and it seems like he is (which I found out from his  stream of consciousness ramble on the phone). This means that I may not see him  until tomorrow night. If it gets too late, he could possibly stay there. This  means, that my dad who was going to come in on Tuesday, may not arrive at my  home until Friday...</p> <p>An hour or so ago the airline called me and asked for my dad's name. Since  this also happens to be my legal name, it was one of those &quot;Well, this is him  but I think you're looking for my dad&quot; kind of things. I hate it when that  happens. In any case, they found his bag. They could fedex it to us but it won't  get here until Tuesday because of the holidays. I called Lou (my dad) and told  him and they might have the airline put the bag on a normal flight but that  means they have to go to SeaTac on the evening before Thanksgiving to get it. I  wouldn't wish that on anyone.</p> <p>On the plus note, it means Thanksgiving Dinner may be more quiet since R and  I will be alone here. Madeline is out of town with her mother and her mother's  family until Saturday afternoon.</p>

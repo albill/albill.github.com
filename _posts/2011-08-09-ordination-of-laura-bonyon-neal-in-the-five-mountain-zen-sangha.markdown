@@ -1,23 +1,20 @@
---- 
+---
+author: admin
+date: '2011-08-09 19:51:33'
 layout: post
-title: "Ordination of Laura B\xC5\x8Fny\xC5\x8Dn Neal in the Five Mountain Zen Sangha"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3865"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: ordination-of-laura-bonyon-neal-in-the-five-mountain-zen-sangha
+status: publish
+title: Ordination of Laura Bŏnyōn Neal in the Five Mountain Zen Sangha
+wordpress_id: '3804'
+categories:
 - Buddhism
+- Spirituality
+tags:
 - five mountain sangha
 - five mountain seminary
 - maine
 - ordination
-- Spirituality
 - zen
-type: post
-status: publish
 ---
 <p style="text-align:center"><a href="https://picasaweb.google.com/111733482846562810869/TrueNatureZenCtrCeremonies2011?fgl=true&pli=1#5638114373142351458"><img src="https://lh5.googleusercontent.com/-cPvQ1WTkVzs/Tj6bJn4sjmI/AAAAAAAAAJM/AagbPC0QNI4/s720/P1030247.JPG" width="500" alt="Jiun and Bŏnyōn"></a></p>
 I've been working with some of the students at the <a href="http://five-mountain.org">Five Mountain Buddhist Seminary</a> for a couple of years now. One of our students, Laura Neal, has been running a small sangha, the True Nature Zen Center, in Bar Harbor, Maine. Laura runs a yoga studio there on the island (among her many other talents).

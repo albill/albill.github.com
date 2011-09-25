@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-09 14:33:11'
 layout: post
+slug: tricycle-community
+status: publish
 title: Tricycle Community
-published: true
-meta: 
-  ljID: "3471"
-tags: 
+wordpress_id: '2664'
+categories:
 - Buddhism
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3266975429/"><img src="http://farm2.static.flickr.com/1413/3266975429_97d45c145d_m.jpg" border="1" align="right" width="176" height="240" hspace="10" alt="Tricycle Cover 2009" /></a><a href="http://www.tricycle.com/">Tricycle magazine</a> seems to be doing a good job at promoting their new community site at <a href="http://community.tricycle.com/">http://community.tricycle.com/</a>. Effectively, it is a social networking site (similar to Facebook or Livejournal) for Buddhists.
 

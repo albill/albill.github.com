@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-11 23:03:59'
 layout: post
-title: Things missed for Japan
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
-- folsom gay happiness
-- Society
-type: post
+slug: things-missed-for-japan
 status: publish
+title: Things missed for Japan
+wordpress_id: '2011'
+categories:
+- Society
+tags:
+- folsom gay happiness
 ---
 ... about going to Japan is that we missed the Folsom Street Fair this year. We went last year and we took a few pictures. Personally, I don't recall seeing anything too terribly unusual there but maybe I'm just blind or something.
 <p align="center"><a href="http://www.flickr.com/photos/albill/1548317773/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2002/1548317773_b24a38a7e3.jpg" alt="homosexual_sadists_blasphemy" border="1" height="376" width="500" /></a></p>

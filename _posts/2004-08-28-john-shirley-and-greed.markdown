@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-28 21:23:01'
 layout: post
-title: John Shirley and Greed
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: john-shirley-and-greed
 status: publish
+title: John Shirley and Greed
+wordpress_id: '219'
+categories:
+- Society
 ---
 John Shirley is one of my heroes.
 

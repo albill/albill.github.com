@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-17 11:24:46'
 layout: post
-title: Ancient World News
-published: true
-meta: 
-  _oembed_9fe2b759f23129ebda797b5820c2cc16: "{{unknown}}"
-  _oembed_2e2b94a36216378423a8535243f12d72: "{{unknown}}"
-  _oembed_c2390253ba2eeb7cc276b1d3f9e3782f: "{{unknown}}"
-tags: 
-- Society
-type: post
+slug: ancient-world-news
 status: publish
+title: Ancient World News
+wordpress_id: '446'
+categories:
+- Society
 ---
 <p>Classics geeks rejoice! From
 <a href="http://news.independent.co.uk/world/science_technology/story.jsp?story=630165">

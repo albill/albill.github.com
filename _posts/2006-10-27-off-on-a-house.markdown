@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-27 09:43:53'
 layout: post
-title: Offer on a House
-published: true
-meta: 
-  ljID: "2268"
-tags: 
-- Daily Life
-type: post
+slug: off-on-a-house
 status: publish
+title: Offer on a House
+wordpress_id: '1423'
+categories:
+- Daily Life
 ---
 R and I met with our agent early this morning. We signed an offer on the house that we looked at the other day. If things go well, we will hear back before we leave for Mexico tonight.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-26 04:07:00'
 layout: post
+slug: kick-assthe-pomegranate
+status: publish
 title: Kick Ass...the Pomegranate
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '862'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 You can read the first 17 issues of the Pomegranate online now as a PDF file <a href="http://www.uscolo.edu/natrel/pom/backissues.html">here</a>.
 

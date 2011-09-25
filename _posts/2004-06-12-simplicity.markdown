@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-12 16:00:00'
 layout: post
-title: Simplicity
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: simplicity
 status: publish
+title: Simplicity
+wordpress_id: '141'
+categories:
+- Daily Life
 ---
 <blockquote>Simplicity and non-violence are obviously closely related.
 The optimal pattern of consumption, producing a high degree of human

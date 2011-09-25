@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-20 18:02:39'
 layout: post
-title: Music for the Geek Masses
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: music-for-the-geek-masses
 status: publish
+title: Music for the Geek Masses
+wordpress_id: '327'
+categories:
+- Humor
 ---
 Now available for less than $6 in the iTunes store:
 

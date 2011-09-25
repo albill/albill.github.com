@@ -1,19 +1,16 @@
---- 
+---
+author: admin
+date: '2009-07-05 21:07:03'
 layout: post
+slug: caught-between-the-worlds
+status: publish
 title: Caught Between the Worlds
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3556"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2829'
+categories:
 - Buddhism
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I went to a Fourth of July BBQ in Concord yesterday. The hosts were the friends that own <a href="http://www.fieldsbooks.com/cgi-bin/fields/index.html">Fields Books</a> in San Francisco. They have a nice house with a pool out back and we got to mix with a bunch of people that we hadn't necessarily seen in a while, such as Sam Webster, who performed our wedding ceremony back in 2004. 
 

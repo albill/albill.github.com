@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-29 21:11:31'
 layout: post
+slug: all-wiretapping-all-the-time
+status: publish
 title: All Wiretapping, All the Time!
-published: true
-meta: 
-  ljID: "2714"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1794'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><img src="http://www.arcanology.com/images/dcs3000.png" title="Cutsey DCS 3000 Logo" alt="Cutsey DCS 3000 Logo" border="0" height="222" hspace="5" vspace="5" width="218" /></div>
 

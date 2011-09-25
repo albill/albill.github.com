@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-07-18 02:32:13'
 layout: post
+slug: burning-man-and-friends
+status: publish
 title: Burning Man and Friends
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1141'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 The camp that I am with for Burning Man will be camping in open space near our previous campmates due to requirements that the overall camp had placed on membership. There simply wasn't room for the group of us without causing issues.
 

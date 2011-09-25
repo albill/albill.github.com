@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-25 15:47:37'
 layout: post
+slug: koyasan-pilgrimages
+status: publish
 title: Koyasan Pilgrimages
-published: true
-meta: 
-  ljID: "3041"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2120'
+categories:
 - Books
 - Buddhism
-type: post
-status: publish
 ---
 <img src="http://farm3.static.flickr.com/2262/2064011768_88fc8064d9_m.jpg" width="160" height="240" align="right" alt="sacred-koyasan" />I noticed today that Philip Nicoloff's book, <a href="http://www.amazon.com/gp/product/0791472604">"Sacred Koyasan: A Pilgrimage to the Mountain Temple of Saint Kobo Daishi and the Great Sun Buddha"</a>, is out now.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-06 05:42:00'
 layout: post
-title: Minneapolis
-published: true
-meta: 
-  ljID: "2808"
-tags: 
-- Daily Life
-type: post
+slug: minneapolis-2
 status: publish
+title: Minneapolis
+wordpress_id: '1885'
+categories:
+- Daily Life
 ---
 I&apos;m in Minneapolis using my friend, Elliott&apos;s, computer. I&apos;m staying with him and his wife this evening. 
 

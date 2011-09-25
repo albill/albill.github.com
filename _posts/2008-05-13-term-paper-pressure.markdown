@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-05-13 00:57:23'
 layout: post
+slug: term-paper-pressure
+status: publish
 title: Term Paper Pressure
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3255"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2222'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2489196806/" title="office-space on Flickr"><img border="1" src="http://farm3.static.flickr.com/2369/2489196806_3c1a6e9485.jpg" width="500" height="334" alt="office-space" /></a></p>
 The process of writing a term paper is always painful in a way. You're writing a paper for a class in which you wish to get a good grade and the paper is almost always at least 50% of the grade (75% in my case). That's a little pressure. In my case, you can add to this pressure the fact that the class is taught by a professor that you admire and whom you'd like to be your dissertation advisor (if you are even accepted into the doctoral program). 

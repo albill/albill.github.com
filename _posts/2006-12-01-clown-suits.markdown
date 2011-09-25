@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-12-01 01:34:48'
 layout: post
+slug: clown-suits
+status: publish
 title: Clown Suits
-published: true
-meta: 
-  ljID: "2313"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1466'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I need a better clown suit. The cheap ones will not suffice to satisfy me any longer. I must be properly accessorized as well.
 

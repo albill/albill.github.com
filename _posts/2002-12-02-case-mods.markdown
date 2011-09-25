@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-02 23:36:00'
 layout: post
+slug: case-mods
+status: publish
 title: Case Mods
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1040'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 This one just makes me smile. <a href="http://www.sheff.com/projects/HellRaiser/hellraiser01.html">http://www.sheff.com/projects/HellRaiser/hellraiser01.html</a>

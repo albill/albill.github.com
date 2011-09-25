@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-08 23:23:07'
 layout: post
+slug: relevancy-and-spirituality
+status: publish
 title: Relevancy and Spirituality
-published: true
-meta: 
-  ljID: "2525"
-tags: 
+wordpress_id: '1660'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 One of the primary tasks that I see for those of us who wish for our spirituality to have an impact on the world is to identify its relevancy for other people. Obviously, if you embark down a spiritual path, you find it fulfilling and relevant (or at least you hope that you do...). You study, you practice (or whatever), and go about your life.
 

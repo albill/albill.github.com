@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-04 11:43:00'
 layout: post
-title: Undead Rock Stars
-published: true
-meta: 
-  ljID: "2977"
-tags: 
-- Daily Life
-type: post
+slug: undead-rock-stars
 status: publish
+title: Undead Rock Stars
+wordpress_id: '2055'
+categories:
+- Daily Life
 ---
 Who looks worse?
 

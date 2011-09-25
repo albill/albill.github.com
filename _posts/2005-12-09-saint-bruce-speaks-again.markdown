@@ -1,19 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-09 20:23:27'
 layout: post
+slug: saint-bruce-speaks-again
+status: publish
 title: Saint Bruce Speaks Again!
-published: true
-meta: 
-  enclosure: |
-    http://blog.invisible.ch/files/Tweakfest-BruceSterling.mp3
-    24198300
-    audio/mpeg
-
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '624'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 As many of my friends know, I'm a Bruce Sterling fanboy. I took great umbrage  recently when one of my friends informed me that "Bruce Sterling is an  asshole...not as bad as Harlan Ellison, but still an asshole." He rolled his  eyes at me when I said in the couple of times I'd seen Bruce Speak and from the  speeches, interviews, and casual interactions that I've either heard or read, he  doesn't seem too much like a prick (and, hell, I should know).
 

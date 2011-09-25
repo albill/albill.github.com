@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-07 14:25:25'
 layout: post
+slug: california
+status: publish
 title: California
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '730'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Needless to say, I'm back and I survived California. I thought it amusing that the plane was mostly empty going down there and completely full coming back. More people leaving than going, perhaps? :-)
 

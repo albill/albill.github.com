@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-28 01:50:29'
 layout: post
+slug: a-barge-on-the-water
+status: publish
 title: A Barge on the Water
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '755'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 I visited with my friend, Catherine, this evening. She's living on a Barge-type houseboat in Fremont right next to the Burke-Gilman trail and Adobe's parking lot, almost under the Aurora Bridge.
 

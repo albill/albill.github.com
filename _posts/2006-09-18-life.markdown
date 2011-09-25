@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-09-18 01:53:53'
 layout: post
+slug: life
+status: publish
 title: Life
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1199'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <blockquote>There are no winners. There are only survivors.</blockquote>
 - <em>Thoughts while listening to my old Nirvana albums from college</em>

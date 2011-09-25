@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-13 21:21:00'
 layout: post
+slug: yay
+status: publish
 title: Yay!!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1242'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 My prayers are answered.
 

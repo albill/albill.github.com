@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-05 14:39:31'
 layout: post
+slug: meditation-for-the-homeless
+status: publish
 title: Meditation for the Homeless
-published: true
-meta: 
-  ljID: "2519"
-tags: 
+wordpress_id: '1655'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 My wife, R, sent me this article this afternoon. It is about a meditation program run by the <a href="http://www.sfzc.org/">San Francisco Zen Center</a> that works with the homeless.
 <h2>Woman Offers Meditation To The Homeless</h2>

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-12-09 12:59:06'
 layout: post
+slug: buddhist-visits
+status: publish
 title: Buddhist Visits
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3440"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2577'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 On a different note than my personal health battles, I did want to mention a couple of items of interest. On Sunday, when I was feeling pretty well, I met with Ed, a newly arrived Zen priest who only lives a few blocks away from me. Ed is a member of the <a href="http://www.boundlesswayzen.org/">Boundless Way Zen</a> organization, which is actively primarily in New England. James Ford, who has an active <a href="http://monkeymindonline.blogspot.com/">blog</a> presence, is one of the heads of this organization and I've had some correspondence with him over time online. He put me in touch with Ed, who moved to the Bay Area back in August.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-09 18:30:33'
 layout: post
-title: Japan Trip Begins to Firm Up
-published: true
-meta: 
-  ljID: "2735"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: japan-trip-begins-to-firm-up
 status: publish
+title: Japan Trip Begins to Firm Up
+wordpress_id: '1818'
+categories:
+- Daily Life
 ---
 I'm  waiting for the confirmation but it looks like R and I will be in Tokyo from the afternoon of September 22, when we land, through the morning of Tuesday, September 25. At that point, we'll be taking the bullet train to Kyoto and will be there for probably a week.
 

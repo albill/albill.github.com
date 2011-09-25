@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-20 03:18:00'
 layout: post
-title: Dinner with Mom on Wednesday
-published: true
-meta: 
-  ljID: "2854"
-tags: 
-- Daily Life
-type: post
+slug: dinner-with-mom-on-wednesday
 status: publish
+title: Dinner with Mom on Wednesday
+wordpress_id: '1932'
+categories:
+- Daily Life
 ---
 <i>I sent this out to friends, local OTO and Seattle Pagan Scholars people this evening...Local Seattle pagan and occult types are welcome here...</i>
 

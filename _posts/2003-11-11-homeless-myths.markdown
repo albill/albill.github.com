@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-11-11 18:51:00'
 layout: post
+slug: homeless-myths
+status: publish
 title: Homeless Myths
-published: true
-meta: 
-  ljID: "2906"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1983'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I remember this being discussed online when I was in Greece but I never read the details until now. I thought I'd share them. This looks quite old (1997??). I would love to see a book documenting these myths.
 

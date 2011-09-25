@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2005-03-25 22:48:26'
 layout: post
+slug: lord-ganesh
+status: publish
 title: Lord Ganesh
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3393"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '434'
+categories:
 - Academic
 - Buddhism
-type: post
-status: publish
 ---
 This last summer, I was exposed to Ganesh or Ganapati in a Tibetan Buddhist context. Up to this point, I'd only been familiar with him from the Hindu context:
 <p align="center"><img width="175" vspace="5" hspace="5" height="250" border="1" alt="Hindu Ganesh" src="http://www.arcanology.com/images/Ganapati.jpg" /></p>

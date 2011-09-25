@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2004-04-30 21:51:00'
 layout: post
+slug: ritual-magick-how-pagans-will-save-the-world
+status: publish
 title: Ritual, Magick & How Pagans will Save the World
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '95'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I just added this to <a href="http://www.hermetic.com/webster/">http://www.hermetic.com/webster/</a>. Sam sent it to me today... This was a speech at Oberlin College. Sam is the fellow performing my wedding this fall.
 <h2>Ritual, Magick & How Pagans will Save the World</h2>

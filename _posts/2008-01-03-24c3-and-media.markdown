@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-03 23:19:42'
 layout: post
-title: 24C3 and Media
-published: true
-meta: 
-  ljID: "3115"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: 24c3-and-media
 status: publish
+title: 24C3 and Media
+wordpress_id: '2152'
+categories:
+- Technology
 ---
 The <a href="http://events.ccc.de/congress/2007/Main_Page">24th Chaos Communication Congress</a> (24C3) in Germany has been over for a couple of days now. This is an annual event (the 24th, strangely) organized by the <a href="http://www.ccc.de/">Chaos Computer Club</a>. As their site states:
 <blockquote>The Congress offers lectures and workshops on a multitude of topics and attracts a diverse audience of thousands of hackers, scientists, artists, and utopians from all around the world. The 24C3s slogan is Volldampf voraus! – the German equivalent of “full steam ahead” – a particular request for talks and projects featuring forward looking hands-on topics. </blockquote> 

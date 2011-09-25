@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-09 17:05:54'
 layout: post
-title: More Meditation Studies
-published: true
-meta: 
-  _oembed_4b289a0ce0600399bb1c21c88ef34605: "{{unknown}}"
-  _oembed_c23bf3c6742d062f3693eaf98c2b0978: "{{unknown}}"
-  _oembed_16e9d6b3b0eec521871156a1c5166d0e: "{{unknown}}"
-tags: 
-- Buddhism
-type: post
+slug: more-meditation-studies
 status: publish
+title: More Meditation Studies
+wordpress_id: '479'
+categories:
+- Buddhism
 ---
 From
 <a href="http://www.eurekalert.org/pub_releases/2005-06/ra-tmy060705.php">

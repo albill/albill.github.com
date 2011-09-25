@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-06-17 13:26:51'
 layout: post
+slug: firefox-2k-and-shipping
+status: publish
 title: Firefox 2K and Shipping
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3296"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2243'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Today is Firefox 3 day!
 

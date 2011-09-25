@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-11-13 21:42:54'
 layout: post
-title: Weekend at Berkeley's
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: weekend-at-berkeleys
 status: publish
+title: Weekend at Berkeley's
+wordpress_id: '589'
+categories:
+- Daily Life
 ---
 <p>I came back to Seattle this morning after my short visit with friends and  family in the Bay Area. I arrived in the early afternoon on Friday and drove up  to my in-laws for a while, where I was staying. In the evening, I met with Kat  and Ashton at a nice Thai placed called &quot;Cha'am&quot; in north Berkeley. The food was  excellent and we chatted about this and that, mostly catching up or talking  about <a href="http://en.wikipedia.org/wiki/Thelema">Thelemic</a> events, work, etc. After dinner, we went over to a local pub that  brews its own beer and hung out for another hour or two before heading home. </p> <p>The next day, I stayed in Berkeley for the most part, spending some time  wandering about Solano and purchasing a couple of things at <strong> <a href="http://www.boneroom.com/">The Bone Room</a></strong>, which is where I'd  gotten trilobite fossils in the past. I must say that the resin cast replica  fetus skulls were a tad on the disturbing side. I can envision some burning man  crew walking around with spears with these dangling from them or something  similar. </p> <p align="center"> &nbsp;<img width="125" height="122" border="1" align="top" alt="Bone Clones Human Fetal Skull - 20 weeks" src="http://www.boneroom.com/casts/images_bc/human_fetal20.jpg" /> <img width="125" height="113" border="1" align="top" alt="Bone Clones Human Fetal Skull - 24 weeks" src="http://www.boneroom.com/casts/images_bc/human_fetal24.jpg" /> <img width="125" height="119" border="1" align="top" alt="Bone Clones Human Fetal Skull - 30 weeks" src="http://www.boneroom.com/casts/images_bc/human_fetal30.jpg" /></p> <p>In the mid-afternoon, I went to meet with some of the people from the <strong> <a href="http://www.osogd.org/">Open Source Order of the Golden Dawn</a></strong>.  After chatting for a while, we headed over to <strong>Tandoori Chicken U.S.A.</strong>,  which is this ex-burger drive-in that (you guessed it!) serves Indian food. It  was surprisingly good but the general condition of the place and the kitchen did  not inspire confidence. After this, I attended the group's meeting at the <strong> <a href="http://www.paxtempli.net/">Pax Templi</a></strong> space and then went out  with Mark and James for beers in downtown Berkeley at a well-known pub named &quot;Jupiters.&quot;  I finally staggered back to my in-laws place at 1:00 AM, slept for five hours  and then went to the airport to return the car and catch my flight home.  Needless to say, I'm a little tired today. It's good to be home and it was a  fun, short trip.</p>

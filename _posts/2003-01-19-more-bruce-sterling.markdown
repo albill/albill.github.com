@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-19 16:49:00'
 layout: post
+slug: more-bruce-sterling
+status: publish
 title: More Bruce Sterling
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1252'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 Obviously, I like Bruce Sterling a lot. Here is a recent online interview at the WELL.
 

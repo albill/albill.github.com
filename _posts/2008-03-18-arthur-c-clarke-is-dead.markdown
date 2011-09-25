@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-18 14:36:13'
 layout: post
+slug: arthur-c-clarke-is-dead
+status: publish
 title: Arthur C. Clarke is Dead
-published: true
-meta: 
-  ljID: "3193"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2189'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2343488115/" title="Arthur C. Clarke by albill, on Flickr"><img align="right" border="0" hspace="10" vspace="10" src="http://farm3.static.flickr.com/2345/2343488115_fae1d0864b_o.jpg" width="217" height="294" alt="Arthur C. Clarke" /></a> <a href="http://ap.google.com/article/ALeqM5ijDA5bgxiHlTvS_r-SSjskS1Tq1wD8VG3BKO4">According to Reuters</a>, Sir <a href="http://en.wikipedia.org/wiki/Arthur_C._Clarke">Arthur C. Clarke</a> died today. 
 

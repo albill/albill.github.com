@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2009-01-18 18:54:03'
 layout: post
+slug: buddhist-zombie-hordes
+status: publish
 title: Buddhist Zombie Hordes
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3459"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2624'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/3207655599/" title="actuarial by albill, on Flickr"><img src="http://farm4.static.flickr.com/3458/3207655599_eb9e89a4c1_o.jpg" width="413" height="228" border="1" alt="actuarial" /></a><br><em>Obligatory XKCD Reference</em></p>
 

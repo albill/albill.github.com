@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-07 20:29:00'
 layout: post
-title: Knossos
-published: true
-meta: 
-  ljID: "2226"
-tags: 
-- Daily Life
-type: post
+slug: knossos
 status: publish
+title: Knossos
+wordpress_id: '1346'
+categories:
+- Daily Life
 ---
 We arrived in Crete last night and checked into the Hotel Kronos, a little cheap hotel right on the waterfront by the old Venetian fortifications. We went out to dinner and then stayed up late hanging out (we didn&apos;t arrive until six or so local time in the evening).
 

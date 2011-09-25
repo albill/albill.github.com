@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-13 00:48:44'
 layout: post
+slug: eternathesis
+status: publish
 title: EternaThesis
-published: true
-meta: 
-  ljID: "2528"
-tags: 
+wordpress_id: '1663'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 It's 12:41 AM as I write this. I have just concluded my rewrite of the fourth chapter of my thesis. (I've also managed to make consistent every instance of "Cabala" in the thesis.)
 

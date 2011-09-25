@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-15 01:40:00'
 layout: post
-title: Hippie Buddhists
-published: true
-meta: 
-  ljID: "2810"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: hippie-buddhists
 status: publish
+title: Hippie Buddhists
+wordpress_id: '1887'
+categories:
+- Buddhism
 ---
 I'm sitting in the airport in Minneapolis right now. This is where my lay over for the trip home from Conway, MA has left me for a couple of hours. Luckily, the plain came in 30 minutes early so I have even more time to sit in the food court!! ;-) I think I'll write a bit of an account of my trip...
 

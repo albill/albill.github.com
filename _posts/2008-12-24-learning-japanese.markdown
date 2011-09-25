@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-12-24 13:55:07'
 layout: post
+slug: learning-japanese
+status: publish
 title: Learning Japanese
-published: true
-meta: 
-  ljID: "3447"
-tags: 
+wordpress_id: '2600'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 As part of my ongoing Academic work, I need to know Japanese. This is especially true if I am accepted into the doctoral program at the Graduate Theological Union. Since there is a while until this program starts, I've been working on self-study of Japanese. It is definitely slow going to self-study a language and I'm going to have to take some classes during this next year to accompany it. The time involved in learning a language is a bit daunting. It takes a regular commitment to it and then you have to find a way to use it.
 

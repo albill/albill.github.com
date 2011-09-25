@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-11 02:22:00'
 layout: post
-title: Ouch...
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: ouch
 status: publish
+title: Ouch...
+wordpress_id: '1274'
+categories:
+- Humor
 ---
 Zero pressure isn't exactly good for things living at the bottom of the sea!
 

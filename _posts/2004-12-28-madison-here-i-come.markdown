@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-28 08:48:25'
 layout: post
-title: Madison, Here I Come!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: madison-here-i-come
 status: publish
+title: Madison, Here I Come!
+wordpress_id: '340'
+categories:
+- Buddhism
 ---
 I'm going to Madison, Wisconsin at the end of January now. I hadn't  originally planned on attending this but an old friend of mine that I  reconnected with last year is also involved in Dzogchen and Vajrayana. Younge  Khachab Rinpoche is now his primary teacher and he's been telling me a lot of  excellent things about him. Apparantly, he's quite the scholar and he's very  open to teaching Dzogchen and related practices to sincere practitioners without  being ultraorthodox like some teachers are notorious for being. That isn't to  say he's out in the weeds but that his focus is on practice and in working with  people. One of the fundamental things I've been looking for in my involvement  with Tibetan Buddhism is a teacher that I can make a personal connection with  and actually get to work with individually.
 

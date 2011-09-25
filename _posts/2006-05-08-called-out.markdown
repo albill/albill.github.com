@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-08 23:32:17'
 layout: post
-title: Called Out...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: called-out
 status: publish
+title: Called Out...
+wordpress_id: '768'
+categories:
+- Daily Life
 ---
 Oops, looks like I <a href="http://minimsft.blogspot.com/2006/04/microsoft-fy06q3-results.html#c114631560962450571">made someone cranky</a>...
 

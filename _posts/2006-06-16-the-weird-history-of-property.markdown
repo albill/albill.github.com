@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-16 03:19:45'
 layout: post
+slug: the-weird-history-of-property
+status: publish
 title: The Weird History of Property
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1114'
+categories:
 - Academic
 - Society
-type: post
-status: publish
 ---
 <p>Is it weird that I'm writing a paper on Jean-Jacques Rousseau's "<a href="http://www.constitution.org/jjr/ineq.htm">Discourse on the Origin of Inequality</a>" and I keep being struck by the simularities between his argument for the origins of inequality and Daniel Quinn's work? Rousseau places the origin of inequality in a number of developments from pre-social humanity (the "noble savage" though he never used the term). One of these is the development of the rational mind and language. The other, though, is in the origin of property in agriculture.</p>
 <p>He says, "The first man who, having enclosed a piece of ground, bethought himself of saying <em>This is mine</em>, and found people simple enough to believe him, was the real founder of civil society. From how many crimes, wars and murders, from how many horrors and misfortunes might not any one have saved mankind, by pulling up the stakes, or filling up the ditch, and crying to his fellows, 'Beware of listening to this impostor; you are undone if you once forget that the fruits of the earth belong to us all, and the earth itself to nobody.'"</p>

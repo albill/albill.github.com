@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-01 20:10:39'
 layout: post
-title: Cat Meets Ferret
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: cat-meets-ferret
 status: publish
+title: Cat Meets Ferret
+wordpress_id: '276'
+categories:
+- Daily Life
 ---
 <p>The new kitty, Nova, has never been left out when Thalia, our ferret, has 
 been loosed from her cage...until now. Frankly, the cat didn't seem to know what 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-11-30 00:52:13'
 layout: post
-title: The Destruction of the American Dream
-published: true
-meta: 
-  ljID: "3047"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: the-destruction-of-the-american-dream
 status: publish
+title: The Destruction of the American Dream
+wordpress_id: '2123'
+categories:
+- Society
 ---
 I've been reading "<a href="http://www.amazon.com/Trap-Selling-Afloat-Winner-Take-All-America/dp/0805080651/">The Trap: Selling Out to Stay Afloat in Winner-Take-All America</a>" during the last few evenings and it got me thinking a bit.
 

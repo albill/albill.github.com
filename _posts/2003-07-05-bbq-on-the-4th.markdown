@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-05 02:46:00'
 layout: post
-title: BBQ on the 4th
-published: true
-meta: 
-  ljID: "2490"
-tags: 
-- Daily Life
-type: post
+slug: bbq-on-the-4th
 status: publish
+title: BBQ on the 4th
+wordpress_id: '1628'
+categories:
+- Daily Life
 ---
 R and I got up today, still pretty stunned about Tim&apos;s death yesterday. I gave Sam Webster a call, who we also wanted to see while we were here (we asked Sam to officiate at our wedding) and he invited us over for a little BBQ at his place.
 

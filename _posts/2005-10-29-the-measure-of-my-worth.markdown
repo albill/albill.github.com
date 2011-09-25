@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-10-29 18:09:28'
 layout: post
-title: The Measure of My Worth
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: the-measure-of-my-worth
 status: publish
+title: The Measure of My Worth
+wordpress_id: '583'
+categories:
+- Humor
 ---
 <p>My blog:</p> <div align="center" style="border: 1px solid #cccccc; background-color: white; width: 115px; text-align: center; padding: 0 0 10px 0;"><p><img border="0" src="http://static.flickr.com/23/25822676_789bf55448_t.jpg" /><br /> 		<span style="font-size: 11px;">My <a href="http://zhangzhung.net/blog/">blog</a> is worth <strong>$6,209.94</strong>.</span><br /><span style="font-size: 10px;"><a href="http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/">How much is your blog worth?</a></span></p><p><a href="http://www.technorati.com/"><img border="0" src="http://technorati.com/pix/tech-logo-embed.gif" /></a></p></div> <p>Of course, if I measure a well known blog that I run for my employer, I get:</p> <div align="center" style="border: 1px solid #cccccc; background-color: white; width: 115px; text-align: center; padding: 0 0 10px 0;"><p><img border="0" src="http://static.flickr.com/23/25822676_789bf55448_t.jpg" /><br /> 		<span style="font-size: 11px;">My  blog is worth <strong>$1,239,729.84</strong>.</span><br /><span style="font-size: 10px;"><a href="http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/">How much is your blog worth?</a></span></p><p><a href="http://www.technorati.com/"><img border="0" src="http://technorati.com/pix/tech-logo-embed.gif" /></a></p></div> <div>&nbsp;</div>

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-21 17:06:00'
 layout: post
+slug: get-your-war-on-2
+status: publish
 title: Get Your War On
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1322'
+categories:
 - Humor
 - Society
-type: post
-status: publish
 ---
 The new Get Your War on it up!<img border="1" src="http://www.mnftiu.cc/mnftiu.cc/images/war.138.gif" />
 

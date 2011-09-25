@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2007-10-16 22:39:19'
 layout: post
-title: Ways to Spend Your Evening
-published: true
-meta: 
-  ljID: "2937"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-- iphone pain hell
-- Technology
-type: post
+slug: ways-to-spend-your-evening
 status: publish
+title: Ways to Spend Your Evening
+wordpress_id: '2014'
+categories:
+- Daily Life
+- Technology
+tags:
+- iphone pain hell
 ---
 <img src="http://www.arcanology.com/images/iphone-no.png" alt="Iphone No" align="right" border="0" height="337" hspace="10" vspace="10" width="330" />I've been having issues with my iPhone since I got back from Japan. Yes, I have an iPhone. To use a Charles Stross-ism, I failed on my saving throw versus shiny and wound up getting one (and got dicked by the price change a few weeks later too!).
 

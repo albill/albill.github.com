@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-27 01:13:00'
 layout: post
-title: Free Day!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: free-day
 status: publish
+title: Free Day!
+wordpress_id: '1394'
+categories:
+- Daily Life
 ---
 Today was our extra free non-work day (I hope everyone else took advantage of it as well).
 

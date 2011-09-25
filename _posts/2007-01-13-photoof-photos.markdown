@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-13 18:48:46'
 layout: post
+slug: photoof-photos
+status: publish
 title: Photoof Photos
-published: true
-meta: 
-  ljID: "2364"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1519'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 As noted at the <a href="http://laughingsquid.com/laughing-squid-decade-2-photoboof-photos/">Laughing Squid blog</a> today, the pictures from the <a href="http://photoboof.com/">Photoboof</a> at the Laughing Squid: Decade 2 party are <a href="http://photoboof.com/thephotoboof/squid06/">finally up</a>.
 

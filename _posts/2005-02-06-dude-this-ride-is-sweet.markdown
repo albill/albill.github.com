@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-06 17:05:11'
 layout: post
-title: Dude, this ride is sweet!
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: dude-this-ride-is-sweet
 status: publish
+title: Dude, this ride is sweet!
+wordpress_id: '389'
+categories:
+- Technology
 ---
 I'm sitting in my living room listening to itunes streaming from my AMD64 box in the backroom via wireless on my new 12" Powerbook.
 

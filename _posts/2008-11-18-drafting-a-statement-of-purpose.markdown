@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-11-18 17:39:05'
 layout: post
-title: Drafting a Statement of Purpose
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3432"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: drafting-a-statement-of-purpose
 status: publish
+title: Drafting a Statement of Purpose
+wordpress_id: '2559'
+categories:
+- Daily Life
 ---
 My application for the doctoral program at the Graduate Theological Union is just about complete. The PhD that I would like to mentor my work there has sent in a recommendation letter for me. This makes me pretty happy as I'm really hoping that we can work together. 
 

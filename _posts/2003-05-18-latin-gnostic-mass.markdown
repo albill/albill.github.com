@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-05-18 16:08:00'
 layout: post
+slug: latin-gnostic-mass
+status: publish
 title: Latin Gnostic Mass
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1383'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I found this at <a href="http://www.geocities.com/nu_isis/xv_latin.html">http://www.geocities.com/nu_isis/xv_latin.html</a>.
 

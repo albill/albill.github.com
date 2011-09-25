@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-19 23:28:14'
 layout: post
-title: Clarence Darrow on Crime and Criminals
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: clarence-darrow-on-crime-and-criminals
 status: publish
+title: Clarence Darrow on Crime and Criminals
+wordpress_id: '448'
+categories:
+- Society
 ---
 <p>My current paper (the final one for my classes this term) is on Freedom 
 versus Determinism, specifically in the contemporary issue of the responsibility 

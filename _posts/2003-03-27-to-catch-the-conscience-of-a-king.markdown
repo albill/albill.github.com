@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-27 20:28:00'
 layout: post
-title: To Catch the Conscience of a King
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: to-catch-the-conscience-of-a-king
 status: publish
+title: To Catch the Conscience of a King
+wordpress_id: '1328'
+categories:
+- Society
 ---
 This was written by one of the fellows that works for me that I've known for the past year or so. ;-)
 

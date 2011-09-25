@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-12-05 16:02:34'
 layout: post
-title: My Name In Print
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3437"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: my-name-in-print
 status: publish
+title: My Name In Print
+wordpress_id: '2569'
+categories:
+- Daily Life
 ---
 While testing a Firefox security release, I have to go through a series of testing of search plugins and the like to verify that things are still working correctly. One tends to enter random things when doing testing of this sort (or goes mad from tedium) so I searched on my name on <a href="http://www.a9.com">a9.com</a>. I was surprised to see that <a href="http://a9.com/%22Al%20Billings%22">the results</a> included mentions of my name in books on Amazon. 
 

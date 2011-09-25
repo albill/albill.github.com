@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-17 14:05:09'
 layout: post
-title: Death
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: death-2
 status: publish
+title: Death
+wordpress_id: '1090'
+categories:
+- Daily Life
 ---
 I just found out that a friendly acquaintance of mine, Leigh Ann, was killed last night in a motorcycle accident. She was one of the OTO people that I had met in the Bay Area through my attending of PantheaCon and going to other events down there over the last few years.
 

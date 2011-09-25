@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-03 16:16:42'
 layout: post
+slug: mindfulness-and-the-brain-video-available
+status: publish
 title: Mindfulness and the Brain Video Available
-published: true
-meta: 
-  ljID: "3060"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2127'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 The <strong>Down to a Science Cafe</strong> <a href="http://www.sciencecafesf.com/">blog</a> has <a href="http://www.sciencecafesf.com/2007/12/03/meditation-cafe-videospics-are-up/">posted a follow-up</a> to the Mindfulness and the Brain presentation that I <a href="http://www.arcanology.com/2007/11/28/mindfulness-and-the-brain-the-neuroscience-of-meditation/">posted about last week</a>.
 

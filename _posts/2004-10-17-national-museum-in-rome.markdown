@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-17 04:11:06'
 layout: post
-title: National Museum in Rome
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: national-museum-in-rome
 status: publish
+title: National Museum in Rome
+wordpress_id: '262'
+categories:
+- Daily Life
 ---
 We're on the Internet earlier than normal today as everything seems to shut down a bit on Sunday AND we are changing rooms at our hotel so we have to wait to go back. 
 

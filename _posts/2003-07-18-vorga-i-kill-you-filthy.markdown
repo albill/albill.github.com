@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-18 02:52:00'
 layout: post
-title: "\"Vorga, I kill you filthy.\""
-published: true
-meta: 
-  ljID: "2499"
-tags: 
-- Daily Life
-type: post
+slug: vorga-i-kill-you-filthy
 status: publish
+title: '"Vorga, I kill you filthy."'
+wordpress_id: '1637'
+categories:
+- Daily Life
 ---
 I picked up a copy of <b>The Stars My Destination</b> the other day. It&apos;s my favorite science fiction novel of all time. I&apos;m encouraging R to read it after she finished <b>Little, Big</b>. If you haven&apos;t read it, you should. Almost 50 years after it was written, it still stands the test of time.
 

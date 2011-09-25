@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-25 02:42:00'
 layout: post
-title: Moving Sucks
-published: true
-meta: 
-  ljID: "2481"
-tags: 
-- Daily Life
-type: post
+slug: moving-sucks
 status: publish
+title: Moving Sucks
+wordpress_id: '1618'
+categories:
+- Daily Life
 ---
 I hate packing boxes.
 

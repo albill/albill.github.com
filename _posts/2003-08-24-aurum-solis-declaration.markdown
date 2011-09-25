@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-24 23:10:00'
 layout: post
-title: Aurum Solis Declaration
-published: true
-meta: 
-  ljID: "2788"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: aurum-solis-declaration
 status: publish
+title: Aurum Solis Declaration
+wordpress_id: '1864'
+categories:
+- Daily Life
 ---
 As people may recall, the Aurum Solis became an exclusively Christian order <b>and</b> removed the charter of its North American bodies just over a year ago. As of the last month, there is now a new Grand Master for the Aurum Solis who is based in France. Osborne Philips (aka Leon) has stepped down. The new Grand Master posted a declaration in French the other week. The official English translation from him (or someone in the Aurum Solis) is available now. 
 

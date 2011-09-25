@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-30 01:47:38'
 layout: post
-title: More Meditation and Brain Scan News
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: more-meditation-and-brain-scan-news
 status: publish
+title: More Meditation and Brain Scan News
+wordpress_id: '457'
+categories:
+- Spirituality
 ---
 <h2>Scans of Monks' Brains Show Meditation Alters Structure, Functioning</h2>
 <h2><i>November&nbsp;5,&nbsp;2004;&nbsp;Page&nbsp;B1</i>, Wall Street Journal</h2>

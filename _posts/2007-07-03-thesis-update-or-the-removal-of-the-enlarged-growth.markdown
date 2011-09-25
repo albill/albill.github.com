@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-03 22:35:55'
 layout: post
-title: Thesis Update or the removal of the enlarged growth
-published: true
-meta: 
-  ljID: "2638"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: thesis-update-or-the-removal-of-the-enlarged-growth
 status: publish
+title: Thesis Update or the removal of the enlarged growth
+wordpress_id: '1739'
+categories:
+- Academic
 ---
 I realized that I hadn't posted much publicly about my thesis issues and their resolution. I blogged recently about issues around my thesis running long and the fifth chapter that I had spent a month and a half, off and on, working on.
 

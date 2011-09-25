@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2010-05-06 10:33:47'
 layout: post
+slug: reprint-of-prison-chaplaincy-guidelines-for-zen-buddhism-available
+status: publish
 title: Reprint of "Prison Chaplaincy Guidelines for Zen Buddhism" Available
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3620"
-tags: 
+wordpress_id: '3134'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.engaged-zen.org/Site%20Art/CGangle.jpg" align="right" width="167" heigh="207" hspace="10" vspace="5">The reprint of "Prison Chaplaincy Guidelines for Zen Buddhism" from the <a href="http://www.engaged-zen.org/">Engaged Zen Foundation</a> is finally available. This is one of a number of guides for people engaged in prison ministry within the context of Zen Buddhism and contains quite a bit of practical information.
 

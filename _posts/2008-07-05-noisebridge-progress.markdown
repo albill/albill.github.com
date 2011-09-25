@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2008-07-05 00:09:11'
 layout: post
+slug: noisebridge-progress
+status: publish
 title: Noisebridge Progress
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3313"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2258'
+categories:
 - Daily Life
 - Hacking
 - Technology
-type: post
-status: publish
+tags:
+- Hacking
 ---
 <img src="http://www.arcanology.com/images/NB-logo-red-black-med.gif" align="right" hspace="10">I mentioned back in January that there was a hacking space in formation in the Bay Area. This is <a href="http://www.noisebridge.net">Noisebridge</a>. I wanted to give an update on what's been going on with it. 
 

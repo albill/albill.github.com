@@ -1,19 +1,16 @@
---- 
+---
+author: admin
+date: '2010-09-14 16:03:16'
 layout: post
+slug: patheos-book-club
+status: publish
 title: Patheos Book Club
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3689"
-tags: 
+wordpress_id: '3295'
+categories:
 - Books
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4991599940/" title="Deepak Chopra's Buddha by albill, on Flickr"><img src="http://farm5.static.flickr.com/4110/4991599940_6cb837114f.jpg" width="201" height="300" hspace="10" align="right" alt="Deepak Chopra's Buddha" /></a> <a href="http://www.patheos.com">Patheos</a>, an interfaith web site, is now running book clubs as part of their site. You can see their page for <a href="http://www.patheos.com/Find/Religion-and-Faith-Book-Club.html">Religion and Faith Book Club</a> and they <a href="http://www.patheos.com/About-Patheos/Press-Room/In-the-News/Patheos-Book-Club.html">posted a press release</a> about it this weekend.
 

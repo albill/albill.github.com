@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-03-27 15:01:17'
 layout: post
+slug: seminaries-and-training-in-the-west
+status: publish
 title: Seminaries and Training in the West
-published: true
-meta: 
-  ljID: "2441"
-tags: 
+wordpress_id: '1578'
+categories:
 - Buddhism
 - Society
-type: post
-status: publish
 ---
 <div align="center"><img src="http://www.arcanology.com/images/zen-study.jpg" title="Zen Study" alt="Zen Study" border="1" height="216" hspace="2" vspace="10" width="320" /></div>One of the things that comes up a lot in the talks with my Buddhist teacher is the lack of Buddhist seminary facilities in the West. If you are on a Buddhist path towards ordination, either as a hermit or largely solitary practitioner or as one who will eventually be a leader of a sangha or one of the leaders, there is a lot of difficulty in receiving fully rounded training.
 

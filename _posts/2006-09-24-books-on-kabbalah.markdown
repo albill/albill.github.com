@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-24 19:44:53'
 layout: post
-title: Books on Kabbalah
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: books-on-kabbalah
 status: publish
+title: Books on Kabbalah
+wordpress_id: '1206'
+categories:
+- Academic
 ---
 Why does it turn out that the one traditional book on Kabbalah that I don't own is MacGregor Mathers' <strong>Kabbalah Unveiled</strong>?
 

@@ -1,24 +1,23 @@
---- 
+---
+author: admin
+date: '2011-05-02 16:35:05'
 layout: post
+slug: the-three-pathways-of-awakening-class-1-rough-notes
+status: publish
 title: The Three Pathways of Awakening - Class 1 Rough Notes
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3825"
-tags: 
+wordpress_id: '3699'
+categories:
 - Buddhism
-- buddhist geeks
-- dharma
 - Esoteric
-- hokai
-- online course
 - Spirituality
 - Technology
+tags:
+- buddhist geeks
+- dharma
+- hokai
+- online course
 - threepathways
 - vajrayana
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/2523155407/" title="taizokai-vairocana by albill, on Flickr"><img src="http://farm3.static.flickr.com/2329/2523155407_482e157abd.jpg" width="391" height="500" alt="taizokai-vairocana"></a></p>
 I am taking <a href="http://www.hokai.info">Hokai Sobol's</a> online course, <a href="http://www.buddhistgeeks.com/threepathways/">The Three Pathways of Awakening</a>, which is offered through Buddhist Geeks. This is a six-part course that is offered every Sunday morning at 9:00 AM my time for the next six weeks.

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-15 20:20:53'
 layout: post
-title: It can be dangerous to run Tor
-published: true
-meta: 
-  ljID: "2742"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: it-can-be-dangerous-to-run-tor
 status: publish
+title: It can be dangerous to run Tor
+wordpress_id: '1822'
+categories:
+- Technology
 ---
 Alex Janssen has <a href="http://itnomad.wordpress.com/2007/09/16/tor-madness-reloaded/">posted a blog entry</a> about how his home was raided by the German police because he runs a Tor node. The node was used by someone for a death threat (according to the police) and they raided Alex's home becaue of the threat. Of course, the odd thing is that the Tor node isn't hosted in his home but elsewhere.
 

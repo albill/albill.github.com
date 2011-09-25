@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-21 23:08:03'
 layout: post
-title: Thank you, Warren Ellis.
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: thank-you-warren-ellis
 status: publish
+title: Thank you, Warren Ellis.
+wordpress_id: '334'
+categories:
+- Humor
 ---
 <A href="http://www.diepunyhumans.com/archives/001119.html">http://www.diepunyhumans.com/archives/001119.html</A>
 

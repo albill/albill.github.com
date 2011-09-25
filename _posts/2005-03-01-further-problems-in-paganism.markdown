@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-01 09:53:33'
 layout: post
-title: Further Problems in Paganism
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Esoteric
-type: post
+slug: further-problems-in-paganism
 status: publish
+title: Further Problems in Paganism
+wordpress_id: '411'
+categories:
+- Esoteric
 ---
 This is an interesting (and depressing) read though it mirrors things that I've seen.
 

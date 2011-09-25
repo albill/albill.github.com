@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-06 11:05:00'
 layout: post
-title: Followup on the Death of the American Justice
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: followup-on-the-death-of-the-american-justice
 status: publish
+title: Followup on the Death of the American Justice
+wordpress_id: '358'
+categories:
+- Society
 ---
 <a href="http://www.nytimes.com/2005/01/06/opinion/06danner.html">http://www.nytimes.com/2005/01/06/opinion/06danner.html</a>
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-22 21:48:16'
 layout: post
-title: Sitting Meditation
-published: true
-meta: 
-  ljID: "2706"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: sitting-meditation
 status: publish
+title: Sitting Meditation
+wordpress_id: '1788'
+categories:
+- Buddhism
 ---
 This has been making the rounds with a few people but is still worth noting, I think. Patrick has put a guide up for basic zazen practice that is fairly good as well as entertaining.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-23 00:04:28'
 layout: post
+slug: day-of-the-dead-2
+status: publish
 title: Day of the Dead
-published: true
-meta: 
-  ljID: "2944"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2021'
+categories:
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 One inevitable fact of getting older is that the longer that you live, the more you will see your friends, family and loved ones fall to the Reaper. The only other choice (hah!) is to fall under his scythe yourself. This is normally quite sad, occasionally a relief for the party involved, but is simply the way of things.
 

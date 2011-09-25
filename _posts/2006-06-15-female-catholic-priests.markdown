@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-15 01:31:05'
 layout: post
-title: Female Catholic Priests
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: female-catholic-priests
 status: publish
+title: Female Catholic Priests
+wordpress_id: '1112'
+categories:
+- Spirituality
 ---
 More power to 'em!
 

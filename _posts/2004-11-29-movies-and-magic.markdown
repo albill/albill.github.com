@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-29 22:59:05'
 layout: post
-title: Movies and Magic
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: movies-and-magic
 status: publish
+title: Movies and Magic
+wordpress_id: '299'
+categories:
+- Daily Life
 ---
 <p>The last week with the long weekend has been the weekend of many movies. 
 Along with Netflix movies, R and I rented a couple and then I bought a few. </p>

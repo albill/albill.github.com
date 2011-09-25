@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-23 12:17:07'
 layout: post
-title: Lovecraft
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Science Fiction
-type: post
+slug: lovecraft
 status: publish
+title: Lovecraft
+wordpress_id: '268'
+categories:
+- Science Fiction
 ---
 <p>I just found out that Open Circle Theatre is presenting more Lovecraftian 
 horror in their live show. Last year, R and I went and saw their production of 

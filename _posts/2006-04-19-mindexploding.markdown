@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-19 00:44:35'
 layout: post
+slug: mindexploding
+status: publish
 title: Mind...exploding...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '744'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <font size="12"><em><strong>AAAAAHHH!!! HOMER!!!!  AAAAAAHHHH!!!! PLATO!!!!!</strong></em></font>
 

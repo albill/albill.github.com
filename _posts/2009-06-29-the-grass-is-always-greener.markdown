@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-06-29 17:23:46'
 layout: post
+slug: the-grass-is-always-greener
+status: publish
 title: The Grass is Always Greener
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3554"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2827'
+categories:
 - Buddhism
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 My friend, <a href="http://zangthal.blogspot.com/">Jason</a>, posted this picture today:
 

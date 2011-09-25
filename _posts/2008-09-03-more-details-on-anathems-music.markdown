@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-09-03 23:43:43'
 layout: post
-title: More Details on Anathem's Music
-published: true
-meta: 
-  ljID: "3377"
-tags: 
-- Science Fiction
-type: post
+slug: more-details-on-anathems-music
 status: publish
+title: More Details on Anathem's Music
+wordpress_id: '2436'
+categories:
+- Science Fiction
 ---
 David Stutz has <a href="http://synthesist.net/music/2008/08/mohr-mascheroni-math-in-the-music-of-anathem/">a post</a> on his music blog on the composition of the music for Neal Stephenson's <strong>Anathem</strong> that he did. 
 

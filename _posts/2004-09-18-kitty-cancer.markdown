@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-18 00:15:03'
 layout: post
-title: Kitty Cancer
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: kitty-cancer
 status: publish
+title: Kitty Cancer
+wordpress_id: '237'
+categories:
+- Daily Life
 ---
 <p>My cat has breast cancer. I noticed a smallish lump (or something) in Freya&#39;s 
 belly a while back but didn&#39;t think much of it at the time as she has long hair 

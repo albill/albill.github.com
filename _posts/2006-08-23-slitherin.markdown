@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-23 22:45:48'
 layout: post
+slug: slitherin
+status: publish
 title: Slitherin...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1171'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 R and I went to see <strong>Snakes on a Plane</strong> last night. I must say, it was an extremely 'B' movie but fun nonetheless. I expected non-stop idiocy and snakes and that is what I received. Good times.
 

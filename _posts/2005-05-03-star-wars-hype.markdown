@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-05-03 09:28:07'
 layout: post
-title: Star Wars Hype
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: star-wars-hype
 status: publish
+title: Star Wars Hype
+wordpress_id: '460'
+categories:
+- Science Fiction
 ---
 <P>I received an e-mail from Alienware (my work has bought an alienware laptop before) with some of the following details.</P>
 <P>Am I the only one that finds this appalling?</P>

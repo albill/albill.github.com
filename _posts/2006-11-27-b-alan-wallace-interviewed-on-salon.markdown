@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-11-27 16:41:27'
 layout: post
+slug: b-alan-wallace-interviewed-on-salon
+status: publish
 title: B. Alan Wallace Interviewed on Salon
-published: true
-meta: 
-  ljID: "2306"
-tags: 
+wordpress_id: '1460'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 B. Alan Wallace is one of my favorite Buddhist teachers who is now working in neuroscience looking at consciousness.
 

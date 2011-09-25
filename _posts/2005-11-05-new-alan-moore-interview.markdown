@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-11-05 23:34:30'
 layout: post
-title: New Alan Moore Interview
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: new-alan-moore-interview
 status: publish
+title: New Alan Moore Interview
+wordpress_id: '586'
+categories:
+- Notable People
 ---
 <p>From <a href="http://enjoyment.independent.co.uk/books/interviews/article324487.ece">http://enjoyment.independent.co.uk/books/interviews/article324487.ece</a></p>
 <h2>Alan Moore: Could it be magic? <span class="starrating"></span></h2>

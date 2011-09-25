@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-16 10:00:30'
 layout: post
-title: Buzz Lightyear Astro Blasters
-published: true
-meta: 
-  ljID: "2249"
-tags: 
-- Daily Life
-type: post
+slug: buzz-lightyear-astro-blasters
 status: publish
+title: Buzz Lightyear Astro Blasters
+wordpress_id: '1406'
+categories:
+- Daily Life
 ---
 R and I went to Disneyland this weekend after we flew down to Los Angeles for a family wedding in San Clemente. R took many photos but here is one memorial of our trip... :-)
 

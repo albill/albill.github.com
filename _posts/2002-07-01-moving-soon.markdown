@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-01 23:07:00'
 layout: post
-title: Moving Soon
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: moving-soon
 status: publish
+title: Moving Soon
+wordpress_id: '870'
+categories:
+- Daily Life
 ---
 Well, R and I found out today we got the house (this is to rent...). As a bonus, in a way, we're moving in, technically, on 7/15 though we'll actually be out of town until 7/18. They didn't want to hold it for us until the end of the month. Since I paid last month's rent on my current place, I don't mind this at all. It will make the move easier for us without being a burden. Since we're moving so soon, we only have to pay a pro-rated half of the first month's rent plus a giant ass deposit (the deposit is a couple of hundred more than a month's rent) but no last month's. Moving out will be harder but we're moving in for a lot less than we expected so we have all of the money on hand. Yay!!
 

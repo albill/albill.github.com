@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-31 17:36:44'
 layout: post
-title: Things that make me afraid for this nation...
-published: true
-meta: 
-  ljID: "2605"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: things-that-make-me-afraid-for-this-nation
 status: publish
+title: Things that make me afraid for this nation...
+wordpress_id: '1713'
+categories:
+- Society
 ---
 This is a transcript from Bill O'Reilly's show on Fox News from yesterday. I actually saw this in realtime as I happened to be doing work on the Internet TV application that I work on and I had heard that McCain was going to be on O'Reilly's show.
 <blockquote>O’REILLY: <strong>But do you understand what the New York Times wants, and the far-left want? They want to break down the white, Christian, male power structure, which you’re a part, and so am I, and they want to bring in millions of foreign nationals to basically break down the structure that we have.</strong> In that regard, Pat Buchanan is right. So I say you’ve got to cap with a number.

@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-09 18:17:10'
 layout: post
+slug: mini-retreat-weekend
+status: publish
 title: Mini-retreat Weekend
-published: true
-meta: 
-  ljID: "2966"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2043'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 R and I are hanging out with the people from the local <a href="http://www.shambhala.org/">Shambhala</a> center this weekend. A couple of years ago (wow), we attended their Level I <a href="http://www.shambhala.org/shambhala-training.php">Shambhala Training</a> together. This was before R had taken refuge or attended any Buddhist retreats or events (as far as I know).
 

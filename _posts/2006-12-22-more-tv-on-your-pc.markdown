@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-22 14:38:04'
 layout: post
-title: More TV on your PC
-published: true
-meta: 
-  ljID: "2331"
-tags: 
-- Technology
-type: post
+slug: more-tv-on-your-pc
 status: publish
+title: More TV on your PC
+wordpress_id: '1485'
+categories:
+- Technology
 ---
 Last week, my team at MobiTV shipped another version of AT&T Broadband TV, the MobiTV PCTV product. This is an online service that MobiTV makes available in partnership with AT&T at <a href="http://att.mobitv.com">http://att.mobitv.com</a>.
 

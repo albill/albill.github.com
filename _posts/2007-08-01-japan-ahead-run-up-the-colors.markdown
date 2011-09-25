@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-01 15:44:13'
 layout: post
+slug: japan-ahead-run-up-the-colors
+status: publish
 title: Japan Ahead! Run up the colors!
-published: true
-meta: 
-  ljID: "2676"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1765'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 Arrr....
 

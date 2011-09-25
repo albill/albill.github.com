@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-02-21 14:52:42'
 layout: post
+slug: b-alan-wallace-meditation-weekend-coming-up
+status: publish
 title: B. Alan Wallace Meditation Weekend Coming Up
-published: true
-meta: 
-  ljID: "3162"
-tags: 
+wordpress_id: '2177'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2281967141/" title="Alan Wallace on Flickr"><img src="http://farm3.static.flickr.com/2119/2281967141_4fed798233_m.jpg" width="169" height="240" align="right" hspace="5" vspace="5" border="1" alt="Alan Wallace" /></a>B. Alan Wallace is doing a retreat weekend locally, in Alameda, next week focusing on meditation. I've blogged about Wallace before (see <a href="http://www.arcanology.com/2005/06/18/from-buddhism-with-an-attitude-by-b-alan-wallace/">here</a>, <a href="http://www.arcanology.com/2006/11/27/b-alan-wallace-interviewed-on-salon/">here</a>, <a href="http://www.arcanology.com/2007/08/07/alan-wallace-interview/">here</a>, and <a href="http://www.arcanology.com/2007/12/24/talk-on-the-shamatha-project-by-b-alan-wallace/">here</a>) and I have a lot of admiration for his work on meditation and his dedication to advancing both meditation and the study of meditation here in the United States.
 

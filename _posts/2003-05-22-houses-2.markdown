@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-22 18:34:00'
 layout: post
-title: Houses
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: houses-2
 status: publish
+title: Houses
+wordpress_id: '1388'
+categories:
+- Daily Life
 ---
 So, two days ago, there was no one else offering on the house that we want. Yesterday, we decided to make an offer. When we got together with our agent in the evening, he found out that another offer was in the works. 
 

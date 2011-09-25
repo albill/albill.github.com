@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-11-01 23:25:23'
 layout: post
-title: Day of the Dead
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: day-of-the-dead
 status: publish
+title: Day of the Dead
+wordpress_id: '585'
+categories:
+- Daily Life
 ---
 <p>Yesterday, for Halloween, we had a small party at work in the test group. One  of the events was the pumpkin carving. While I didn't win, I did get to bring  home a 30 lb or so pumpkin. It has a big scar down the front from how it grew  and I incorporated it into the design. I also took the time to help little  kiddies carve fake (styrofoam or something) pumpkins when they came to trick or  treat. Given how multinational our crew is, I should have expected it but I was  surprised by how many people had never carved a pumpkin before, in both my own  group and with the visiting kids. We have a lot of Indian and Chinese coworkers  (and quite a few one-off people from a variety of other nations). I suppose the  pumpkin carving is really an American tradition more than anything else. They  seemed to get the idea quickly enough though I noticed that no one ever asked  why we did it...</p> <p>When I got home from work, R and I had a dumb supper with a place set for the  dead. For those that don't know, a dumb supper is conducted in silence (hence  the name) with the dead as guests. A place is set for them and food is given to  them. It is a time to contemplate our friends and family that have left the  world as sitting with us as welcome guests for a while. We did this by  candlelight in the dark. After the meal, I took the food out and left it as an  offering near the large tree behind the house. When I've done food offerings  before, the food always goes to that tree, which is at least 50 years old if not  quite a bit older.</p> <p>After this we actually got quite a few trick or treating kids and watched a  little bit of <strong>Firefly</strong>, which R and I have begun to work through, never  having watched the show before.</p>

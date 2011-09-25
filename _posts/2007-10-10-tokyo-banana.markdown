@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-10 14:23:29'
 layout: post
+slug: tokyo-banana
+status: publish
 title: Tokyo Banana
-published: true
-meta: 
-  ljID: "2892"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1968'
+categories:
 - Daily Life
 - Humor
 - Mozilla
-type: post
-status: publish
 ---
 I'm now back at work after my trip to Japan for the last couple of weeks.
 

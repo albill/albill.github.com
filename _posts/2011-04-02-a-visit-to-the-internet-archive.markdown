@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-04-02 11:05:38'
 layout: post
+slug: a-visit-to-the-internet-archive
+status: publish
 title: A Visit to the Internet Archive
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3811"
-tags: 
+wordpress_id: '3677'
+categories:
 - Daily Life
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5581024137/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5174/5581024137_97c68f790c.jpg" width="500" height="375" alt=""></a><br><em>The Internet Archive HQ</em></p>
 A number of us from <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> went to visit the Internet Archive on April 1, 2011. The creator of the DIY Book Scanner, <a href="http://www.danreetz.com/">Daniel Reetz</a>, had come into town to meet with people there on, you guessed it, book scanning. As always, he came by Ace Monster Toys when he arrived to take a look at the progress on our own book scanner. He invited me, Myles, Robbie, and others to go with him to the Internet Archive to check out the book scanners that they use for their ongoing book digitizing efforts.

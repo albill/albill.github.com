@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-26 01:41:00'
 layout: post
-title: The Black Sun Gathering Report
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-black-sun-gathering-report
 status: publish
+title: The Black Sun Gathering Report
+wordpress_id: '861'
+categories:
+- Daily Life
 ---
 So, R and I went to the Black Sun Gathering this weekend.
 

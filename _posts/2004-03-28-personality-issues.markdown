@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-28 23:52:00'
 layout: post
-title: Personality Issues
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: personality-issues
 status: publish
+title: Personality Issues
+wordpress_id: '75'
+categories:
+- Daily Life
 ---
 Monk, Sarastro and I had our final meeting dissolving Ouroboros this evening (and drank a toast of Irish Whiskey to our five years). We'll see if we rise again eventually or not.
 

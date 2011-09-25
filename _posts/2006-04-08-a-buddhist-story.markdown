@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-08 03:22:38'
 layout: post
+slug: a-buddhist-story
+status: publish
 title: A Buddhist Story
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '732'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <h2>The Man Born Blind</h2>
 There was a man born blind, and he said: "I do not believe in the world of light and appearance. There are no colours, bright or somber. There is no sun, no moon, no stars. No one has witnessed these things."

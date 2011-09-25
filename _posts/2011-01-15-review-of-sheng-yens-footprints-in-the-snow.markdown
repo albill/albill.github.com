@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2011-01-15 11:39:40'
 layout: post
+slug: review-of-sheng-yens-footprints-in-the-snow
+status: publish
 title: Review of Sheng Yen's Footprints in the Snow
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3740"
-tags: 
+wordpress_id: '3404'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/5357782484/" title="Footprints in the Snow by albill, on Flickr"><img align="right" hspace="10" vspace="10" src="http://farm6.static.flickr.com/5007/5357782484_1545ed53f1_m.jpg" width="159" height="240" alt="Footprints in the Snow" /></a>
 I just finished reading, "Footprints in the Snow: The Autobiography of a Chinese Buddhist Monk" By Sheng Yen. I'd been wanting to read this since it came out and all the more since his death following the release of the book. (<em>I note that Amazon has the <a href="http://www.amazon.com/Footprints-Snow-Autobiography-Chinese-Buddhist/dp/B003JTHRT6/">book</a> for the "bargain price" of just under $8 right now.</em>)

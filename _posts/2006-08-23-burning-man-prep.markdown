@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-23 10:03:08'
 layout: post
+slug: burning-man-prep
+status: publish
 title: Burning Man Prep
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1170'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Items gathered for Burning Man in the last few weeks:
 <ul>

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-04-14 15:51:09'
 layout: post
+slug: shinto-shrine-visit
+status: publish
 title: Shinto Shrine Visit
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3514"
-tags: 
+wordpress_id: '2746'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3439639093/" title="Tsubaki Grand Shrine of America by albill, on Flickr"><img src="http://farm4.static.flickr.com/3368/3439639093_e870923539.jpg" border="1" width="500" height="375" alt="Tsubaki Grand Shrine of America" /></a></div>
 

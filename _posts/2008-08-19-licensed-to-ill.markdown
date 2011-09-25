@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-08-19 23:28:26'
 layout: post
+slug: licensed-to-ill
+status: publish
 title: Licensed to Ill?
-published: true
-meta: 
-  ljID: "3366"
-tags: 
+wordpress_id: '2400'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 You know, with my shiny Master's degree, I'm supposedly able to teach accredited classes in some jurisdictions (if not all). As I recall, I can teach college undergrads, at least for topics where I have enough credits (which is odd when you have a Humanities interdisciplinary MA). 
 

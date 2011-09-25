@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-03 17:01:56'
 layout: post
-title: Chichen Itza, Uxmal, and Kabah
-published: true
-meta: 
-  ljID: "2276"
-tags: 
-- Daily Life
-type: post
+slug: chichen-itza-uxmal-and-kabah
 status: publish
+title: Chichen Itza, Uxmal, and Kabah
+wordpress_id: '1431'
+categories:
+- Daily Life
 ---
 Yesterday, R and I took a day trip to Chichen Itza with a group. This meant that we could ride in an air conditioned bus the 100+ kilometers there and relax. We also got a guide out of the deal.
 

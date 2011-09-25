@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-01 02:27:31'
 layout: post
-title: Biographical Entry
-published: true
-meta: 
-  ljID: "3120"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: biographical-entry
 status: publish
+title: Biographical Entry
+wordpress_id: '1214'
+categories:
+- Daily Life
 ---
 I don't usually write directly about myself. Most of the people that read my blog (on either my domain or on Livejournal) have known me in person at one time or another. From time to time, I realize that some people reading my blog really may not know that much about me personally. This is an opportunity to rectify that to some degree. I'm not going to take an hour to write this entry so it won't be as long as it could be... (thankfully, I am sure).
 

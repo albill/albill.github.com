@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-24 14:39:22'
 layout: post
-title: Microsoft and Gay Rights
-published: true
-meta: 
-  _oembed_1f49d17ab7b310cf1c06e03ea3635402: "{{unknown}}"
-  _oembed_54666c82808a61d5655bb9aeef130325: "{{unknown}}"
-  _oembed_199085c380a905a203470a2f28f97838: "{{unknown}}"
-tags: 
-- Society
-type: post
+slug: microsoft-and-gay-rights
 status: publish
+title: Microsoft and Gay Rights
+wordpress_id: '452'
+categories:
+- Society
 ---
 <p>As a general rule, I don't talk about my work on my blog. This isn't a 
 technical blog and even though I am a geek, I have a lot of other interests. It 

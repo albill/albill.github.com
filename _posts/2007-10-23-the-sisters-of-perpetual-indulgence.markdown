@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-23 00:01:46'
 layout: post
+slug: the-sisters-of-perpetual-indulgence
+status: publish
 title: The Sisters of Perpetual Indulgence
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2022'
+categories:
 - Daily Life
 - Humor
 - Society
-type: post
-status: publish
 ---
 I was flipping through a scrapbook of my wife's tonight and came across a lot of pictures of the Sisters of Perpetual Indulgence there. I'm a fan of the Sisters of Perpetual Indulgence. I have been since the first time I encountered them, probably at some Pride Day event while living in Seattle. It may seem odd that I am a fan of the Sisters of Perpetual Indulgence. I am, after all, a straight guy from Seattle. My idea of high fashion in my youth was a denim jacket and/or flannel.
 

@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-12-25 15:08:07'
 layout: post
+slug: kindle-e-books-and-hacking
+status: publish
 title: Kindle, E-books, and Hacking
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3603"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2940'
+categories:
 - Books
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4214373974/" title="kindle2"><img src="http://farm3.static.flickr.com/2500/4214373974_8bd75f2d54_m.jpg" width="221" height="240" align="right" border="1" alt="kindle2" /></a> I'm a great lover of books. I spent much of my childhood with a room of the house dedicated to books (aka the "library room"). By the time I moved out after I college, I already owned hundreds of books and I continued to amass them over the years. Being a former occultist, I had acquired the required collection of hard to find texts. At least one friend of mine complained, after a house move more than ten years ago, of having dreams the next night of seeing unending boxes labeled, "Al's Books." Needless to say, the number of books has gotten to be a problem and, at this point, I have a couple of thousand living in boxes in a garage because I don't have room for them in my house and really don't always need them at hand. I've gotten to the point where I will read a book, decide that I'm not going to read it again (nor keep it on hand for others) and I'm not sure what to really do with it. There aren't a lot of good options for what to do with used books unless you don't mind getting completely ripped off selling them to a used bookstore or the like. In an ideal world, I would be able to store the book (so I could have it at hand if I did want it) but not have it take up a lot of space.
 

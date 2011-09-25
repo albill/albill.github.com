@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-01-16 14:23:47'
 layout: post
+slug: seven-things-about-al
+status: publish
 title: Seven Things About Al
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3455"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2610'
+categories:
 - Academic
 - Daily Life
 - Mozilla
-type: post
-status: publish
 ---
 This is a bit of a meme going around the <a href="http://planet.mozilla.org">Mozilla Community</a> right now. People are sharing seven things about themselves that people may not know. Now, given that my blog readership includes a few people who have known me for 20 years, some things may not be a surprise to everyone but I'll see what I can do.
 

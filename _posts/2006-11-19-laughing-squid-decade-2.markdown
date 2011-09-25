@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-19 11:54:06'
 layout: post
-title: "Laughing Squid: Decade 2"
-published: true
-meta: 
-  ljID: "2297"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: laughing-squid-decade-2
 status: publish
+title: 'Laughing Squid: Decade 2'
+wordpress_id: '1452'
+categories:
+- Daily Life
 ---
 R and I went over to San Francisco for the <a href="http://laughingsquid.com/laughing-squid-decade-2/"><strong>Laughing Squid: Decade 2</strong></a> party last night. This was the 11th anniversary party for <a href="http://www.laughingsquid.com">Laughing Squid</a>, a Bay Area institution at this point.
 

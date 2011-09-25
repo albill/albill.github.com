@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-23 00:09:49'
 layout: post
-title: Mom
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: mom
 status: publish
+title: Mom
+wordpress_id: '148'
+categories:
+- Daily Life
 ---
 This is something that I wrote to my mother in an e-mail conversation about whether I approve or disapprove of her, her decisions in life and the role of love. Parents seem to be a reoccurring theme lately given that one of my directs had a parent pass away this week and another two coworkers have both lost a parent within the last few months. <blockquote>I've never said that I disapprove of you. I neither approve nor disapprove of many of your life choices. I'm not in your shoes and I don't have your perspective. None of that has anything with approving of you, personally, though. You have the official "Al Seal of Approval" if you like. It strikes me as personally odd that you would desire my approval. Isn't it supposed to be the other way around? :-)
 

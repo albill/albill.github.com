@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-12-22 19:32:55'
 layout: post
+slug: my-momma-loves-me
+status: publish
 title: My momma loves me
-published: true
-meta: 
-  ljID: "2333"
-tags: 
+wordpress_id: '1487'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <img hspace="10" border="1" align="right" src="http://www.zhangzhung.net/lj/five-fists_.jpg" />My Yule presents from my mother were waiting for me when I got home today. She sent me a copy Library of America's hardcover edition of "<a href="http://www.amazon.com/H-P-Lovecraft-Library-America/dp/1931082723/">H.P. Lovecraft: Tales</a>", edited by Peter Straub. She also sent me a copy of "<a href="http://www.amazon.com/Five-Fists-Science-Matt-Fraction/dp/1582406057/">The Five Fists of Science</a>" graphic novel.
 

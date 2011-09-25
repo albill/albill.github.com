@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-08 18:00:20'
 layout: post
-title: A Buddhist Poem
-published: true
-meta: 
-  ljID: "2322"
-tags: 
-- Buddhism
-type: post
+slug: a-buddhist-poem
 status: publish
+title: A Buddhist Poem
+wordpress_id: '1475'
+categories:
+- Buddhism
 ---
 On an e-mail list today, this poem by an anonymous 14<sup>th</sup> century samurai was posted:
 <blockquote>I have no parents:

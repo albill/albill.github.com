@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-25 07:54:27'
 layout: post
-title: OOB Explanation?
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Spirituality
-type: post
+slug: oob-explanation
 status: publish
+title: OOB Explanation?
+wordpress_id: '532'
+categories:
+- Spirituality
 ---
 This is from <a href="http://www.eurekalert.org/pub_releases/2005-08/uom-em082305.php">http://www.eurekalert.org/pub_releases/2005-08/uom-em082305.php</a>:
 <h2>'Out-of-body' experiences may come from within</h2>

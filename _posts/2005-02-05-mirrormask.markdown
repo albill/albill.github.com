@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-05 18:28:49'
 layout: post
-title: Mirrormask
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: mirrormask
 status: publish
+title: Mirrormask
+wordpress_id: '388'
+categories:
+- Science Fiction
 ---
 The trailer for <b>Mirrormask</b> is out now.
 

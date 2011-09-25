@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2010-05-31 11:19:25'
 layout: post
+slug: amongst-white-clouds-more-chinese-buddhism-in-video
+status: publish
 title: Amongst White Clouds - More Chinese Buddhism in video
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3641"
-tags: 
+wordpress_id: '3167'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Rev. Paul Lynch, my preceptor and the head of the <a href="http://www.fivemountain.org/">Five Mountain Sangha</a>, just did a <a href="http://zenmirror.blogspot.com/2010/05/amongst-white-clouds.html">blog post</a> about "<a href="http://www.amongstclouds.com">Amongst White Clouds</a>," a Buddhist documentary filmed a few years back. Since I've been posting a bit about videos, especially Buddhist documentaries recently, I thought I'd mention it as well.
 

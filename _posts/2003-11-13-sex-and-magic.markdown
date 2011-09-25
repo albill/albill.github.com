@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-13 17:56:00'
 layout: post
-title: Sex and Magic
-published: true
-meta: 
-  ljID: "2907"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: sex-and-magic
 status: publish
+title: Sex and Magic
+wordpress_id: '1984'
+categories:
+- Spirituality
 ---
 R and I attended a class on "Tantra" (really Western Neo-Tantra) last night by one of the members of her Golden Dawn group. Everyone else who had been planning on going bailed so it wound up being the two of us, the roommate of the instructor and the instructor.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-26 03:30:00'
 layout: post
-title: Quote of the Day
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
-- Humor
-type: post
+slug: quote-of-the-day-2
 status: publish
+title: Quote of the Day
+wordpress_id: '799'
+categories:
+- Humor
 ---
 A Mr. Boffo cartoon:
 

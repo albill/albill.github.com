@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-03-23 23:32:04'
 layout: post
-title: Carpentry and Home Ownership
-published: true
-meta: 
-  ljID: "3197"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: carpentry-and-home-ownership
 status: publish
+title: Carpentry and Home Ownership
+wordpress_id: '2192'
+categories:
+- Daily Life
 ---
 It being Easter, Jesus comes to mind today. This, of course, leads to the topic of carpentry and woodworking for, in the model of our lord and savior, I, too, would work with the wood... (Yes, I am still a Buddhist...work with me here.)
 

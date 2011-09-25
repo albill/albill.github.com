@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-28 21:02:00'
 layout: post
+slug: weekends-and-such
+status: publish
 title: Weekends and such
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '998'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 So, we shipped MSN8 last week. If you go to any of the major news outlets, you'll see a review of it (like the Washington Post, or PC Magazine or the New York Times). They are largely favorable, especially for the area that I ran the test team for: Parental Controls. I'm happy that we've been mentioned favorably in almost every review and I'm <strong>very</strong> happy that we've shipped. I've been working about half time on our new project, which is within Windows, and I can now concentrate fully there. This will make my day to day life a bit easier.
 

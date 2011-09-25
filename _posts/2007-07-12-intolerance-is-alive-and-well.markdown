@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-12 20:41:07'
 layout: post
+slug: intolerance-is-alive-and-well
+status: publish
 title: Intolerance is Alive and Well
-published: true
-meta: 
-  ljID: "2653"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1750'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 As a member of a non-mainstream faith and a former Neopagan, I tend to pay attention to religious issues in our culture and the way that minority religions are treated.
 

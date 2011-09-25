@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-07 20:29:37'
 layout: post
-title: First Grade and Next Term
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: first-grade-and-next-term
 status: publish
+title: First Grade and Next Term
+wordpress_id: '621'
+categories:
+- Academic
 ---
 I was told this morning that I received an 'A' on the paper that I just turned in the other day. This gives me an 'A' for my <strong>Para-Rational Perspectives</strong> class. No word yet on <strong>The Individual and Society</strong>, which is being run by my thesis mentor. I expect that I will get an 'A' there unless the worlds are misaligned.
 

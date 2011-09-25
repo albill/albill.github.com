@@ -1,23 +1,16 @@
---- 
+---
+author: admin
+date: '2009-11-16 13:05:58'
 layout: post
+slug: how-to-miss-the-point-of-sl-and-the-dharma
+status: publish
 title: How to miss the point of Second Life and the Dharma
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: how-to-misunderstand-potentials-and-be-an-ass
-  aktt_tweeted: "1"
-  ljID: "3597"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_comments: "0"
-  ljxp_privacy: "0"
-tags: 
+wordpress_id: '2918'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4109511681/" title="Leaf Dharma aka SL Loser"><img src="http://farm3.static.flickr.com/2781/4109511681_fc171ccb1c_o.png" width="320" height="298" align="right" hspace="10" vspace="10" border="1" alt="Leaf Dharma aka SL Loser" /></a>I found <a href="http://buddhisttorrents.blogspot.com/2009/11/second-life-how-about-first-one.html">this blog post</a> today. The author visited Kannonji, the Buddhist space in Second Life that I've discussed recently, and found it disturbing, titillating, and disgusting, seemingly in equal measures. While a few of the criticisms of Second Life are valid, they could be made of almost any online activity. Let's face it, Second Life is basically a Massively Multiplayer Online Role-Playing Game (MMORG) minus any focused game. It's a distributed environment where people will build what they want and interact how they want but with user created content.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-11-14 19:57:59'
 layout: post
-title: The Problems of Using Tor
-published: true
-meta: 
-  ljID: "3033"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: the-problems-of-using-tor
 status: publish
+title: The Problems of Using Tor
+wordpress_id: '2111'
+categories:
+- Daily Life
 ---
 There was an aside about the hacking of the <a href="http://www.torproject.org/">Tor</a> network or, rather, the subverting of it, in a piece in <a href="http://blog.wired.com/27bstroke6">Threat Level</a> today.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-18 02:47:00'
 layout: post
-title: Hekate and the Shee-it
-published: true
-meta: 
-  ljID: "2476"
-tags: 
-- Daily Life
-type: post
+slug: hekate-and-the-shee-it
 status: publish
+title: Hekate and the Shee-it
+wordpress_id: '1613'
+categories:
+- Daily Life
 ---
 <center><font SIZE=+1>THE FIGURE OF HECATE AND DYNAMIC EMANATIONISM IN
 THE</font></center>

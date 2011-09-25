@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-19 18:04:30'
 layout: post
+slug: ie-and-the-demise-of-borgzilla
+status: publish
 title: IE and the Demise of Borgzilla
-published: true
-meta: 
-  ljID: "2870"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1948'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I could have titled this "Things that will not make me new friends on the Internet Explorer team" but this is written out of a real desire to see some things change. I know many many of the people working on IE, some of whom I worked with for five or nine years on a number of projects.
 

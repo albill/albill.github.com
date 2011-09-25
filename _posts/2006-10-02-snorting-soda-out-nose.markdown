@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-02 22:58:55'
 layout: post
+slug: snorting-soda-out-nose
+status: publish
 title: Snorting Soda Out Nose
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1215'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 This news item just about had me rolling out of my chair. As it says, if it wasn't so serious, it would be pretty funny.
 <h2><a href="http://news.yahoo.com/s/afp/20061001/wl_mideast_afp/iraqusshiitesjesus">Iraq Sadr City residents insulted by 'Buddy Jesus'</a></h2>

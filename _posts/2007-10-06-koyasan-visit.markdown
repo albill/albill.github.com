@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-06 05:26:33'
 layout: post
+slug: koyasan-visit
+status: publish
 title: Koyasan Visit
-published: true
-meta: 
-  ljID: "2887"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1964'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I've been offline for a couple of days. R and I took a long train ride (followed by a cable car ride) to Koyasan from Kyoto. We stayed at two temples, Muryoko-in and Eko-in, with guest accommodations. Neither of those had net access (a temple without net access? My word!).
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1494325397/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2149/1494325397_9aea656ca9.jpg" width="500" height="375" border="1" alt="DSCF1468.JPG" /></a></p>

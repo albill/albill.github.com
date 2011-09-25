@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-06-05 23:54:59'
 layout: post
-title: First Taiko Lesson
-published: true
-meta: 
-  ljID: "3283"
-tags: 
-- Daily Life
-type: post
+slug: first-taiko-lesson
 status: publish
+title: First Taiko Lesson
+wordpress_id: '2235'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2555726664/" title="Taiko Drummers, Aichi, Japan"><img src="http://farm4.static.flickr.com/3048/2555726664_217041e591.jpg" border="1" width="500" height="375" alt="Taiko Drummers, Aichi, Japan" /></a></p>
 R and I attended our first class at <a href="http://www.etaiko.org">Emeryville Taiko</a>, the local <a href="http://en.wikipedia.org/wiki/Taiko">Taiko</a> dojo. It is only about a mile from our house and they have this huge industrial space in Emeryville full of drums, a little kitchen, and what appeared to be a transportable Torii gate. 

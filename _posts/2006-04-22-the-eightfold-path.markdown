@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-22 03:10:41'
 layout: post
+slug: the-eightfold-path
+status: publish
 title: The Eightfold Path
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '749'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 It is another day for Buddhist posts. This is long so feel free not to read it if you care little for such things. The Buddha taught an Eightfold Path as the way to achieve enlightenment and  end suffering. The following was written by someone else (I'm not sure who) but  I'll quote it here because it does a good job at covering things. I've reorganized it lightly in places.
 

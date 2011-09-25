@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-13 00:28:36'
 layout: post
-title: Pissed
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: pissed
 status: publish
+title: Pissed
+wordpress_id: '171'
+categories:
+- Daily Life
 ---
 I'm fucking pissed at the moment. Why is it that some asshole always wants to play politics in spiritual groups and the like? Is it because the pond is so small?
 

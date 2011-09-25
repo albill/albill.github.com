@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-12-18 17:46:49'
 layout: post
+slug: koans-and-practice
+status: publish
 title: Koans and Practice
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3445"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2593'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/3119520414/" title="zen-garden by albill, on Flickr"><img src="http://farm4.static.flickr.com/3188/3119520414_ce2f078b61_o.jpg" width="350" height="249" alt="zen-garden" border="1" /></a></p>
 You know, I have no real understanding of <a href="http://en.wikipedia.org/wiki/Koan">koans</a>. I'm sure some wit will respond here that neither does anyone else but what I mean is that I just don't really get, in any intuitive sense, how they work. I've read descriptions of how they are given to people but I've actively avoided the various books of koans out there (such as <a href="http://www.ibiblio.org/zen/cgi-bin/koan-index.pl">this</a>). That is because I expect, sooner or later, that I will engage in koan study. I've been told before that it actually makes things <strong>more</strong> difficult if one is given a traditional koan that one has read up on, including commentaries. It is better to not have all of that information rattling around in ones head.

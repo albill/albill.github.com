@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-04-21 12:28:44'
 layout: post
+slug: what-is-a-successful-model-for-buddhism-in-the-west
+status: publish
 title: What is a successful model for Buddhism in the West?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3518"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2757'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/2582260910/" title="View of Bell from Zendo"><img src="http://farm4.static.flickr.com/3016/2582260910_d308248850.jpg" border="1" width="500" height="375" alt="View of Bell from Zendo" /></a></div>
 

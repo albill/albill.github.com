@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-11 15:54:00'
 layout: post
+slug: school-thoughts
+status: publish
 title: School Thoughts
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1044'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, on the school front, the <a href="http://depts.washington.edu/religion/">Comparative Religion</a> program at the University of Washington is looking decent. I still need someone with more than half a clue to give me their impression of it. It turns out one of my fellow Greek students has a BA from it that she received only two years ago. She had a lot of good things to say about the program. Of course, I'd technically wind up with a Masters in International Studies (Comparative Religion) if I got a degree there. I'm assuming that this won't be a barrier to going somewhere for a PhD but that will have to be checked. The other issue is that I can have a minor concentration in Greco-Roman religion but not a major concentration. The available major concentrations are:
 <ul>

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-30 02:43:51'
 layout: post
+slug: more-mind-camp-20
+status: publish
 title: More Mind Camp 2.0
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '757'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I've attended a number of sessions now (ok, six) and we're all getting a bit tired here. Probably a third of the people are staying the night. Some of the ones who left will come back in the morning but not all... There are a number of interesting morning sessions.
 

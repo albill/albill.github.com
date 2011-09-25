@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-09 16:45:00'
 layout: post
-title: A Call for the End of the Internet
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: a-call-for-the-end-of-the-internet
 status: publish
+title: A Call for the End of the Internet
+wordpress_id: '907'
+categories:
+- Society
 ---
 Damn European Nonsense. I like the constant little digs at European stereotypes of Americans.
 

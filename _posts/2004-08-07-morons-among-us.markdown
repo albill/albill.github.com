@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-07 14:37:38'
 layout: post
-title: Morons Among Us
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Humor
-type: post
+slug: morons-among-us
 status: publish
+title: Morons Among Us
+wordpress_id: '197'
+categories:
+- Humor
 ---
 <p>And I laughed and laughed and laughed...</p>
 <p><a href="http://www.amazon.com/exec/obidos/tg/detail/-/1578633214/">Psychic 

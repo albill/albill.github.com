@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-05 14:33:32'
 layout: post
-title: Looking for Apartments
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: looking-for-apartments
 status: publish
+title: Looking for Apartments
+wordpress_id: '1099'
+categories:
+- Daily Life
 ---
 R and I have settled into our apartment in Jack London Square in Oakland. It is a bit bland and I had to argue with the high speed Internet guys to get the network up but things are working now.
 

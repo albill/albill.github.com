@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-13 13:35:21'
 layout: post
+slug: the-rest-of-my-term
+status: publish
 title: The Rest of my Term
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '396'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>These are the assignments that I'll be working on for my classes for the rest of the quarter. I wrote them up so I could get them straight in my head. After this first one, they are staggered until the end since the Philosophy class requries slightly more, shorter, papers.</p>
 <!--more-->

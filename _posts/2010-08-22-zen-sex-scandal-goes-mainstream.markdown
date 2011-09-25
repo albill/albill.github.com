@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-08-22 12:19:37'
 layout: post
+slug: zen-sex-scandal-goes-mainstream
+status: publish
 title: Zen Sex Scandal Goes Mainstream
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3660"
-tags: 
+wordpress_id: '3212'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 I <a href="http://www.openbuddha.com/2009/10/22/sexual-controversies-and-zen-buddhism/">blogged</a> about the sexual scandal associated with Eido Shimano Roshi last year with Aitken Roshi's papers on the matter became <a href="http://www.thezensite.com/ZenEssays/CriticalZen/Aitken_Shimano_Letters.html">available online</a>.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-22 16:59:00'
 layout: post
-title: Quicksilver
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: quicksilver
 status: publish
+title: Quicksilver
+wordpress_id: '118'
+categories:
+- Books
 ---
 I finally finished <b>Quicksilver</b> this afternoon. I quite enjoyed it and it inspires me to read Gleick's biography of Newton that I picked up recently but...damn, it was a long book. 
 

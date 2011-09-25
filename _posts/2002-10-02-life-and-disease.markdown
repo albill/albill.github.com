@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-02 04:12:00'
 layout: post
+slug: life-and-disease
+status: publish
 title: Life and Disease
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '966'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 Well, I'm a fucking moron sometimes, truth must be told. "Gee, Al," I say to myself, "Let's play with the fucking website via the unix shell. Hell, let's try moving some directories around with unix commands that you can't quite remember the syntax of...what's the worst you can do to the website you haven't backed up in six months?"
 

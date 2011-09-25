@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-16 02:15:00'
 layout: post
+slug: when-it-rains-it-pours
+status: publish
 title: When it rains, it pours...
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
+wordpress_id: '787'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <strong>Anyone know of any decent Tibetan Buddhist e-mail lists that are worth the trouble?</strong>
 

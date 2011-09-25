@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2002-07-23 23:12:00'
 layout: post
+slug: the-house-of-khabs
+status: publish
 title: The House of Khabs
-published: true
-meta: 
-  _wp_old_slug: the-house-of-khab
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-  no_lj: "1"
-tags: 
+wordpress_id: '891'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Here is something a little different for people to read now that you've read my boring move into a house BS... ;-)
 <h2>The House of Khabs</h2>

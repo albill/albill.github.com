@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-02-19 23:52:58'
 layout: post
-title: Mysterious Creatures Found in Antarctica
-published: true
-meta: 
-  ljID: "3158"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Science Fiction
-type: post
+slug: mysterious-creatures-found-in-antarctica
 status: publish
+title: Mysterious Creatures Found in Antarctica
+wordpress_id: '2176'
+categories:
+- Science Fiction
 ---
 Am I the only one that read <a href="http://ap.google.com/article/ALeqM5hIiwv2nRo-eUt2NgxGLnrD-Fnr0gD8UTL23O0">this story</a> and has my mind immediately turn to H.P. Lovecraft's "<a href="http://en.wikipedia.org/wiki/At_the_Mountains_of_Madness">At the Mountains of Madness</a>"? After all, his horrors were found in Antartica and lived originally within the waters there, millions of years ago...
 <p align="center"><a href="http://www.flickr.com/photos/albill/2278519809/" title="undersea glass tulips"><img src="http://farm3.static.flickr.com/2209/2278519809_d61557d6e7_o.jpg" width="450" height="323" alt="undersea glass tulips" border="1" /></a></p>

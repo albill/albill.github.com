@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-25 02:52:00'
 layout: post
-title: One of my namesakes...
-published: true
-meta: 
-  ljID: "2482"
-tags: 
-- Daily Life
-type: post
+slug: one-of-my-namesakes
 status: publish
+title: One of my namesakes...
+wordpress_id: '1619'
+categories:
+- Daily Life
 ---
 <b><font size="+1">Zosimos</font></b>
 <i>From the third century A.D. Greek adept Zosimos of Panoplis.</i>

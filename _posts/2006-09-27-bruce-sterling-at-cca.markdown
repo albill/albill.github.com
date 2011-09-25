@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-27 20:43:30'
 layout: post
-title: Bruce Sterling at CCA
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: bruce-sterling-at-cca
 status: publish
+title: Bruce Sterling at CCA
+wordpress_id: '1211'
+categories:
+- Daily Life
 ---
 <a title="Photo Sharing" href="http://www.flickr.com/photos/albill/253842681/"><img width="172" hspace="10" height="240" border="1" align="right" alt="Bruce Sterling - CCA - 1" src="http://static.flickr.com/91/253842681_4615c085b6_m.jpg" /></a>I attended the Bruce Sterling lecture at the California College of the Arts (CCA) last night. I recorded the talk and plan to put a transcript up later as time permits.
 

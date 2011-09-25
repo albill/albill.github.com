@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-10 23:31:05'
 layout: post
-title: Coworkers
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: coworkers
 status: publish
+title: Coworkers
+wordpress_id: '481'
+categories:
+- Daily Life
 ---
 Sometimes I wonder about why I don't fit in with many of my coworkers. I know that a lot of them were very similar to me. They were part of the geek crowd in school, became engineers, etc.
 

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-10-20 17:31:58'
 layout: post
-title: Photos of Egypt
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3417"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: photos-of-egypt
 status: publish
+title: Photos of Egypt
+wordpress_id: '2518'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2956607226/" title="Luxor Temple"><img src="http://farm4.static.flickr.com/3167/2956607226_797e1cf585.jpg" width="500" height="375" alt="Luxor Temple" border="1" /></a><br><em>Luxor Temple at Night</em></p>
 We're back from Egypt (and back at work, in fact). Our cats are pleased and I've uploaded my photos to Flickr over the last day. I have a number of friends who had asked about seeing pictures once we returned.

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-07-27 15:39:36'
 layout: post
+slug: classes-for-fall-semester
+status: publish
 title: Classes for Fall Semester
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '517'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I have registered for my fall term at HUX. I'm being allowed to apply the first to my area of study. 
 

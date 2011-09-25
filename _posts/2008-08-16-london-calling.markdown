@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-08-16 13:42:12'
 layout: post
-title: London Calling
-published: true
-meta: 
-  ljID: "3363"
-tags: 
-- Daily Life
-type: post
+slug: london-calling
 status: publish
+title: London Calling
+wordpress_id: '2391'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/148283063/" title="IM000248 by albill, on Flickr"><img src="http://farm1.static.flickr.com/56/148283063_6f5e330e45.jpg" width="500" height="375" alt="IM000248" border="1" /></a></p>
 My wife, R, and I are going to Egypt for most of two weeks in October. (This is bad timing with my class but...)

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-18 11:09:54'
 layout: post
-title: Positive Buddhism?
-published: true
-meta: 
-  ljID: "2295"
-tags: 
-- Buddhism
-type: post
+slug: positive-buddhism
 status: publish
+title: Positive Buddhism?
+wordpress_id: '1450'
+categories:
+- Buddhism
 ---
 <a href="http://www.accesstoinsight.org/lib/authors/thanissaro/lifeisnt.html">This</a> is an interesting and short essay that someone pointed me towards online.
 <blockquote>"He showed me the brightness of the world."

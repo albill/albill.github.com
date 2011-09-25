@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-08-06 13:38:01'
 layout: post
+slug: time-to-go-to-encrypted-mail-folks
+status: publish
 title: Time to Go to Encrypted Mail, Folks.
-published: true
-meta: 
-  ljID: "2683"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1769'
+categories:
 - Daily Life
 - Society
 - Technology
-type: post
-status: publish
 ---
 I'm going to start generating keys and switching my communication options to include encrypted mail via my public key. I'll be putting them up on Arcanology.com and posting the key here when I do so.
 

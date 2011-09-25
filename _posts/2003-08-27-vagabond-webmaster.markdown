@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-27 14:17:00'
 layout: post
-title: Vagabond Webmaster
-published: true
-meta: 
-  ljID: "2797"
-tags: 
-- Daily Life
-type: post
+slug: vagabond-webmaster
 status: publish
+title: Vagabond Webmaster
+wordpress_id: '1873'
+categories:
+- Daily Life
 ---
 Why do I find myself in these positions of being webmaster to non-profits and other groups?
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-09 13:24:38'
 layout: post
-title: Scans of Monks' Brains Show Meditation Alters Structure, Functioning
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Spirituality
-type: post
+slug: scans-of-monks-brains-show-meditation-alters-structure-functioning
 status: publish
+title: Scans of Monks' Brains Show Meditation Alters Structure, Functioning
+wordpress_id: '282'
+categories:
+- Spirituality
 ---
 <p><font size="+1"><i><b>From the Wall Street Journal</b></i></font><br>
 <b>Scans of Monks' Brains Show Meditation Alters Structure, Functioning</b><br>

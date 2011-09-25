@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-06 00:40:19'
 layout: post
-title: Filling Holes
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: filling-holes
 status: publish
+title: Filling Holes
+wordpress_id: '707'
+categories:
+- Daily Life
 ---
 R is gone for the weekend in Berkeley and San Francisco. One of her oldest  friends is pregnant and is had a baby shower this weekend. R got to spend time  with her family as well.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-14 17:37:08'
 layout: post
-title: Scientific Study of Tibetan Meditation
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: scientific-study-of-tibetan-meditation
 status: publish
+title: Scientific Study of Tibetan Meditation
+wordpress_id: '177'
+categories:
+- Buddhism
 ---
 This is from the Harvard Gazette back in April, 2002. Interesting but  preliminary validation of Tummo meditation.
 

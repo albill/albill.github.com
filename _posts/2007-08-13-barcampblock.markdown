@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-13 21:21:41'
 layout: post
+slug: barcampblock
+status: publish
 title: BarCampBlock
-published: true
-meta: 
-  _utw_tags_: s:53:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"barcamp";}}";
-  ljID: "2724"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _utw_tags_0: s:53:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"barcamp";}}";
-tags: 
+wordpress_id: '1809'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 
 <p align="center"><a href="http://www.flickr.com/photos/factoryjoe/1052730913/"><img src="http://farm2.static.flickr.com/1326/1052730913_5a094ba78b_d.jpg" alt="BarCampBlock Logo" /></a></p>

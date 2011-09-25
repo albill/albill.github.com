@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-30 14:46:28'
 layout: post
+slug: mozilla-summit-attendees-reduced-to-cannibalism
+status: publish
 title: Mozilla Summit Attendees Reduced to Cannibalism
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3339"
-tags: 
+wordpress_id: '2319'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a title="bc-080730-highway-99-rockslide by albill, on Flickr" href="http://www.flickr.com/photos/albill/2717284855/"><img src="http://farm4.static.flickr.com/3102/2717284855_53acc28126_o.jpg" border="1" alt="bc-080730-highway-99-rockslide" width="306" height="225" /></a></p>
 

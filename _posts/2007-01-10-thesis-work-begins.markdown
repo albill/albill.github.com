@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-10 01:26:28'
 layout: post
+slug: thesis-work-begins
+status: publish
 title: Thesis Work Begins
-published: true
-meta: 
-  ljID: "2359"
-tags: 
+wordpress_id: '1514'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 The new term for school has started. This is the term in which I am to write the bulk of my Master's thesis. Given that I still don't know who two of the three members of my thesis committee are, we may be off to a slow start. In the meantime, I've picked up my texts again (after a nice break for the last two months) and am working through material.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-19 20:46:54'
 layout: post
-title: "Warning: Cthulhu Ahead... er, Behind"
-published: true
-meta: 
-  ljID: "3145"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: warning-cthulhu
+status: publish
+title: 'Warning: Cthulhu Ahead... er, Behind'
+wordpress_id: '1117'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 <a title="photo sharing" href="http://www.flickr.com/photos/gothcandy/143837543/"><img hspace="10" align="left" style="border: 1px solid #000000" src="http://farm1.static.flickr.com/45/143837543_0773ef6d31_m.jpg" /></a>
 

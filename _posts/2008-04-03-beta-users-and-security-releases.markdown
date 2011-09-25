@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-03 21:49:52'
 layout: post
+slug: beta-users-and-security-releases
+status: publish
 title: Beta Users and Security Releases
-published: true
-meta: 
-  _edit_last: "1"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2200'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.deviantart.com/deviation/77329146/" title="Firefox by ~imagijester"><img align="right" hspace="10" vspace="5" border="0" src="http://farm3.static.flickr.com/2051/2386015763_e6447a085d_o.png" width="160" height="144"></a> Here is a problem that I am grappling with in my day to day work at Mozilla. I am the QA Lead for our security releases. These are the 2.0.0.x Firefox and Thunderbird releases that people not running Trunk builds (Firefox 3) receive every so often, depending on variables like exploits coming out or just a general need to fix issues that reduce stability.
 

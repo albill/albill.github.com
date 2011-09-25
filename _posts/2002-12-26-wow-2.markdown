@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-26 03:10:00'
 layout: post
+slug: wow-2
+status: publish
 title: Wow...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1069'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I get a lot of work done on my site when I'm sitting around here...
 

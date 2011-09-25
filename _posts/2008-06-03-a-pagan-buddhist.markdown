@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2008-06-03 11:16:10'
 layout: post
+slug: a-pagan-buddhist
+status: publish
 title: A Pagan Buddhist?
-published: true
-meta: 
-  ljID: "3278"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2233'
+categories:
 - Buddhism
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 While I was in Seattle this weekend, I saw my friends, Erynn and Aron, on Friday. (Yes, those names sound the name but one is female and one is male...)
 <p align="center"><a href="http://www.flickr.com/photos/albill/2544468848/" title="Erynn"><img src="http://farm4.static.flickr.com/3128/2544468848_e6c6ba4cea.jpg" border="1" width="500" height="375" alt="Erynn" /></a><br><em>Erynn</em></p>

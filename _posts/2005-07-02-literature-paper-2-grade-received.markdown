@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-07-02 17:07:08'
 layout: post
-title: "Literature Paper #2 Grade Received"
-published: true
-meta: {}
-
-tags: 
+slug: literature-paper-2-grade-received
+status: publish
+title: 'Literature Paper #2 Grade Received'
+wordpress_id: '501'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I received an e-mail (at 1:00 am even) from my Literature professor today. Unlike my first  paper, which he gave an AB (something like a 3.6, I assume), he gave my second paper a resounding 'A'. He loved it.
 

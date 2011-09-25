@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-18 18:13:00'
 layout: post
+slug: out-of-the-body-experiences
+status: publish
 title: Out of the Body Experiences
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '955'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 From <a href="http://www.msnbc.com/news/809666.asp">http://www.msnbc.com/news/809666.asp</a>
 

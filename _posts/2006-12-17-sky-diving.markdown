@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-17 22:43:21'
 layout: post
-title: Sky Diving
-published: true
-meta: 
-  ljID: "2328"
-tags: 
-- Daily Life
-type: post
+slug: sky-diving
 status: publish
+title: Sky Diving
+wordpress_id: '1481'
+categories:
+- Daily Life
 ---
 I have, apparently in insanity, agreed to go sky diving with my wife.
 

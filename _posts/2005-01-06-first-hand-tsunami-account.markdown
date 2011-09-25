@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-06 19:36:06'
 layout: post
-title: First Hand Tsunami Account
-published: true
-meta: 
-  _oembed_cdf5176a0baa0dae7a3cfd47caef1d96: "{{unknown}}"
-  _oembed_b81e5cf4712f4c8f7b90eb3aef531e97: "{{unknown}}"
-  _oembed_2ee7a024e930a77297ad1e1d2a0b884c: "{{unknown}}"
-  _oembed_f6c6b9022a7d670a03f7704f5ba33091: "{{unknown}}"
-tags: 
-- Society
-type: post
+slug: first-hand-tsunami-account
 status: publish
+title: First Hand Tsunami Account
+wordpress_id: '359'
+categories:
+- Society
 ---
 <p>Someone that I know on the local <b>Church of Mez</b> list posted this item:</p>
 <p>This, from Pearl E Gates, the guy who runs the Gate at Burning Man each year. 

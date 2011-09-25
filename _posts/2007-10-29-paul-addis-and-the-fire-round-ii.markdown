@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-29 16:50:13'
 layout: post
+slug: paul-addis-and-the-fire-round-ii
+status: publish
 title: Paul Addis and the Fire, Round II
-published: true
-meta: 
-  ljID: "2952"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2029'
+categories:
 - Daily Life
 - Notable People
 - Society
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1260594125/" title="Photo Sharing">
 <img src="http://farm2.static.flickr.com/1048/1260594125_34d094c5ea_m.jpg" alt="Paul Addis Mugshot" border="1" height="240" width="206" /></a>

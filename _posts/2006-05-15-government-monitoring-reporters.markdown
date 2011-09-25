@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-15 15:23:51'
 layout: post
-title: Government Monitoring Reporters
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: government-monitoring-reporters
 status: publish
+title: Government Monitoring Reporters
+wordpress_id: '1086'
+categories:
+- Society
 ---
 This report is pretty scary if it is true: <a href="http://blogs.abcnews.com/theblotter/2006/05/federal_source_.html">http://blogs.abcnews.com/theblotter/2006/05/federal_source_.html</a>
 

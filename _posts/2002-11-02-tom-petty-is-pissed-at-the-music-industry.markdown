@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-02 05:45:00'
 layout: post
+slug: tom-petty-is-pissed-at-the-music-industry
+status: publish
 title: Tom Petty is pissed at the music industry...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1008'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 I found this at <a href="http://www.rollingstone.com/news/newsarticle.asp?nid=16913">http://www.rollingstone.com/news/newsarticle.asp?nid=16913</a>. I've always liked Tom Petty.
 

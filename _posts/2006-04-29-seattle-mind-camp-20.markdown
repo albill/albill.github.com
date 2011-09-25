@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-29 16:29:36'
 layout: post
+slug: seattle-mind-camp-20
+status: publish
 title: Seattle Mind Camp 2.0
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '756'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I'm over at Seattle <a href="http://www.seattlemind.com">Mind Camp</a> 2.0 now. We started officially a couple of hours ago and I'm in a Mind Manager presentation right now.
 

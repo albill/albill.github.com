@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2005-05-03 09:25:33'
 layout: post
+slug: the-shamatha-project
+status: publish
 title: The Shamatha Project
-published: true
-meta: 
-  ljID: "3048"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '459'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This is from <a href="http://www.snowlionpub.com/pages/N70_2.php">http://www.snowlionpub.com/pages/N70_2.php</a>. Yet another scientific examination of meditation though a bit more deep than most.
 <h2><strong>The Shamatha Project</strong></h2>

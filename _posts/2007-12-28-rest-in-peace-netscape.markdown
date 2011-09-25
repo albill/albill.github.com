@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-28 10:21:09'
 layout: post
-title: Rest in Peace, Netscape
-published: true
-meta: 
-  ljID: "3108"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+slug: rest-in-peace-netscape
+status: publish
+title: 'Rest in Peace, Netscape '
+wordpress_id: '2149'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/netscape_logo.gif" align="right" border="0" hspace="5" vspace="5" alt="Netscape Logo" />The <a href="http://blog.netscape.com">Netscape Blog</a> has officially <a href="http://blog.netscape.com/2007/12/28/end-of-support-for-netscape-web-browsers/">announced</a> today the end of an era. As of February 1, 2008, there will be no further releases of Netscape from AOL and it sounds like the small team working on it there has been closed down. That means no security updates for Netscape users and no update to Gecko 1.9 when Firefox 3 is releases this coming Spring.
 

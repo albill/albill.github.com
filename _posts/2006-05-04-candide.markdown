@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-04 01:08:44'
 layout: post
+slug: candide
+status: publish
 title: Candide
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '767'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 My new term in school started on Monday, May 1. This term I am only taking a single class, which is on Rousseau and the Enlightenment. Along with reading Rousseau's confessions and a number of his political works, we are also reading <a href="http://en.wikipedia.org/wiki/Candide"><strong>Candide</strong></a> by Voltaire. In fact, we are starting the class with it, which actually seems to be a bit of a good thing.
 

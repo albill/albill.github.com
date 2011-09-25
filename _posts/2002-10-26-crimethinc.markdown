@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-26 03:25:00'
 layout: post
+slug: crimethinc
+status: publish
 title: CrimethInc.
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '997'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I've decided I like these guys. It revives my dying anarchist spirit that my career has sucked from my fucking soul.
 

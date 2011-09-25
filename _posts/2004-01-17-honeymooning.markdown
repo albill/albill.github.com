@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-17 12:06:00'
 layout: post
-title: Honeymooning...
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: honeymooning
 status: publish
+title: Honeymooning...
+wordpress_id: '22'
+categories:
+- Daily Life
 ---
 Since R and I are still planning, however loosely, to get married this year, we've been discussing honeymoon possibilities.
 

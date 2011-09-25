@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-03-24 22:39:42'
 layout: post
+slug: flesch-kincaid
+status: publish
 title: Flesch-Kincaid
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '433'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 The Flesch-Kincaid scale measures the readability of writing. This came up today because someone ran a section of Neil Gaiman's new novel that is available through this. Microsoft Word gives you the option of displaying readability after a spelling and grammar check. 
 

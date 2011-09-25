@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-27 17:32:00'
 layout: post
-title: Pictures
-published: true
-meta: 
-  ljID: "3017"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Daily Life
-type: post
+slug: pictures-2
 status: publish
+title: Pictures
+wordpress_id: '2097'
+categories:
+- Daily Life
 ---
 Oooh, I figured out how to use the timer function on my camera (I&apos;d never read the manual before...).
 

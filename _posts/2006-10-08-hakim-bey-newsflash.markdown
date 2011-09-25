@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-08 01:49:44'
 layout: post
+slug: hakim-bey-newsflash
+status: publish
 title: Hakim Bey Newsflash
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1222'
+categories:
 - Notable People
 - Society
-type: post
-status: publish
 ---
 This is a newsflash. Though the knowledge is old news to many, some have not heard before now. I say this as a public service announcement and operator of a very longterm Hakim Bey website (<a href="http://www.hermetic.com/bey/">http://www.hermetic.com/bey/</a>):
 <h2>Hakim Bey writes about sex with boys.</h2>

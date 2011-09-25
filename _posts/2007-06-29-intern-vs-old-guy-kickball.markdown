@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-06-29 21:46:40'
 layout: post
+slug: intern-vs-old-guy-kickball
+status: publish
 title: Intern vs. Old Guy Kickball
-published: true
-meta: 
-  ljID: "2634"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1735'
+categories:
 - Daily Life
 - Mozilla
-type: post
-status: publish
 ---
 At Mozilla yesterday evening, we took some time off from shipping a major browser update to play kickball. It was labeled "Intern vs. Old Guy" kickball but one wit. As probably the second oldest person in the group, you can guess which team I was on.
 

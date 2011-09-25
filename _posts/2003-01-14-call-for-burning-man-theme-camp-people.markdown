@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-14 20:26:00'
 layout: post
+slug: call-for-burning-man-theme-camp-people
+status: publish
 title: Call for Burning Man Theme Camp People
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1243'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <img border="1" align="right" src="http://www.arcanology.com/images/bm.jpg" />I've decided that I really do want to go to Burning Man this year. I find the theme to be engaging enough that I'm having ideas for a theme camp relating to ritual work and imagry. Building a small art project as part of it would be good and I think that I could do so.
 

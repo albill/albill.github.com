@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-14 22:29:00'
 layout: post
-title: Tai Ji
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: tai-ji
 status: publish
+title: Tai Ji
+wordpress_id: '19'
+categories:
+- Daily Life
 ---
 So now that Tylik has started her Tuesday night Tai Ji class, I'm taking Chen style from her. This is something that I've wanted to do for a while since it has been just about eight years now since I quit any and all martial arts after doing a Japanese style for a few years previous to that (and being fairly committed to it).
 

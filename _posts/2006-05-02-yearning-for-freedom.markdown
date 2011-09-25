@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-02 02:16:03'
 layout: post
+slug: yearning-for-freedom
+status: publish
 title: Yearning for Freedom
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '764'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 A quote from B. Alan Wallace for the evening.
 <blockquote>Every single sentient being wishes to be happy and free of suffering. By no means does Buddhism say this is wrong; rather, this is where we start from.

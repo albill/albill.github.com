@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-13 22:11:28'
 layout: post
-title: My eyeball or yours?
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: my-eyeball-or-yours
 status: publish
+title: My eyeball or yours?
+wordpress_id: '366'
+categories:
+- Technology
 ---
  <img src="http://www.zhangzhung.net/lj/eyeball.jpg" alt="A big nut" align="right" border="1" hspace="5" vspace="10" />I'm into cool architecture and all but <a href="http://www.freespiritspheres.com/index.htm">this</a> is just the weirdest thing that
 I've seen in a while.

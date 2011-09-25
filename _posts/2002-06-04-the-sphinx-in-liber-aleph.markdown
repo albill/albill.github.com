@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-04 03:34:00'
 layout: post
+slug: the-sphinx-in-liber-aleph
+status: publish
 title: The Sphinx in Liber Aleph
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '843'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I'm contemplating the Sphinx, it's riddle and meaning today.
 From <a href="http://www.hermetic.com/crowley/aleph/index.html">Liber Aleph</a>, a few chapters where the Sphinx is mentioned...

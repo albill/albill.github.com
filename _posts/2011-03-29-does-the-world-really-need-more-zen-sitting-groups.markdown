@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2011-03-29 11:19:15'
 layout: post
-title: Does the world really need more Zen sitting groups?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3808"
-tags: 
-- Buddhism
-- groups
-- Spirituality
-- zen
-type: post
+slug: does-the-world-really-need-more-zen-sitting-groups
 status: publish
+title: Does the world really need more Zen sitting groups?
+wordpress_id: '3662'
+categories:
+- Buddhism
+- Spirituality
+tags:
+- groups
+- zen
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5567284148/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5180/5567284148_33a67fde19.jpg" width="500" height="375" alt="" /></a></p>
 It comes up every so often that the only active sitting groups for the <a href="http://www.fivemountain.org">Five Mountain Sangha</a> are in the Los Angeles area and in Cincinnati. Here in the Bay Area, there are only two active members of the order. The other member, Greg LeBlanc, is a teacher in the order but really only has the time to do a group sit once a month because of his many (many!) other commitments.

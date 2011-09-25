@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-01 14:51:39'
 layout: post
+slug: google-chrome-is-the-new-black
+status: publish
 title: Google Chrome is the new black?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3374"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2417'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Apparently, Google is going to release a web browser based on Webkit sometime in the near future. It is called "Chrome." While the browser is not available yet, a web comic, drawn by Scott McCloud was accidentally placed online early and then found by people (as an aside, I've seen this kind of thing bite a lot of projects in the ass before).
 <p align="center"><a href="http://www.flickr.com/photos/albill/2818533055/" title="Google Chrome Comic - Page 3 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3207/2818533055_ea60b0f675_o.jpg" width="500" height="406" alt="Google Chrome Comic - Page 3" /></a></p>

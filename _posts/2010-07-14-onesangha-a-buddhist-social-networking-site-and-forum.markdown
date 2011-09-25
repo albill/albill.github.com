@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-07-14 13:24:29'
 layout: post
+slug: onesangha-a-buddhist-social-networking-site-and-forum
+status: publish
 title: OneSangha, a Buddhist Social Networking Site and Forum
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3650"
-tags: 
+wordpress_id: '3197'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/wonderlane/2868822348/" title="The most beautiful Buddha in the world by Wonderlane, on Flickr"><img src="http://farm4.static.flickr.com/3168/2868822348_86531d1b34.jpg" width="500" height="364" hspace="10" vspace="10" alt="The most beautiful Buddha in the world" /></a></div>
 I've owned the <a href="http://www.onesangha.org">onesangha.org</a> domain for a while. In 2008, I made an attempt to get a group Buddhist blog going there drawing on people from a number of different traditions. For a variety of reasons, that blog never had more than a couple of posts, mostly because the other authors were just a bit too busy.

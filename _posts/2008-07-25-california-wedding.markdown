@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-25 12:40:33'
 layout: post
+slug: california-wedding
+status: publish
 title: California Wedding
-published: true
-meta: 
-  ljID: "3335"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2316'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2702092036/" title="DSCF4094.JPG by albill, on Flickr"><img src="http://farm4.static.flickr.com/3153/2702092036_57169153c3.jpg" width="500" height="375" alt="DSCF4094.JPG" border="1" /></a></p>
 R and I went to an early wedding this morning. Our friends, Kirstyn and Lisa, wanted to get married in a brief ceremony. They plan to do a larger one next year but there is a window of opportunity for them. This is because they are both women and there is a significant chance that their wedding will be undone by a ballot this Fall. They will then be "unmarried" by the same state that allowed them to get married.

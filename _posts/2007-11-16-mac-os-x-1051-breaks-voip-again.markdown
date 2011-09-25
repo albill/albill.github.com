@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-16 22:58:22'
 layout: post
+slug: mac-os-x-1051-breaks-voip-again
+status: publish
 title: Mac OS X 10.5.1 Breaks VOIP Again?
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2113'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I've <a href="http://www.arcanology.com/2007/10/27/sip-based-voip-problems-in-leopard/">written previously</a> that when Mac OS X 10.5 (aka "Leopard") came out, it broke all of the SIP-based voice over ip applications. This was something that hadn't been broken in the developer builds but only in the final release, thus giving people making VOIP software a pleasant surprise for "Leopard Day."
 

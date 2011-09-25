@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-31 04:41:00'
 layout: post
-title: Another cool program
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: another-cool-program
 status: publish
+title: Another cool program
+wordpress_id: '1401'
+categories:
+- Technology
 ---
 Nullsoft has a program called "Safesex" which is an encrypted notetaker.
 

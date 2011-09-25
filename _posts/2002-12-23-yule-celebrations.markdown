@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-23 00:48:00'
 layout: post
+slug: yule-celebrations
+status: publish
 title: Yule Celebrations
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1059'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I just got back from the OTO Yule potluck. I had some good conversations with  and various other parties. Saw a bunch of friends and a few people that I detest. ;-) We had a pretty good turnout with a lot of non-OTO members as well.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-05-07 03:06:00'
 layout: post
-title: Today and Birthdays
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: today-and-birthdays
 status: publish
+title: Today and Birthdays
+wordpress_id: '816'
+categories:
+- Daily Life
 ---
 Yesterday was R'sbirthday. (She's had people ask "What day is Cinco De Mayo?" when she's told them that's when her birthday is...) I had my lodge and then I met her and some friends over at the Barca, a local bar/club for drinks for a couple of hours. We got to hear amusing tales of friends travelling in other countries. My favorite is a certain friend talking about this trip through Mexico when he was younger that sounded pretty similar to "Fear and Loathing in Las Vegas" with the equal mixing of super weird and surreal shit and drugs.
 

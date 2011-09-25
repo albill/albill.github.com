@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-19 21:12:31'
 layout: post
-title: Burnt and this Weekend
-published: true
-meta: 
-  ljID: "2257"
-tags: 
-- Daily Life
-type: post
+slug: burnt-and-this-weekend
 status: publish
+title: Burnt and this Weekend
+wordpress_id: '1414'
+categories:
+- Daily Life
 ---
 R is going out of town this weekend to go to a Babalon Puja down in Santa Monica.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-22 00:53:20'
 layout: post
-title: Music Matrix
-published: true
-meta: 
-  ljID: "2301"
-tags: 
-- Daily Life
-type: post
+slug: music-matrix
 status: publish
+title: Music Matrix
+wordpress_id: '1456'
+categories:
+- Daily Life
 ---
 Listening to old music this evening, it reminds me the I inevitably associate former girlfriends or lovers with particular bits of music, often for better or worse. Not all of them but some.
 

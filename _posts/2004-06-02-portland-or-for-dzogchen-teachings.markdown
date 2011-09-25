@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-02 22:17:00'
 layout: post
-title: Portland, OR for Dzogchen Teachings
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: portland-or-for-dzogchen-teachings
 status: publish
+title: Portland, OR for Dzogchen Teachings
+wordpress_id: '130'
+categories:
+- Buddhism
 ---
 So, I'm considering going to Portland, OR the weekend of June 26 for the following event. Anyone know of any cheap or fine places to stay? :-)
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-15 16:39:00'
 layout: post
+slug: aha-fresh-breeze
+status: publish
 title: Ah...a fresh breeze
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1312'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I found <a href="http://www.fuckthatjob.com/">Fuckthatjob.com</a> today and have been reading it.
 

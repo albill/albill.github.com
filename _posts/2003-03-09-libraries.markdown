@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2003-03-09 00:03:00'
 layout: post
+slug: libraries
+status: publish
 title: Libraries
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1302'
+categories:
 - Academic
 - Daily Life
 - Esoteric
-type: post
-status: publish
 ---
 So I went and got my University of Washington library card today... They had no record of me in the system so it seems that the gods are smiling on me (or sending me the message that fines go away if you wait long enough...).
 

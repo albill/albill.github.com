@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-29 18:58:17'
 layout: post
-title: Initial Draft of Thesis Done
-published: true
-meta: 
-  ljID: "2671"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: initial-draft-of-thesis-done
 status: publish
+title: Initial Draft of Thesis Done
+wordpress_id: '1764'
+categories:
+- Academic
 ---
 In a marathon session the last two days, I cleaned up the work that I did last week on my thesis, dividing it into two chapters, and wrote another chapter from scratch. I then cleaned up my works cited and rewrote my introduction a bit since I had diverged a bit from my initial ideas last Fall.
 

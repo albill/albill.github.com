@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-08 23:33:00'
 layout: post
-title: O Nuit, Continuous one of Heaven!
-published: true
-meta: 
-  ljID: "2437"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: o-nuit-continuous-one-of-heaven
 status: publish
+title: O Nuit, Continuous one of Heaven!
+wordpress_id: '85'
+categories:
+- Spirituality
 ---
 Yesterday, R and I went to a meeting with the Wiccan High Priestess that we are working with after work. As non-initiates of this particular tradition's line, we can't participate in "their" version of a Full Moon ritual since it is only disclosed to initiates of that tradition. Since the HPS is trying to organize a teaching group, she wanted to get together with us so we could create
 an "outer" Full Moon ritual that wasn't oathbound material. This will give us a ritual format for the group to use on an ongoing basis. We worked on this with her and chatted for about two hours and then took off for home...

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-04 05:30:00'
 layout: post
-title: The Dinner Train
-published: true
-meta: 
-  ljID: "2833"
-tags: 
-- Daily Life
-type: post
+slug: the-dinner-train
 status: publish
+title: The Dinner Train
+wordpress_id: '1911'
+categories:
+- Daily Life
 ---
 R picked up her mother, who was in town at an event for the week, and the two of them plus R&apos;s dad and myself went off to board <i>The Spirit of Washington</i>, which is a dinner train that goes 25 miles down a once public railroad between Renton and the Columbia Winery. On the way, we enjoyed a rather nice meal. At the winery, we had a tour and they engaged in a little wine tasting. Afterwards, we rode the train back and generally had an enjoyable time. It&apos;s a nice quiet evening going through the back ways in otherwise familiar cities.
 

@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2009-03-20 15:51:12'
 layout: post
+slug: continuing-meditation-classes-with-rev-keisho
+status: publish
 title: Continuing Meditation Classes with Rev. Keisho
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3497"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2712'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/2884395844/" title="Rev. Keisho"><img src="http://farm4.static.flickr.com/3068/2884395844_c021dc4d1c.jpg" width="500" height="397" alt="Rev. Keisho" /></a></div>
 

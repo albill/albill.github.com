@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-15 05:24:00'
 layout: post
-title: Jesus H. Christ, Our Lord of Virii
-published: true
-meta: 
-  ljID: "2909"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Technology
-type: post
+slug: jesus-h-christ-our-lord-of-virii
 status: publish
+title: Jesus H. Christ, Our Lord of Virii
+wordpress_id: '1986'
+categories:
+- Technology
 ---
 All right, I'm throwing my science fiction out now.
 

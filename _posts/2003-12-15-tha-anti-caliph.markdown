@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-15 00:07:00'
 layout: post
-title: Tha Anti-Caliph
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "2993"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: tha-anti-caliph
 status: publish
+title: Tha Anti-Caliph
+wordpress_id: '2071'
+categories:
+- Daily Life
 ---
 No, not an OTO essay! An old article by Peter Lamborn Wilson (aka Hakim Bey) that I had a photocopy of from over a decade ago. It's a lecture he gave.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-14 13:24:00'
 layout: post
+slug: cthuloid-songs
+status: publish
 title: Cthuloid Songs...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '977'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 I found this recently, "<a href="http://www.santafe.edu/~shalizi/cthulhu-hymnal.html">The Cthulhu Hymnal</a>."
 <h3>Onward, Cthulhu Cultists</h3>

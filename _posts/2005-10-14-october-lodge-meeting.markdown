@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-14 08:34:59'
 layout: post
-title: October Lodge Meeting
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: october-lodge-meeting
 status: publish
+title: October Lodge Meeting
+wordpress_id: '573'
+categories:
+- Daily Life
 ---
 Last night, I attended my masonic lodge meeting for October, which was also our installation of officers for the new year.
 

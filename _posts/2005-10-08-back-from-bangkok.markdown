@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2005-10-08 23:11:02'
 layout: post
+slug: back-from-bangkok
+status: publish
 title: Back from Bangkok
-published: true
-meta: 
-  ljID: "3053"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '567'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I'm back from Thailand and catching up on a few things, like e-mail and blogs. I'm back to work on Monday and will need to catch up on what's been going on.
 

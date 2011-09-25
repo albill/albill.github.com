@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-21 11:38:35'
 layout: post
-title: Neal Stephenson on Fighting William Gibson
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: neal-stephenson-on-fighting-william-gibson
 status: publish
+title: Neal Stephenson on Fighting William Gibson
+wordpress_id: '266'
+categories:
+- Humor
 ---
 From <a href="http://slashdot.org/article.pl?sid=04/10/20/1518217">http://slashdot.org/article.pl?sid=04/10/20/1518217</a>:<blockquote><i><b>4)  Who would win? (Score:5, Funny) - by Call Me Black Cloud</b>
 <br><br>

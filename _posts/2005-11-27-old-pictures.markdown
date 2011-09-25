@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-11-27 19:24:48'
 layout: post
-title: Old Pictures
-published: true
-meta: 
-  ljID: "2744"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: old-pictures
 status: publish
+title: Old Pictures
+wordpress_id: '608'
+categories:
+- Daily Life
 ---
 I found some old pictures today in some papers...
 

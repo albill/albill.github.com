@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-06-18 20:40:54'
 layout: post
+slug: 21st-century-buddhist-event-this-week
+status: publish
 title: 21st Century Buddhist Event This Week
-published: true
-meta: 
-  ljID: "2629"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1732'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 For those of you local in the Bay Area this week, there is an interesting event for Buddhists in Redwood City. This teaching day brings together a master of the Mahayana Zen tradition of Japan and an abbot of the Theravadan tradition. How often do you get two masters of two very different traditions together to teach?
 

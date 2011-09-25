@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2011-08-12 10:56:44'
 layout: post
+slug: ace-monster-toys-hackerspace-on-meetup
+status: publish
 title: Ace Monster Toys Hackerspace on Meetup
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3869"
-tags: 
-- ace monter toys
+wordpress_id: '3809'
+categories:
 - Hacking
 - Technology
-type: post
-status: publish
+tags:
+- ace monter toys
 ---
 <p style="text-align:center"><a href="http://www.flickr.com/photos/seanosteen/5122013768/" title="East Bay Mini Maker Faire by SeanOsteen, on Flickr"><img src="http://farm2.static.flickr.com/1148/5122013768_07baa7e9a2.jpg" width="500" height="333" alt="East Bay Mini Maker Faire"></a></p>
 We decided (well, David the treasurer did…) to start using <a href="http://www.meetup.com">Meetup</a> to promote events at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> very recently. Last night was the first public event using the new <a href="http://www.meetup.com/Ace-Monster-Toys/">AMT page</a> on Meetup.

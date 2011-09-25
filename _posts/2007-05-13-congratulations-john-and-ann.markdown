@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-13 21:57:58'
 layout: post
+slug: congratulations-john-and-ann
+status: publish
 title: Congratulations, John and Ann!
-published: true
-meta: 
-  ljID: "2571"
-tags: 
+wordpress_id: '1694'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 My good friend, John, who is still over at Microsoft, got himself secretly married to his girlfriend on Saturday. He finally posted a backdated post this evening.
 

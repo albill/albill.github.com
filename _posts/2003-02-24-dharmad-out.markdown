@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-02-24 04:45:00'
 layout: post
+slug: dharmad-out
+status: publish
 title: Dharma'd Out
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1287'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Alright, I've had enough rides on the Mandala Merry-go-round for at least a week or three.
 

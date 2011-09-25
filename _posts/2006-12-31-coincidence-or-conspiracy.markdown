@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-12-31 18:42:05'
 layout: post
+slug: coincidence-or-conspiracy
+status: publish
 title: Coincidence or Conspiracy?
-published: true
-meta: 
-  ljID: "2348"
-tags: 
+wordpress_id: '1502'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 I noticed something odd today while looking at the web.
 

@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2002-08-29 04:20:00'
 layout: post
+slug: the-buddhist-threat
+status: publish
 title: The Buddhist Threat
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '927'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Occultists and pagans are threatened by Buddhism or, more correctly, occultists and pagans view Buddhism as a threat.
 

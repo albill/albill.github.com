@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-21 21:35:56'
 layout: post
-title: More Witch-Lore from Aradia
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: more-witch-lore-from-aradia
 status: publish
+title: More Witch-Lore from Aradia
+wordpress_id: '210'
+categories:
+- Esoteric
 ---
 Another piece from <strong>Aradia</strong> of the mythology of Diana...
 <h2>HOW DIANA MADE THE STARS AND THE RAIN</h2>

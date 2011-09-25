@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-02 17:20:28'
 layout: post
-title: Gonzo!
-published: true
-meta: 
-  ljID: "2351"
-tags: 
-- Society
-type: post
+slug: gonzo
 status: publish
+title: Gonzo!
+wordpress_id: '1505'
+categories:
+- Society
 ---
 R and I are going to the opening night of "<a href="http://www.gonzoduke.com/">GONZO: A Brutal Chrysalis</a>" on Friday.
 

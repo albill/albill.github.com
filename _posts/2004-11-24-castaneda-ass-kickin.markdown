@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-24 22:42:16'
 layout: post
-title: Castaneda Ass kickin'
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: castaneda-ass-kickin
 status: publish
+title: Castaneda Ass kickin'
+wordpress_id: '294'
+categories:
+- Spirituality
 ---
 This <strong>both</strong> kicks ass and takes names and I'm not even a huge Castaneda fan.
 

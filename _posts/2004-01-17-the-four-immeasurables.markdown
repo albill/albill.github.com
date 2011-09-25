@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-17 13:17:00'
 layout: post
-title: The Four Immeasurables
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: the-four-immeasurables
 status: publish
+title: The Four Immeasurables
+wordpress_id: '23'
+categories:
+- Spirituality
 ---
 sems can thams cad bde ba dang bde ba'i rgyu dang ldan par gyur cig
 sdug bsngal dang sdug bsngal gyi rgyu dang bral bar gyur cig

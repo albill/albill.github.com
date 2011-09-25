@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-15 15:24:10'
 layout: post
-title: More Douglas Rushkoff
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: more-douglas-rushkoff
 status: publish
+title: More Douglas Rushkoff
+wordpress_id: '178'
+categories:
+- Notable People
 ---
 <p>This seems to be Douglas Rushkoff week.</p>
 <p>Here is another interview with him...</p>

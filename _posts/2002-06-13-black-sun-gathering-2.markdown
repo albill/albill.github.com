@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-13 14:10:00'
 layout: post
-title: Black Sun Gathering
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Daily Life
-type: post
+slug: black-sun-gathering-2
 status: publish
+title: Black Sun Gathering
+wordpress_id: '850'
+categories:
+- Daily Life
 ---
 The Black Sun Gathering seems to have acquired a web page finally:
 

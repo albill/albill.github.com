@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-04 06:04:00'
 layout: post
+slug: assumption-of-the-godform
+status: publish
 title: Assumption of the Godform
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '776'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 This is an article by Mark Stavish from the <a href="http://www.hermetic.com/stavish">site</a> I created for him a couple of years ago. It is pretty good and deals with the ritual assumption of godforms in the Western magical tradition, specificially that derived from the Golden Dawn.
 

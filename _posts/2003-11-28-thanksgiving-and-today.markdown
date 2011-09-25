@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-28 23:25:00'
 layout: post
-title: Thanksgiving and Today
-published: true
-meta: 
-  ljID: "2931"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: thanksgiving-and-today
 status: publish
+title: Thanksgiving and Today
+wordpress_id: '2008'
+categories:
+- Daily Life
 ---
 Yesterday was Thanksgiving for everyone vaguely aware of U.S. holidays, often also known as "Turkey Day" or occasionally as "Genocide Day" (in deference to the natives...).
 

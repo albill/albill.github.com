@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-23 20:14:32'
 layout: post
-title: Dragon Boat Races
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dragon-boat-races
 status: publish
+title: Dragon Boat Races
+wordpress_id: '1204'
+categories:
+- Daily Life
 ---
 R and I went to the Dragon Boat Races today. This is an annual event over on Treasure Island, which is technically part of San Francisco. It's an island in the middle of the Bay Bridge's length between San Francisco and the East Bay, which contains Oakland.
 

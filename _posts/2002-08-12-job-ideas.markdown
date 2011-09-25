@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-12 22:17:00'
 layout: post
+slug: job-ideas
+status: publish
 title: Job Ideas
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '912'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I've been thinking about career and jobs off on on as all of you know if you've paid attention at all over the last six months.
 

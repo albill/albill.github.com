@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-23 02:18:00'
 layout: post
-title: My Weekend
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
-- Daily Life
-type: post
+slug: my-weekend
 status: publish
+title: My Weekend
+wordpress_id: '793'
+categories:
+- Daily Life
 ---
 (I feel like I'm writing a "what I did this summer" essay from Junior High...)
 

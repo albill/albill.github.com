@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-19 14:31:06'
 layout: post
+slug: mac-os-x-camera
+status: publish
 title: Mac OS X Camera?
-published: true
-meta: 
-  ljID: "2942"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2019'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I have a Mac Pro (aka the "Cheese Grater") at home. My laptop is a Macbook and has a built-in camera for chat, etc. but the Mac Pro does not. This has caused me no end of annoyances at times.
 

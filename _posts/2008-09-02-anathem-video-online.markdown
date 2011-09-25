@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-09-02 11:25:40'
 layout: post
-title: Anathem Video Online
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3376"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: anathem-video-online
 status: publish
+title: Anathem Video Online
+wordpress_id: '2433'
+categories:
+- Daily Life
 ---
 I found a video this morning that is a trailer for Neal Stepheson's <strong><a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096/">Anathem</a></strong> (which I reviewed <a href="http://www.arcanology.com/2008/08/21/neal-stephensons-anathem-reviewed/">here</a>). I believe it was officially produced and the scenes in it reflect those in the novel. I mention it here because it is interesting but also because you can hear pieces of three or so of the songs that I have <a href="http://www.arcanology.com/2008/06/24/anathem-and-music/">mentioned before</a> in the background.
 

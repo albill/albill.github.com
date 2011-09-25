@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-05-29 11:01:12'
 layout: post
+slug: mozilla-is-your-master-now-young-jedi
+status: publish
 title: Mozilla is your master now, young jedi!
-published: true
-meta: 
-  ljID: "2599"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1711'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/501821965/"><img src="http://farm1.static.flickr.com/223/501821965_afa9aa0258_m.jpg" alt="Welcome to Mozilla" align="right" height="211" hspace="10" vspace="5" width="240" /></a>This is the first public announcement of something that a number of my friends have known for a couple of weeks: I am about to go work for the Mozilla Corporation as a QA Engineer (aka "Software Testers") on Firefox and other projects.
 

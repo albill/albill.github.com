@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-02 22:23:10'
 layout: post
-title: Dishwasher Disaster Zone
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dishwasher-disaster-zone
 status: publish
+title: Dishwasher Disaster Zone
+wordpress_id: '347'
+categories:
+- Daily Life
 ---
 <p>As I wrote the other day, we realized that the periodic damp spot on the 
 counter in the basement was caused by leaking from the dishwasher. I pulled the 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-24 23:12:51'
 layout: post
-title: Refuge Prayer by Thich Nhat-Hanh
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: refuge-prayer-by-thich-nhat-hanh
 status: publish
+title: Refuge Prayer by Thich Nhat-Hanh
+wordpress_id: '295'
+categories:
+- Spirituality
 ---
 <img src="http://www.arcanology.com/images/samanta.jpg" align="right" border="0" height="321" hspace="5" width="250" />At the foot of the Bodhi tree, beautifully seated, peaceful and smiling, the living source of understanding and compassion, to the Buddha I go for refuge.
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-08-05 01:51:00'
 layout: post
+slug: pilgrimage
+status: publish
 title: Pilgrimage
-published: true
-meta: 
-  ljID: "2758"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1834'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 We made the pilgrimage to Ikea last night. I needed another bookcase for my library in order to get the books off of the floor and that's the place to go. Of course, we also left with about nine feet of curtains, a 108" curtain rod and five small tea-light holders. Such is the Way of Ikea.
 

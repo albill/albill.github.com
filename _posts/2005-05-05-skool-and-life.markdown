@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-05-05 23:52:46'
 layout: post
+slug: skool-and-life
+status: publish
 title: Skool and Life
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '461'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 My new term has started. It seems like it won't be quite as straightforward as the last one but we'll see. The World Religion class is vaguely interesting in that the prof will pretty much let you write about anything you want. The downside of this freedom is, of course, that you need to find something interesting to write about. You can't simply to an analyzation of the text or something, which I could do for my last History class until the final paper.
 

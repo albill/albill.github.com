@@ -1,23 +1,22 @@
---- 
+---
+author: admin
+date: '2011-07-30 22:01:10'
 layout: post
+slug: buddhist-geeks-2011-day-1-5
+status: publish
 title: Buddhist Geeks 2011 - Day 1.5
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3859"
-tags: 
+wordpress_id: '3787'
+categories:
 - Buddhism
+- Notable People
+- Spirituality
+- Technology
+tags:
 - buddhism
 - buddhist geeks
 - Conference
 - dharma
 - Los Angeles
-- Notable People
-- Spirituality
-- Technology
-type: post
-status: publish
 ---
 I am in Los Angeles (technically, Rosemead but you know…) attending the <a href="http://www.buddhistgeeks.com/conference/">Buddhist Geeks 2011</a> conference. This is the first ever Buddhist Geeks conference, in fact. For those that don't know, <a href="http://www.buddhistgeeks.com">Buddhist Geeks</a> is a popular podcast dedicated to (wait for it…) Buddhism and geekery. It was started by Vincent Horn, <a href="http://www.ryanoelke.com">Ryan Oelke</a>, and <a href="http://www.gwenbell.com">Gwen Bell</a>. After a while, it was just Vince and Ryan and, currently, it is being run by Vincent. The podcast has a history of interviewing interesting people within the Buddhist community and being a lot of fun. It has also gained quite a following on twitter and social media over the years, establishing a bit of a community.
 

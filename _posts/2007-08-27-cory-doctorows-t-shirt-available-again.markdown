@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-27 13:11:03'
 layout: post
-title: Cory Doctorow's T-Shirt Available Again
-published: true
-meta: 
-  ljID: "2708"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: cory-doctorows-t-shirt-available-again
 status: publish
+title: Cory Doctorow's T-Shirt Available Again
+wordpress_id: '1790'
+categories:
+- Humor
 ---
 The guys at <a href="http://www.woot.com">Woot</a> have made the t-shirt designed by Cory Doctorow around airline travel available again. Free shipping too. :-)
 

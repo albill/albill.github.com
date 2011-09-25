@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2010-05-10 14:37:56'
 layout: post
+slug: tricycles-online-retreats-and-buddhist-audio
+status: publish
 title: Tricycle's Online Retreats and Buddhist Audio
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3624"
-tags: 
+wordpress_id: '3140'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 Through <a href="http://www.tricycle.com/">Tricycle magazine's website</a>, Stephen Batchelor has been running an "online retreat" called "<a href="http://www.tricycle.com/online-retreats/buddhism-one-and-only-life">Buddhism for this One and Only Life</a>." This seems to consist largely of video presentations by him, rather than some of more interactive online retreats that I've seen from some Zen teachers. Examples of teachers doing such things are <a href="http://wildfoxzen.blogspot.com/">Dosho Port</a> or <a href="http://www.treeleaf.org/">Jundo Cohen</a>, who are both doing a lot of good work.
 

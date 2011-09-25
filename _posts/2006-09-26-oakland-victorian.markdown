@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-26 01:12:50'
 layout: post
-title: Oakland Victorian
-published: true
-meta: 
-  ljID: "2550"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: oakland-victorian
 status: publish
+title: Oakland Victorian
+wordpress_id: '1209'
+categories:
+- Daily Life
 ---
 R and I visited a house that was listed for sale by the owner today. He agreed to meet us at 8:00 PM at the place. It's a restored Victorian (the owner is a real estate investor and has had people working to clean up and restore the place). It's an 1890's era house with a large back and front yard and off-street parking.
 

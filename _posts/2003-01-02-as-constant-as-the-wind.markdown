@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-02 17:02:00'
 layout: post
+slug: as-constant-as-the-wind
+status: publish
 title: As Constant as the Wind...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1226'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, I'm registered for Latin 101 now... Tue and Thur from 7:40 to 9:10 PM.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-07 05:24:00'
 layout: post
+slug: the-transhumanist-geek-dream
+status: publish
 title: The Transhumanist Geek Dream
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1298'
+categories:
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 No, this isn't a continuation of the back and forth in my previous post.
 

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-22 23:22:22'
 layout: post
-title: Bye Bye, Kitty
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3394"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: bye-bye-kitty
 status: publish
+title: Bye Bye, Kitty
+wordpress_id: '336'
+categories:
+- Daily Life
 ---
 I'm taking Freya, my kitty with cancer, to die in the morning. She pretty much quit eating over the last two days. I got some wet food and she managed to eat some of that that today. The only water she drank was a couple of mouthfuls when the tom was getting his. Up until these last couple of days, she's been active and begging for food every day. Not a peep out of here today or yesterday for food or water.
 

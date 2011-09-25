@@ -1,18 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-13 22:22:00'
 layout: post
-title: Movie Going
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "2495"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
-- Daily Life
-type: post
+slug: movie-going
 status: publish
+title: Movie Going
+wordpress_id: '1633'
+categories:
+- Daily Life
 ---
 I&apos;m turning into a movie curmudgeon. R and I went to see <b>28 Days Later</b> on Friday in Redmond. During the movie, a literal fistfight nearly broke out (with shoving and such) after the girl behind us wouldn&apos;t shut up and kept texting people on her cellphone. (I wasn&apos;t involved in this beyond telling her to shut up.) She and her boyfriend eventually left and the movie was much better after that...
 

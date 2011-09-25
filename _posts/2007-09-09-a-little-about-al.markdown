@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-09 19:18:56'
 layout: post
-title: A Little About Al
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: a-little-about-al
 status: publish
+title: A Little About Al
+wordpress_id: '1820'
+categories:
+- Daily Life
 ---
 I've picked up a number of new readers recently. This is largely because I merged my <a href="http://blog.mozilla.com/al/">Mozilla QA blog</a> into the Mozilla category here on my main site. I do have a "Mozilla Only" feed available of just the Mozilla category so people aren't exposed to my vague ramblings on other topics but I am still seeing a spike in overall traffic.
 

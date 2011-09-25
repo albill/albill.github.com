@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-03 01:46:00'
 layout: post
+slug: pagan-groups
+status: publish
 title: Pagan Groups
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '3'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Monk and I got together today for some lunch and a chat. We did some general catching up since he's been out of town and we discussed some of the stuff that we're mutually involved in.
 

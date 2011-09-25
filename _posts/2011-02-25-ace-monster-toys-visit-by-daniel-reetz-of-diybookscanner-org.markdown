@@ -1,23 +1,20 @@
---- 
+---
+author: admin
+date: '2011-02-25 12:31:07'
 layout: post
+slug: ace-monster-toys-visit-by-daniel-reetz-of-diybookscanner-org
+status: publish
 title: Ace Monster Toys Visit by Daniel Reetz of DIYBookScanner.org
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3756"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3450'
+categories:
+- Daily Life
+- Hacking
+- Technology
+tags:
 - Ace Monster Toys
 - bookscanner
-- Daily Life
 - ebooks
-- Hacking
 - lecture
-- Technology
-type: post
-status: publish
 ---
 I <a href="http://www.openbuddha.com/2011/02/22/diy-book-scanner-in-progress/">blogged the other day</a> about the DIY Book Scanner that we've been working on at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>, which we've gotten it roughly a third finished. 
 

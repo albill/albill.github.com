@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2006-08-06 04:24:18'
 layout: post
+slug: burning-man-countdown
+status: publish
 title: Burning Man Countdown
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1154'
+categories:
 - Daily Life
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <img vspace="10" hspace="10" border="1" align="right" src="http://www.zhangzhung.net/pics/TAG-flyer.png" />I had dinner over in San Francisco with my recent friend, Veleda. This was the first time we'd met in person though we have mutual friends and had been speaking online for a while.
 

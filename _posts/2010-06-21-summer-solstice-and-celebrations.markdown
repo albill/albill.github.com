@@ -1,19 +1,14 @@
---- 
+---
+author: admin
+date: '2010-06-21 14:55:50'
 layout: post
+slug: summer-solstice-and-celebrations
+status: publish
 title: Summer Solstice and Celebrations
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3646"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3180'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4721817387/" title="Sun"><img align="right" src="http://farm2.static.flickr.com/1367/4721817387_0ca0989a0f_o.jpg" width="183" height="480" hspace="10" vspace="5" alt="Sun" /></a> There is still a lot of pagan in me, as I've said before. It is still my basic cultural paradigm for interacting with the world with whatever Buddhist sensibilities I've developed on top of it.
 

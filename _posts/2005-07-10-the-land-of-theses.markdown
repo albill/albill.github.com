@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-07-10 01:16:47'
 layout: post
+slug: the-land-of-theses
+status: publish
 title: The Land of Theses
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '508'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I&#39;m still trying to come up with potential thesis topics. </p>
 <p>My overall goal, other than getting the degree, is to have a thesis that I am 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-04 03:08:00'
 layout: post
+slug: woot
+status: publish
 title: Woot!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '969'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Alright. This is too fucking cool. I hadn't seen this on Shadowplay's website before but I was digging around.
 

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2009-02-21 11:53:10'
 layout: post
-title: Health Update
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3483"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: health-update
 status: publish
+title: Health Update
+wordpress_id: '2690'
+categories:
+- Daily Life
 ---
 I haven't spoken about my health extensively here in a while. It seemed like every time I was getting better, I was speaking too quickly. At this point, I've been feeling better for a few weeks so my three month illness has largely abated. As those following it know, I got sick a couple of weeks after coming back from Egypt. First it was flu-like symptoms, then I developed a weird, low-grade, fever that would come and go, especially with activity. Following with that, I developed a fast heart beat and high blood pressure with persistent headaches. 
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-21 13:54:33'
 layout: post
-title: Day 2 of Christmas-like Vacation
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: day-2-of-christmas-like-vacation
 status: publish
+title: Day 2 of Christmas-like Vacation
+wordpress_id: '330'
+categories:
+- Daily Life
 ---
 <p>Slept in, got out of bed, went to the bathroom to do morning bathroom things 
 that we don&#39;t discuss here. While in bathroom, I heard &quot;drip...drip...drip&quot; from 

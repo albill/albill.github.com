@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-14 20:33:00'
 layout: post
-title: Athens
-published: true
-meta: 
-  ljID: "2231"
-tags: 
-- Daily Life
-type: post
+slug: athens
 status: publish
+title: Athens
+wordpress_id: '1351'
+categories:
+- Daily Life
 ---
 Athens doesn&apos;t have quite the easy Internet access that a lot of the places we have been in have had and we&apos;ve been busy so I haven&apos;t been online in a couple of days.
 

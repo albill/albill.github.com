@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-30 16:26:00'
 layout: post
+slug: new-dee-book-reviewed
+status: publish
 title: New Dee Book Reviewed
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1261'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 That is by "Zadkiel" from the ritual-magic e-mail list on yahoogroups.com
 

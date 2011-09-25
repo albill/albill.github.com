@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-31 22:59:21'
 layout: post
-title: Further Tales of the House
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: further-tales-of-the-house
 status: publish
+title: Further Tales of the House
+wordpress_id: '343'
+categories:
+- Daily Life
 ---
 <p><b>This will probably bore many to tears. Stop reading now.</b></p>
 

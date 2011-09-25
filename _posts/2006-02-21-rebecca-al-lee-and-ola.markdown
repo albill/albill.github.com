@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-21 01:33:05'
 layout: post
-title: Rebecca, Al, Lee, and Ola
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: rebecca-al-lee-and-ola
 status: publish
+title: Rebecca, Al, Lee, and Ola
+wordpress_id: '691'
+categories:
+- Daily Life
 ---
 <a title="photo sharing" href="http://www.flickr.com/photos/albill/102494360/"><img src="http://static.flickr.com/33/102494360_f74117a11b_m.jpg" /></a>
 

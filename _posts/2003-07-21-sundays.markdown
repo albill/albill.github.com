@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-21 03:58:00'
 layout: post
-title: Sundays
-published: true
-meta: 
-  ljID: "2504"
-tags: 
-- Daily Life
-type: post
+slug: sundays
 status: publish
+title: Sundays
+wordpress_id: '1642'
+categories:
+- Daily Life
 ---
 Today was ritual day in the evening. The Ouroboros gang came over and we did a nice solar rite. Beyond that, we also practiced our basketball marksmanship on the inherited net that came with the house.
 

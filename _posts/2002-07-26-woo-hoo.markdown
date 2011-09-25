@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-07-26 03:53:00'
 layout: post
+slug: woo-hoo
+status: publish
 title: Woo Hoo!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '895'
+categories:
 - Daily Life
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 I almost forgot...I get to meet China Miéville tomorrow at <em>work</em> of all places. He's the author of "Perdido Street Station," "King Rat," and, most recently, "The Scar."
 

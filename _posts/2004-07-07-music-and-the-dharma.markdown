@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-07 22:44:01'
 layout: post
-title: Music and the Dharma
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: music-and-the-dharma
 status: publish
+title: Music and the Dharma
+wordpress_id: '165'
+categories:
+- Daily Life
 ---
 I finally got around to ripping all of the Nick Cave CDs we had in the house this weekend. I've been sorting them and fixing the metadata this evening. Seeing Blixa the other month reminded me that I needed to get the Nick Cave stuff on the computer. R has always been the Nick Cave fan in our family but it is a lack that I've been aware of and am now working to rectify. I can't think of any other music that I'd want to commit atrocities while listening more than this...
 

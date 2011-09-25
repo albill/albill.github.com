@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-05-07 01:56:40'
 layout: post
+slug: tantric-reading-for-done-for-class
+status: publish
 title: Tantric Reading for Done for Class
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3246"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2218'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2473361242/" title="Mikeswe3 by albill, on Flickr"><img border="1" hspace="10" vspace="10" align="right" src="http://farm4.static.flickr.com/3296/2473361242_3aa56fe5b4_m.jpg" width="180" height="240" alt="Mikeswe3" /></a> I finished working my way through Giebel's translation of the <a href="http://www.amazon.com/Esoteric-Sutras-English-Tripitaka-Translation/dp/188643915X/">Susiddhikara Sutra</a> this evening. I'd already read the <a href="http://www.amazon.com/Vairocanabhisambodhi-Sutra-Numata-Center/dp/188643932X">Vairocanabhisambodhi Sutra</a> in my class. 
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-15 18:28:51'
 layout: post
+slug: green-gulch
+status: publish
 title: Green Gulch Visit
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3294"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2241'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 R and I just got back from spending most of the weekend up at <a href="http://en.wikipedia.org/wiki/Green_Gulch_Farm">Green Gulch Farm</a>. It is also known as "Soryu-ji" or "Green Dragon Temple." Green Gulch is a Zen center operated by the <a href="http://en.wikipedia.org/wiki/San_Francisco_Zen_Center">San Francisco Zen Center</a>, which also has a retreat property called <a href="http://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center">Tassajara</a> further south. Green Gulch is over in Sausalito, not far from the Muir Woods and near Muir Beach. It is a wooded gulch (hence the name) that starts out fairly narrow near the high, inland, portion, and gradually widens out a bit into gardens and fields. Green Gulch is known for its work in organic agriculture and teaches classes in that as well as more "normal" Zen activities.
 

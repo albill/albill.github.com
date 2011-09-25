@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-31 19:08:00'
 layout: post
-title: Dzogchen Community Retreat with Norbu
-published: true
-meta: 
-  ljID: "2513"
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: dzogchen-community-retreat-with-norbu
 status: publish
+title: Dzogchen Community Retreat with Norbu
+wordpress_id: '1651'
+categories:
+- Daily Life
 ---
 <img src="http://www.arcanology.com/images/teachings.gif" width="115" height="114" border="1" align="right">I&apos;m going to go to Conway, MA in September to the Dzogchen Community&apos;s annual retreat with Namkhai Norbu.
 

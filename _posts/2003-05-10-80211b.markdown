@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-10 23:53:00'
 layout: post
-title: 802.11b
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: 80211b
 status: publish
+title: 802.11b
+wordpress_id: '1371'
+categories:
+- Daily Life
 ---
 So I&apos;ve got 802.11b working on my PocketPC now. It&apos;s kind of amusing that the card for it is a third the size of my card at work but whatever... I&apos;m pretty happy with it. 
 

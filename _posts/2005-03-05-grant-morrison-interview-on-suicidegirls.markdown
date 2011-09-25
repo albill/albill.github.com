@@ -1,17 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-05 16:55:07'
 layout: post
-title: Grant Morrison Interview on SuicideGirls
-published: true
-meta: 
-  _oembed_9b1f7256dcb37d8ea3b6ee75fb03de27: "{{unknown}}"
-  _oembed_dd92ce4f51123dd7f3ba311f2026e54c: "{{unknown}}"
-  ljID: "2423"
-  _oembed_9418a3365ed207a6a0f3babb8b789834: "{{unknown}}"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Notable People
-type: post
+slug: grant-morrison-interview-on-suicidegirls
 status: publish
+title: Grant Morrison Interview on SuicideGirls
+wordpress_id: '414'
+categories:
+- Notable People
 ---
 <a href="http://suicidegirls.com/words/Grant+Morrison/">
 http://suicidegirls.com/words/Grant+Morrison/</a>

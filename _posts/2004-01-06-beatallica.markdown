@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-06 15:12:00'
 layout: post
-title: Beatallica
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: beatallica
 status: publish
+title: Beatallica
+wordpress_id: '9'
+categories:
+- Humor
 ---
 Like the Beatles? Like Metallica? Wish you could get both great tastes together?
 

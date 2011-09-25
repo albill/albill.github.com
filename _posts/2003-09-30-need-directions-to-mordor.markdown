@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-30 18:44:00'
 layout: post
-title: Need directions to Mordor?
-published: true
-meta: 
-  ljID: "2824"
-tags: 
-- Daily Life
-type: post
+slug: need-directions-to-mordor
 status: publish
+title: Need directions to Mordor?
+wordpress_id: '1901'
+categories:
+- Daily Life
 ---
 <a href="http://www.ooblick.com/text/tomordor/">http://www.ooblick.com/text/tomordor/</a>
 

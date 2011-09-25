@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-05 22:48:05'
 layout: post
-title: People are Weird
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: people-are-weird
 status: publish
+title: People are Weird
+wordpress_id: '475'
+categories:
+- Daily Life
 ---
 People are fucking weird sometimes and I don't always know what to make of it. I have a friend online that I've known for something like five or seven years. I'm not entirely sure. We've never met in person (he lives in Toronto) but we corresponded for years. Sometimes it was every day or two and sometimes there were gaps of many months but there has always been some kind of communication.
 

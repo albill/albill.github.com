@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-08 23:48:19'
 layout: post
-title: Pantheacon 2005
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: pantheacon-2005
 status: publish
+title: Pantheacon 2005
+wordpress_id: '392'
+categories:
+- Spirituality
 ---
 <p>This is the list of events that look the most interesting to me from Pantheacon 2005. R and I will be attending this from February 18 through 21 in San Jose, CA.</p>
 

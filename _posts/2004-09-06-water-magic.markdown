@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-06 00:26:14'
 layout: post
-title: Water Magic
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: water-magic
 status: publish
+title: Water Magic
+wordpress_id: '227'
+categories:
+- Science Fiction
 ---
 <p>A quiet day. I went to Home Depot and bought a sump pump to replace the one 
 that melted itself to slag (and the cables attached to it) during the last rainy 

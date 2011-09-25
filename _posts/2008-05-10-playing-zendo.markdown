@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-05-10 12:47:42'
 layout: post
-title: Playing Zendo
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3252"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: playing-zendo
 status: publish
+title: Playing Zendo
+wordpress_id: '2221'
+categories:
+- Daily Life
 ---
 Last night, R and I went over to the house of friends who have a regular game night. Other than a general interest in playing games with people, we went over in order to learn to play <strong><a href="http://www.koryheath.com/games/zendo">Zendo</a></strong>. Zendo is a game played with the Icehouse pyramids available from <a href="http://www.looneylabs.com/">Looney Labs</a>. These are hollow, translucent colored pyramids that are stackable and come in three sizes (small, medium, and large), fitting within each other. 
 <p align="center"><a href="http://www.flickr.com/photos/albill/2480544637/" title="stacked_pyramids by albill, on Flickr"><img src="http://farm4.static.flickr.com/3154/2480544637_914842e2ea.jpg" width="448" height="500" alt="stacked_pyramids" /></a></p>

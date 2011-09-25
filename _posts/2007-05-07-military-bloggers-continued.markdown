@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-07 10:41:51'
 layout: post
+slug: military-bloggers-continued
+status: publish
 title: Military Bloggers Continued
-published: true
-meta: 
-  ljID: "2562"
-tags: 
+wordpress_id: '1687'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 As my friend, Ted, just noted to me, it looks like the military backed off on their policy change for Military Bloggers after the shitstorm they got about it last week.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-24 21:00:27'
 layout: post
-title: The Palace of Fine Arts
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-palace-of-fine-arts
 status: publish
+title: The Palace of Fine Arts
+wordpress_id: '1121'
+categories:
+- Daily Life
 ---
 Following our visit with the Mythbusters and the Exploratorium, R and I took a stroll around the <a href="http://en.wikipedia.org/wiki/Palace_Of_Fine_Arts">Palace of Fine Arts</a>. I'd never been there before though I had heard about it many times over the years.
 

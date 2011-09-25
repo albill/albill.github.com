@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-29 18:25:00'
 layout: post
-title: Concentric Circles
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: concentric-circles
 status: publish
+title: Concentric Circles
+wordpress_id: '1074'
+categories:
+- Daily Life
 ---
 Well, we survived our public ritual yesterday. This is something that we really only wind up doing once a year and we usually do it without a huge amount of notice and without a lot of practice. Of course, knowing this, we do ritual work where we don't need a lot of practice. The core of the group (three of us now) have been doing ritual together for a few years now so we don't normally trip over each other or anything similar.
 

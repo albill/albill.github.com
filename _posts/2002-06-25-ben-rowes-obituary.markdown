@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2002-06-25 03:04:00'
 layout: post
+slug: ben-rowes-obituary
+status: publish
 title: Ben Rowe's Obituary
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '860'
+categories:
 - Daily Life
 - Esoteric
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 This is written by a close mutal friend of Ben's and mine. She was much closer to Ben over the years than I. This is quoted with permission.
 

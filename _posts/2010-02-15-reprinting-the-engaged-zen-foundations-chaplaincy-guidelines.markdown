@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2010-02-15 23:17:12'
 layout: post
+slug: reprinting-the-engaged-zen-foundations-chaplaincy-guidelines
+status: publish
 title: Reprinting the Engaged Zen Foundation's Chaplaincy Guidelines
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3609"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2962'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I'm a big believer in prison work around spirituality. 
 

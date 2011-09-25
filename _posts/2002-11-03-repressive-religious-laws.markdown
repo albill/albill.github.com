@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-03 19:14:00'
 layout: post
-title: Repressive Religious Laws
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: repressive-religious-laws
 status: publish
+title: Repressive Religious Laws
+wordpress_id: '1009'
+categories:
+- Society
 ---
 'Source: <a href="http://www.keston.org">Keston Institute</a>'
 

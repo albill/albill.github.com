@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-07-17 00:50:45'
 layout: post
-title: "Ex Templo Podcast #5: T. Thorn Coyle - Part 1 Available"
-published: true
-meta: 
-  ljID: "2657"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: ex-templo-podcast-5-thorn-coyle-part-1-available
+status: publish
+title: 'Ex Templo Podcast #5: T. Thorn Coyle - Part 1 Available'
+wordpress_id: '1754'
+categories:
 - Notable People
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 The fifth <a href="http://www.extemplo.org">Ex Templo</a> Podcast is now available. This is the first of the three parts of the interview with <a href="http://www.thorncoyle.com/">T. Thorn Coyle</a> in San Francisco, California.
 

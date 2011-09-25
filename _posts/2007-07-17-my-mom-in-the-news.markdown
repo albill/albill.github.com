@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2007-07-17 15:30:39'
 layout: post
+slug: my-mom-in-the-news
+status: publish
 title: My Mom in the News
-published: true
-meta: 
-  ljID: "2658"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1755'
+categories:
 - Daily Life
 - Esoteric
 - Notable People
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 My mother, Gretchen Faulk, sent me a note today that she's been in both of the local Salt Lake City papers as a local pagan and witch in the last couple of weeks. As most of my friends know, my mother is a 20+ year veteran of paganism and has practiced for that entire time in Utah. She started her own church, the <strong>Order of Our Lady of Salt</strong>, years ago and they've met for monthly Goddess services open to the public ever since then.
 

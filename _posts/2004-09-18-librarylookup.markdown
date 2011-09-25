@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-18 21:02:53'
 layout: post
-title: LibraryLookup
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: librarylookup
 status: publish
+title: LibraryLookup
+wordpress_id: '240'
+categories:
+- Books
 ---
 This is pretty cool Jon Udell wrote a little javascript program that will take the ISBN from a book that you're looking at on Amazon, pop open a new window and check with your local library system to see if it is available. I've been doing this by hand recently, which is how I found the library books that I mentioned recently. If you're running IE, you can put it in the Links bar and I've verified that it works. In Firefox, you can just make it a bookmark and go to it and it will work. You have to be on an Amazon page for a book for it to do anything though.
 

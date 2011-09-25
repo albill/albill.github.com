@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-27 06:02:58'
 layout: post
+slug: openness-and-ie-or-talk-to-us
+status: publish
 title: Openness and IE or "Talk to us!"
-published: true
-meta: 
-  ljID: "2879"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1957'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 It came to my attention that comments started to be posted about my <a href="http://www.arcanology.com/2007/09/19/ie-and-the-demise-of-borgzilla/">Borgzilla blog post</a> over on the <a href="http://blogs.msdn.com/ie/archive/2007/09/18/developing-safer-activex-controls-using-the-sitelock-template.aspx">IEBlog on an unrelated post</a> there.
 

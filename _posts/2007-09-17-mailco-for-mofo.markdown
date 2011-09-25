@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-17 22:31:37'
 layout: post
+slug: mailco-for-mofo
+status: publish
 title: MailCo for MoFo
-published: true
-meta: 
-  ljID: "2750"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1827'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Mitchell Baker, the CEO of the Mozilla Corporation and a board member of the Mozilla Foundation, has <a href="http://weblogs.mozillazine.org/mitchell/archives/2007/09/mozillas_new_focus_on_thunderb.html">announced on her blog</a> that the Foundation will be creating a new  corporation, a sister company to the Mozilla Corporation to focus on e-mail communications:
 <blockquote>"... Mozilla is launching a new effort to improve email and internet communications. We will increase our investment and focus on our current email client -- Thunderbird -- and on innovations in the email and communications areas. We are doing so by creating a new organization with this as its sole focus and committing resources to this organization. The new organization doesn't have a name yet, so I'll call it MailCo here. MailCo will be part of the Mozilla Foundation and will serve the public benefit mission of the Mozilla Foundation. (Technically, it will be a wholly owned subsidiary of the Mozilla Foundation, just like the Mozilla Corporation.)"</blockquote>

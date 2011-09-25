@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-07 00:39:45'
 layout: post
-title: Thesis Time
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: thesis-time
 status: publish
+title: Thesis Time
+wordpress_id: '1185'
+categories:
+- Academic
 ---
 It is time to get cracking on my thesis.
 

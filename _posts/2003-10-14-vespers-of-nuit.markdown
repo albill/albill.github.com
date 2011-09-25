@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-14 04:46:00'
 layout: post
+slug: vespers-of-nuit
+status: publish
 title: Vespers of Nuit
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1924'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 My mom will be publicly performing her <strong>Vespers of Nuit</strong> ritual here in Seattle.
 

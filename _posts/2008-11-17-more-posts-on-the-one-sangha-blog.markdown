@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-11-17 00:25:26'
 layout: post
-title: More posts on the One Sangha blog
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3431"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: more-posts-on-the-one-sangha-blog
 status: publish
+title: More posts on the One Sangha blog
+wordpress_id: '2556'
+categories:
+- Daily Life
 ---
 I sent my post on clergy the other day to the <a href="http://www.onesangha.org">One Sangha blog</a> in an attempt to finally get that moving. I noticed this evening, when looking through my blog list on <a href="http://reader.google.com">Google Reader</a> that my friend, Bill, had <a href="http://www.onesangha.org/2008/11/an-american-buddhist-clergy-maybe/">posted to the blog</a> today. 
 

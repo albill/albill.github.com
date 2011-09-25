@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-19 10:29:36'
 layout: post
-title: Next Transmission by Namkhai Norbu
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: next-transmission-by-namkhai-norbu
 status: publish
+title: Next Transmission by Namkhai Norbu
+wordpress_id: '183'
+categories:
+- Buddhism
 ---
 All information regarding the upcoming 2004 Video Anniversary Transmission date with Chögyal Namkhai Norbu, are now posted on Tsegyalgar website:
 

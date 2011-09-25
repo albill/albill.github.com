@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-03 01:52:48'
 layout: post
+slug: starbucks-buddhism
+status: publish
 title: Starbucks Buddhism?
-published: true
-meta: 
-  ljID: "3277"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2232'
+categories:
 - Buddhism
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2547090115/"><img src="http://farm4.static.flickr.com/3049/2547090115_52c0abe526.jpg" width="500" border="1" height="375" alt="The karmapa and his Coffee" /></a><br><em>The Karmapa Has His First Cup of Coffee Ever Courtesy of Starbucks - A Telling Moment.</em></p>This last weekend, I went to see the 17th Karmapa in Seattle during his first visit to America. (Actually, I think it is his visit to anywhere outside of India since eluding the Chinese in Tibet.)
 

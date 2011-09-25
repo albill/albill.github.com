@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-28 01:16:24'
 layout: post
+slug: its-officialcalifornia-here-i-come
+status: publish
 title: It's Official...California here I come!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '754'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 Some of my friends have known details as things have progressed but I don't talk about my work much here.
 

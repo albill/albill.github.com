@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-10-03 20:00:00'
 layout: post
+slug: ritual-work
+status: publish
 title: Ritual Work
-published: true
-meta: 
-  ljID: "2832"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1910'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I got the day off as a "comp day" for some of the recent patch work on Internet Explorer. I slept in a bit and then Sarastro came over to do some ritual work relating to the Astrum Sophia and our degree work within it. We did a bit of work, which was quite good, and then hung out for a while discussing various things.
 

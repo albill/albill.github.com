@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-23 23:50:23'
 layout: post
-title: Whoa! Geek Points Alert! The EKG from Hell
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Technology
-type: post
+slug: whoa-geek-points-alert-the-ekg-from-hell
 status: publish
+title: Whoa! Geek Points Alert! The EKG from Hell
+wordpress_id: '494'
+categories:
+- Technology
 ---
 This has got to be the coolest thing that I've seen in a while with tech.
 

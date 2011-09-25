@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-29 20:33:36'
 layout: post
-title: Oy! My Head!
-published: true
-meta: 
-  ljID: "2549"
-tags: 
-- Academic
-type: post
+slug: oy-my-head
 status: publish
+title: Oy! My Head!
+wordpress_id: '1682'
+categories:
+- Academic
 ---
 This is just a note that while I find St. Augustine readable, I think I've read too much of him.
 

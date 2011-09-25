@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2004-05-22 01:46:00'
 layout: post
+slug: transcript-of-bruce-sterling-at-microsoft-corporation
+status: publish
 title: Transcript of Bruce Sterling at Microsoft Corporation
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '117'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 Bruce Sterling, one of my favorites writers and a personal god, was at Microsoft today ranting/lecturing. It was fun and I just spent two hours transcribing the entire f'ing thing with all of the play-pause that is involved. If you don't like my spelling or something, go die now. I removed the mental spacing "uhms" and "ands" from his speech. If it isn't exact enough, sue me. Thanks!
 

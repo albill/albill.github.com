@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-03-21 12:17:32'
 layout: post
+slug: wescor-2007-conference
+status: publish
 title: WESCOR 2007 Conference
-published: true
-meta: 
-  ljID: "2432"
-tags: 
+wordpress_id: '1570'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I will be attending the Western Commission for the Study of Religion (WESCOR) conference in Berkeley this weekend. I'll be there all day on Sunday and I plan to skip out of work for a couple of hours on Monday afternoon to attend the Buddhist Studies panel.
 

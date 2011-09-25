@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-08 02:23:05'
 layout: post
+slug: new-shrine-space
+status: publish
 title: New Shrine Space
-published: true
-meta: 
-  ljID: "2522"
-tags: 
+wordpress_id: '1658'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 R did a major clean up and paint job in the back room last week. This is normally the laundry room but the equipment is in an alcove against one wall. The rest of the room is empty and it is off of the rest of the house. It is only entered through a separate door off of our back porch/deck. It doesn't even have its own heat.
 

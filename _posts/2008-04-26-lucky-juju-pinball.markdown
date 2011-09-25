@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-26 01:15:14'
 layout: post
+slug: lucky-juju-pinball
+status: publish
 title: Lucky JuJu Pinball
-published: true
-meta: 
-  ljID: "3223"
-tags: 
+wordpress_id: '2210'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2441754883/" title="DSCF3293.JPG by albill, on Flickr"><img src="http://farm4.static.flickr.com/3260/2441754883_abc60f9998.jpg" border="1" width="500" height="375" alt="DSCF3293.JPG" /></a></p>
 Tonight, R and I went to <a href="http://www.ujuju.com/index.php">Lucky JuJu Pinball</a> in Alameda. (For the non-locals, Alameda is a small city on island in the Bay next to Oakland.) Lucky JuJu Pinball is, you guessed it, a pinball place. It is only open on the weekends and is filled with a variety of pinball machines, both old school and more modern digital devices. 

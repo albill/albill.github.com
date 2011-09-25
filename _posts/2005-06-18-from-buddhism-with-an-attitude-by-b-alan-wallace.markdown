@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-18 01:02:15'
 layout: post
-title: From Buddhism With An Attitude by B. Alan Wallace
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: from-buddhism-with-an-attitude-by-b-alan-wallace
 status: publish
+title: From Buddhism With An Attitude by B. Alan Wallace
+wordpress_id: '485'
+categories:
+- Buddhism
 ---
 This was posted in the Buddhists community today that I frequent on Livejournal. I find it appropriate based on various thoughts I've had for the last couple of years. What it means for life changes for me in the long run remains to be seen (and may surprise people).
 <blockquote>"<em>Spiritual practice is not a shortcut to the American Dream</em> nor is it an embellishment to a comfortable life. Dharma addresses the root causes of suffering and requires that we take a hard look at the preconceptions that maintain our worldview and perpetuate our problems. As much as success seems to be the source of the good things in life, happiness included, <em>success isn't the goal of spiritual practice.</em> Our ideas about success are themselves based on preconceptions and are also part of a self-perpetuating cycle preventing us from achieving the genuine success and happiness that we seek.

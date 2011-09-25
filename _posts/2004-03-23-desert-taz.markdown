@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-23 10:14:00'
 layout: post
-title: Desert TAZ?
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: desert-taz
 status: publish
+title: Desert TAZ?
+wordpress_id: '69'
+categories:
+- Society
 ---
 <a href="http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040320/CENTRE20/TPComment/TopStories">Full Story</a>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-14 03:40:00'
 layout: post
-title: Art of Worldly Wisdom for 6/13/2003
-published: true
-meta: 
-  ljID: "2466"
-tags: 
-- Daily Life
-type: post
+slug: art-of-worldly-wisdom-for-6132003
 status: publish
+title: Art of Worldly Wisdom for 6/13/2003
+wordpress_id: '1603'
+categories:
+- Daily Life
 ---
 <center><b><font size="+1">4</font></b>
 Knowledge and Courage.

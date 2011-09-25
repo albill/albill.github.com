@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-29 03:48:00'
 layout: post
+slug: i-live
+status: publish
 title: I Live!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1036'
+categories:
 - Books
 - Daily Life
-type: post
-status: publish
 ---
 So, I'm at 's parents place in Berkeley, CA. We had our mighty turkey day feast earlier and I got exposed to thirteen (!) of her relatives. I seem to be passing the appropriate parental tests as her parents are speaking to me and making small talk and such. I've got them snowed as to my worth! ;-)
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-13 23:57:12'
 layout: post
-title: Geek Fun
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: geek-fun
 status: publish
+title: Geek Fun
+wordpress_id: '319'
+categories:
+- Technology
 ---
 I gave up my cell phone about two months ago, maybe a little less. I'd felt I wasn't using it enough and it was just an expense. Of course, as soon as it was gone, I found myself in situations where I wanted to call my wife while out or I was delayed in going to mass or... that sort of thing. People couldn't call me wherever I was when I was just out doing nothing special.
 

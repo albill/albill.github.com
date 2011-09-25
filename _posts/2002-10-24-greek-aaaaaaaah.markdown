@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-24 02:54:00'
 layout: post
+slug: greek-aaaaaaaah
+status: publish
 title: Greek! AAAAAAAAH.
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '991'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Alright, I just spent two hours copying vocabulary to little index cards, copying the A and O declensions for nouns and then doing assigned homework for Ancient Greek and this is <em>after</em> I get home from work!!!
 

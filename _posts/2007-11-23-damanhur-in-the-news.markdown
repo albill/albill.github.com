@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-23 13:47:28'
 layout: post
+slug: damanhur-in-the-news
+status: publish
 title: Damanhur in the News
-published: true
-meta: 
-  ljID: "3039"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2118'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 Damanhur is in the news again, which brought them to my mind today. They seem to be discovered or rediscovered every few years in the English speaking world and then promptly forgotten again (until the next time). This time it is the <a href="http://www.dailymail.co.uk">Daily Mail</a> newspaper in the UK with an <a href="http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=495538&in_page_id=1811">article</a> on the group.
 

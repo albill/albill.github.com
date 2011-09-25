@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-29 23:08:42'
 layout: post
-title: Mark's Question
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: marks-question
 status: publish
+title: Mark's Question
+wordpress_id: '300'
+categories:
+- Spirituality
 ---
 Mark Stavish asked me a question that he's working on as part of a project.
 

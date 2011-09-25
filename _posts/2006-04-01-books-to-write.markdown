@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-01 16:22:06'
 layout: post
+slug: books-to-write
+status: publish
 title: Books to Write
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '726'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I occasionally ponder books that I could write when I have more free time.  This will be after my master's thesis is finished in a year or so.
 

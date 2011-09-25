@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-12-15 12:55:14'
 layout: post
+slug: the-fortunate-and-ongoing-disaster-of-lay-life
+status: publish
 title: The Fortunate and Ongoing Disaster of Lay Life
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3443"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2581'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/347528098/" title="Large Buddha by albill, on Flickr"><img src="http://farm1.static.flickr.com/142/347528098_aabaf84cbb.jpg" width="500" height="333" border="1" alt="Large Buddha" /></a></p>
 I found this teisho by Tarrant Roshi in a textfile on an old FTP site containing Buddhist teachings. Back in the early 1990s, before the web kind of took over the Internet, a lot of people (including me) used FTP and Gopher sites to make archives of various texts. These had often been culled from the bulletin board systems of the day. 

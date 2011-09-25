@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-10 23:32:40'
 layout: post
+slug: surviving-the-mini-retreat
+status: publish
 title: Surviving the Mini-retreat
-published: true
-meta: 
-  ljID: "2967"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2044'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/1957822005/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2149/1957822005_41721e0d39.jpg" width="500" height="375" alt="DSCF2204" /></a></p>
 

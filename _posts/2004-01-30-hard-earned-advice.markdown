@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-30 22:31:00'
 layout: post
-title: Hard Earned Advice
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: hard-earned-advice
 status: publish
+title: Hard Earned Advice
+wordpress_id: '37'
+categories:
+- Humor
 ---
  
 

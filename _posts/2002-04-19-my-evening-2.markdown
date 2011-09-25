@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-19 02:38:00'
 layout: post
-title: My Evening
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
-- Daily Life
-type: post
+slug: my-evening-2
 status: publish
+title: My Evening
+wordpress_id: '791'
+categories:
+- Daily Life
 ---
 Got off work this evening and headed back to Capitol Hill to meet for coffee. This has been the coffee week for friends. I met briefly for coffee last night and then Ruby Moon tonight.
 

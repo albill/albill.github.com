@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-04 22:40:59'
 layout: post
+slug: friendly-feedly
+status: publish
 title: Friendly Feedly
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3380"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2440'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 During the last day, I've been playing with a Firefox extension called "<a href="https://addons.mozilla.org/en-US/firefox/addon/8538">Feedly</a>." The home page for the extension is at <a href="http://feedly.com/">feedly.com</a>.  As the extension describes itself:
 <blockquote>Feedly is a new kind of RSS start page which weaves Google Reader, Digg and Delicious into a more fun, magazine-like user experience. The integration with Twitter, Yahoo Mail, Gmail, Friendfeed and Delicious makes sharing a breeze. You can get up to speed quickly by importing your existing Netvibes, Bloglines or MyYahoo accounts, your bookmarks or an OPML file.</blockquote>

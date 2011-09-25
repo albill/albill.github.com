@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-02 14:47:00'
 layout: post
-title: Snoopy Dance
-published: true
-meta: 
-  ljID: "2973"
-tags: 
-- Daily Life
-type: post
+slug: snoopy-dance
 status: publish
+title: Snoopy Dance
+wordpress_id: '2051'
+categories:
+- Daily Life
 ---
 Woo Woo!!
 

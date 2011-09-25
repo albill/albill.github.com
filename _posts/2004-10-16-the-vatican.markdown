@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-16 12:56:20'
 layout: post
-title: The Vatican
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-vatican
 status: publish
+title: The Vatican
+wordpress_id: '261'
+categories:
+- Daily Life
 ---
 We arrived in Rome yesterday afternoon. We didn't leave Sorrento until fairly late and had to navigate through the cesspool of Naples on the way out. R found us a fairly good hotel not far from the train station so we didn't have to go far after we got off the train. We'll be there until Wednesday morning, when we leave to go back to the states.
 

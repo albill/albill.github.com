@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-07-16 20:00:24'
 layout: post
+slug: tibetan-or-japanese
+status: publish
 title: Tibetan or Japanese
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3560"
-tags: 
+wordpress_id: '2834'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Working out is a time for either meditating on the body, listening to music and podcasts, or pondering things otherwise not thought about (if not all three). 
 

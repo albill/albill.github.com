@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-01-11 02:06:43'
 layout: post
+slug: tengu-riding-a-fox
+status: publish
 title: Tengu Riding a Fox
-published: true
-meta: 
-  ljID: "2360"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1515'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 This is a little statue that I picked up the other day:
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/353646053/"><img width="241" height="500" alt="Tengu Riding a Fox" src="http://farm1.static.flickr.com/156/353646053_a907aa4617.jpg" /></a></p>

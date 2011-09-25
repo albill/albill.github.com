@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-07-28 14:28:02'
 layout: post
+slug: crowley-and-spiritual-traditions
+status: publish
 title: Crowley and Spiritual Traditions
-published: true
-meta: 
-  ljID: "2669"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '1763'
+categories:
 - Esoteric
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 Now, I admit that I am biased in all things Crowley. I was never a "big 'T'" Thelemite like some people I know, who seem to worship Crowley as a guide or the ultimate guide to life or something. I found the philosophy to have some value and felt that Crowley had a lot of gifts, along with his faults. I still feel that way but I've moved on.
 

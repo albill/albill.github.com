@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-21 12:22:38'
 layout: post
-title: My Birthday Party
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: my-birthday-party
 status: publish
+title: My Birthday Party
+wordpress_id: '206'
+categories:
+- Daily Life
 ---
 <p>My birthday was on Thursday, the 19th. I am 33 years old now. On a good day, 
 my life may be a third over (or I could be killed in a freak computer mouse 

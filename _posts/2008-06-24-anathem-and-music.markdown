@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-24 17:03:46'
 layout: post
+slug: anathem-and-music
+status: publish
 title: Neal Stephenson's Anathem and Music
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: anathem-is-here
-  ljID: "3304"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2249'
+categories:
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2608432235/" title="anathem"><img src="http://farm4.static.flickr.com/3003/2608432235_42dd22a006_o.jpg" width="331" height="500" alt="anathem" /></a></p>
 My advanced reader's copy of Neal Stephenson's new novel, "<strong><a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096/">Anathem</a></strong>," arrived this afternoon. I was selected on <a href="http://www.librarything.com">LibraryThing</a> to receive it in order to do a review of it on my blog and on that site. LibraryThing makes ARCs available all the time but this was the first time I've been selected to receive a book through their unknown process (probably looking at our libraries and seeing how well they match). Since Stephenson has been a favorite author of mine since I met him in Seattle when <strong>Snowcrash</strong> came out, this is quite a treat.

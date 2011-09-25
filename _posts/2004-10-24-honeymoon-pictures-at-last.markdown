@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-24 18:24:49'
 layout: post
-title: Honeymoon Pictures at Last!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: honeymoon-pictures-at-last
 status: publish
+title: Honeymoon Pictures at Last!
+wordpress_id: '270'
+categories:
+- Daily Life
 ---
 I've spent umpteen hours (like five or so) in the last day cleaning up raw pictures, discarding a bunch, tweaking exposure, and then making web versions at lower dpi of the pictures that I took on the honeymoon.
 

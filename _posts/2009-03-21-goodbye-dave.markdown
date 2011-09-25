@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2009-03-21 09:47:41'
 layout: post
+slug: goodbye-dave
+status: publish
 title: Goodbye, Dave
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3498"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2716'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3372241824/" title="David Baker Playing"><img src="http://farm4.static.flickr.com/3283/3372241824_e9236e9ca4.jpg" border="1" width="500" height="375" alt="David Baker Playing" /></a></div>
 

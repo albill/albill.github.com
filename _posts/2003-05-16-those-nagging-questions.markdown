@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-16 16:55:00'
 layout: post
-title: Those nagging questions...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: those-nagging-questions
 status: publish
+title: Those nagging questions...
+wordpress_id: '1380'
+categories:
+- Daily Life
 ---
 From <a href="http://www.low-carb-friends.com/bbs/showthread.php?s=&amp;threadid=92670">http://www.low-carb-friends.com/bbs/showthread.php?s=&amp;threadid=92670</a>
 

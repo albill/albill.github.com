@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-06-27 11:56:37'
 layout: post
+slug: seeds-of-change-for-review
+status: publish
 title: Seeds of Change for Review
-published: true
-meta: 
-  ljID: "3308"
-tags: 
+wordpress_id: '2252'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2616651190/" title="seeds-of-change by albill, on Flickr"><img align="right" src="http://farm4.static.flickr.com/3170/2616651190_42846b373f_m.jpg" width="171" height="240" alt="seeds-of-change" /></a> This must be my week for getting advanced reader's copies of books. I received a copy of <strong><a href="http://www.amazon.com/Seeds-Change-Tobias-S-Buckell/dp/0809573105/">Seeds of Change</a></strong> today from the editor, <a href="http://www.johnjosephadams.com/">John Joseph Adams</a>. He's made some electronic PDF copies available to bloggers and some others for review. Given the guidelines from him, I won't have the review up until August, a couple of weeks before the book comes out.
 

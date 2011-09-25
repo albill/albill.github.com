@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-15 17:05:51'
 layout: post
+slug: do-you-have-a-right-not-to-be-spied-on-by-the-government
+status: publish
 title: Do you have a right not to be spied on by the government?
-published: true
-meta: 
-  ljID: "2693"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1777'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 Go read this blow by blow from the EFF case hearing today. The panel of judges here is working to determine whether the government can have this case thrown out by citing state secrets in response to all questions concerning this case.
 <blockquote>"Litigating this action could result in exceptionally gave harm to national security in the United States," says Deputy Solicitor General Gregory Garr.</blockquote>

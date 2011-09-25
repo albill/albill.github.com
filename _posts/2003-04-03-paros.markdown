@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-03 00:24:00'
 layout: post
-title: Paros
-published: true
-meta: 
-  ljID: "2218"
-tags: 
-- Daily Life
-type: post
+slug: paros
 status: publish
+title: Paros
+wordpress_id: '1338'
+categories:
+- Daily Life
 ---
 So, we live (sort of).
 

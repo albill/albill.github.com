@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-08 20:15:00'
 layout: post
-title: A Group is its own worst enemy
-published: true
-meta: 
-  ljID: "2492"
-tags: 
-- Daily Life
-type: post
+slug: a-group-is-its-own-worst-enemy
 status: publish
+title: A Group is its own worst enemy
+wordpress_id: '1630'
+categories:
+- Daily Life
 ---
 One of the better things about online groups and collaboration that I&apos;ve read in a long time. It has a lot to say about non-online groups as well.
 

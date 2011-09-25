@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-10 01:24:05'
 layout: post
-title: The Dharma Posse
-published: true
-meta: 
-  ljID: "3104"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: the-dharma-posse
 status: publish
+title: The Dharma Posse
+wordpress_id: '365'
+categories:
+- Buddhism
 ---
 I believe that I've posted this before but I'm not sure. I came across it this evening. This is me, the dharma posse and John Reynolds aka Vajranatha.
 

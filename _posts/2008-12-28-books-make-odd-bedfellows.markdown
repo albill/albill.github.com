@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-12-28 21:58:33'
 layout: post
+slug: books-make-odd-bedfellows
+status: publish
 title: Books Make Odd Bedfellows
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3448"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2602'
+categories:
 - Books
 - Daily Life
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 I generally read several books at once. Usually this is a work of fiction (or two) and then a non-fiction work such as a history text or a Buddhist work. Recently, with the time on my hands from the holidays and not feeling well, I've been attempting to finally finish <a href="http://www.amazon.com/gp/series/90841/ref=s9kser_t1_ser-rfc_g1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=top-1&pf_rd_r=0GAEM995B75TQYZB0HH4&pf_rd_t=301&pf_rd_p=447162401&pf_rd_i=baroque%20cycle">The Baroque Cycle</a> of Neal Stephenson (or "Mount Stephenson" as friends and I have called it before). It is the only thing of his that I've never finished though I've read and re-read the first half of it a couple of times. (This is actually not unprecedented as I must admit that I've never managed to finish <strong>The Two Towers</strong> or even start <strong>The Return of the King</strong>.) 
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-09 01:29:45'
 layout: post
+slug: western-esotericism-and-methodology
+status: publish
 title: Western Esotericism and Methodology
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '734'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Whew, I wrote eight and a half pages (about 2,800 words) of a draft of my  final paper for my independent study in Western Esotericism today. If I can get  this done this weekend, I can spend the next two weeks focusing on my research  paper for the Greek class on the changing nature of the Soul from Homer to  Plato. The paper today is on methodological discussions within the discipline  focusing primarily on the work of Wouter Hanegraaff in defining an empirical  approach to studying esotericism.
 

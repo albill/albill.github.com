@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-19 11:04:32'
 layout: post
-title: Scary Free Wireless
-published: true
-meta: 
-  ljID: "2538"
-tags: 
-- Society
-type: post
+slug: scary-free-wireless
 status: publish
+title: Scary Free Wireless
+wordpress_id: '1672'
+categories:
+- Society
 ---
 A number of interesting scenarios for ubiquitous computing require wireless to be commonly available, like cell connections are now. Many people want this to be available without everyone having to give money to the large corporate providers when so much access is available and unused in people's homes. You shouldn't need to pay a provider (or Starbucks) a per minute or hourly rate just to check your e-mail.
 

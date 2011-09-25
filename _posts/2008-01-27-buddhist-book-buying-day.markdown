@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-01-27 17:49:42'
 layout: post
+slug: buddhist-book-buying-day
+status: publish
 title: Buddhist Book Buying Day
-published: true
-meta: 
-  ljID: "3134"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2164'
+categories:
 - Books
 - Buddhism
-type: post
-status: publish
 ---
 R and I went out to Saul's in Berkeley today for lunch. (For those that are in the area, Saul's is a wonderful New York deli and restaurant which serves some of the best deli food in the area.)
 

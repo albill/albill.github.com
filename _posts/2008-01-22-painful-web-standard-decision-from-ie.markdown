@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-01-22 13:49:25'
 layout: post
+slug: painful-web-standard-decision-from-ie
+status: publish
 title: Painful Web Standard Decision from IE
-published: true
-meta: 
-  ljID: "3131"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2162'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2213084348/" title="ban-ie by albill, on Flickr"><img src="http://farm3.static.flickr.com/2062/2213084348_c5c1a466e7_o.jpg" alt="ban-ie" align="right" border="0" height="181" hspace="5" vspace="5" width="187" /></a>I feel like I should have titled this, "Painful Web Standards Decision from IE (surprise!)", but that would be snarky, right?
 

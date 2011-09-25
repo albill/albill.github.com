@@ -1,20 +1,15 @@
---- 
+---
+author: admin
+date: '2010-08-06 10:30:40'
 layout: post
+slug: robert-aitken-roshi-is-dead
+status: publish
 title: Robert Aitken Roshi is dead
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3655"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3203'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3457146021/"><img src="http://farm4.static.flickr.com/3635/3457146021_90374066a3_o.jpg" hspace="10" vspace="10" alt="Robert Aitken Roshi"></a></div>
 Robert Aitken Roshi died last night. He was 93 years old. This is a sad moment for American Zen.

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-05-06 11:47:59'
 layout: post
+slug: buddhist-dead-sea-scrolls
+status: publish
 title: Buddhist "Dead Sea Scrolls"?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3244"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2217'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2470939037/" title="Image from Danhuang Caves by albill, on Flickr"><img src="http://farm3.static.flickr.com/2003/2470939037_1b81129f82_o.jpg" border="1" width="238" height="348" alt="Image from Danhuang Caves" /></a></p>
  There was a note today on an academic list about a set of texts nicknamed, by some, the Buddhist "Dead Sea Scrolls" now being for sale. There is an item about this <a href="http://www.newsfinder.org/site/more/buddhist_scrolls_on_sale/">here</a> today.

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-24 22:49:00'
 layout: post
-title: Narcissism Revisited
-published: true
-meta: 
-  ljID: "3011"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: narcissism-revisited
 status: publish
+title: Narcissism Revisited
+wordpress_id: '2089'
+categories:
+- Daily Life
 ---
 Since I&apos;m bored and posting this evening, I figure I&apos;ll post more pictures of myself from Greece!
 

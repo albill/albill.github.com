@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-13 15:51:09'
 layout: post
+slug: what-to-do-for-the-next-six-months-to-prepare-for-doctoral-program
+status: publish
 title: What to do for the next six months to prepare for doctoral program?
-published: true
-meta: 
-  ljID: "3475"
-tags: 
+wordpress_id: '2681'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I have six months until my academic program starts (actually, seven, if I think about it). Orientation isn't until the end of August.
 

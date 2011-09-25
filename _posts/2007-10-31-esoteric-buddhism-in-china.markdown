@@ -1,18 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-31 22:11:12'
 layout: post
-title: Esoteric Buddhism in China
-published: true
-meta: 
-  ljID: "2954"
-  enclosure: |-
-    http://shin-ibs.edu/archive/episodes/episode_two_orzech.mp3
-    95404787
-    audio/mpeg
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: esoteric-buddhism-in-china
 status: publish
+title: Esoteric Buddhism in China
+wordpress_id: '2032'
+categories:
+- Buddhism
 ---
 When I was having lunch with Dr. Payne yesterday, he mentioned and recommended the work of Dr. Charles Orzech. Dr. Orzech is one of the few people studying esoteric Buddhism in China after the Tang dynasty.
 

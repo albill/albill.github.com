@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-22 18:36:02'
 layout: post
-title: Steve Jobs to Students
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Notable People
-type: post
+slug: steve-jobs-to-students
 status: publish
+title: Steve Jobs to Students
+wordpress_id: '490'
+categories:
+- Notable People
 ---
 &nbsp;
 <P>Bruce Sterling had this in his blog today. I thought it was interesting because it doesn't match with my (distant) impressions of Jobs from the industry. I thought that he was just an asshole. Now it is clear that he is a relatively thoughtful asshole. Weird.</P>

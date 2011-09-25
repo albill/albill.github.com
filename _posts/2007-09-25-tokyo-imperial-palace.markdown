@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-25 05:12:48'
 layout: post
-title: Tokyo Imperial Palace
-published: true
-meta: 
-  ljID: "2876"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: tokyo-imperial-palace
 status: publish
+title: Tokyo Imperial Palace
+wordpress_id: '1954'
+categories:
+- Daily Life
 ---
 We went to the Imperial Palace in Tokyo today. This was a guided tour (in Japanese) of the grounds of the current Imperial Palace. We'll be going to the historic one in Kyoto later this week.
 

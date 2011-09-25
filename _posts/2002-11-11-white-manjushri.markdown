@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-11 03:55:00'
 layout: post
+slug: white-manjushri
+status: publish
 title: White Manjushri
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1016'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I attended the White Manjushri at the <a href="http://www.sakya.org">Sakya Monastery</a> tonight. It was sponsored by the Medicine Dharma Reiki people that I mentioned before along with another empowerment the other day that I was able to go to. I got chatting with some of them after the empowerment (which went well, by the way) about Lama Gursam. He just completed his three year retreat earlier this year and seems to be a go-getter. One of the people mentioned that he was a Ngakpa of some sort now and that he'd given up his monastic vows (it seems) after the three year retreat. The person seemed a bit unclear about details but knew that Lama Gursam wasn't a celibate anymore and the person was wondering why Lama Gursam was wearing his monastic robes this evening based on that. An interesting note.
 

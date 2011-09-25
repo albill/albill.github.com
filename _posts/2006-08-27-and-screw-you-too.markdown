@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-27 01:07:39'
 layout: post
-title: And Screw you too!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: and-screw-you-too
 status: publish
+title: And Screw you too!
+wordpress_id: '1178'
+categories:
+- Daily Life
 ---
 I came home from being out today with Madeline to find my Macbook, my primary computer these days, with the spinning rainbow "I'm really busy now" icon. It turned out that the whole system was hard locked with this and unresponsive.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-10-23 23:03:17'
 layout: post
-title: Lack of Posting
-published: true
-meta: 
-  ljID: "3418"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: lack-of-posting
 status: publish
+title: Lack of Posting
+wordpress_id: '2523'
+categories:
+- Daily Life
 ---
 I wanted to apologize to people for not posting much since I got back. I had a number of things that I wanted to write, moving to a more active phase of blogging again for a while (it tends to come and go).
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-04 17:42:12'
 layout: post
-title: Sweet Jesus!
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: sweet-jesus
 status: publish
+title: Sweet Jesus!
+wordpress_id: '472'
+categories:
+- Daily Life
 ---
 I know what I want to do Sunday night now!!!!
 

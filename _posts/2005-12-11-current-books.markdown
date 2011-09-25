@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-11 15:28:01'
 layout: post
+slug: current-books
+status: publish
 title: Current Books
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '629'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 Yesterday, I finished the novel, <strong> <a href="http://www.amazon.com/gp/product/0765311313">Orphans of Chaos</a></strong>,  by John Wright. Be warned, it is a two part novel just like his Everness books  were. I didn't realize it until I got near the end and was wondering how it was  going to be wrapped up quickly. I must say that I enjoyed it quite a bit. I had  heard some criticism of the combination of seeming kids boarding school and  sexuality but I found it non-jarring. After all, the "orphans" of the books are,  at worst, in their mid-teens and, without giving away plot points, they may be  quite a bit both older and younger than that.
 

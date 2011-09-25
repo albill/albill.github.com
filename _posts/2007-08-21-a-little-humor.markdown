@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-21 22:43:00'
 layout: post
+slug: a-little-humor
+status: publish
 title: A little humor...
-published: true
-meta: 
-  ljID: "2704"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1786'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 Here are a couple of Star Trek inspirational posters. The rest are over <a href="http://echosphere.net/star_trek_insp/star_trek_insp.html">here</a>.
 

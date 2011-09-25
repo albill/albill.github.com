@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-07-31 08:36:54'
 layout: post
+slug: power-gone-growing-cold-send-help-to-summit
+status: publish
 title: Power Gone... Growing Cold... Send Help to Summit
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3340"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2334'
+categories:
 - Daily Life
 - Humor
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2720171490/" title="Blown Transformer by albill, on Flickr"><img src="http://farm4.static.flickr.com/3138/2720171490_f08d2dac16.jpg" width="500" border="1" height="375" alt="Blown Transformer" /></a></p>To add insult to injury here at the Mozilla Summit, we now have no power. 
 

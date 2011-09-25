@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-05 11:08:26'
 layout: post
-title: Movies on the Fourth
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: movies-on-the-fourth
 status: publish
+title: Movies on the Fourth
+wordpress_id: '162'
+categories:
+- Books
 ---
 The long weekend makes it a bit of a movie weekend for us at home. We went down to Scarecrow on Saturday morning and picked up a few moview.
 

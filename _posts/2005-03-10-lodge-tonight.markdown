@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-10 23:52:13'
 layout: post
-title: Lodge Tonight
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: lodge-tonight
 status: publish
+title: Lodge Tonight
+wordpress_id: '418'
+categories:
+- Daily Life
 ---
 <p>I attended my first normal lodge meeting as a mason this evening. We are 
 continuing our lecture series on the seven liberal arts. Tonight, the guest 

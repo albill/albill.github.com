@@ -1,19 +1,13 @@
---- 
+---
+author: admin
+date: '2009-08-11 12:36:22'
 layout: post
-title: Direction of my blog
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3565"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
-- Daily Life
-type: post
+slug: direction-of-my-blog
 status: publish
+title: Direction of my blog
+wordpress_id: '2841'
+categories:
+- Daily Life
 ---
 As people may have noticed (my mother has), I have not been blogging as much during the last six months as before. I have been blogging, first on Livejournal, and then here, since 2001. Like all bloggers, I go through more and less motivated periods.
 

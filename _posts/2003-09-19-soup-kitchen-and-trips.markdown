@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-19 14:35:00'
 layout: post
-title: Soup Kitchen and Trips
-published: true
-meta: 
-  ljID: "2814"
-tags: 
-- Daily Life
-type: post
+slug: soup-kitchen-and-trips
 status: publish
+title: Soup Kitchen and Trips
+wordpress_id: '1891'
+categories:
+- Daily Life
 ---
 I&apos;m thinking of doing volunteer in a Soup Kitchen or similar work. I&apos;m specifically looking at working with the people that are abandoned by our society in some way and this seems a good way to do it.
 

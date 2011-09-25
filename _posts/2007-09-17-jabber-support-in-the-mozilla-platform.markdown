@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-17 16:22:40'
 layout: post
+slug: jabber-support-in-the-mozilla-platform
+status: publish
 title: Jabber support in the Mozilla Platform
-published: true
-meta: 
-  ljID: "2749"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1826'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 As a follow-up to my previous posting about next generation messaging clients (e-mail, IM, etc.), I wanted to mention the work that <a href="http://anders.conbere.org">Anders Conbere</a> has been doing. This does not directly relate to the messaging ideas that I discussed but Anders is obviously working in a related kind of space for python-based web applications. This kind of work is necessary to move to a more open social web.
 

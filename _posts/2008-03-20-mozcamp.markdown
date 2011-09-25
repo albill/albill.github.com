@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-20 14:17:28'
 layout: post
+slug: mozcamp
+status: publish
 title: MozCamp?
-published: true
-meta: 
-  ljID: "3195"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2191'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2348604930/" title="mozcamp logo by albill, on Flickr"><img src="http://farm4.static.flickr.com/3265/2348604930_a96173a1a6_m.jpg" align="right" hspace="10" vspace="10" width="162" height="240" alt="mozcamp logo" /></a> I've attended a few <a href="http://en.wikipedia.org/wiki/Unconference">unconferences</a> in the last few years (unfortunately missing <a href="http://bilconference.com/">BIL</a> recently). On every occasion, I've found that the spontaneous nature of the events combined with the willingness of people to just get together to do something has led to a fulfilling time for everyone.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-23 22:54:27'
 layout: post
-title: Icons of Power
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: icons-of-power
 status: publish
+title: Icons of Power
+wordpress_id: '151'
+categories:
+- Society
 ---
 Courtesy of <a href="http://www.livejournal.com/users/jwz/358454.html">Jamie Zawinski</a>.
 

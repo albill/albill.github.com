@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-04 18:10:34'
 layout: post
-title: Rings and Things
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: rings-and-things
 status: publish
+title: Rings and Things
+wordpress_id: '226'
+categories:
+- Daily Life
 ---
 R and I went to <strong><a href="http://www.greenlakejewelry.com/default.asp">Green Lake Jewelry Works</a></strong> in Seattle last night. They do custom ring work there, which I had been aware of because a couple of acquaintances went there to have custom rings for ritual work, of all things, made there. I hadn't thought about them much but I asked <a href="http://www.scottstearns.com">Scott</a> where his wedding ring was made, as it isn't a standard looking ring, and he mentioned that place. R found their website and we found out that they custom make their rings and cast them using the lost wax method. The idea of unique rings embodying what we wanted seemed quite fine so we made plans earlier in the week to go out.
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-03-07 00:29:19'
 layout: post
+slug: unexpected-card
+status: publish
 title: Unexpected Card
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '709'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I had a surprise card in the mail today from the Palyul Monastic Association.
 

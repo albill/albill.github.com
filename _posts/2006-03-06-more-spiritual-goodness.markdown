@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-03-06 00:55:00'
 layout: post
+slug: more-spiritual-goodness
+status: publish
 title: More Spiritual Goodness
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '708'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 On the subject of the Tendai tradition of Japanese Buddhism, I received a  couple of the basic practice texts used by the Blue Lotus Assembly. I already  had a third from years ago since I've had an academic interest in Tendai and  Shingon for a decade. All three are by Stephen Hayes and two of them are very  straightforward texts for daily or similar meditation and ritual.
 

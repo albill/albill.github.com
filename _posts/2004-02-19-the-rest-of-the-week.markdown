@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-02-19 00:14:00'
 layout: post
+slug: the-rest-of-the-week
+status: publish
 title: The Rest of the Week
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '47'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Another long day at work. It's not a sprint, it's a marathon (and years long at that!).
 

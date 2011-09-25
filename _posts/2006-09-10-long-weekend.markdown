@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-10 23:50:06'
 layout: post
-title: Long Weekend
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: long-weekend
 status: publish
+title: Long Weekend
+wordpress_id: '1187'
+categories:
+- Daily Life
 ---
 This has been a long, not terribly restful, weekend. We're shipping the key version of the product that I'm working on at work. Once it is public, I'll blog about it in detail but I worked a couple of 12 to 13 hour days in a row, then worked a good nine hours on Saturday and then worked a bit from home today, including a couple of conference calls (including the CEO of the company in their members), before getting done around 10:00 pm.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-21 14:15:30'
 layout: post
+slug: fire-rituals
+status: publish
 title: Fire Rituals
-published: true
-meta: 
-  ljID: "3038"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2117'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I posted the other day about visiting <a href="http://www.buddhadendo.org">Buddha Dendo</a> in the mountains in northern California. On the site there is a new building, a goma-do. This is for the performance of the fire ritual, the goma, that is part of esoteric Buddhism in Japan. You will find it in both Shingon and Tendai Buddhism and also within the Shugendo practices that have connections to both Shingon and Tendai. Most people outside of Japan are not familiar with the Japanese goma ritual. I know of a few people that have witnessed it here in the United States that are not practitioners but most people who see it have to go to a Shingon or Tendai temple (a rare thing here) in order to witness it. (Though I am aware of one instance of a Japanese priest performing the goma at Burning Man as witnessed by a Buddhist friend of mine.)
 

@@ -1,25 +1,22 @@
---- 
+---
+author: admin
+date: '2011-05-09 16:49:00'
 layout: post
+slug: the-three-pathways-of-awakening-class-2-rough-notes
+status: publish
 title: The Three Pathways of Awakening - Class 2 Rough Notes
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3832"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3726'
+categories:
 - Buddhism
+- Spirituality
+- Technology
+tags:
 - buddhist geeks
 - dharma
 - hokai
 - online course
-- Spirituality
-- Technology
 - threepathways
 - vajrayana
-type: post
-status: publish
 ---
 I am continuing to take <a href="http://www.hokai.info">Hokai Sobol's</a> online course, <a href="http://www.buddhistgeeks.com/threepathways/">The Three Pathways of Awakening</a> through Buddhist Geeks. This class is early Sunday mornings. I <a href="http://www.openbuddha.com/2011/05/02/the-three-pathways-of-awakening-class-1-rough-notes/">blogged</a> my notes for the first session last weekend and I am continuing with the second session below.
 

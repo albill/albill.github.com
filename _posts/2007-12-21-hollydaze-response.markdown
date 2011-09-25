@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-12-21 18:06:15'
 layout: post
-title: Hollydaze Response
-published: true
-meta: 
-  ljID: "3089"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: hollydaze-response
 status: publish
+title: Hollydaze Response
+wordpress_id: '2143'
+categories:
+- Humor
 ---
 I <a href="http://www.arcanology.com/2007/12/11/the-hollydaze/">blogged recently</a> about the Holidays and a <a href="http://www.youtube.com/watch?v=AVZczLuoJoU">super geeky Youtube video</a> with a bunch of LARPers destroying a nativity play.
 

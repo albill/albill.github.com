@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-04-19 20:31:20'
 layout: post
+slug: can-the-vajrayana-survive
+status: publish
 title: Can the Vajrayana Survive?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3517"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2752'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Warning: This post rambles a bit...
 

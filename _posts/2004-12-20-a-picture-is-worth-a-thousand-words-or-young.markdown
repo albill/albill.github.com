@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-20 22:11:43'
 layout: post
-title: A Picture is Worth a Thousand Words (or Young)
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: a-picture-is-worth-a-thousand-words-or-young
 status: publish
+title: A Picture is Worth a Thousand Words (or Young)
+wordpress_id: '328'
+categories:
+- Humor
 ---
 <p>I'm not sure what inspired this but I find it <b>very</b> amusing...</p>
 <p>

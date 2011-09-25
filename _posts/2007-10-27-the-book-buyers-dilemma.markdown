@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-27 13:36:13'
 layout: post
+slug: the-book-buyers-dilemma
+status: publish
 title: The Book Buyer's Dilemma
-published: true
-meta: 
-  ljID: "2951"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2028'
+categories:
 - Books
 - Daily Life
-type: post
-status: publish
 ---
 I have a dilemma based on  the fact that I am a heavy reader. I've started getting books from the Berkeley Public Library lately but I'm a pretty heavy reader. I also happen to read a lot of stuff that is semi-obscure (from a library's point of view) or just very very recently published.
 

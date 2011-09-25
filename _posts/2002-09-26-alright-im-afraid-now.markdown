@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-09-26 04:41:00'
 layout: post
+slug: alright-im-afraid-now
+status: publish
 title: Alright, I'm afraid now...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '963'
+categories:
 - Esoteric
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 From <a href="http://themysticeye.biz/reviews/hellokitty.htm">http://themysticeye.biz/reviews/hellokitty.htm</a>.
 

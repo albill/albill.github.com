@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-02-04 21:44:08'
 layout: post
+slug: personality-features
+status: publish
 title: Personality Features
-published: true
-meta: 
-  ljID: "3139"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2167'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I received my first annual review at Mozilla today for my role on the QA (aka "testing") team. I did relatively well and, apparently, my straight to the heart of things, no-nonsense way of doing QA is largely appreciated. I got a lot of points for my effectiveness in certain areas of my work.
 

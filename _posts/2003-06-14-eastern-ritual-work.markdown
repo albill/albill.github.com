@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-14 05:09:00'
 layout: post
-title: Eastern Ritual Work?
-published: true
-meta: 
-  ljID: "2468"
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: eastern-ritual-work
 status: publish
+title: Eastern Ritual Work?
+wordpress_id: '1605'
+categories:
+- Daily Life
 ---
 R and I attended a full moon ritual celebration of Lakshmi this evening. This was hosted by my friend, Aion, and his wife, Sophia. Aion is a longstanding Nath (out of the AMOOKOS, Order of Naths controversy) as well as being one of the founders of the Horus-Maat Lodge. Most of his work tends to be somewhat "Eastern" in focus though he tends to blend in ideas from Western magical practice. It floats his boat and he doesn&apos;t cross the streams (thanks, Egon!).
 

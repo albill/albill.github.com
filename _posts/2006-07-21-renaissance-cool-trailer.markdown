@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-21 01:44:16'
 layout: post
-title: Renaissance - Cool Trailer
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: renaissance-cool-trailer
 status: publish
+title: Renaissance - Cool Trailer
+wordpress_id: '1142'
+categories:
+- Science Fiction
 ---
 This trailer simply kicked ass. I'm looking forward to seeing this movie in my "I was a teenage Gibson fan" bones.
 

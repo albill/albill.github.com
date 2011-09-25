@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-10-06 03:34:00'
 layout: post
+slug: thee-day-weekends-are-cool
+status: publish
 title: Thee Day Weekends are cool!
-published: true
-meta: 
-  ljID: "2836"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1914'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 My weekend is just about over but it was nice having Friday off and such.
 

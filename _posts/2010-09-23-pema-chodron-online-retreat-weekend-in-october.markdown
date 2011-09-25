@@ -1,21 +1,16 @@
---- 
+---
+author: admin
+date: '2010-09-23 12:21:19'
 layout: post
-title: "Pema Ch\xC3\xB6dr\xC3\xB6n Online Retreat Weekend in October"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3694"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: pema-chodron-online-retreat-weekend-in-october
+status: publish
+title: Pema Chödrön Online Retreat Weekend in October
+wordpress_id: '3304'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5017850527/" title="Ani Pema Chödrön by Robin Holland"><img src="http://farm5.static.flickr.com/4126/5017850527_e7c0a39430.jpg" width="356" height="360" alt="Ani Pema Chödrön by Robin Holland" /></a></p>
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-12-06 18:08:48'
 layout: post
+slug: coping-with-sickness
+status: publish
 title: Coping with Sickness
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3438"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2571'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I quit blogging about it (only mentioning it on twitter and facebook) but I've been sick for over a month now. After a couple of weeks of on and off thinking that I might be getting better, it seemed best just to quit talking about it here. It was annoying enough to those around me in person without necessarily spreading my grousing more widely.
 

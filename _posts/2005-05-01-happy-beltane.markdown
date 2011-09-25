@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-05-01 01:46:08'
 layout: post
-title: Happy Beltane!
-published: true
-meta: 
-  ljID: "3088"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Spirituality
-type: post
+slug: happy-beltane
 status: publish
+title: Happy Beltane!
+wordpress_id: '458'
+categories:
+- Spirituality
 ---
 I just got back from the Beltane celebrations with friends that we attend every year. At Midnight, we burn our own wicker man in the fire to celebrate. 
 

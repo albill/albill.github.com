@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-19 01:02:56'
 layout: post
-title: How much longer must we tolerate injustice?
-published: true
-meta: 
-  ljID: "2369"
-tags: 
-- Society
-type: post
+slug: how-much-longer-must-we-tolerate-injustice
 status: publish
+title: How much longer must we tolerate injustice?
+wordpress_id: '1524'
+categories:
+- Society
 ---
 How much longer will we allow our government to do those things that we know, if we search our hearts, are wrong?
 

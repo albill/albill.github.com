@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-28 20:41:11'
 layout: post
-title: Coffee Day on the PM Team
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: coffee-day-on-the-pm-team
 status: publish
+title: Coffee Day on the PM Team
+wordpress_id: '675'
+categories:
+- Daily Life
 ---
 My first task on the PM day was to take much of a day off and go with my new org to <strong><a href="http://www.zokacoffee.com/">Zoka Coffee</a></strong>, a local specialty coffee roasting company. This was part of getting the team to hang out, raise morale, and get to know people.
 

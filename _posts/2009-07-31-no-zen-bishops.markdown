@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-07-31 11:40:17'
 layout: post
+slug: no-zen-bishops
+status: publish
 title: No Zen Bishops?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3563"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2838'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I saw this today through a GTU e-mail list. Since I know of at least one Zen master who is a mainstream priest, this seemed to be of interest.
 

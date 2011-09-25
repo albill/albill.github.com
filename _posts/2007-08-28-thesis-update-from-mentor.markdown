@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-28 11:16:13'
 layout: post
-title: Thesis Update from Mentor
-published: true
-meta: 
-  ljID: "2709"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: thesis-update-from-mentor
 status: publish
+title: Thesis Update from Mentor
+wordpress_id: '1791'
+categories:
+- Academic
 ---
 My thesis mentor wrote to me this morning. He's the head of my three professor committee of readers (as well as being my mentor). 
 

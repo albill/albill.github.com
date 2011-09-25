@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-23 21:02:32'
 layout: post
+slug: diverse-mythologies-in-the-media
+status: publish
 title: Diverse Mythologies in the Media
-published: true
-meta: 
-  ljID: "3099"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2147'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 Earlier today, I heard a story that was on NPR a week ago. It was about Virgin Comics, which is a comic book company based in Bangalore, India. The NPR story is <a href="http://www.npr.org/templates/story/story.php?storyId=17187840">online</a> (or you can listen to it). I offer a short excerpt below:
 <blockquote>...But in a building on a quiet residential street downtown, an army of Indian animators is working to export their culture to the rest of the world. Their source material: The elaborate pantheon of Hindu mythology.

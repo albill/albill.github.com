@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-25 23:24:20'
 layout: post
+slug: amen
+status: publish
 title: Amen!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '695'
+categories:
 - Humor
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.redmeat.com/redmeat/2006-02-21/">http://www.redmeat.com/redmeat/2006-02-21/</a>

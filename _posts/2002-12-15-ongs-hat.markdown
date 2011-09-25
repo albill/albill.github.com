@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-15 07:43:00'
 layout: post
+slug: ongs-hat
+status: publish
 title: Ong's Hat
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1051'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I find this page amusing: <a href="http://incunabula.org/reviews.html">http://incunabula.org/reviews.html</a>.
 

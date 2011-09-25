@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-21 22:25:36'
 layout: post
+slug: why-do-apples-usb-drivers-suck-so-bad
+status: publish
 title: Why do Apple's USB drivers suck so bad?
-published: true
-meta: 
-  ljID: "2300"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1455'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 Without fail, several times a week, I have to unplug and replug in USB devices to my Macbook. This is because OS X suddenly can't speak to them anymore or they start acting odd. These are devices directly connected or through a hub.
 

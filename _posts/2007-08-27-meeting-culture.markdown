@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-27 23:09:14'
 layout: post
-title: Meeting Culture
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _utw_tags_0: no tags
-tags: 
-- Mozilla
-type: post
+slug: meeting-culture
 status: publish
+title: Meeting Culture
+wordpress_id: '1810'
+categories:
+- Mozilla
 ---
 I caught sight of an <a href="http://www.nytimes.com/2007/08/26/business/yourmoney/26pre.html?_r=1&amp;oref=slogin">article in the New York Times</a> by my former boss, Dean Hachamovitch, on meeting culture and laptops. As some of you may know, Dean is the General Manager of the Internet Explorer team at Microsoft. I worked with him on both IE and MSN Explorer before leaving Microsoft in May, 2006 for greener and more fulfilling pastures.
 

@@ -1,17 +1,13 @@
---- 
+---
+author: admin
+date: '2010-03-12 14:55:39'
 layout: post
-title: Nova Albion Steampunk Exhibition this weekend
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3612"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: nova-albion-steampunk-exhibition-this-weekend
 status: publish
+title: Nova Albion Steampunk Exhibition this weekend
+wordpress_id: '3089'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/danielproulx/3670226570/"><img src="http://farm4.static.flickr.com/3565/3670226570_ab33ca9bf5_m.jpg" height="240" width="240" alt="A Gentleman" align="right" hspace="10" vspace="10"></a>I will be attending the <a href="http://www.steampunkexhibition.com/">Nova Albion Steampunk Exhibition</a> this weekend with a few members of the Norton Memorial Dicemaster's RPG group, the crew of the airship Arcadia. (This is also the same weekend as our normal playing session, so I expect to see more costuming during our meeting this weekend!)
 

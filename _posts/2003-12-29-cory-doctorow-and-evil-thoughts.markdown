@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-29 23:58:00'
 layout: post
-title: Cory Doctorow and Evil Thoughts
-published: true
-meta: 
-  ljID: "3024"
-tags: 
-- Daily Life
-type: post
+slug: cory-doctorow-and-evil-thoughts
 status: publish
+title: Cory Doctorow and Evil Thoughts
+wordpress_id: '2104'
+categories:
+- Daily Life
 ---
 I just finished Cory Doctorow&apos;s new book, <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765307596/">Eastern Standard Tribe</a></b>, this evening. I liked this one quite a bit but I have a feeling that it will only really appeal to the geeky set. Lots of stuff about artificial tribes of interest, which really already exist today, organized by time zones because it is a natural affinity. The main character is a user experience guy, which was amusing. The whole book was actually rather short and I read almost all of it this evening.
 

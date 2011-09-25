@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-16 15:23:20'
 layout: post
-title: Bruce Sterling streaming video
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: bruce-sterling-streaming-video
 status: publish
+title: Bruce Sterling streaming video
+wordpress_id: '322'
+categories:
+- Science Fiction
 ---
 My hero, Bruce Sterling, did a talk at Iconic Turn the other day.
 

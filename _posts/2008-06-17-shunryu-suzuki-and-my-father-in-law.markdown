@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2008-06-17 00:44:20'
 layout: post
+slug: shunryu-suzuki-and-my-father-in-law
+status: publish
 title: Shunryu Suzuki and my Father-in-law
-published: true
-meta: 
-  ljID: "3295"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2242'
+categories:
 - Buddhism
 - Daily Life
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2586845252/" title="Shunryu Suzuki by albill, on Flickr"><img src="http://farm4.static.flickr.com/3071/2586845252_b26639abbf_o.jpg" width="347" height="299" border="0" alt="Shunryu Suzuki" /></a></p>
 One interesting thing came up this weekend when we were at Green Gulch Farm. My father-in-law, Leon, came along with us and we had a chance to chat a bit here and there. I had been told in previous years, in a vague way, that he had done some sitting meditation previously but there hadn't been many details given. He doesn't make much small talk so I'm not surprised. 

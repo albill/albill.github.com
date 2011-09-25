@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-16 01:19:43'
 layout: post
-title: The War on Solstice
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: the-war-on-solstice
 status: publish
+title: The War on Solstice
+wordpress_id: '637'
+categories:
+- Humor
 ---
 There is a War on Solstice.
 The nature of the conflict is detailed at:

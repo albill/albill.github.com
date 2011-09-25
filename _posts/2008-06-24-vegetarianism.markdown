@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-24 02:35:53'
 layout: post
+slug: vegetarianism
+status: publish
 title: Vegetarianism
-published: true
-meta: 
-  ljID: "3303"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2248'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2607295312/" title="Foods by albill, on Flickr"><img src="http://farm4.static.flickr.com/3015/2607295312_a1a2062459.jpg" border="1" width="357" height="500" alt="Foods" /></a></p>
 A bunch of people know that I have been eating (or trying to, at least) less meat for a while. I did this as a general move towards becoming a vegetarian. This last week, I realized that I wasn't really moving quickly in that direction and it felt a bit hypocritical, given my intentions. Because of this, I simply decided to do it and be a vegetarian. We will see how much I may wind up regretting this decision later. :-)

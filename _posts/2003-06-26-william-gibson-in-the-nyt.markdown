@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-26 03:47:00'
 layout: post
-title: William Gibson in the NYT
-published: true
-meta: 
-  ljID: "2486"
-tags: 
-- Daily Life
-type: post
+slug: william-gibson-in-the-nyt
 status: publish
+title: William Gibson in the NYT
+wordpress_id: '1623'
+categories:
+- Daily Life
 ---
 <a href="http://nytimes.com/2003/06/25/opinion/25GIBS.html">http://nytimes.com/2003/06/25/opinion/25GIBS.html</a>
 

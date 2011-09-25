@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-01-11 19:01:01'
 layout: post
+slug: los-angeles-tomorrow
+status: publish
 title: Los Angeles Tomorrow
-published: true
-meta: 
-  ljID: "3122"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2155'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I'm off to Los Angeles in the morning to visit a small Buddhist temple that is down there. It is run by an acquaintance of mine whom I have never met in the flesh. LA is a bit over an hour away by plane (or a six to eight hour drive) and it is a cheap flight. It seemed to be about time that I made my way down there to see things and meet people.
 

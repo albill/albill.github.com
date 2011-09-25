@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-31 17:21:19'
 layout: post
-title: Prison Banquet
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: prison-banquet
 status: publish
+title: Prison Banquet
+wordpress_id: '275'
+categories:
+- Spirituality
 ---
 <p>Yesterday was the annual banquet for the Wiccan inmates at McNeil Island CC. 
 Each religious group is allowed to have one banquet event every year where 

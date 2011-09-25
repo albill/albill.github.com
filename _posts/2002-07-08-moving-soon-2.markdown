@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-08 19:12:00'
 layout: post
-title: Moving Soon
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: moving-soon-2
 status: publish
+title: Moving Soon
+wordpress_id: '881'
+categories:
+- Daily Life
 ---
 I have become the empty box bunny. My group at work moved to a new building a week ago and I just realized that if you remove the eight days that I am gone on vacation, I am moving in four or so days to my new house with R. Since my apartment is not completely packed, this is a bit of concern. ;-)
 

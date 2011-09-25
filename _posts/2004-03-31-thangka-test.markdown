@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-31 00:34:00'
 layout: post
-title: Thangka Test
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: thangka-test
 status: publish
+title: Thangka Test
+wordpress_id: '77'
+categories:
+- Buddhism
 ---
 This is a test. <lj-cut text="Images here..."><br>
 <br>

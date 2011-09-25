@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-04 21:56:11'
 layout: post
-title: The Third Man
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-third-man
 status: publish
+title: The Third Man
+wordpress_id: '353'
+categories:
+- Daily Life
 ---
 <p>R and I watched &quot;<b><a href="http://www.imdb.com/title/tt0041959/">The Third 
 Man</a></b>&quot; this evening. We got this from Netflix. It&#39;s a film noir piece from 

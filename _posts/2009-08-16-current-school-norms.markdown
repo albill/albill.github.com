@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-08-16 14:47:57'
 layout: post
+slug: current-school-norms
+status: publish
 title: Current School Norms
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3569"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2845'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 It has been a long time since I had to sit in a classroom in the flesh and I don't know what the school norms are these days. When I was an undergraduate, from 1988 through 1993, things were a bit different than today. No laptops, only a few people recording things, and so forth.
 

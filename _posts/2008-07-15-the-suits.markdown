@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-15 02:12:32'
 layout: post
+slug: the-suits
+status: publish
 title: The Suits
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3324"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2271'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 <a title="monk-suit-gun by albill, on Flickr" href="http://www.flickr.com/photos/albill/2670954844/"><img src="http://farm4.static.flickr.com/3282/2670954844_97e432c8b8_m.jpg" alt="monk-suit-gun" hspace="10" width="217" height="240" align="right" /></a>I have a bias that I struggle with from time to time. It is the fact that I don't like Suits, even the ones I work with day to day. By "suits", I'm dismissively referring to corporate types and the attitudes of the professional class that often goes with them. The funny thing is that I know a few people who would definitely be in this class of individuals and I like them just fine, at least up to a point.
 

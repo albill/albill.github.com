@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-10 16:13:00'
 layout: post
-title: It had to happen...
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: it-had-to-happen
 status: publish
+title: It had to happen...
+wordpress_id: '103'
+categories:
+- Society
 ---
 <a href="http://www.anarcho-transhumanism.com/">http://www.anarcho-transhumanism.com/</a>
 

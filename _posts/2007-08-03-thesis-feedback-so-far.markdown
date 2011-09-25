@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-03 13:30:05'
 layout: post
-title: Thesis Feedback So Far
-published: true
-meta: 
-  ljID: "2678"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: thesis-feedback-so-far
 status: publish
+title: Thesis Feedback So Far
+wordpress_id: '1767'
+categories:
+- Academic
 ---
 Wow, some of my friends are rather quick readers. Steve and Dan both got back to me in the last day. Each had a couple of minor things that they commented on for the thesis but, overall, there have been no major issues found.
 

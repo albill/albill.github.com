@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-14 22:18:54'
 layout: post
-title: Thesis Length Questions
-published: true
-meta: 
-  ljID: "2622"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: thesis-length-questions
 status: publish
+title: Thesis Length Questions
+wordpress_id: '1725'
+categories:
+- Academic
 ---
 I'm wondering if I'm going overboard on my thesis or trying to do something too grand. My current draft of my thesis, in the last third of the fifth chapter, is 83 pages (double-spaced on 8 1/2" x 11" paper).
 

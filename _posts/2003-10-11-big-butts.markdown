@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-11 23:36:00'
 layout: post
-title: Big Butts
-published: true
-meta: 
-  ljID: "2843"
-tags: 
-- Daily Life
-type: post
+slug: big-butts
 status: publish
+title: Big Butts
+wordpress_id: '1921'
+categories:
+- Daily Life
 ---
 Found on Boing Boing&apos;s weblog:
 

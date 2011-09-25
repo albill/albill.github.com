@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-01 22:00:07'
 layout: post
+slug: creation-and-completion-teachings-next-month-in-berkeley
+status: publish
 title: Creation and Completion Teachings next month in Berkeley
-published: true
-meta: 
-  ljID: "2636"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1737'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 There will be a two and a half day long class on Creation and Completion stage practice next month in Berkeley at the local Shambhala center. I'm considering attending this as it could be very informative.
 <h2><a href="http://sf.shambhala.org/program_details.php?id=8637&amp;cid=177">Creation and Completion</a></h2>

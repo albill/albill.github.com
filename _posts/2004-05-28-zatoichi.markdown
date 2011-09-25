@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-28 12:40:00'
 layout: post
-title: Zatoichi
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: zatoichi
 status: publish
+title: Zatoichi
+wordpress_id: '124'
+categories:
+- Daily Life
 ---
 I just found out about Beat Takeshi's new movie, <b>Zatoichi</b>, today. I've been a fan of the original, old movies with this wonderfully deadly blind swordsman.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-25 20:11:46'
 layout: post
-title: Christmas
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: christmas
 status: publish
+title: Christmas
+wordpress_id: '338'
+categories:
+- Daily Life
 ---
 <p>Christmas Day and all of the joys associated with it!</p>
 <p>R and I got up this morning, got ready and then headed straight over to my 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-07 15:51:06'
 layout: post
+slug: december-31-graduation-for-me
+status: publish
 title: December 31 Graduation for Me!
-published: true
-meta: 
-  ljID: "3067"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2130'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I just received word from my department for my Master's program that my thesis has been final approved. As I had mentioned previously, I turned it in a couple of months ago and my committee had signed off on it. Following this, it was sent back by the Graduate Studies Office (as they all are) for minor corrections in formatting, structure, and minor additions requested to make the thesis conform to the style guidelines and requirements of the university.
 

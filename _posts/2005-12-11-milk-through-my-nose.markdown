@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-11 03:54:59'
 layout: post
+slug: milk-through-my-nose
+status: publish
 title: Milk through my nose...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '628'
+categories:
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 I just about lost it when I saw this...It's pretty snarky.
 

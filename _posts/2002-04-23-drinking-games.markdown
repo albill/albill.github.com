@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-23 16:46:00'
 layout: post
-title: Drinking Games
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
-- Humor
-type: post
+slug: drinking-games
 status: publish
+title: Drinking Games
+wordpress_id: '794'
+categories:
+- Humor
 ---
 <strong>The Apocalypse Drinking Game</strong>
 by Lore Fitzgerald Sjoberg

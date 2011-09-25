@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-11-20 06:01:00'
 layout: post
+slug: class-two-on-tantra
+status: publish
 title: Class two on "Tantra"
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1994'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 R and I attended the second "Tantra" class tonight.
 

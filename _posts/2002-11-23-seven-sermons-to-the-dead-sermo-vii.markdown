@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-23 19:30:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo VII
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: seven-sermons-to-the-dead-sermo-vii
 status: publish
+title: Seven Sermons to the Dead, Sermo VII
+wordpress_id: '1032'
+categories:
+- Spirituality
 ---
 Well, God rested on the seventh day or something and I forgot to post the last one. ;-)
 

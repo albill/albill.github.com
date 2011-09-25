@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-25 14:27:28'
 layout: post
+slug: vmware-fusion-talk-at-google
+status: publish
 title: VMware Fusion Talk at Google
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2025'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I saw a <a href="http://infusion.vox.com/library/post/google-tech-talk-inside-vmware-fusion.html">notice last night</a> about a talk that <a href="http://infusion.vox.com/">Ben Gertzfield</a> gave at Google the other day as a <a href="http://www.youtube.com/user/googletechtalks">tech talk</a>. Ben works for <a href="http://www.vmware.com">VMware</a> and did a lot of work on VMware Fusion. Fusion is the Mac-based virtualization product that VMware released the 1.0 version of a few months ago.
 

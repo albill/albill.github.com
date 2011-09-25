@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-31 18:30:46'
 layout: post
-title: Tonight!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: tonight
 status: publish
+title: Tonight!
+wordpress_id: '655'
+categories:
+- Daily Life
 ---
 R and I are going to this event tonight. Our friends Denny and Sophia were  going but have gotten ill so we'll be off alone. Feel free to attend if you are  local too! I think that we will be mostly on the "Hell" side with Circus  Contraption though.
 

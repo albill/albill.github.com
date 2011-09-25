@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-03 22:06:32'
 layout: post
-title: Cool Tarot Cards
-published: true
-meta: 
-  _oembed_20027f7f2e407abb65c857a860a47372: "{{unknown}}"
-  _oembed_0f98dc061eb84c91f6fc4363e96b1782: "{{unknown}}"
-  _oembed_bdc745f4cfcb794dc8236b4c1eab0d2d: "{{unknown}}"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: cool-tarot-cards
 status: publish
+title: Cool Tarot Cards
+wordpress_id: '308'
+categories:
+- Spirituality
 ---
 <p>The Urban Tarot Card Project:
 <a href="http://www.robertscottart.com/tarot.htm">

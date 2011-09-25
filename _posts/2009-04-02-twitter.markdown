@@ -1,17 +1,13 @@
---- 
+---
+author: admin
+date: '2009-04-02 11:15:12'
 layout: post
-title: Twitter
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3507"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: twitter
 status: publish
+title: Twitter
+wordpress_id: '2738'
+categories:
+- Daily Life
 ---
 For those that care, I'm "arcanology" on twitter though I most often tweet about mundane crap. I use it to fill out my Facebook status. If you're on arcanology.com, I have a tab on the right side with my recent tweets as well.
 

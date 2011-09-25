@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-08 18:41:41'
 layout: post
-title: Lazy Saturdays
-published: true
-meta: 
-  _oembed_654c9fa5e29ef466ae5f2a625645e655: "{{unknown}}"
-  _oembed_815041bbfe8a033274c99459b6a2bc46: "{{unknown}}"
-  _oembed_e90af3a7d511c5450520c951f03a4763: "{{unknown}}"
-tags: 
-- Daily Life
-type: post
+slug: lazy-saturdays
 status: publish
+title: Lazy Saturdays
+wordpress_id: '363'
+categories:
+- Daily Life
 ---
 <p>Today has been a quiet day so far. No new house disasters, no deaths of loved 
 ones.</p>

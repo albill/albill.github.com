@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-10 10:13:00'
 layout: post
-title: MA Thesis and Mentors
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: ma-thesis-and-mentors
 status: publish
+title: MA Thesis and Mentors
+wordpress_id: '59'
+categories:
+- Academic
 ---
 I met with my old friend Richard, a scholar-soldier of the Invisible College if there ever was one. We had a nice three and a half hour conversation about Dzogchen practice, the similarities between aspects of Buddhist practice and Western magical practice, when approached correctly, and about academia. It's always insightful and inspiring to speak to him about these things as he always tends to point out those things in the Western tradition that are overlooked by others, especially its relation to Eastern practices.
 

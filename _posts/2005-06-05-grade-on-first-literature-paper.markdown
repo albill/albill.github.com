@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-06-05 23:04:05'
 layout: post
+slug: grade-on-first-literature-paper
+status: publish
 title: Grade on First Literature Paper
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '476'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I got my first paper for my graduate literature class focusing on the self 
 back. This is from the professor that people have told me is a difficult grader 

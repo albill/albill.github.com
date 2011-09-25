@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-04-13 11:51:56'
 layout: post
-title: "Fud\xC5\x8D My\xC5\x8D\xC5\x8D Painting"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3815"
-tags: 
+slug: fudo-myoo-painting
+status: publish
+title: Fudō Myōō Painting
+wordpress_id: '3688'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 For a while now, my friend, <a href=http://nondualelf.com/">Kat Lunoe</a>, has been working on a painting for me. Kat is a local magician and artist who has done some excellent work, especially for the <a href="http://nondualelf.com/artwork/1875995_All_Beneficent_Ra_Hoor_Khuit.html">cover</a> of Sam Webster's "<a href="http://www.concrescent.net/book/tantric-thelema">Tantric Thelema</a>" book. She's also a tantric (vajrayana) practitioner and we've had a number of excellent discussions on matters tantric.
 

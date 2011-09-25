@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-13 18:50:00'
 layout: post
+slug: more-dangerous-mediation
+status: publish
 title: More Dangerous Meditation
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '948'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <strong>Caveat:</strong> I haven't listened to this yet, I just found it... From <a href="http://cbc.ca/tapestry/archives/2001/061701.html">http://cbc.ca/tapestry/archives/2001/061701.html</a>.
 

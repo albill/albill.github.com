@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-13 02:47:02'
 layout: post
-title: "Naples: Armpit of Italy"
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: naples-armpit-of-italy
 status: publish
+title: 'Naples: Armpit of Italy'
+wordpress_id: '259'
+categories:
+- Daily Life
 ---
 The last couple of days have been busy. Yesterday morning, we grabbed a train in Florence for Naples. Let me tell you for the record: the trains no longer run on time in Italy. This was fortunate for us as we arrived at 9:36 AM to go to Naples and there was supposed to be a Eurostar direct at 9:29. The next one was a few hours later. Our train was running 25 minutes late (and the one before it hadn't arrived either and was an hour late), so we were able to buy tickets and get the early train.
 

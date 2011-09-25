@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-13 22:07:22'
 layout: post
-title: Someone is stealing your life
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: someone-is-stealing-your-life
 status: publish
+title: Someone is stealing your life
+wordpress_id: '423'
+categories:
+- Daily Life
 ---
 <p>I've always really liked this essay by Michael Ventura. I think it speaks to the experience of a lot of people in this world. I posted it on a weblog a long time ago but I felt like doing so again.</p>
 <h1 align="center"><b>Someone is stealing your life</b></h1>

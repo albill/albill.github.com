@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-12 23:33:00'
 layout: post
-title: Cue Theme Music
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: cue-theme-music
 status: publish
+title: Cue Theme Music
+wordpress_id: '106'
+categories:
+- Humor
 ---
 Thank you, JWZ!
 <h2>my morning ritual 

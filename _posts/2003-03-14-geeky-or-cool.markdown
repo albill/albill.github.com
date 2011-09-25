@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-14 21:50:00'
 layout: post
-title: Geeky or Cool?
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Science Fiction
-type: post
+slug: geeky-or-cool
 status: publish
+title: Geeky or Cool?
+wordpress_id: '1311'
+categories:
+- Science Fiction
 ---
 (Are these mutually exclusive?)
 

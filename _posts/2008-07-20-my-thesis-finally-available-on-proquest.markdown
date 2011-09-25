@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-20 21:01:15'
 layout: post
+slug: my-thesis-finally-available-on-proquest
+status: publish
 title: My Thesis Finally Available on ProQuest
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3332"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2303'
+categories:
 - Academic
 - Daily Life
 - Esoteric
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2219762370/" title="Thesis Book Cover by albill, on Flickr"><img src="http://farm3.static.flickr.com/2217/2219762370_4ea0f4815a.jpg" width="312" height="500" alt="Thesis Book Cover" border="1" /></a></p>
 When I completed my Master's thesis in the Fall of 2007, I paid extra fees to <a href="http://il.proquest.com/brand/proquest.shtml">ProQuest</a> (aka UMI) to make an electronic version of it available as a PDF file for free. I figured that with my values oriented towards openness and such, I did not want my thesis locked up in ProQuest's gated community as so many others have been. 

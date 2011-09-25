@@ -1,22 +1,17 @@
---- 
+---
+author: admin
+date: '2010-06-17 21:18:46'
 layout: post
-title: "Ace Monster Toys: All On Board"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3642"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: ace-monster-toys-all-on-board
+status: publish
+title: 'Ace Monster Toys: All On Board'
+wordpress_id: '3175'
+categories:
 - Daily Life
 - Hacking
 - Mozilla
 - Society
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4711072386/" title="Ace Monster Toys Board and Officers by albill, on Flickr"><img src="http://farm5.static.flickr.com/4064/4711072386_d147bc8c0d.jpg" width="500" height="375" alt="Ace Monster Toys Board and Officers" /></a><br>
 <em>Left to Right: Chris, Al, Shannon and his Mustache, Dr. Jesus, Mike, Neha</em></div>

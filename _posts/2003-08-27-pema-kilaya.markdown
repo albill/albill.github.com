@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-08-27 04:34:00'
 layout: post
+slug: pema-kilaya
+status: publish
 title: Pema Kilaya
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1871'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/pemakilaya.jpg" align="right" height="163" hspace="10" vspace="10" width="129" />I went to a sangha meeting for <a href="http://www.pemakilaya.org">Pema Kilaya</a> this evening. This is the local organization or sangha (yes, that term is explicitly used) for <a href="http://www.kilung.org">Kilung Rinpoche</a>. Kilung Rinpoche is a Nyingma lama that I'm a student of though I'm not working with him as my exclusive teacher or whatnot. In the outer of the two levels of studying with him.
 

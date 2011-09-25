@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-09 22:23:15'
 layout: post
-title: Killer Dolphins Hunting Manflesh?
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: killer-dolphins-hunting-manflesh
 status: publish
+title: Killer Dolphins Hunting Manflesh?
+wordpress_id: '570'
+categories:
+- Humor
 ---
 <p>I found this earlier today...</p>
 

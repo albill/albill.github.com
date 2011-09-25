@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-15 22:36:00'
 layout: post
-title: Death to Civil Servants
-published: true
-meta: 
-  ljID: "2232"
-tags: 
-- Daily Life
-type: post
+slug: death-to-civil-servants
 status: publish
+title: Death to Civil Servants
+wordpress_id: '1352'
+categories:
+- Daily Life
 ---
 Well, I&apos;ve been up for about 24 hours now including 14 of them on planes and about seven or so of them in airpors in addition to that. I barely know where I am.
 

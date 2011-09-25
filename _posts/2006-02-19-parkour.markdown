@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-19 16:18:29'
 layout: post
-title: Parkour
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: parkour
 status: publish
+title: Parkour
+wordpress_id: '690'
+categories:
+- Daily Life
 ---
 There was some discussion on an e-mail list that I'm on about <strong>Parkour</strong>  the other day. This is the freestyle street running and climbing discipline that  people may have heard about. I first heard about it a year or two ago when  Warren Ellis had a character doing it in one of his <strong>Global Frequency</strong>  comics (#6, I believe) in order to get across London quickly.
 

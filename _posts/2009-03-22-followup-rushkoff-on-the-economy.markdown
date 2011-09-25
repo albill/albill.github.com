@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2009-03-22 11:09:57'
 layout: post
+slug: followup-rushkoff-on-the-economy
+status: publish
 title: Followup Rushkoff on the Economy
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3499"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2720'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 Apparently, Douglas Rushkoff has gotten a lot of flack for his <a href="http://www.arthurmag.com/2009/03/16/let-it-die-rushkoff-on-the-economy/">article</a> in Arthur Magazine that I <a href="http://www.arcanology.com/2009/03/16/douglas-rushkoff-on-the-economy-let-it-die/">wrote about</a> the other day. You know, the one where he called our current economy a big ponzi scheme and said that we should let the current system die. 
 

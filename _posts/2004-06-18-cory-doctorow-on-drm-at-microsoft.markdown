@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-18 12:11:40'
 layout: post
-title: Cory Doctorow on DRM at Microsoft
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: cory-doctorow-on-drm-at-microsoft
 status: publish
+title: Cory Doctorow on DRM at Microsoft
+wordpress_id: '145'
+categories:
+- Notable People
 ---
 From <a href="http://craphound.com/msftdrm.txt">http://craphound.com/msftdrm.txt</a> and <a href="http://www.boingboing.net/2004/06/17/why_microsoft_should.html">http://www.boingboing.net/2004/06/17/why_microsoft_should.html</a>.<p>Microsoft Research DRM talk<p>Cory Doctorow<p>cory@eff.org<p>June 17, 2004<p>This talk was originally given to Microsoft's Research Group 
 and other interested parties from within the company at their 

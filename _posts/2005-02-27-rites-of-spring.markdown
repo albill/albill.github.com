@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-27 18:01:19'
 layout: post
+slug: rites-of-spring
+status: publish
 title: Rites of Spring
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '408'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I guess spring is here. It hasn&#39;t rained in about two weeks and it has been 
 55 to 60 almost every day this week. This weekend was the beginning of our rites 

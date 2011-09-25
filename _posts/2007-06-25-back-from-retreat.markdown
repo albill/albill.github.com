@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-06-25 12:50:39'
 layout: post
+slug: back-from-retreat
+status: publish
 title: Back from Retreat
-published: true
-meta: 
-  ljID: "2631"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1733'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 R and I are back from our Buddhist Retreat with Daiun-Ji Great Cloud Temple in Ohio. We flew out to Cincinnati on Wednesday and arrived in the evening. We met with Rev. Jiun Foster and stayed the night at his place before going out to the site late the next morning.
 

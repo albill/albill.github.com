@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-10 01:42:23'
 layout: post
-title: Whoa...Meltdown, dude!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: whoameltdown-dude
 status: publish
+title: Whoa...Meltdown, dude!
+wordpress_id: '736'
+categories:
+- Daily Life
 ---
 I just read a long rant from a member (or former member now) of the <a href="http://www.anthropik.com/">Anthropik.com</a> site. It seems that I kickstarted the two people, especially the fellow, Ben, into getting censured and potentially removed with the back and forth pseudo-flamewar the other night by pointing them out here on this blog and elsewhere. I guess trackbacks are a bitch.
 

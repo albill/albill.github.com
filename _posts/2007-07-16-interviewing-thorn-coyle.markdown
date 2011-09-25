@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-16 13:28:14'
 layout: post
-title: Interviewing Thorn Coyle
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: interviewing-thorn-coyle
 status: publish
+title: Interviewing Thorn Coyle
+wordpress_id: '1753'
+categories:
+- Technology
 ---
 <a href="http://www.thorncoyle.com/">Thorn</a> and I met yesterday for her interview for the <a href="http://www.extemplo.org">Ex Templo</a> podcast at her place in San Francisco.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-02-10 18:36:23'
 layout: post
+slug: buddhism-and-global-warming
+status: publish
 title: Buddhism and Global Warming
-published: true
-meta: 
-  ljID: "3148"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2170'
+categories:
 - Buddhism
 - Society
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2256893902/" title="Ecological Buddhism by albill, on Flickr"><img src="http://farm3.static.flickr.com/2251/2256893902_425fd95b05_o.jpg" width="228" height="171" align="right" hspace=5" vspace="5" border="1" alt="Ecological Buddhism" /></a> A new site went live recently at <a href="http://www.ecobuddhism.org">Ecological  Buddhism</a>: A Buddhist Response to Global Warming. The site and parent organization are an attempt to address the problems of Global Warming and, with this, sustainability, from a Buddhist perspective. The site is predominantly (well, entirely, right now) from the viewpoint of Tibetan Buddhism but I think its ideas are applicable more widely than that particular tradition.
 

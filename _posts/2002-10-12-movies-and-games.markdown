@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2002-10-12 18:11:00'
 layout: post
+slug: movies-and-games
+status: publish
 title: Movies and Games
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '975'
+categories:
 - Buddhism
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 It's leisure week on the home front!
 

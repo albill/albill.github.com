@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-24 12:44:21'
 layout: post
-title: Rudy Rucker Blog
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: rudy-rucker-blog
 status: publish
+title: Rudy Rucker Blog
+wordpress_id: '376'
+categories:
+- Science Fiction
 ---
 Rudy Rucker is one of my favorite science fiction writers. He can be very uneven in the quality of his novels but the ideas and energy behind them always seem to win them (for me) in the end. 
 

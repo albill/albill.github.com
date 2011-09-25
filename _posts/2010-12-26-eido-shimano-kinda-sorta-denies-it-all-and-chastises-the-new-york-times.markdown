@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-12-26 12:03:37'
 layout: post
+slug: eido-shimano-kinda-sorta-denies-it-all-and-chastises-the-new-york-times
+status: publish
 title: Eido Shimano kinda sorta denies it all and chastises the New York Times
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3722"
-tags: 
+wordpress_id: '3378'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 The Eido Shimano controvery seems unwilling to die, like the undead in the current crop of Zombie novels and movies. I've avoided saying much on it during the last two months because it seemed rather pointless to do so given the lack of any public information on what is going on and also the fact that the Zen Studies Society board appeared to be trying to deal with the matter. For their sake and space, I figured it would be best left alone for a while. It is also a difficult matter to discuss without it descending entirely into negativity and nastiness.
 

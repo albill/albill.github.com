@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-01 22:37:15'
 layout: post
-title: Zen in a Stone
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Technology
-type: post
+slug: zen-in-a-stone
 status: publish
+title: Zen in a Stone
+wordpress_id: '520'
+categories:
+- Technology
 ---
 I found this online this evening. This feeds into my interest in various biofeedback devices. Would it be a Stone Mirror? :-)
 <h2>Zen in a Stone</h2>

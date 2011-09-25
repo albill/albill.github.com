@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-04 23:01:30'
 layout: post
-title: Free Novel Online
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: free-novel-online
 status: publish
+title: Free Novel Online
+wordpress_id: '439'
+categories:
+- Science Fiction
 ---
 <p>Richard Kadrey, who has written some good stories in the past, has released 
 the full text of his new urban fantasy novel in a nice PDF. I&#39;m not sure of the 

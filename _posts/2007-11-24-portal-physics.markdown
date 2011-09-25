@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-24 17:18:11'
 layout: post
+slug: portal-physics
+status: publish
 title: Portal Physics
-published: true
-meta: 
-  ljID: "3040"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2119'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 Valve Software came out recently with the game, "<a href="http://www.whatistheorangebox.com/portal.html">Portal</a>." In this game, the player runs the victim of an unfortunate science experiment through a series of puzzles involving the ability to open pairs of portals (one blue, one red). These are, effectively, a portable hole. Things that go in one portal come out the other. Because momentum is unaffected, a number of the puzzles involve you throwing yourself off of a high place, falling through a portal on the ground, and then ejecting yourself at high velocity at the conveniently placed other end of the portal.
 <p align="center"><a href="http://www.flickr.com/photos/albill/2061099382/" title="portal-graphic by albill, on Flickr"><img src="http://farm3.static.flickr.com/2054/2061099382_b97c23dfdf_o.png" width="383" height="256" alt="portal-graphic" /></a></p>

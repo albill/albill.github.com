@@ -1,25 +1,15 @@
---- 
+---
+author: admin
+date: '2010-10-21 15:32:20'
 layout: post
+slug: 30-days-of-practice
+status: publish
 title: 30 Days of Practice
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3706"
-  enclosure: |
-    http://www.kwanumzen.org/practice/chants/chanting-instructional-cd/05-heart-sutra-english.mp3
-    5200753
-    audio/mpeg
-
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3332'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/patries71/3525096406/" title="Uzuri practising Zen by patries71, on Flickr"><img src="http://farm4.static.flickr.com/3334/3525096406_ff12d76066.jpg" width="500" height="500" alt="Uzuri practising Zen" /></a></p>
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-02 23:08:45'
 layout: post
+slug: first-paper-madness
+status: publish
 title: First Paper Madness
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '384'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>My brain is melting.</p>
 <p>Maybe I&#39;ve become the opposite of most students. I have two papers due by 

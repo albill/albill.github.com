@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-18 20:33:00'
 layout: post
-title: Real Tournament
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Technology
-type: post
+slug: real-tournament
 status: publish
+title: Real Tournament
+wordpress_id: '1384'
+categories:
+- Technology
 ---
 Why the hell didn't they have things like this when I was a kid?
 

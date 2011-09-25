@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-11 23:53:50'
 layout: post
-title: Alan Moore and Magic
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: alan-moore-and-magic
 status: publish
+title: Alan Moore and Magic
+wordpress_id: '482'
+categories:
+- Esoteric
 ---
 I found an interview with Alan Moore from 2001 online at <a href="http://www.theonionavclub.com/feature/index.php?issue=3738&f=1">http://www.theonionavclub.com/feature/index.php?issue=3738&f=1</a> tonight. It is typical fare for him but I did like the one discussion of his attitude towards magic and his work:
 <blockquote><strong>O:</strong> Speaking of having an effect on people's minds, with <em>From Hell</em> and <em>Promethea</em>, you get very deeply into the history of symbolism and magic. Are you trying to educate the masses, or is there a specific purpose?

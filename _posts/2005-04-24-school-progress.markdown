@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-04-24 14:46:24'
 layout: post
+slug: school-progress
+status: publish
 title: School Progress
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '453'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I&#39;ve finished my first term of my graduate program at
 <a href="http://www.csudh.edu/hux/">California State University, Dominguez Hills</a>.</p>

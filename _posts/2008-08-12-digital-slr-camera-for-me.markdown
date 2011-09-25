@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-08-12 00:58:00'
 layout: post
-title: Digital SLR Camera for me?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3357"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: digital-slr-camera-for-me
 status: publish
+title: Digital SLR Camera for me?
+wordpress_id: '2373'
+categories:
+- Technology
 ---
 A lot of "cheaper" digital SLR cameras have been coming into the market during the last year. I am interested in moving beyond the land of my little point and shoot Fujifilm Finepix camera for a "real" digital camera. Of course, I know sweet FA about photography so I'm going to have to actually learn the skills to operate such a camera if I get one.
 

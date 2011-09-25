@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-15 22:28:03'
 layout: post
-title: Bees
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: bees
 status: publish
+title: Bees
+wordpress_id: '202'
+categories:
+- Daily Life
 ---
 <p>Great. I went camping this weekend, which I may write more about later, but I 
 managed to get stung by a bee about, oh, 29 hours ago at a guess. Maybe longer. 

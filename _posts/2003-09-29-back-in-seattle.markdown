@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-29 03:11:00'
 layout: post
-title: Back in Seattle
-published: true
-meta: 
-  ljID: "2820"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: back-in-seattle
 status: publish
+title: Back in Seattle
+wordpress_id: '1897'
+categories:
+- Daily Life
 ---
 R and I got back in Seattle this afternoon and back to the house a few hours ago. Her dad is staying with us for the week while her mother attends a conference here in Seattle.
 

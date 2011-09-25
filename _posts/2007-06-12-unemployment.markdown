@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-06-12 15:33:18'
 layout: post
+slug: unemployment
+status: publish
 title: Unemployment
-published: true
-meta: 
-  ljID: "2618"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1722'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I'm now ungainfully umemployed... This will last a day and then I start at Mozilla on Thursday morning. Today I did another goodbye lunch at MobiTV and had my exit interview. I am going to miss a bunch of the people that I worked with, especially my development team and a number of my QA peers.
 

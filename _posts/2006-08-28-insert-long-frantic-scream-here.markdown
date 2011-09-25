@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-28 22:26:04'
 layout: post
+slug: insert-long-frantic-scream-here
+status: publish
 title: Insert long frantic scream here
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1180'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I'm pulling together all of my Burning Man gear since I'm packing out at 4:00 AM on Wednesday morning with a coworker's wife. We're taking their van out to the playa and I hope to be there before noon. For any that haven't left yet, I'm in the Temple of All Gods (TAG), which is camping within the Mad Scientists Collective (MSC) at 3:00 and the Esplanade this year.
 

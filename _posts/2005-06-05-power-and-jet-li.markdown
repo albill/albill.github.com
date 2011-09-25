@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-05 11:20:45'
 layout: post
-title: Power and Jet Li
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: power-and-jet-li
 status: publish
+title: Power and Jet Li
+wordpress_id: '473'
+categories:
+- Daily Life
 ---
 R and I went and bought a new dishwasher yesterday. How&#39;s that for excitement? Then I proceeded to do some sanding and painting on part of the exterior of the house. Woo-hoo!
 

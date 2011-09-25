@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-08 23:57:53'
 layout: post
-title: Portable DivX Player
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: portable-divx-player
 status: publish
+title: Portable DivX Player
+wordpress_id: '568'
+categories:
+- Technology
 ---
 While in Bangkok, I did pay a visit to Panthip Plaza (see <a href="http://www.bangkokbob.net/pantip.html">here</a> and <a href="http://www.into-asia.com/bangkok/shopping/pantip.php">here</a>). This is one of the electronics/software meccas there. It is seven floors of flea market-esque stalls packed next to each other with an amazing horde of people circulating around them. I saw everything from standard beige box computer components, name brand laptops and other electronics, no name electronics,
 pirated and legit software (including seeing the 'X86' OS X test version that was recently pirated sitting in a window display with a seeming professional package), and pirated music and DVDs.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-05 06:31:00'
 layout: post
-title: My Evening
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: my-evening
 status: publish
+title: My Evening
+wordpress_id: '777'
+categories:
+- Daily Life
 ---
 Well, and I went to go see <a href="http://www.synthetic.org/a23/">Assemblage 23</a> this evening at the Vogue. They are one of my favorite current goth/industrial bands. I rather enjoyed the show and actually getting to see the artists, etc. etc.
 

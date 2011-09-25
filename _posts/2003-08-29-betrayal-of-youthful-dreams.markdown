@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-29 22:28:00'
 layout: post
-title: Betrayal of Youthful Dreams
-published: true
-meta: 
-  ljID: "2799"
-tags: 
-- Daily Life
-type: post
+slug: betrayal-of-youthful-dreams
 status: publish
+title: Betrayal of Youthful Dreams
+wordpress_id: '1875'
+categories:
+- Daily Life
 ---
 Shouldn&apos;t there be a German word for the betrayal of the dreams of youth by the reality of adulthood? They have a word for most everything else that sucks in life. I say all of this with a smile on my face as I&apos;m in a good mood but I was pondering this all the other day (the betrayal of dreams, not German words).
 

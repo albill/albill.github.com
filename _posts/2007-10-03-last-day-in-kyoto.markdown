@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-03 05:52:29'
 layout: post
+slug: last-day-in-kyoto
+status: publish
 title: Last Day in Kyoto
-published: true
-meta: 
-  ljID: "2885"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: friends
-tags: 
+wordpress_id: '1962'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 Today was our last day in Kyoto. Tomorrow, we take a series of trains to arrive at Koyasan.
 

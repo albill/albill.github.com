@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-30 12:12:19'
 layout: post
-title: Edgar Rice Burroughs and Mars
-published: true
-meta: 
-  ljID: "2445"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Science Fiction
-type: post
+slug: edgar-rice-burroughs-and-mars
 status: publish
+title: Edgar Rice Burroughs and Mars
+wordpress_id: '1581'
+categories:
+- Science Fiction
 ---
 <img src="http://www.arcanology.com/images/warlord_of_mars.jpg" alt="Warlord of Mars" align="right" border="1" />I mentioned my love of Barsoom, the pulp Mars of Edgar Rice Burroughs before but did not give any links to his books.
 

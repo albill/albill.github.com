@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-08-04 23:22:29'
 layout: post
+slug: templars-sue-catholic-church
+status: publish
 title: Templars Sue Catholic Church
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3349"
-tags: 
+wordpress_id: '2356'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <a title="templarsign by albill, on Flickr" href="http://www.flickr.com/photos/albill/2734094823/"><img src="http://farm4.static.flickr.com/3284/2734094823_15ed9ea409_o.png" alt="templarsign" hspace="10" width="181" height="183" align="right" /></a>As a former member of a modern day <a href="http://en.wikipedia.org/wiki/Knights_Templar">Knights Templar</a> <a href="http://en.wikipedia.org/wiki/Ordo_Templi_Orientis">organization</a> (which thinks it is a 19th century German sex cult) and a Freemason, I find today's news interesting on a variety of levels. One of the modern day Templar orders is suing the Roman Catholic Church in Spanish court in order to get the Pope and the Catholic Church to clear the good name of the Templars (and return billions of dollars of property seized hundreds of years ago). As historians, conspiracy theorists, or Davinci Code fans may recall, the Templars were accused of heresy (or were they?), banned, lost their property, and had their leaders burned at the stake. A number of people still think that Freemasonry may have gotten a kickstart in Scotland by former Templars who did a duck and cover there.
 

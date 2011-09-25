@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-01 22:59:00'
 layout: post
-title: I just bought tickets to
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: i-just-bought-tickets-to
 status: publish
+title: I just bought tickets to
+wordpress_id: '78'
+categories:
+- Daily Life
 ---
 I just bought tickets to go to Santa Cruz on June 25 and stay over for a long weekend.
 

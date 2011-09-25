@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-05 18:09:00'
 layout: post
-title: The Fouth
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-fouth
 status: publish
+title: The Fouth
+wordpress_id: '877'
+categories:
+- Daily Life
 ---
 R and I went and grabbed for the Woodinville fireworks display last night. My friend, J, trapecia's old man, was on the pyrotechnics crew so it seemed a good place to be. After wading through the bovine hordes and getting coffee along the way, we were treated to a fairly good fireworks show. It's been a long time since I saw a show in person and up close and it was fun.
 

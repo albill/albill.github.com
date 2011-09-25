@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-06-22 22:59:52'
 layout: post
+slug: phew
+status: publish
 title: Phew!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '491'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 The rough draft of my short paper on "Male Perspectives in Sula" is pretty much finished. 
 

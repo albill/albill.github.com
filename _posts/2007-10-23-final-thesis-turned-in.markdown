@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-23 11:53:08'
 layout: post
+slug: final-thesis-turned-in
+status: publish
 title: Final Thesis Turned In!
-published: true
-meta: 
-  ljID: "2946"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2023'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/ronove.png" alt="Ronove the Goetic Spirit" align="right" border="0" height="281" hspace="5" vspace="5" width="240" />I know that very many people are sitting on the edges of their seat in regards to my thesis but it seemed worthwhile to share. Last Thursday, I received the marked up copy of my thesis from  my program. This is the thesis as reviewed by the office of Graduate Studies.
 

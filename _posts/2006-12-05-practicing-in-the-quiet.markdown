@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-05 01:25:30'
 layout: post
-title: Practicing in the quiet...
-published: true
-meta: 
-  ljID: "2317"
-tags: 
-- Daily Life
-type: post
+slug: practicing-in-the-quiet
 status: publish
+title: Practicing in the quiet...
+wordpress_id: '1470'
+categories:
+- Daily Life
 ---
 I had a busy weekend. Through a program associated with my employer (and many other tech companies in the area), I have access to training in technical skills. I did a 16 hour entry level photoshop class this week (Photoshop I). There are an additional two more general photoshop classes that I could sign up for if I wanted but my next class is a 16 hour introduction to Flash class next month.
 

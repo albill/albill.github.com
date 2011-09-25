@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-21 16:14:09'
 layout: post
-title: "Lazy Web QA Questions: Flash UI Testing"
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: lazy-web-qa-questions-flash-ui-testing
 status: publish
+title: 'Lazy Web QA Questions: Flash UI Testing'
+wordpress_id: '1202'
+categories:
+- Technology
 ---
 I'm trying to figure out what tools are out there, if any, to easily automate UI testing for Flash-based web applications.
 

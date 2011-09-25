@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-22 03:35:47'
 layout: post
-title: Getting older...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: getting-older
 status: publish
+title: Getting older...
+wordpress_id: '750'
+categories:
+- Daily Life
 ---
 I must be getting old or I guess I really am an adult now. Hell, my daughter turned ten recently so that's got to be some sort of milestone. Me with a ten year old kid.
 

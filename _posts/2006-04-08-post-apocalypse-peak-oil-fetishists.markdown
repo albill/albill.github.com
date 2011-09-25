@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-08 03:12:22'
 layout: post
-title: Post-Apocalypse Peak Oil Fetishists
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: post-apocalypse-peak-oil-fetishists
 status: publish
+title: Post-Apocalypse Peak Oil Fetishists
+wordpress_id: '731'
+categories:
+- Society
 ---
 I've posted before about my opinion of the people that make their belief in Peak Oil or the eventual collapse of civilization into a fetish. I had a long basically flaming exchange with some people in comments on the <a href="http://anthropik.com/2006/04/a-walk-and-decisions/">Anthropik.com blog</a> this evening because certain people there seem to be gleefully anticipating and hoping for the ending of civilization. This was further elaborated in viewing selfishness as a virtue and that people only have any responsbility <strong>at all</strong> to their own family.
 

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-27 20:33:20'
 layout: post
-title: A Little Cthulhu Juju
-published: true
-meta: 
-  _oembed_ca79a5b08117db88778078f25bee06db: "{{unknown}}"
-  _oembed_b6c6dc58cf60c44f488707cc691de9c7: "{{unknown}}"
-  _oembed_cf86dc3a283a7b9963859890672cd2cd: "{{unknown}}"
-tags: 
-- Humor
-type: post
+slug: a-little-cthulhu-juju
 status: publish
+title: A Little Cthulhu Juju
+wordpress_id: '409'
+categories:
+- Humor
 ---
 <p><a href="http://www.kthulhukitsch.com/kitsch.html">
 http://www.kthulhukitsch.com/kitsch.html</a></p>

@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-07-08 13:32:06'
 layout: post
+slug: dr-billings-someday
+status: publish
 title: Dr. Billings someday?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3316"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2262'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a title="DSCF1680.JPG by albill, on Flickr" href="http://www.flickr.com/photos/albill/1494527749/"><img src="http://farm3.static.flickr.com/2252/1494527749_b44c1b55dc.jpg" border="1" alt="DSCF1680.JPG" width="500" height="375" /></a></p>
 No, I don't have a doctorate (yet). I met with Dr. Payne for lunch again today. As I've mentioned before, he's the dean at the <a href="http://www.shin-ibs.edu/">Institute of Buddhist Studies</a> (IBS) at the Graduate Theological Union in Berkeley. I took the class on esoteric Buddhism with him during this last Spring semester in an effort to both improve my knowledge of such things but also to get some exposure to him (to see what he was like and vice versa) as I have been considering working on a doctorate at GTU. As people may recall, I received my Master's degree, focusing on Western Esotericism, this last December.

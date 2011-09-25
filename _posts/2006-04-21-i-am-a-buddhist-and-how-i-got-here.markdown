@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2006-04-21 03:09:08'
 layout: post
+slug: i-am-a-buddhist-and-how-i-got-here
+status: publish
 title: I am a Buddhist and how I got here
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '748'
+categories:
 - Buddhism
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 It comes up at times that I am a Buddhist. Either people are conversing about  subjects of faith, how people spend their time, or other aspects of belief. I do  not parade it but I do not hide it at all either. I'm often wearing my mala on  my wrist but not always.
 

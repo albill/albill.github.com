@@ -1,22 +1,16 @@
---- 
+---
+author: admin
+date: '2009-05-26 18:47:49'
 layout: post
+slug: buddha-phone
+status: publish
 title: Buddha Phone
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3536"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2789'
+categories:
 - Buddhism
 - Humor
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3568951532/" title="Buddha Phone by albill, on Flickr"><img src="http://farm4.static.flickr.com/3377/3568951532_33aceb9e6a.jpg" width="500" height="375" alt="Buddha Phone" /></a></div>
 

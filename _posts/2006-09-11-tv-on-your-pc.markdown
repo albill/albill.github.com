@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-09-11 23:11:57'
 layout: post
+slug: tv-on-your-pc
+status: publish
 title: TV on your PC
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1189'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I have not written a lot about what I have been working on at my new job at MobiTV for the last couple of months. I generally do not blog about my work because it can be quite tricky to do so. A lot of the projects that I work on are not announced to the public until they are ready to ship or until our partners announce them. It is easier for me not to accidentally say the wrong thing by not talking about work here.
 

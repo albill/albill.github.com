@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-15 16:31:50'
 layout: post
+slug: primary-source-material
+status: publish
 title: Primary Source Material
-published: true
-meta: 
-  ljID: "2577"
-tags: 
+wordpress_id: '1700'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 I've been waiting to hear from the Ransom Center about my request for copies of some of the Golden Dawn documents that they have.
 

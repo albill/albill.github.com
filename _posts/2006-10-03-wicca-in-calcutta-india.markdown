@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-10-03 15:24:16'
 layout: post
+slug: wicca-in-calcutta-india
+status: publish
 title: Wicca in Calcutta, India
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1216'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I just heard about this from an e-mail list that I am on.
 

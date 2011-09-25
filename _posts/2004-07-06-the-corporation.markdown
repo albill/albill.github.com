@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-06 00:18:12'
 layout: post
-title: The Corporation
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: the-corporation
 status: publish
+title: The Corporation
+wordpress_id: '163'
+categories:
+- Society
 ---
 <blockquote>
 [I] see in Fight Club, the strongest and smartest men who&#39;ve ever lived. I see all this potential. And, I see squandering. </p><p>God damn it! An entire generation pumping gas, waiting tables: slaves 	with white collars. Advertising has us chasing car and clothes, working jobs 	we hate so we can buy shit we don&#39;t need. We&#39;re the middle children of 	history, man -- no purpose or place. We have no great war. No great 	depression. Our great war&#39;s a spiritual war. Our great depression is our 	lives. We&#39;ve all been raised on television to believe that one day we&#39;d all 	be millionaires and movie gods and rock stars . . . but we won&#39;t. We&#39;re 	slowly learning that fact and we&#39;re very, very pissed off.

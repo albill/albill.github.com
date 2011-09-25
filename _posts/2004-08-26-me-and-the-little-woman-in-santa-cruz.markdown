@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-26 23:42:20'
 layout: post
-title: Me and the little woman in Santa Cruz
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3322"
-tags: 
-- Daily Life
-type: post
+slug: me-and-the-little-woman-in-santa-cruz
 status: publish
+title: Me and the little woman in Santa Cruz
+wordpress_id: '217'
+categories:
+- Daily Life
 ---
 This is from last year in California when we went to Santa Cruz.
 

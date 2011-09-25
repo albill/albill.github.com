@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-14 01:36:28'
 layout: post
-title: Aching Bones
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: aching-bones
 status: publish
+title: Aching Bones
+wordpress_id: '1192'
+categories:
+- Daily Life
 ---
 R and I went to Aikido this evening. While she's been more recently, it was the first time I'd been able to go in two and a half or three weeks between my work schedule, Burning Man, being ill and other untimely events (at least once I just felt too wiped to deal with being thrown). I've got to make a better habit out of going though with the two of us going together, it is generally easier.
 

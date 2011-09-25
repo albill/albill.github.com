@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-21 00:46:40'
 layout: post
-title: Yezidis
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: yezidis
 status: publish
+title: Yezidis
+wordpress_id: '450'
+categories:
+- Spirituality
 ---
 Jake visits a Yezidi village in Iraq. Since a number of people that I know on LJ are fans of the Yezidis (without knowing that the notorious black book is a fraud, it seems), I thought that I'd post this.
 

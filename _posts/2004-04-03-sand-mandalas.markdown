@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-03 11:40:00'
 layout: post
-title: Sand Mandalas
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: sand-mandalas
 status: publish
+title: Sand Mandalas
+wordpress_id: '80'
+categories:
+- Buddhism
 ---
 See Buddhist monks creating a Sand Mandala...
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-05-26 19:05:08'
 layout: post
+slug: madison-progress
+status: publish
 title: Madison Progress
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '465'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Ah, Madison...how do I name the joys of the midwest? Is it the flatness or the smell of cows?
 

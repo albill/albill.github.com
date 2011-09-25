@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-10 01:56:20'
 layout: post
+slug: done-with-the-independent-study
+status: publish
 title: Done with the Independent Study
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '737'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I just turned in my final paper for my independent study in Western Esotericism at CSU, Dominguez Hills. It came out to a bit over eleven pages and I wrote it today and yesterday (as mentioned last night when I was working on it). R proofed it for me this afternoon, I made some changes and turned it in.
 

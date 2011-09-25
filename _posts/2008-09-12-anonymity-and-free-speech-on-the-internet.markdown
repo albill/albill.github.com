@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-09-12 11:46:37'
 layout: post
+slug: anonymity-and-free-speech-on-the-internet
+status: publish
 title: Anonymity and Free Speech on the Internet
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3390"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2471'
+categories:
 - Mozilla
 - Society
 - Technology
-type: post
-status: publish
 ---
 The Internet has had a place for anonymous speech since its earliest days. This is something for which I am eternally thankful. When I first got on the net in the late 1980s, I was using the Usenet forums and mailing lists. For most of that time, no one really cared <em>who</em> I was, just what I was writing. As an 18 year old, this had a profound effect on my development as I was able to talk and argue with all sorts of people without us being overly focused on reputation or "real world" repercussions. As they used to say, on the Internet, no one knows that you're a dog.
 

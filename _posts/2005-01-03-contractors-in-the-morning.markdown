@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-03 10:37:07'
 layout: post
-title: Contractors in the Morning
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: contractors-in-the-morning
 status: publish
+title: Contractors in the Morning
+wordpress_id: '348'
+categories:
+- Daily Life
 ---
 <p>I woke up this morning (and the wife did) to an 8:00 AM phone call. It&#39;s the 
 contractor, who was going to come Wednesday, saying his three day job got 

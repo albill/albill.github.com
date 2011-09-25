@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-04 16:12:12'
 layout: post
+slug: victimsi-mean-readers
+status: publish
 title: Victims...I mean "Readers"
-published: true
-meta: 
-  ljID: "2518"
-tags: 
+wordpress_id: '1654'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 I'm almost done with the first four chapters of my thesis. I'm looking for people to proof it, especially for factual consistency with the Golden Dawn or pointing out places where I go "blah blah blah" but don't seem to go anywhere or make it relevant.
 

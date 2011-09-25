@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-02 01:35:36'
 layout: post
-title: Shovercraft
-published: true
-meta: 
-  ljID: "2314"
-tags: 
-- Technology
-type: post
+slug: shovercraft
 status: publish
+title: Shovercraft
+wordpress_id: '1467'
+categories:
+- Technology
 ---
 The immediate questions that come to my mind upon seeing these are two-fold (and unrelated):
 <ol>

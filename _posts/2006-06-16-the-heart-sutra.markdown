@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-16 02:31:14'
 layout: post
+slug: the-heart-sutra
+status: publish
 title: The Heart Sutra
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1113'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 The Heart of Prajñā Pāramitā Sutra, known as the Heart Sutra, is the one of the most succinct and important texts in Buddhism. It is recited daily by Buddhists around the world as encapsulating the essence of Buddhism. I am posting it here because I've been reading Red Pine's book, <a href="http://www.amazon.com/gp/product/1593760825"><strong>The Heart Sutra</strong></a>. As he says in his book, "The Heart Sutra is Buddhism in a nutshell. It covers more of the Buddha's teachings in a shorter span than any other scripture, and it does so without being superficial or commonplace."
 <p align="center"><strong><span style="font-size: 16pt; font-family: 華康魏碑體">般若波羅蜜多心經</span></strong></p>

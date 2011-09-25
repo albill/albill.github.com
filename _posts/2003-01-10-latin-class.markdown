@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-10 04:22:00'
 layout: post
+slug: latin-class
+status: publish
 title: Latin Class
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1238'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Ah...Latin...Look, the alphabet...it's so...so...readable!! No struggling to remember funny foreign characters! (And yes, I did have five years of Russian but shut up about it...)
 

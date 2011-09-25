@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-11 01:55:10'
 layout: post
-title: Seattle Soon
-published: true
-meta: 
-  ljID: "2527"
-tags: 
-- Daily Life
-type: post
+slug: seattle-soon
 status: publish
+title: Seattle Soon
+wordpress_id: '1662'
+categories:
+- Daily Life
 ---
 The Friday after this next (4/20), I will be in Seattle for the weekend.
 

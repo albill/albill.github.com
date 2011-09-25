@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2006-01-20 01:11:55'
 layout: post
+slug: february-events
+status: publish
 title: February Events
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '669'
+categories:
 - Academic
 - Books
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Schoolwork this term is really dragging on me. I'm almost two weeks into the  term now. Even with my dad's death, I was able to get the reading done for my  class on Greek thought. It turns out that the real difficulty is my own  independent study. The books I assigned myself to read (and I'm not stuck with)  are relatively long and are not quick reads. In fact, they are quite slow reads.  I'm taking a break right now because I found my attention really wandering.
 

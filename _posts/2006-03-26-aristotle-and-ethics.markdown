@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-26 16:17:52'
 layout: post
-title: Aristotle and Ethics
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: aristotle-and-ethics
 status: publish
+title: Aristotle and Ethics
+wordpress_id: '721'
+categories:
+- Academic
 ---
 I've spent the last few days reading much of <strong>Nichomachean Ethics</strong> by Aristotle. I'm reading the portions on ethics right now and will read the portion on politics later today. This is for a paper due on Friday (a short one).
 

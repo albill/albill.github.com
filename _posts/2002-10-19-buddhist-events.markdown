@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-19 03:10:00'
 layout: post
+slug: buddhist-events
+status: publish
 title: Buddhist Events
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '987'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img width="300" height="371" border="1" align="right" src="http://www.andyweberstudios.com/images/mt_manjushr.jpg" />I received the following from a friend the other day. I will be attending assuming I get back from Portland in time...
 

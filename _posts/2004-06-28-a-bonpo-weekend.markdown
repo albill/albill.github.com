@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-28 00:15:50'
 layout: post
-title: A Bonpo Weekend
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: a-bonpo-weekend
 status: publish
+title: A Bonpo Weekend
+wordpress_id: '155'
+categories:
+- Buddhism
 ---
 "Busy, busy, busy" was the mantra for the last few days.
 

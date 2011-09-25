@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-15 01:54:19'
 layout: post
-title: Last Day in Sorrento
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: last-day-in-sorrento
 status: publish
+title: Last Day in Sorrento
+wordpress_id: '260'
+categories:
+- Daily Life
 ---
 We surrender the keys to our apartment in the next hour or so and then we're off to Rome.
 

@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2010-04-04 13:42:58'
 layout: post
+slug: a-short-talk-on-the-diamond-sutra
+status: publish
 title: A Short Talk on the Diamond Sutra
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3614"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3113'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This is the core of a short talk that I gave on the Diamond Sutra at the Five Mountain Order's Spring Retreat in Cincinnati, Ohio. This talk was offered in lieu of a short final paper in our seminary's class on the Diamond Sutra. Because of this, it is not in the more common "story telling" manner of most Zen Dharma talks. I was conveying some thoughts and background on the Diamond Sutra to a very mixed audience (there were at least two people there who had never read the Diamond Sutra there). I mixed it up a little more and added from some discussion earlier in the day when I did the talk but this is the gist of it. I've only spent time studying the Diamond Sutra in any depth recently and I don't consider myself even vaguely an expert in its content. I'm just a Zen priest, not a master. :-)
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-30 23:48:10'
 layout: post
-title: Cranky
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: cranky
 status: publish
+title: Cranky
+wordpress_id: '157'
+categories:
+- Daily Life
 ---
 I'm feeling pretty cranky these last couple of days. I picked up whatever R has been walking around with this week. I'm a lousy sick person since I only get sick about once or twice a year in any real way. I'm not used to it like sickly people are...
 

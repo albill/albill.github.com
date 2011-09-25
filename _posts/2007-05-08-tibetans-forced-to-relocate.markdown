@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-08 11:38:36'
 layout: post
-title: Tibetans Forced to Relocate
-published: true
-meta: 
-  ljID: "2566"
-tags: 
-- Society
-type: post
+slug: tibetans-forced-to-relocate
 status: publish
+title: Tibetans Forced to Relocate
+wordpress_id: '1690'
+categories:
+- Society
 ---
 The Chinese government, never content with anything in Tibet, is now forcing the relocation of up to 10% of the Tibetan population.
 

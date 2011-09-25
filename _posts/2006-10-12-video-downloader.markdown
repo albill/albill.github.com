@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-12 10:50:04'
 layout: post
-title: Video Downloader
-published: true
-meta: 
-  ljID: "2248"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: video-downloader
 status: publish
+title: Video Downloader
+wordpress_id: '1405'
+categories:
+- Technology
 ---
 If you've ever encountered a video on Youtube or Google Video that you need to have, the Video Downloader site at <a href="http://javimoya.com/blog/youtube_en.php">http://javimoya.com/blog/youtube_en.php</a> will allow you to download it.
 

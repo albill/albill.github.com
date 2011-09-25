@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-08-01 15:08:16'
 layout: post
+slug: mandala-exhibit-at-the-rubin
+status: publish
 title: Mandala Exhibit at the Rubin
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3564"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2840'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 The Rubin Museum of Art in New York City has been doing an exhibit of Buddhist mandalas recently. I just found today that they put a selection of these online on Flickr.
 

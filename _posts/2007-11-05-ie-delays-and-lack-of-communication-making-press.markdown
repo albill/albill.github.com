@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-05 12:36:17'
 layout: post
+slug: ie-delays-and-lack-of-communication-making-press
+status: publish
 title: IE Delays and Lack of Communication Making Press
-published: true
-meta: 
-  ljID: "2961"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2038'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://blog.seattlepi.nwsource.com/microsoft/bio.asp#bio18359">Todd Bishop</a> at the <a href="http://seattlepi.nwsource.com/">Seattle Post-Intelligencer</a> has a Monday column there called, "<a href="http://seattlepi.nwsource.com/business/338069_software05.html">Software Notebook</a>," in the Business section of the paper. He is also one of the people in the local Seattle press that has a <a href="http://blog.seattlepi.nwsource.com/microsoft/">blog</a> on Microsoft issues and regularly covers Microsoft.
 

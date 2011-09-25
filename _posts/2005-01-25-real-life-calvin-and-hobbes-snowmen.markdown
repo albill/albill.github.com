@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-25 12:19:43'
 layout: post
-title: Real Life Calvin and Hobbes Snowmen
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Humor
-type: post
+slug: real-life-calvin-and-hobbes-snowmen
 status: publish
+title: Real Life Calvin and Hobbes Snowmen
+wordpress_id: '379'
+categories:
+- Humor
 ---
 From <a href="http://www.boingboing.net">Boing Boing</a>:
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-18 03:17:00'
 layout: post
-title: Tivo
-published: true
-meta: 
-  ljID: "2236"
-tags: 
-- Technology
-type: post
+slug: tivo
 status: publish
+title: Tivo
+wordpress_id: '1356'
+categories:
+- Technology
 ---
 So I bought a Tivo today...
 

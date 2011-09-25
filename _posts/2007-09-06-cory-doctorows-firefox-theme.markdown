@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2007-09-06 12:48:06'
 layout: post
+slug: cory-doctorows-firefox-theme
+status: publish
 title: Cory Doctorow's Firefox Theme
-published: true
-meta: 
-  ljID: "2731"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:73:"http://hbpub.vo.llnwd.net/o16/torpodcast/media/tor_podcast_083107_cbr.mp3";s:5:"title";s:43:"Cory Doctorow on Facing the Digital Reality";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"8066403";s:8:"duration";s:5:"16:48";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '1815'
+categories:
 - Mozilla
 - Notable People
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 I'm a big fan of <a href="http://www.craphound.com">Cory Doctorow</a>, the science fiction author, DRM activist, <a href="http://www.boingboing.net">BoingBoing</a> editor, and former <a href="http://www.eff.org">EFF</a> evangelist.
 

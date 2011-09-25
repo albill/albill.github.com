@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-02 18:48:00'
 layout: post
+slug: a-new-version-of-the-nigerian-scam
+status: publish
 title: A New Version of the Nigerian Scam
-published: true
-meta: 
-  ljID: "2829"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1907'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 I love this one...
 

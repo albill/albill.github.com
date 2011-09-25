@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-03 18:49:23'
 layout: post
+slug: oom-the-magnificent
+status: publish
 title: Oom the Magnificent?
-published: true
-meta: 
-  ljID: "2352"
-tags: 
+wordpress_id: '1506'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I'm interested in tracking down material relating to "Oom the Magnificent."
 

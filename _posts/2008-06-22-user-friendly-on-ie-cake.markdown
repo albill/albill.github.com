@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-22 17:42:17'
 layout: post
+slug: user-friendly-on-ie-cake
+status: publish
 title: User Friendly on IE Cake
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3302"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2247'
+categories:
 - Humor
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Apparently, the popular web comic <a href="http://www.userfriendly.org/">User Friendly</a> just did a cartoon about the <a href="http://www.arcanology.com/2008/06/17/ie-sends-mozilla-a-new-cake-for-firefox-3/">cake that Internet Explorer sent to Mozilla</a> the other day when we shipped Firefox 3. 
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-14 23:40:18'
 layout: post
-title: Things To Do This Week
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: things-to-do-this-week
 status: publish
+title: Things To Do This Week
+wordpress_id: '1084'
+categories:
+- Daily Life
 ---
 I have to get a bunch of things done this week on my "time off" from work.
 

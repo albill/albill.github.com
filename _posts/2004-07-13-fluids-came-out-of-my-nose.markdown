@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-13 21:19:08'
 layout: post
-title: Fluids came out of my nose...
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: fluids-came-out-of-my-nose
 status: publish
+title: Fluids came out of my nose...
+wordpress_id: '173'
+categories:
+- Humor
 ---
 
 <!--more-->

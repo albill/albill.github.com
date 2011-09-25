@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-09 11:18:43'
 layout: post
-title: iPwn
-published: true
-meta: 
-  ljID: "2358"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: ipwn
 status: publish
+title: iPwn
+wordpress_id: '1513'
+categories:
+- Technology
 ---
 Ok, as much as I've bitched about Apple lately, I have to admit that their new phone is incredibly sexy looking.
 

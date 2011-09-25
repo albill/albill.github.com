@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-08 09:09:24'
 layout: post
-title: Venice - Second Day
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: venice-second-day
 status: publish
+title: Venice - Second Day
+wordpress_id: '254'
+categories:
+- Daily Life
 ---
 R and I got up bright and early for our second day in Venice. After a nice breakfast at our hotel, R asked about some details about going to the island of Murano, home of "Murano Glass" in the lagoon. It turns out that, without us having been the wiser, that our hotel runs trips out there for free. They'd stick us on a boat just outside the hotel, which would take us out to the island. This is much better than the mile or two walk to the other side of Venice over the grand canal and the twisty streets that we had planned. There was even a free tour of one of the oldest glass furnaces involved as well. Getting back was up to us...
 

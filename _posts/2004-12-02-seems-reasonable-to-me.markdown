@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-02 21:29:34'
 layout: post
-title: Seems reasonable to me...
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Humor
-type: post
+slug: seems-reasonable-to-me
 status: publish
+title: Seems reasonable to me...
+wordpress_id: '306'
+categories:
+- Humor
 ---
 I love the <a href="http://www.theonion.com/news/index.php?issue=4048">Onion</a>:
 <h1>Iraq Adopts Terror Alert System</h1>

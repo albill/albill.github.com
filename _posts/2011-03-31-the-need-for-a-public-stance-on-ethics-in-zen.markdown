@@ -1,21 +1,20 @@
---- 
+---
+author: admin
+date: '2011-03-31 10:53:50'
 layout: post
+slug: the-need-for-a-public-stance-on-ethics-in-zen
+status: publish
 title: The Need for a Public Stance on Ethics in Zen
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3810"
-tags: 
+wordpress_id: '3672'
+categories:
 - Buddhism
+- Society
+- Spirituality
+tags:
 - dharma
 - ethics
 - scandals
-- Society
-- Spirituality
 - zen
-type: post
-status: publish
 ---
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/5483918460/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5291/5483918460_b8d384778f.jpg" width="500" height="375" alt=""></a></p>
 Within the Five Mountain Sangha and some friends, there has been a brief discussion in the last day (and a much longer one before that during retreats and otherwise) on the various sex scandals within the Zen community during the last year and some examples in articles circulated with the initial e-mail. I'd be very unsurprised if more of these skeletons came out of the closet as I know of at least a couple of more incidents (all a decade past or more) and I'm not even terribly well connected. When asked for my thoughts on the particulars of one and the situation in general, I wrote a response to my peers and seniors. I thought it might be worth sharing here. Below is my verbatim post of what I sent to the others. (Rev. Jiun, whom I mention, is my main teacher that I work with weekly.)

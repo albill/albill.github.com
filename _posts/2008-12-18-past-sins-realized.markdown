@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-12-18 12:14:46'
 layout: post
-title: Past Sins Realized
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3444"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: past-sins-realized
 status: publish
+title: Past Sins Realized
+wordpress_id: '2591'
+categories:
+- Daily Life
 ---
 I must confess that this may very well be a narcissistic post on my part but, then again, it's a blog and much of what goes on here and on other blogs is pretty narcissistic. Perhaps I'll be excused then. 
 

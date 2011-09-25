@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-31 17:03:55'
 layout: post
-title: Day of the Dead and Samhain
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: day-of-the-dead-and-samhain
 status: publish
+title: Day of the Dead and Samhain
+wordpress_id: '274'
+categories:
+- Spirituality
 ---
 <p>Samhain is here again and it came quite suddenly for us at home this year. 
 R and I are going to celebrate the sabbat tonight. I spent yesterday at the 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-17 00:23:06'
 layout: post
-title: Thoughts for the Evening
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: thoughts-for-the-evening
 status: publish
+title: Thoughts for the Evening
+wordpress_id: '1165'
+categories:
+- Daily Life
 ---
 Pain...back...thumb...feet...
 

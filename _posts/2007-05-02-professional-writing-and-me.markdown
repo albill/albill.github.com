@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-02 00:47:14'
 layout: post
-title: Professional Writing and Me
-published: true
-meta: 
-  ljID: "2553"
-tags: 
-- Daily Life
-type: post
+slug: professional-writing-and-me
 status: publish
+title: Professional Writing and Me
+wordpress_id: '1683'
+categories:
+- Daily Life
 ---
 I want to write a few articles for publication and then work on a book or two. Of course, this will follow the completion of my current thesis work, which will free up a bit of time.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-18 22:55:44'
 layout: post
-title: IE7 is Out
-published: true
-meta: 
-  ljID: "2255"
-tags: 
-- Technology
-type: post
+slug: ie7-is-out
 status: publish
+title: IE7 is Out
+wordpress_id: '1412'
+categories:
+- Technology
 ---
 Apparently, my old team has finally released IE7 according to the <a href="http://blogs.msdn.com/ie/archive/2006/10/18/internet-explorer-7-for-windows-xp-available-now.aspx">blog that I used to run</a>...
 

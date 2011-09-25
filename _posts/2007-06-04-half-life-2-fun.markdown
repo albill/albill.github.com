@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-06-04 15:44:21'
 layout: post
+slug: half-life-2-fun
+status: publish
 title: Half-Life 2 Fun
-published: true
-meta: 
-  ljID: "2609"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1716'
+categories:
 - Humor
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 There is a fun machinima up at <a href="http://civil-protection.blogspot.com/">http://civil-protection.blogspot.com</a> with the thug cops from Half-Life 2.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-02 20:02:00'
 layout: post
-title: Happy Beltane
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: happy-beltane-2
 status: publish
+title: Happy Beltane
+wordpress_id: '96'
+categories:
+- Esoteric
 ---
 Yesterday, R and I went out to Marc and Nef's place for the 10th anniversary of their Beltane gatherings. They have about three acres about half an hour from where we live. We got there around 8:30 or so and there was the largest group I've seen there in the few years that I've been going. We hung out with a bunch of people, drank a bit, hung out a bit more, and, at midnight, burned a more-than-life-size wicker man on the bonfire. It was the nicest that it has been in years. Usually it is a bit damp and rainy on May 1 around here.
 

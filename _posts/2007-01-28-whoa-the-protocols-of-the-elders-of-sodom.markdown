@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-28 00:25:58'
 layout: post
+slug: whoa-the-protocols-of-the-elders-of-sodom
+status: publish
 title: Whoa! The Protocols of the Elders of Sodom!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1536'
+categories:
 - Humor
 - Society
-type: post
-status: publish
 ---
 Hal Duncan wrote a fabulous entry in response to hate mail he received in response to an earlier entry of his deriding the whole "<a href="http://notesfromthegeekshow.blogspot.com/2005/04/homosexual-agenda.html">Homosexual Agenda</a>" meme. The original post rocked the house as it was but <a href="http://notesfromthegeekshow.blogspot.com/2007/01/protocols-of-elders-of-sodom.html">his current response</a> just sends me. Check out the excerpt (the hate mail is quoted in italics at the beginning of it):
 <blockquote><em>One of the "many inventions" confronting society today is that homosexuality is normal and acceptable.</em>

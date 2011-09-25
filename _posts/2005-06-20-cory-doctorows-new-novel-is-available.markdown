@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-20 22:58:44'
 layout: post
-title: Cory Doctorow's New Novel is Available
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: cory-doctorows-new-novel-is-available
 status: publish
+title: Cory Doctorow's New Novel is Available
+wordpress_id: '489'
+categories:
+- Science Fiction
 ---
 I had this pre-orderd and it seems to have come out early...
 

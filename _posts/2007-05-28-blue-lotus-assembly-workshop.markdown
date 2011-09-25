@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-05-28 16:23:08'
 layout: post
+slug: blue-lotus-assembly-workshop
+status: publish
 title: Blue Lotus Assembly Workshop
-published: true
-meta: 
-  ljID: "2595"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1709'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I just returned from attending a two day workshop over the weekend in Dayton, Ohio with the Blue Lotus Assembly. This was held at the main dojo for <a href="http://www.skhquest.com/">Stephen K. Hayes' Quest Center</a>, which is the home of <a href="http://www.skhquest.com/articles/ToShinDoDescription.asp">To-Shin Do</a>. To-Shin Do is the martial art that <a href="http://en.wikipedia.org/wiki/Stephen_K._Hayes">Stephen Hayes</a>, known to those of us in the Blue Lotus Assembly as "Master Jien" developed and teaches.
 

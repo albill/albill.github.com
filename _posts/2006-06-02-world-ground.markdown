@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-02 19:35:38'
 layout: post
-title: World Ground
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: world-ground
 status: publish
+title: World Ground
+wordpress_id: '1098'
+categories:
+- Daily Life
 ---
 We are now in our apartment in Jackson Square in Oakland. (Well, R will be here in the next hour but I am there with our stuff and the cats...).
 

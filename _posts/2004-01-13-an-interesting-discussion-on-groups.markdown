@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-13 18:18:00'
 layout: post
-title: An interesting discussion on groups...
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: an-interesting-discussion-on-groups
 status: publish
+title: An interesting discussion on groups...
+wordpress_id: '18'
+categories:
+- Society
 ---
 This article focussed on "Phantom Authority" using Wikipedia as an example.
 

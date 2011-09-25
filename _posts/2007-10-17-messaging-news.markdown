@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-17 18:37:51'
 layout: post
+slug: messaging-news
+status: publish
 title: Messaging News
-published: true
-meta: 
-  ljID: "2938"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2015'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I noticed several news item today in the area of post-email messaging. As I mentioned in my previous posts, I'm interested in applications that converge e-mail messages, instant messages, and other kinds of messaging, such as VOIP or messages in social networks. One was on Microsoft's Office Communicator, which was less interesting but is adding VOIP of some sort to its integration with Office, Sharepoint, and Groove.
 

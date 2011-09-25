@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-26 11:03:26'
 layout: post
+slug: the-soul-in-christianity
+status: publish
 title: The Soul in Christianity
-published: true
-meta: 
-  ljID: "2546"
-tags: 
+wordpress_id: '1679'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 Can anyone recommend a standard, even defining, source for the view of the soul within Christianity? I'm sure Augustine qualifies to some degree. Are there a few others that people would recommend?
 

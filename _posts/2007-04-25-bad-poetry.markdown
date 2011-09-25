@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-25 16:10:12'
 layout: post
+slug: bad-poetry
+status: publish
 title: Bad Poetry
-published: true
-meta: 
-  ljID: "2544"
-tags: 
+wordpress_id: '1677'
+categories:
 - Buddhism
 - Humor
-type: post
-status: publish
 ---
 I'm listening to a bunch of classes that Jiun Sensei did for our sangha, Daiun-Ji, over the last two years. Listening to these recordings constantly that have been passed through a low bitrate recorder has moved me to write a haiku dedicated to him and the Dharma:
 

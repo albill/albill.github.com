@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-26 15:44:00'
 layout: post
+slug: hevajra-initiation
+status: publish
 title: Hevajra Initiation
-published: true
-meta: 
-  _edit_last: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '800'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I just found this on the <a href="http://www.sakya.org">Sakya Monastery's website</a> at <a href="http://www.sakya.org/VEI/hevajra5-24.htm">http://www.sakya.org/VEI/hevajra5-24.htm</a>.
 I've been waiting for them to offer this and this is the first time I think they've done it in a while. $200 though! Yowza!

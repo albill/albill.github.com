@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-12 02:11:00'
 layout: post
+slug: the-mutability-of-the-self
+status: publish
 title: The Mutability of the Self
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1081'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I saw this old quote from Noble Drew Ali today:
 <blockquote><em>You are, each one, a priest, just for yourself... When we rely upon others to study the secrets of nature and think and act for us, then we have created a life for ourselves, one which is termed 'Hell'.</em>

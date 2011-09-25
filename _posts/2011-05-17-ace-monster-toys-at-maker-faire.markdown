@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2011-05-17 13:20:09'
 layout: post
-title: Ace Monster Toys at Maker Faire
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3838"
-tags: 
-- Ace Monster Toys
-- Hacking
-- maker faire
-- Technology
-type: post
+slug: ace-monster-toys-at-maker-faire
 status: publish
+title: Ace Monster Toys at Maker Faire
+wordpress_id: '3749'
+categories:
+- Hacking
+- Technology
+tags:
+- Ace Monster Toys
+- maker faire
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5112159255/" title="Christian explains the magic of making by albill, on Flickr"><img src="http://farm2.static.flickr.com/1374/5112159255_2bec7129e4.jpg" width="500" height="375" alt="Christian explains the magic of making"></a></p>
 <p><a href="http://www.acemonstertoys.org">Ace Monster Toys</a>, the hackerspace which I helped found in Oakland, will have a <a href="http://makerfaire.com/pub/e/5124">presence</a> at <a href="http://makerfaire.com/">Maker Faire</a> this coming weekend. This is a first for us as we went through our founding process just around the same time Maker Faire happened last year, elected our board last June, and got our space at the end of July. We did attend the East Bay Mini Maker Faire but this is our first really large scale event.

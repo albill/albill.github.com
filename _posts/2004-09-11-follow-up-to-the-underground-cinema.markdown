@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-11 19:38:45'
 layout: post
-title: Follow-up to the Underground Cinema
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: follow-up-to-the-underground-cinema
 status: publish
+title: Follow-up to the Underground Cinema
+wordpress_id: '233'
+categories:
+- Society
 ---
 More information on the underground cinema in Paris that I posted about earlier in the week.
 

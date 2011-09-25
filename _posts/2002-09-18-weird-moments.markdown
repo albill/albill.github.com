@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-18 01:38:00'
 layout: post
+slug: weird-moments
+status: publish
 title: Weird Moments
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '954'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I've been feeling some ambivilance on my spiritual path. This is not new nor is it surprising. I've been doing and studying the Buddhist thing a bit lately but my path, for the eight years specifically, has been that of Hermetic magic. Before that, and still to some degree, I've been a Neopagan.
 

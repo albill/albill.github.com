@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-07 23:20:28'
 layout: post
-title: Welcome "San Francisco Values"
-published: true
-meta: 
-  ljID: "2281"
-tags: 
-- Society
-type: post
+slug: welcome-san-francisco-values
 status: publish
+title: Welcome "San Francisco Values"
+wordpress_id: '1435'
+categories:
+- Society
 ---
 That's right. Even if the Dems don't get the senate, it looks like the fun parade is over. That's right, Red Party Whackos, you're out!
 <a href="http://www.cnn.com/2006/POLITICS/11/07/election.main/index.html">http://www.cnn.com/2006/POLITICS/11/07/election.main/</a>

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-08-17 23:28:03'
 layout: post
+slug: anathemized-brain
+status: publish
 title: Anathemized Brain
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3365"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2396'
+categories:
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 In an effort to get through Neal Stephenson's upcoming novel, <strong><a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096/">Anathem</a></strong>, in time to write a review and post it before its release to the world, I've read more than 300 pages of it today. My brain definitely needs to be marinated in something else for a few hours now.
 

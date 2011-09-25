@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-18 01:30:49'
 layout: post
-title: Victims
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: victims
 status: publish
+title: Victims
+wordpress_id: '239'
+categories:
+- Society
 ---
 There are few things less inspiring in life than people that make their circumstances into victimhood or wear their dissatisfaction with the world as some akin to a fashion statement.
 

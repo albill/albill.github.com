@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-01 07:55:13'
 layout: post
-title: The Rats of Nara
-published: true
-meta: 
-  ljID: "2883"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: the-rats-of-nara
 status: publish
+title: The Rats of Nara
+wordpress_id: '1960'
+categories:
+- Daily Life
 ---
 R and I took a day trip to <a href="http://en.wikipedia.org/wiki/Nara,_Nara">Nara</a> today. Nara is the original capitol of Japan (before Kyoto) and the home to the earliest Buddhist temples here. <lj-cut text="Read the Rest...">
 

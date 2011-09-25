@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-01 21:37:23'
 layout: post
-title: "\"Empty\" Wilderness"
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: empty-wilderness
 status: publish
+title: '"Empty" Wilderness'
+wordpress_id: '304'
+categories:
+- Society
 ---
 <p>I read this article this evening since it was recommended in the course of a 
 conversation about the plagues that swept the Americas after European contact 

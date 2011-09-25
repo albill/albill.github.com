@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-09-06 11:26:56'
 layout: post
-title: Nine Inch Nails in Concert
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3386"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: nine-inch-nails-in-concert
 status: publish
+title: Nine Inch Nails in Concert
+wordpress_id: '2443'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2832813768/" title="NIN Concert by albill, on Flickr"><img src="http://farm4.static.flickr.com/3083/2832813768_50f4cc903d.jpg" width="500" height="375" alt="NIN Concert" /></a></p>
 R and I went to see <a href="http://en.wikipedia.org/wiki/Nine_Inch_Nails">Nine Inch Nails</a> on their "<a href="http://tour.nin.com/">Lights in the Sky</a>" tour last night at the Oracle Arena in Oakland. It was a phenomenal show. R has been to a lot more concerts over the last twenty or so years than I have but this one topped any that either of us have seen for presentation. As science fiction author, Peter Watts, <a href="http://rifters.com/real/2008/08/reznor-and-singularity.html">reported a month ago</a>, the light show that they did with the show was amazing. The engineer in me wanted to know what it was made out of but they had a screen behind the band and one that lowered in front of the band (and was moved away at times) that seemed to be a fully addressable light emitting array of some sort. When it wasn't on, it was translucent, which allowed them to do all sorts of combination effects if the band was between the screens, in front of one only, or in front of both. It is pretty hard to describe but the combination effects for creating, at one point, landscapes around the band and, another, shimmering curtains of static with holes where band members were (all moving in real time) was really overwhelming.

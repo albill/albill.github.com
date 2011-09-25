@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-08 21:53:59'
 layout: post
-title: More Virtualization
-published: true
-meta: 
-  ljID: "2719"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _utw_tags_0: no tags
-tags: 
-- Mozilla
-type: post
+slug: more-virtualization
 status: publish
+title: More Virtualization
+wordpress_id: '1802'
+categories:
+- Mozilla
 ---
 I did manage to get all but one of our virtual machines finished for MoCo QA in the last week and up to where local QA can get them. Right now, we are using both Parallels and VMWare but sooner or later we'll have to standardize on one or the other.
 

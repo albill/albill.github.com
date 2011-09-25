@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-18 04:00:00'
 layout: post
+slug: fire-class-and-rituals
+status: publish
 title: Fire Class and Rituals
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '853'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Sometimes I wonder if I'm really cut out to be a public performer. I'm a decent ritualist and do public rites with both my group and with others on occasion but it isn't the same as a general performance piece.
 

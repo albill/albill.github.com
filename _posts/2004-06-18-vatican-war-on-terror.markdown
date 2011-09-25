@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-18 20:54:38'
 layout: post
-title: Vatican War on Terror!
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: vatican-war-on-terror
 status: publish
+title: Vatican War on Terror!
+wordpress_id: '147'
+categories:
+- Spirituality
 ---
 Well, I guess my former co-religionists are finally out to get me. heh.
 

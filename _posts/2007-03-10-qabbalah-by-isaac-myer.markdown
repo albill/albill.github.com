@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-03-10 23:18:56'
 layout: post
+slug: qabbalah-by-isaac-myer
+status: publish
 title: Qabbalah by Isaac Myer?
-published: true
-meta: 
-  ljID: "2414"
-tags: 
+wordpress_id: '1559'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 For my thesis work, I've come across a book (well, actually, I've had it for some time but...) by one Isaac Myer, LL. B. It is called :
 <h2 align="center">Qabbalah</h2>

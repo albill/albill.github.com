@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-28 21:00:24'
 layout: post
-title: Toys
-published: true
-meta: 
-  ljID: "2384"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: toys
 status: publish
+title: Toys
+wordpress_id: '1540'
+categories:
+- Buddhism
 ---
 The Japanese will make a cute little plastic toy out of anything.
 

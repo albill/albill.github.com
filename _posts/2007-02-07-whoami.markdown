@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-02-07 00:56:35'
 layout: post
+slug: whoami
+status: publish
 title: whoami?
-published: true
-meta: 
-  ljID: "2390"
-tags: 
+wordpress_id: '1545'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 Like a koan, I hear "whoami? whoami? whoami?" This is a question that reoccurs in my life. I must assume that is reoccurs for all of us - that it is a universal or I hope it is...
 

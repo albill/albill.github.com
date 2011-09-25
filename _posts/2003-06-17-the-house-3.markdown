@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-17 03:04:00'
 layout: post
-title: The House
-published: true
-meta: 
-  ljID: "2472"
-tags: 
-- Daily Life
-type: post
+slug: the-house-3
 status: publish
+title: The House
+wordpress_id: '1609'
+categories:
+- Daily Life
 ---
 So, the house has apparantly passed the appraisal (cross fingers here because I trust my mortgage broker as far as I can drop-kick him) and the paperwork is going to underwriting. This means that we should be able to sign ze papers by the end of the week.
 

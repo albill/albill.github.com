@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-15 00:18:37'
 layout: post
-title: Ho Hum, is it that time again?
-published: true
-meta: 
-  ljID: "2691"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: ho-hum-is-it-that-time-again
 status: publish
+title: Ho Hum, is it that time again?
+wordpress_id: '1775'
+categories:
+- Daily Life
 ---
 I'm sitting here about to go to bed and writing an e-mail and the house does this little creak and twitch. The bookcase next to me makes a little sound.
 

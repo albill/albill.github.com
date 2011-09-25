@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-20 20:01:00'
 layout: post
-title: Stage One Complete
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: stage-one-complete
 status: publish
+title: Stage One Complete
+wordpress_id: '889'
+categories:
+- Daily Life
 ---
 Well, stage one of my move is complete. I'm sitting in a 90% empty apartment with my cats right now. People started assembling at 9:30 but we didn't really get going until 10:15 or so. I had a few no shows but brought his wife and things worked. It took us about an hour to pack the truck and an hour to unpack it. After giving everyone a tour of the new house, I took them to Red Robin for chow.
 

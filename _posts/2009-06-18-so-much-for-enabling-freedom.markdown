@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-06-18 17:21:26'
 layout: post
+slug: so-much-for-enabling-freedom
+status: publish
 title: So much for enabling freedom!
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3548"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2809'
+categories:
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Well, my <a href="http://www.openbuddha.com/2009/06/17/enabling-freedom-and-openness-with-mozilla/">last post</a> was a bust for any response. It was syndicated to <a href="http://planet.mozilla.org">Planet Mozilla</a>, has had a few hundred views, and the only comment on it is my own (posting what a friend of mine on Facebook said).
 

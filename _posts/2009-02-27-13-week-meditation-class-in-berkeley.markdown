@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-27 20:29:48'
 layout: post
+slug: 13-week-meditation-class-in-berkeley
+status: publish
 title: 13 Week Meditation Class in Berkeley
-published: true
-meta: 
-  ljID: "3486"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2700'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Rev. Keisho, the Tendai priest who lives on Cobb Mountain (see <a href="http://www.caltendai.org">http://www.caltendai.org</a>) is going to be teaching a class on shikan meditation for 13 weeks in Berkeley. This will start next Thursday, March 5 and will run from 7:00 to 9:00 PM.
 

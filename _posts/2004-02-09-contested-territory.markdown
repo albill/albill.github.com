@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-02-09 20:26:00'
 layout: post
-title: Contested Territory
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Science Fiction
-type: post
+slug: contested-territory
 status: publish
+title: Contested Territory
+wordpress_id: '44'
+categories:
+- Science Fiction
 ---
 A little something that I found online while searching on Bruce Sterling's Green Days in Brunei, my favorite story by him. One thing most people don't know is that Tom Maddox was (is?) a college professor not too far from where I live. Back in the day, I used to chat with him online. 
 

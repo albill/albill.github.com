@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-12-19 12:07:30'
 layout: post
+slug: one-day-retreat-at-empty-gate
+status: publish
 title: One Day Retreat at Empty Gate
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3717"
-tags: 
+wordpress_id: '3370'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5272457861/" title="Empty Gate Zen Center Shrine - Old School by albill, on Flickr"><img src="http://farm6.static.flickr.com/5282/5272457861_f8afbf553a.jpg" border="0" width="500" height="500" alt="Empty Gate Zen Center Shrine - Old School" /></a></p>
 Yesterday, I attended a one day retreat at <a href="http://emptygatezen.com">Empty Gate Zen Center</a> in Berkeley, California. I knew it was somewhere very close by to me but had never gone looking in detail. It turns out that it is probably a mile and a half away (which, in the concentrated urbanity of the Bay Area, is further than some places but also shamefully close). Empty Gate is one of the oldest centers operated by the <a href="http://www.kwanumzen.org">Kwan Um School of Zen</a>, the Korean Zen organization founded by Zen Master Sŭngsan. The <a href="http://fivemountain.org">Five Mountain Sangha</a>, in which I am ordained, is actually ultimately derived from Sŭngsan and the Kwan U School as well. Our practices and general way of doing things are very close to theirs, making it a good fit for me, potentially. Because of both this and the fact that the FMS is physically dispersed and has no regular sitting group locally, I wanted to visit Empty Gate since I would like to find someone to sit with besides my wife and/or cats. The lack of a local supportive community has been an ongoing frustration for me during the last few years.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-03 01:36:08'
 layout: post
-title: Pollux
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: pollux
 status: publish
+title: Pollux
+wordpress_id: '1153'
+categories:
+- Daily Life
 ---
 Tonight, I had my cat put down.
 

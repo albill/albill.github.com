@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-08-03 02:45:53'
 layout: post
-title: Burning Man Preparations
-published: true
-meta: 
-  ljID: "3345"
-tags: 
-- Daily Life
-type: post
+slug: burning-man-preparations
 status: publish
+title: Burning Man Preparations
+wordpress_id: '2351'
+categories:
+- Daily Life
 ---
 Other than a day of recovery from the Mozilla Summit and travels around it, today was a day for Burning Man preparation work. 
 

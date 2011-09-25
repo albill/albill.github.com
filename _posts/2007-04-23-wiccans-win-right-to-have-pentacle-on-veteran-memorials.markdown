@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-23 11:32:17'
 layout: post
+slug: wiccans-win-right-to-have-pentacle-on-veteran-memorials
+status: publish
 title: Wiccans Win Right to Have Pentacle on Veteran Memorials
-published: true
-meta: 
-  ljID: "2541"
-tags: 
+wordpress_id: '1675'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 This was just sent to me. It seems to be breaking news but is unsourced since I don't know where this is copied from...
 <blockquote>

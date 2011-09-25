@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-19 15:16:00'
 layout: post
-title: Saturday is my move day...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: saturday-is-my-move-day
 status: publish
+title: Saturday is my move day...
+wordpress_id: '887'
+categories:
+- Daily Life
 ---
 I have just confirmed the truck for tomorrow morning. I'm picking up the keys to the house in less than an house...
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-18 00:47:00'
 layout: post
-title: Questioning Urbanity
-published: true
-meta: 
-  ljID: "2941"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: questioning-urbanity
 status: publish
+title: Questioning Urbanity
+wordpress_id: '2018'
+categories:
+- Daily Life
 ---
 Yes, it does seem to be the night of blog posts here. It's feast or famine, folks. I'm also awake at 12:30 AM having had coffee at 9:00 PM.
 

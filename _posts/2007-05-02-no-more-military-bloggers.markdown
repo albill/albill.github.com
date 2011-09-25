@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-02 10:42:12'
 layout: post
-title: No More Military Bloggers?
-published: true
-meta: 
-  ljID: "2555"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: no-more-military-bloggers
 status: publish
+title: No More Military Bloggers?
+wordpress_id: '1685'
+categories:
+- Society
 ---
 The United States Army, in its infinite wisdom, has decided that unfiltered discussions by soldiers is a bad thing. Because of this, new directives have come down that may effective kill military blogging (and potentially e-mail as well) by requiring troops to get the approval of their commander before any post or, potentially, any other electronic communication.
 

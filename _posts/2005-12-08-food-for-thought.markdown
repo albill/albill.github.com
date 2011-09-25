@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-08 12:43:13'
 layout: post
-title: Food for Thought?
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: food-for-thought
 status: publish
+title: Food for Thought?
+wordpress_id: '622'
+categories:
+- Daily Life
 ---
 From <a href="http://food.oregonstate.edu/ref/culture/taboo_allen.html">http://food.oregonstate.edu/ref/culture/taboo_allen.html</a> on the taste of human flesh from an educated, san, modern man who ate it specifically to see what it tasted like:
 <blockquote>"I took a big swallow of wine, a helping of rice, and thoughtfully ate half the steak. And as I ate, I knew with increasing certainty what it was like. It was like good, fully developed veal, not young, but not yet beef. It was very definitely like that, and it was not like any other meat I had ever tasted. It was so nearly like good, fully developed veal that I think no person with a palate of ordinary, normal sensitiveness could distinguish it from veal. It was mild, good meat with no other sharply defined or highly characteristic taste such as for instance, goat, high game, and pork have. The steak was slightly tougher than prime veal, a little stringy, but not too tough or stringy to be agreeably edible. The roast, from which I cut and ate a central slice, was tender, and in color, texture, smell as well as taste, strengthened my certainty that of all the meats we habitually know, veal is the one meat to which this meat is accurately comparable. As for any other special taste or odor of a sort which would be surprising and make a person who had tasted it not knowing exclaim, 'What is this?' it had absolutely none. And as for the 'long pig' legend, repeated in a thousand stories and recopied in a hundred books, it was totally, completely false.

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-14 00:10:20'
 layout: post
+slug: busy-mozilla-week-and-barcampblock
+status: publish
 title: Busy Mozilla Week and BarCampBlock
-published: true
-meta: 
-  ljID: "2689"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1773'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 This week is a busy week at Mozilla as it is one of our regular "all hands" weeks. This means that the roughly 50% of MoCo staff that doesn't live local to the Bay Area will be visiting all week. We have discussions, presentations, and roundtables every day, all day, with multiple tracks. It also means that instead of telecommuting about half of the week (I usually do so on Tuesdays and Fridays), I'll be making the hour drive in all week as well.
 

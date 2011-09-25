@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-05-20 12:12:14'
 layout: post
+slug: nortd-labs-discusses-the-lasersaur-laster-cutter-at-ace-monster-toys
+status: publish
 title: Nortd Labs discusses the Lasersaur laster cutter at Ace Monster Toys
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3842"
-tags: 
-- Ace Monster Toys
+wordpress_id: '3757'
+categories:
 - Hacking
+- Technology
+tags:
+- Ace Monster Toys
 - laser cutter
 - lasersaur
 - nortd labs
-- Technology
-type: post
-status: publish
 ---
 <a href="http://www.nortd.com">Nortd Labs</a> is in the Bay Area for the <a href="http://makerfaire.com/">Maker Faire</a> this weekend. They are the creators of the <a href="http://labs.nortd.com/lasersaur/">Lasersaur</a>, which is an open source laser cutter. They've been working on this design for the last year and have kits out to their initial builders now. They'll be incorporating feedback as they publish all of their designs. They came by <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> to talk about the project last night.
 

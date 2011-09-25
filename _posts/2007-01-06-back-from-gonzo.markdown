@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-06 01:06:19'
 layout: post
+slug: back-from-gonzo
+status: publish
 title: Back from Gonzo
-published: true
-meta: 
-  ljID: "2356"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1511'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/347499603/"><img width="500" height="375" alt="Gonzo 1" src="http://farm1.static.flickr.com/146/347499603_cb39bd136b.jpg" /></a></p>
 We just got back from seeing "<a href="http://www.gonzoduke.com/">Gonzo: A Brutal Chrysalis</a>" in San Francisco this evening.

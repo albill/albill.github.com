@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-30 21:26:44'
 layout: post
-title: Scary Freemasons
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: scary-freemasons
 status: publish
+title: Scary Freemasons
+wordpress_id: '302'
+categories:
+- Daily Life
 ---
 <p>I finally got around to getting my friend, Ken, to sign my Masonic 
 application. He&#39;s a member of the lodge I&#39;m applying to and I needed him or 

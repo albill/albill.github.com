@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-14 14:00:01'
 layout: post
+slug: buddhism-in-crisis-in-japan
+status: publish
 title: Buddhism in Crisis in Japan
-published: true
-meta: 
-  ljID: "3321"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2266'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/1495209868/" title="DSCF1494.JPG by albill, on Flickr"><img src="http://farm3.static.flickr.com/2173/1495209868_08db477d29.jpg" width="500" height="375" alt="DSCF1494.JPG" /></a></p>
 There is an <a href="http://www.nytimes.com/2008/07/14/world/asia/14japan.html">article</a> in <strong>The New York Times</strong> today on whether or not Buddhism is dying out in Japan. Buddhism has, especially in recent decades, become strongly associated with the funeral industry in Japan, something that may seem very foreign to Western converts to Buddhism.

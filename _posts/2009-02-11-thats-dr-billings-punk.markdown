@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-11 22:51:36'
 layout: post
+slug: thats-dr-billings-punk
+status: publish
 title: That's "Dr. Billings," punk!
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3473"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2671'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I received my final acceptance letter for the <a href="http://www.gtu.edu">Graduate Theological Union</a> today for their PhD program. I am accepted to enroll for Fall 2009. W00t!
 

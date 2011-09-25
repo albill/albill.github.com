@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-11 00:18:37'
 layout: post
+slug: has-eido-shimano-really-resigned
+status: publish
 title: Has Eido Shimano Really Resigned?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3683"
-tags: 
+wordpress_id: '3277'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 There is apparently some questions circulating within the Zen teaching community about whether Eido Shimano has really resigned from his position at the Zen Studies Society, as the letter posted by <a href="http://www.tricycle.com/blog/?p=2271">Tricycle claims</a> (which I <a href="http://www.openbuddha.com/2010/09/08/eido-shimano-steps-down-as-abbot-of-the-zen-studies-society/">posted about</a> the other day), or if it is all just a kind of verbal bait and switch to distract people from the fact that nothing has changed.
 

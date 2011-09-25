@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-30 14:41:43'
 layout: post
-title: Masonry Article
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: masonry-article
 status: publish
+title: Masonry Article
+wordpress_id: '541'
+categories:
+- Spirituality
 ---
 <p>This is a decent article on Freemasonry in, of all thing, U.S. News and World Reports. Weird. </p>
 

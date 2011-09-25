@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2004-02-24 00:33:00'
 layout: post
+slug: giordano-bruno-and-weekends
+status: publish
 title: Giordano Bruno and Weekends
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '49'
+categories:
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 I completed <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0060186267/">The Pope and the Heretic</a></strong> by Michael White this evening. This is a fairly short (180 or so pages) book on the Inquisition trials of Giordano Bruno and the events leading up to it. If you don't know who Giordano Bruno is, the best two books that I can suggest on him are <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0226950077/">Giordano Bruno and the Hermetic Tradition</a></strong> and <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0226950018/">The Art of Memory</a></strong>, both by Dame Francis Yates. These books are biased towards the more esoteric end of his thinking as a great promulgator of the Art of Memory (the <a href="http://www.google.com/search?num=30&hl=en&ie=UTF-8&oe=UTF-8&safe=off&q=Ars+Memorativa&spell=1http://www.google.com/search?num=30&hl=en&ie=UTF-8&oe=UTF-8&safe=off&q=Ars+Memorativa&spell=1">Ars Memorativa</a>) and as a Hermetic synthesizer of both Catholicism and previous pagan traditions. After he was burned at the stake (without repenting of his thoughts and writings), he was held as a martyr for such diverse groups as socialists, scientists, humanists, free-thinkers of various sorts and even magicians. A man for all men.
 

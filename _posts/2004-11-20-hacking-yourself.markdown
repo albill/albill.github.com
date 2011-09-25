@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-20 16:03:56'
 layout: post
-title: Hacking Yourself
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: hacking-yourself
 status: publish
+title: Hacking Yourself
+wordpress_id: '289'
+categories:
+- Daily Life
 ---
 I found an excellent essay on "Hacking Yourself" online today.
 <blockquote>You don't exist.

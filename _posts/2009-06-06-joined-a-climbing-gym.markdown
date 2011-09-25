@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2009-06-06 12:04:04'
 layout: post
-title: Joined a Climbing Gym
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3541"
-tags: 
-- Daily Life
-type: post
+slug: joined-a-climbing-gym
 status: publish
+title: Joined a Climbing Gym
+wordpress_id: '2800'
+categories:
+- Daily Life
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3600663421/" title="Berkeley Ironworks middle pillar"><img src="http://farm4.static.flickr.com/3329/3600663421_8cef9750b9.jpg" width="333" height="500" alt="Berkeley Ironworks middle pillar" /></a></div>
 R and I have been exploring various fitness activities lately. I've been on a bit of a fitness kick since my multi-month illness this last Winter. Last week, we joined <a href="http://www.berkeleyironworks.com">Berkeley Ironworks</a>. Ironworks is a climbing gym that happens to be about eight blocks from our house. Basically, they have vertical faces to climb, many with a variety of overhangs, and these have various sizes and shapes of faux rock attachments screwed down into them to make a path. They vary from little round nubs, a little large than a quarter, to scallop shapes with curves the size of two fists. A team at the gym changes a selection of the paths on a continuing basis so, over the course of a couple of months, all of the paths change. As an additional benefit, the gym also has free weights, weight machines, various cardio machines, and a selection of ongoing classes, such as yoga. All in all, it is a pretty good deal.

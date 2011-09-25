@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-07 04:49:56'
 layout: post
-title: Venice - First Day
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: venice-first-day
 status: publish
+title: Venice - First Day
+wordpress_id: '253'
+categories:
+- Daily Life
 ---
 We arrived in Venice on the train around 11:00 am. It's hard to describe Venice, even having read about it quite a bit. It really is out of the middle of what seems to be a giant lake or small sea. The train goes on the kind of causeway that one thinks of seeing with pictures of Key West. You're literally going on a little road and train track with water on either side and nothing else. 
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-03-17 16:25:26'
 layout: post
+slug: not-a-lot-to-report-this-week
+status: publish
 title: Not a lot to report this week...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '714'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I don't have a lot to report this week. My daughter turns ten next week and his coming over tonight to spend the night with us.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-02 16:05:31'
 layout: post
-title: China Mieville Interview
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: china-mieville-interview
 status: publish
+title: China Mieville Interview
+wordpress_id: '437'
+categories:
+- Notable People
 ---
 There is an interesting China Mieville interview up.
 

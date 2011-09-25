@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-02-14 17:56:19'
 layout: post
-title: Wikipedia Extraction
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: wikipedia-extraction
 status: publish
+title: Wikipedia Extraction
+wordpress_id: '1547'
+categories:
+- Technology
 ---
 A project that I am working on (to be announced later) would benefit from my extracting a chunk of articles from Wikipedia. The license on the project page where this stuff would appear matches Wikipedia's GPL one so, as far as I know, I simply need to attribute each and every article to its original source article on Wikipedia.
 

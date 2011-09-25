@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-10-11 07:25:50'
 layout: post
+slug: notes-from-underground
+status: publish
 title: Notes from Underground
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '571'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>My current focus is getting caught up in school right now. I haven't been reading blogs as much because of this.</p>
 

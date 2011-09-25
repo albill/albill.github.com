@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-13 23:12:01'
 layout: post
-title: Microsoft Claims That Linux Violates 235 Patents
-published: true
-meta: 
-  ljID: "2572"
-tags: 
-- Technology
-type: post
+slug: microsoft-claims-that-linux-violates-235-patents
 status: publish
+title: Microsoft Claims That Linux Violates 235 Patents
+wordpress_id: '1695'
+categories:
+- Technology
 ---
 I just found <a href="http://money.cnn.com/magazines/fortune/fortune_archive/2007/05/28/100033867/index.htm?source=yahoo_quote">this article</a> from Fortune over at CNN Money. It will be in the May 28, 2007 issue of Fortune magazine. Microsoft is claiming that Linux violates 235 of its patents and it is investigating options for suing companies that use open source software.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-19 15:27:46'
 layout: post
-title: Yo Yo, hey baby!
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: yo-yo-hey-baby
 status: publish
+title: Yo Yo, hey baby!
+wordpress_id: '205'
+categories:
+- Humor
 ---
 <p><p>The kinds of things my friends send me make me wonder about my decision making process sometimes but then I usually figure that we get the friends that we deserve...</p>
 <p><a href="http://shop.store.yahoo.com/brandsonsale-store/51104-costumes.html">http://shop.store.yahoo.com/brandsonsale-s<wbr />tore/51104-costumes.html</a></p>

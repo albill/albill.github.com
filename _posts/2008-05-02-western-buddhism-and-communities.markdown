@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2008-05-02 01:29:09'
 layout: post
+slug: western-buddhism-and-communities
+status: publish
 title: Western Buddhism and Communities
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3238"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2215'
+categories:
 - Buddhism
-- e-sangha
 - Society
 - Spirituality
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 This evening, my mind returns to the question of a Western Buddhism and the way things can or should develop for Buddhism in the Western nations.
 

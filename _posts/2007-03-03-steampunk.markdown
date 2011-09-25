@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-03-03 02:01:40'
 layout: post
+slug: steampunk
+status: publish
 title: Steampunk
-published: true
-meta: 
-  ljID: "2405"
-tags: 
+wordpress_id: '1554'
+categories:
 - Books
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 I apologize for not posting much. I've been busy shipping the next version of the PCTV software that I work on and, in my free time, either spending time with the missus, reading for my thesis, or following my meditative practice. I haven't felt too inspired by my recent schedule to post much as I'm usually pretty mentally exhausted at the end of the day.
 

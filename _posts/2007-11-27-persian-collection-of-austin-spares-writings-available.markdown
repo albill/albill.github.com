@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-27 12:43:51'
 layout: post
+slug: persian-collection-of-austin-spares-writings-available
+status: publish
 title: Persian Collection of Austin Spare's Writings Available
-published: true
-meta: 
-  ljID: "3043"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2121'
+categories:
 - Books
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/persian-spare.png" alt="Cover Art" align="right" border="1" height="320" hspace="10" vspace="5" width="209" />I was contacted yesterday by the translator, Sepand, of a Persian (Farsi) collection of the writings of Austin Osman Spare. Sepand has released this translation under a Creative Commons license, which I appreciate. He's made a <a href="http://www.lulu.com/content/1460497">hardcover of it available</a> for purchase through lulu for those that prefer a print copy.
 

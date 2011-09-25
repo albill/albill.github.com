@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2010-09-28 21:57:26'
 layout: post
+slug: zero-history
+status: publish
 title: Zero History
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3697"
-tags: 
+wordpress_id: '3317'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 While on my current trip in Bali, I've had the chance to do a little reading. One of the first things up on my list of books was the new William Gibson novel, Zero History. This is the follow-up to Spook Country from a few years ago, which, itself, was an indirect sequel to Pattern Recognition. Zero History completes a trilogy of sorts that is near future (or even recent past) contemporary fiction with a science fictional tone. All three novels feature the figure of "Hubertus Bigend," the maverick (and seemingly batshit crazy) businessman who owns a company called, "Blue Ant." Bigend is never a viewpoint character and is, in fact, more of a force of nature, as one of our protagonists in the last two novels, Hollis Henry, characterizes him.
 

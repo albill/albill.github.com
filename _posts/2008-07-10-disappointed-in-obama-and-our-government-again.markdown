@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-10 01:39:41'
 layout: post
+slug: disappointed-in-obama-and-our-government-again
+status: publish
 title: Disappointed in Obama and our Government (Again)
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3317"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2263'
+categories:
 - Notable People
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2655437344/" title="EpicFail02 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3162/2655437344_c574e97280.jpg" width="500" height="312" alt="EpicFail02" /></a></p>
 As people probably know at this point, the United States senate passed the bill today overhauling the surveillance laws in this country. The vote was 69 to 28, which sends it to the White House to be put into law. This bill gave the telephone companies immunity in the illegal wiretapping they had done at the behest of President Bush. While this bill was expected to be close, I had hoped that it wouldn't pass and that the telcos wouldn't be given immunity for spying on Americans, spying which they knew was illegal at the time.

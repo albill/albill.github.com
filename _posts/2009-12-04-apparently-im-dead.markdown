@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-12-04 16:38:18'
 layout: post
+slug: apparently-im-dead
+status: publish
 title: Apparently, I'm (un)dead!
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3600"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2930'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 My wife and I are in the process of refinancing our mortgage. This is a slow process involving a bunch of paper. We don't have a subprime loan or anything similar but are taking advantage of an act of congress and interest rates below 5% to save some money. 
 

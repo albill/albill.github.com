@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-14 08:13:13'
 layout: post
+slug: japanese-journal-of-religious-studies
+status: publish
 title: Japanese Journal of Religious Studies
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '572'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 <div class="bodyl">Here is a list of articles from the Japanese Journal of Religious Studies that a yogi friend of mine sent to me. I've read the one on &quot;Fetal Buddhism&quot; before. Interesting stuff. <p>The Myth of Zen in the Art of Archery<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/586.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/586.pdf</a></p><p>Dragon (Nagas) of Mt Muro (aka Meru)<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/489.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/489.pdf</a></p><p>Fetal Buddhism<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/485.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/485.pdf</a></p><p>Female Corpse in Japanese Buddhist paintings<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/520.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/520.pdf</a></p><p>Healing and Esoteric Empowerment<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/709.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/709.pdf</a></p><p>Pearl in the shrine:&nbsp; Jewels, Sovereigns and Naga-Dragons<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/617.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/617.pdf</a></p><p>Japanese Supernatural Creatures/Demons:<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/153.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/153.pdf</a></p><p>The cave and womb world <br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/172.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/172.pdf</a></p><p>Menstruation sutra<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/175.pdf">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/pdf/175.pdf</a></p><p>Full list of all titles:<br /><a href="http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/jjrs_cumulative_list.htm">http://www.ic.nanzan-u.ac.jp/SHUBUNKEN/publications/jjrs/jjrs_cumulative_list.htm</a></p></div>

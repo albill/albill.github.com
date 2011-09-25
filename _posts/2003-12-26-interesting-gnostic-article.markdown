@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-26 14:02:00'
 layout: post
-title: Interesting Gnostic Article
-published: true
-meta: 
-  ljID: "3014"
-tags: 
-- Daily Life
-type: post
+slug: interesting-gnostic-article
 status: publish
+title: Interesting Gnostic Article
+wordpress_id: '2094'
+categories:
+- Daily Life
 ---
 This is for all of the Ken Wilber fans like myself:
 

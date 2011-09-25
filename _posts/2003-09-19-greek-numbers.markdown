@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-19 14:33:00'
 layout: post
-title: Greek Numbers
-published: true
-meta: 
-  ljID: "2813"
-tags: 
-- Daily Life
-type: post
+slug: greek-numbers
 status: publish
+title: Greek Numbers
+wordpress_id: '1890'
+categories:
+- Daily Life
 ---
 <i>(via <lj user="muelos">)</i>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-10 15:39:00'
 layout: post
-title: Army Times calls for Rumsfield's Head
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: army-times-calls-for-rumsfields-head
 status: publish
+title: Army Times calls for Rumsfield's Head
+wordpress_id: '102'
+categories:
+- Society
 ---
 <P>You know it is bad when the unofficial paper of the Army wants your ass.</FONT></P><P><A href="http://www.armytimes.com/story.php?f=1-292925-2903288.php">
 http://www.armytimes.com/story.php?f=1-292925-2903288.php</A></P><P>&nbsp;</P><B>Editorial: A failure of leadership at the highest levels</B><BR><BR></FONT>

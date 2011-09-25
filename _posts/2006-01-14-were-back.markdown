@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-14 19:07:23'
 layout: post
-title: We're Back
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: were-back
 status: publish
+title: We're Back
+wordpress_id: '666'
+categories:
+- Daily Life
 ---
 R and I flew back on Alaska Airlines this afternoon. We got home about 30  minutes ago. You know it is sad when the weather is better in January in Denver  than in Seattle. It's cold here.
 

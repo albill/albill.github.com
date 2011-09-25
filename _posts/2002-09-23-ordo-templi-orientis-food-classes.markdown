@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-09-23 01:58:00'
 layout: post
+slug: ordo-templi-orientis-food-classes
+status: publish
 title: Ordo Templi Orientis, Food, Classes
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '959'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I attended Gnostic Mass at Horizon Oasis today. We were there to see our friend  baptized, another fellow confirmed, a third person ordained a deacon and  first celebration of the mass at Priestess. All went well and Brandy did a most excellent job. I'm glad to see the community doing things of value and people so happy.
 

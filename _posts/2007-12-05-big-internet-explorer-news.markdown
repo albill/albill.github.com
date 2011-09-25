@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-05 17:44:19'
 layout: post
+slug: big-internet-explorer-news
+status: publish
 title: Big Internet Explorer News!!
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2129'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <img src="http://farm1.static.flickr.com/15/21374075_851fa06472_m.jpg" border="1" align="right">In his first post since October of 2006, Dean Hachamovitch has come onto the <a href="http://blogs.msdn.com/ie/">IEBlog</a> to <a href="http://blogs.msdn.com/ie/archive/2007/12/05/internet-explorer-8.aspx">announce the big news</a> in regards to Internet Explorer. 
 

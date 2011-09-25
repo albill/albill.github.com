@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-24 07:04:11'
 layout: post
-title: Kamakura and Shinjuku
-published: true
-meta: 
-  ljID: "2875"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: kamakura-and-shinjuku
 status: publish
+title: Kamakura and Shinjuku
+wordpress_id: '1953'
+categories:
+- Daily Life
 ---
 I have little time to post as it is late here and I am beat. We have to be up early tomorrow to go see the Imperial Palace here in Tokyo, check out of our hotel and then take the bullet train to Kyoto.
 

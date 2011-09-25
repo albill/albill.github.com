@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-20 13:40:17'
 layout: post
+slug: jedi-and-the-way
+status: publish
 title: Jedi and the Way
-published: true
-meta: 
-  ljID: "2584"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1705'
+categories:
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 I know that for many of my particular generation in America, <strong>Star Wars</strong> was a seminal film for our childhoods. I remember that film the way that I remembered none before it and I followed the unfolding saga of the first three films with the earnestness of a child (and a geek). In retrospect, having watched them again fairly recently, they are rather ham-fisted affairs at times and not always the glorious things that my child eyes saw but I see them with relatively jaded adult eyes now, knowing things that only adults know and having been abraded by the winds of change for years now. Everything is fresh and potentially wonderful (or horrible) as a child but children live very much in the moment as well, with little history to weigh on them and a lack of understanding of time that comes with the weight of years.
 

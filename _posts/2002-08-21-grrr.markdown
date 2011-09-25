@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-21 21:23:00'
 layout: post
-title: Grrr!
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: grrr
 status: publish
+title: Grrr!
+wordpress_id: '921'
+categories:
+- Technology
 ---
 All I want to do is one thing: I want to take audio input and record it into a figgin' mp3 file. I don't want to pay for the software to do this...
 

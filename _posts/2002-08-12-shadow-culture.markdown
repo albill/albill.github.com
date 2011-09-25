@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-12 19:58:00'
 layout: post
-title: Shadow Culture
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: shadow-culture
 status: publish
+title: Shadow Culture
+wordpress_id: '911'
+categories:
+- Society
 ---
 This is from <a href="http://www.adbusters.org/magazine/43/articles/shadow_culture.html">http://www.adbusters.org/magazine/43/articles/shadow_culture.html</a>. While I do not agree with all of it (or exemplify it at least since I own a newish car and such), it strikes a chord with me just as Daniel Quinn's work does.
 

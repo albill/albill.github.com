@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-12-11 01:08:48'
 layout: post
-title: The Hollydaze
-published: true
-meta: 
-  ljID: "3071"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: the-hollydaze
 status: publish
+title: The Hollydaze
+wordpress_id: '2133'
+categories:
+- Humor
 ---
 We are in that special time of the year again. No, I'm not contemplating the futility of existence and my own death (<a href="http://en.wikipedia.org/wiki/Rohatsu">Rohatsu</a> was this last weekend). I'm speaking of the high holy days of consumer shopping.
 

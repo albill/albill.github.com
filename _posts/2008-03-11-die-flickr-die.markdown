@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-11 22:30:22'
 layout: post
+slug: die-flickr-die
+status: publish
 title: Die, Flickr, Die.
-published: true
-meta: 
-  ljID: "3182"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:75:"http://www.matrixmasters.net/archive/ErikDavis/129-Davis-Playalogue2007.mp3";s:5:"title";s:49:"Erik Davis on the Imagination and the Environment";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"40466931";s:8:"duration";s:5:"96:18";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '2185'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 I was prepared to write a suitably entertaining (or at least educational) entry about the lecture I attended this evening at the Institute of Buddhist Studies in Berkeley. Unfortunately, in the midst of uploading photos to Flickr, the upload failed. 
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-30 20:18:00'
 layout: post
-title: The Weight of Learning
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-weight-of-learning
 status: publish
+title: The Weight of Learning
+wordpress_id: '1329'
+categories:
+- Daily Life
 ---
 So, I have about 26 hours before my flight to London and then to Athens leaves...I&apos;m actually in the office today for an hour or two because a brother sent me a file of practices and translations of some magical materials (Buddhist) that I want to read while I&apos;m away. I also realized that I have library books on Neoplatonism that I should return before leaving the country. I just photocopied the book on Harran and the one on Reading Neoplatonism. 
 

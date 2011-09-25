@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-05-17 12:31:46'
 layout: post
+slug: packing-and-friends
+status: publish
 title: Packing and Friends
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1089'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 The packing never seems  to end. I went and bought 25 more boxes because I have used about 20 for packing my books. My library is mostly clear now. Pretty soon, I'll need to clear out the computer area of stuff. I plan on driving my machines down as I don't trust them in a shipping crate. I'll also be driving down the Tibetan Thangkas that I have and some of the other art.
 

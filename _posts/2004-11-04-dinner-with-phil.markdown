@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-04 23:26:59'
 layout: post
-title: Dinner with Phil
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dinner-with-phil
 status: publish
+title: Dinner with Phil
+wordpress_id: '278'
+categories:
+- Daily Life
 ---
 <p>R and I just got back from spending the evening out with our friend, Phil. I 
 always find talking to him and spending time in his presence to be both 

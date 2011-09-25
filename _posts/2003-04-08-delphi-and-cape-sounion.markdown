@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-08 21:09:00'
 layout: post
-title: Delphi and Cape Sounion
-published: true
-meta: 
-  ljID: "2227"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: delphi-and-cape-sounion
 status: publish
+title: Delphi and Cape Sounion
+wordpress_id: '1347'
+categories:
+- Daily Life
 ---
 Well, we landed in Piraeus, next to Athens, early this morning. We took a the airport bus back through Athens reasoning that cars would be available at 6:30 AM there (unlike Piraeus). At the airport, we rented a little Hyundai for far too much money. They have a lot of cute, efficient cars here (one called the "smart" comes to mind) but they are all stick. Neither R or I can drive anything but an automatic so we had to take what was available for the price it was available...
 

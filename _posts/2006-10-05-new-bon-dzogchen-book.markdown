@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-05 00:57:17'
 layout: post
+slug: new-bon-dzogchen-book
+status: publish
 title: New Bon Dzogchen Book
-published: true
-meta: 
-  ljID: "2611"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1219'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/bon-dzogchen.jpg" align="right" border="1" hspace="10" vspace="5" /> I am surprised that no one has mentioned this at all as I would think some of the usual suspects that I know would talk about this quite a bit.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-17 01:51:00'
 layout: post
-title: Cafe Press Does Self-Publishing!
-published: true
-meta: 
-  ljID: "2498"
-tags: 
-- Daily Life
-type: post
+slug: cafe-press-does-self-publishing
 status: publish
+title: Cafe Press Does Self-Publishing!
+wordpress_id: '1636'
+categories:
+- Daily Life
 ---
 I just saw this on <a href="http://boingboing.net">BoingBoing</a> today.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-18 20:37:20'
 layout: post
+slug: firefox-3-beta-2-is-released
+status: publish
 title: Firefox 3 Beta 2 is released!
-published: true
-meta: 
-  ljID: "3083"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2140'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2122006596/" title="firefox3-beta2 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2266/2122006596_a09cd67e54_m.jpg" width="240" align="right" height="194" hspace="5" vspace="5" alt="firefox3-beta2" border="1" /></a>After a lot of work by everyone in the Mozilla Community, the second beta of Firefox 3 went live just a short while ago (with a robot!).
 

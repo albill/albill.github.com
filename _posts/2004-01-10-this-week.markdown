@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2004-01-10 13:05:00'
 layout: post
+slug: this-week
+status: publish
 title: This week...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '13'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I haven't posted much this week. It's been fairly busy at work but not too bad.
 

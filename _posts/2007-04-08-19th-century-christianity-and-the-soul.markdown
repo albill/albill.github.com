@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-08 20:18:28'
 layout: post
+slug: 19th-century-christianity-and-the-soul
+status: publish
 title: 19th Century Christianity and the Soul
-published: true
-meta: 
-  ljID: "2524"
-tags: 
+wordpress_id: '1659'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 I realized today that I actually don't have any good sources to the traditional Roman Catholic and Church of England views concerning the soul, its nature, the afterlife, etc. especially during the 19th century.
 

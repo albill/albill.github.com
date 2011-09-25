@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2009-09-25 17:12:52'
 layout: post
+slug: academic-frustrations-why-i-am-disheartened-and-where-i-should-be-going
+status: publish
 title: Academic frustrations, why I am disheartened, and where I should be going
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3581"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2860'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I'm attending the big Japanese Buddhism at UC Berkley this weekend. That has been very interesting so far. I had the opportunity to meet Dr. Paul Groner and Dr. Steve Covell, who have both written on Tendai, and talk with them a bit (especially Steve). I also was able to see Ryuichi Abe speak at the opening keynote. All of these are people who have written very good books that I happen to have.
 

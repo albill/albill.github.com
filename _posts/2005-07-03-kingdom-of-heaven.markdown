@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-03 15:21:30'
 layout: post
-title: Kingdom of Heaven
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: kingdom-of-heaven
 status: publish
+title: Kingdom of Heaven
+wordpress_id: '503'
+categories:
+- Daily Life
 ---
 <p>R and I went to see <b>Kingdom of Heaven</b> at the local discount theatre 
 with Denny Sargent and Sophia last night. It&#39;s kind of funny but they are 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-02-17 02:30:48'
 layout: post
-title: Zendos
-published: true
-meta: 
-  ljID: "2398"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: zendos
 status: publish
+title: Zendos
+wordpress_id: '1549'
+categories:
+- Buddhism
 ---
 I was planning on going to the <a href="http://berkeleyzencenter.org/">Berkeley Zen Center</a> in the morning today when, looking through their newsletters and calendar, I realized that they are beginning a three day <a href="http://en.wikipedia.org/wiki/Sesshin">sesshin</a> at 5:00 AM in the morning. Their normal Saturday zazen/kinhin session followed by a lecture and tea is off this weekend.
 

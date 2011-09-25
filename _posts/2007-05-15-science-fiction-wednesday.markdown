@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-05-15 21:17:13'
 layout: post
+slug: science-fiction-wednesday
+status: publish
 title: Science Fiction Wednesday
-published: true
-meta: 
-  ljID: "2578"
-tags: 
+wordpress_id: '1701'
+categories:
 - Daily Life
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 Tomorrow night, R and I will be attending a reading and discussion with Rudy Rucker and Cory Doctorow over in San Francisco. More information is available at <a href="http://www.sfinsf.org/"><strong>SF in SF</strong></a> for those that may wish to attend.
 

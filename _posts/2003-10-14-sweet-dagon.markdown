@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-14 17:32:00'
 layout: post
-title: Sweet Dagon!
-published: true
-meta: 
-  ljID: "2847"
-tags: 
-- Daily Life
-type: post
+slug: sweet-dagon
 status: publish
+title: Sweet Dagon!
+wordpress_id: '1925'
+categories:
+- Daily Life
 ---
 A number of people have posted about this in various places but I couldn&apos;t resist. I&apos;m buying it!!
 <p><a href="http://www.zmangames.com/BFM/BFM.htm">http://www.zmangames.com/BFM/BFM.htm</a></p>

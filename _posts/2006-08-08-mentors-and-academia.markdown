@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-08 00:35:34'
 layout: post
-title: Mentors and Academia
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: mentors-and-academia
 status: publish
+title: Mentors and Academia
+wordpress_id: '1157'
+categories:
+- Academic
 ---
 I have been approved by the head of my Master's program for Advancement to Candidacy. It still needs sign off from two of the deans but that should be a formality at this point. This is the next to the last step for beginning my thesis work.
 

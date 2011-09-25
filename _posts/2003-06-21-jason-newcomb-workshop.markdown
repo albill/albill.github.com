@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-21 03:33:00'
 layout: post
-title: Jason Newcomb Workshop
-published: true
-meta: 
-  ljID: "2478"
-tags: 
-- Daily Life
-type: post
+slug: jason-newcomb-workshop
 status: publish
+title: Jason Newcomb Workshop
+wordpress_id: '1615'
+categories:
+- Daily Life
 ---
 Today was "write your review" day at work. Microsoft has an annual curve-based and "measured against your peers" review process that involves the creation (from a six page word template) of a 14 page review or so (for me). Today was the day where we I got to justify my existance at work. I actually broke down and had two krispy kreme donuts as comfort food.
 

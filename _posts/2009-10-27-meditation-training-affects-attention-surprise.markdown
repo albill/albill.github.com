@@ -1,21 +1,14 @@
---- 
+---
+author: admin
+date: '2009-10-27 11:07:51'
 layout: post
+slug: meditation-training-affects-attention-surprise
+status: publish
 title: Meditation Training Affects Attention (Surprise!)
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: mediation-training-affects-attention-surprise
-  aktt_tweeted: "1"
-  ljID: "3590"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2895'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4050712602/" title="Yongey Mingyur Rinpoche"><img src="http://farm3.static.flickr.com/2672/4050712602_581a74254d_o.jpg" width="500" height="375" alt="Yongey Mingyur Rinpoche" /></a></div>
 A friend forwarded me an article today from the Journal of Neuroscience that discusses experiments that show that meditation can alter brain function and the ability to train attention. This is something that meditators know subjectively but which has not been validated extensively by the scientific community. 

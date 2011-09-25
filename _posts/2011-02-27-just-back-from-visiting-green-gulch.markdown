@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2011-02-27 16:47:12'
 layout: post
+slug: just-back-from-visiting-green-gulch
+status: publish
 title: Just Back from visiting Green Gulch
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3761"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3460'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5483933156/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5056/5483933156_252f1a76c3.jpg" width="500" height="375" alt="" /></a></p>
 

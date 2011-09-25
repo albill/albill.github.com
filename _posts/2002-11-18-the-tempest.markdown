@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-18 17:27:00'
 layout: post
+slug: the-tempest
+status: publish
 title: The Tempest
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1029'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 R and I went to see a production of Shakespeare's <em>The Tempest</em> by the <a href="http://www.seattleshakes.org">Seattle Shakespeare Company</a>. We had a good time and thoroughly enjoyed ourselves at the play. The company's space is a small theatre in the Seattle Center House at the Seattle Center and it probably seats 80 people at best and wasn't completely full. The actors do their production with a fairly minimal set and were probably all of twenty to twenty five feet away from the two of us most of the time. I've never seen the Tempest before (only read most of it at various points) and it was good to see it all. The group is doing a production of Twelfth Night and the Taming of the Shrew during their current season as well.
 

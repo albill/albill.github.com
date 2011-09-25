@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-26 13:05:03'
 layout: post
+slug: oooh-shiny-kitty
+status: publish
 title: Oooh, Shiny Kitty!
-published: true
-meta: 
-  ljID: "2948"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2026'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 My copy of Mac OS X 10.5 aka Leopard ("meow!") showed up this morning at 9:50 AM. The joys of pre-ordering and getting it many hours before everyone else.
 

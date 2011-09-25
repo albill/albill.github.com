@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-11 22:32:53'
 layout: post
+slug: third-day-of-ase-conference
+status: publish
 title: Third Day of ASE Conference
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1109'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 For the third day of the ASE Conference, we only had morning sessions. It started overly early at 8:30 AM. I attended the "Esotericisms Modern and Postmodern" and "Methodological Problems in Esoteric Studies" panels before we closed with the business meeting for the organization.
 

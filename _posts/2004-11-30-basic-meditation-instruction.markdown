@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-30 13:16:16'
 layout: post
-title: Basic Meditation Instruction
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: basic-meditation-instruction
 status: publish
+title: Basic Meditation Instruction
+wordpress_id: '301'
+categories:
+- Spirituality
 ---
 <p>I sent this to my wife, R, today since we're going to start sitting together.</p>
 

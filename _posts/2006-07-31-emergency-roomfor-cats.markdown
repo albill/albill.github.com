@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-31 00:09:22'
 layout: post
-title: Emergency Room...for cats!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: emergency-roomfor-cats
 status: publish
+title: Emergency Room...for cats!
+wordpress_id: '1150'
+categories:
+- Daily Life
 ---
 I noticed that Pollux, my 15 year old blind tomcat, had a scab on his foot the other day. I watched it over the next few days and it looked worse. Yesterday, it looked like an oozing open wound and, when I sniffed it, it smelled bad. Not a good sign.
 

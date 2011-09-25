@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-02-15 03:39:43'
 layout: post
+slug: western-esotericism-work
+status: publish
 title: Western Esotericism Work
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '685'
+categories:
 - Academic
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 As I mentioned in my previous post, I finished my independent study paper for  Western Esotericism on Sunday. I got that turned in via e-mail on Sunday  evening. This paper was summarizing a definition of "Western Esotericism" based  on some of the current scholarship. It largely focused on the work of Antoine  Faivre and Wouter Hanegraaff.
 

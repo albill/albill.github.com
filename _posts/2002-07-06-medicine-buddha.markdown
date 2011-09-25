@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-07-06 19:23:00'
 layout: post
+slug: medicine-buddha
+status: publish
 title: Medicine Buddha
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '880'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 So  went to the Medicine Buddha Empowerment this morning at the Sakya Monastery. I quite enjoyed it and I've begun recognizing some of the faces there at the monastery.
 

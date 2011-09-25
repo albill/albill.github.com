@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-02 01:47:37'
 layout: post
+slug: updates-and-art
+status: publish
 title: Updates and Academia
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '678'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I received the paperwork making me the "responsible person" for my father's estate this week. I closed his main bank account today (a process that took four bank employees and more than half an hour). I'll be doing others during the next week. I'm probably going to Wyoming the week of February 13 through that weekend. I have someone who is <strong>very</strong> interested in the storefront/apartment that my dad owned in a town with 900 people. If I can get that sold, I need to do so. This is also where he was living up until he got ill and moved to Denver. All of his personal items that we never found (like photo albums) should be in the apartment at the back of this storefront. I need to spend a week going through things and trying to sort junk from gems. My dad was a packrat.
 R and I will probably not be attending the Shambhala Level 2 meditation training this weekend.

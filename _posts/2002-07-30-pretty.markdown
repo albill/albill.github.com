@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-30 21:29:00'
 layout: post
-title: Pretty!
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: pretty
 status: publish
+title: Pretty!
+wordpress_id: '900'
+categories:
+- Humor
 ---
 I have this image on the status page I maintain for Parental Controls (which I'm the test lead for on MSN Explorer). Some people seem to find it disturbing but I don't know why...
 

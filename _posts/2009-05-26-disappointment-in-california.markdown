@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-05-26 16:25:29'
 layout: post
+slug: disappointment-in-california
+status: publish
 title: Disappointment in California
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3535"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2786'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/2702102784/" title="Kirstyn and Lisa"><img src="http://farm4.static.flickr.com/3093/2702102784_9f7881668c.jpg" width="500" height="375" alt="Kirstyn and Lisa" /></a></div>
 

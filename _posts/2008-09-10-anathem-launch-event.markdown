@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-09-10 00:52:53'
 layout: post
+slug: anathem-launch-event
+status: publish
 title: Anathem Launch Event
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3387"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2458'
+categories:
 - Books
 - Daily Life
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 I went to the launch event for Neal Stephenson's new novel, <strong><a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096/">Anathem</a></strong>, this evening in San Francisco. It was hosted by the <a href="http://www.longnow.org">Long Now Foundation</a> and streamed live to the world. (My review of <strong>Anathem</strong> is <a href="http://www.arcanology.com/2008/08/21/neal-stephensons-anathem-reviewed/">here</a>.)
 <p align="center"><a title="Neal Stephenson - 2 by albill, on Flickr" href="http://www.flickr.com/photos/albill/2844588117/"><img src="http://farm4.static.flickr.com/3156/2844588117_d328ac1287.jpg" alt="Neal Stephenson - 2" width="500" height="375" /></a>

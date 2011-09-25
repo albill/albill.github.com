@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-17 13:12:49'
 layout: post
-title: Podcasts of Interest
-published: true
-meta: 
-  ljID: "2626"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: podcasts-of-interest
 status: publish
+title: Podcasts of Interest
+wordpress_id: '1729'
+categories:
+- Technology
 ---
 I listen to quite a few podcasts while walking or driving in the car (I have a connector for my iPod in the car).
 

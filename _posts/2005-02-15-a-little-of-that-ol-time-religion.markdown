@@ -1,17 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-15 21:49:01'
 layout: post
-title: A Little of that Ol' Time Religion
-published: true
-meta: 
-  _oembed_4e812b98a247933921651e51df489b34: "{{unknown}}"
-  _oembed_7e0f058932e90936b567987fdaba798d: "{{unknown}}"
-  ljID: "3051"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _oembed_d6fec71d2e106b1da28350ae622f6a25: "{{unknown}}"
-tags: 
-- Humor
-type: post
+slug: a-little-of-that-ol-time-religion
 status: publish
+title: A Little of that Ol' Time Religion
+wordpress_id: '400'
+categories:
+- Humor
 ---
 From <a href="http://www.catholicshopper.com/">
 http://www.catholicshopper.com/</a>.

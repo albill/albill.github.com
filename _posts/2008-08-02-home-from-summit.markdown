@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-08-02 01:21:56'
 layout: post
+slug: home-from-summit
+status: publish
 title: Home from Summit
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3344"
-tags: 
+wordpress_id: '2346'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 My plane landed around 6:30 PM locally and I am now back in the Bay Area. After a little mass transit and a dinner out with R, I am home with her and the pets. My large tomcat seems exceedingly happy that I have returned without bears.
 

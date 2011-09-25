@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-25 00:54:00'
 layout: post
-title: Those pesky spammers
-published: true
-meta: 
-  ljID: "2924"
-tags: 
-- Daily Life
-type: post
+slug: those-pesky-spammers
 status: publish
+title: Those pesky spammers
+wordpress_id: '2001'
+categories:
+- Daily Life
 ---
 <a href="http://www.cnn.com/2003/TECH/internet/11/24/spam.rage.reut/index.html">http://www.cnn.com/2003/TECH/internet/11/24/spam.rage.reut/index.html</a>
  

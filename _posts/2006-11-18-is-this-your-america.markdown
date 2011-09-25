@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-18 17:39:42'
 layout: post
-title: Is this your America?
-published: true
-meta: 
-  ljID: "2296"
-tags: 
-- Daily Life
-type: post
+slug: is-this-your-america
 status: publish
+title: Is this your America?
+wordpress_id: '1451'
+categories:
+- Daily Life
 ---
 Hopefully, you've already heard about this. If not, read the <a href="http://www.latimes.com/news/local/la-me-taser18nov18,0,4080498.story?coll=la-home-headlines">LA Times</a> here and <a href="http://www.blakeross.com/2006/11/17/on-the-ucla-tasering/">Blake Ross</a> writing on this.
 

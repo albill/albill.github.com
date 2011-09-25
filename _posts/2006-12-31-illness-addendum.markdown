@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-31 16:48:03'
 layout: post
-title: Illness Addendum
-published: true
-meta: 
-  ljID: "2347"
-tags: 
-- Daily Life
-type: post
+slug: illness-addendum
 status: publish
+title: Illness Addendum
+wordpress_id: '1501'
+categories:
+- Daily Life
 ---
 As an addendum to my previous post about being sick, looks like, as a guess, that I have "Vestibular neuronitis."
 

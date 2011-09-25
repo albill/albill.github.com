@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-25 20:07:00'
 layout: post
-title: XHMTL and CSS
-published: true
-meta: 
-  ljID: "2484"
-tags: 
-- Daily Life
-type: post
+slug: xhmtl-and-css
 status: publish
+title: XHMTL and CSS
+wordpress_id: '1621'
+categories:
+- Daily Life
 ---
 I&apos;ve seen a lot of hub-bub recently about using XHTML instead of older style HTML and also in doing layout with it using CSS2 so as to truly separate presentation from content.
 

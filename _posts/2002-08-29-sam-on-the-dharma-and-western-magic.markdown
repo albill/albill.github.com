@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-29 21:10:00'
 layout: post
+slug: sam-on-the-dharma-and-western-magic
+status: publish
 title: Sam on the Dharma and Western Magic
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '929'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 This is from an e-mail list that I'm on with Sam Webster, an aquaintance of mine. You can see some of his work at <a href="http://www.hermetic.com/webster/">http://www.hermetic.com/webster/</a> where I put it up a while ago.
 

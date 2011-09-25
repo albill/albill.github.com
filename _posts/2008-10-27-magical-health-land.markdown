@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-10-27 23:08:22'
 layout: post
-title: Magical Health Land
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: magical-health-land
 status: publish
+title: Magical Health Land
+wordpress_id: '2533'
+categories:
+- Daily Life
 ---
 Boring health post!
 

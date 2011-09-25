@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-10 09:21:26'
 layout: post
-title: Brad Warner and Dogen Sangha International
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "2646"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: brad-warner-and-dogen-sangha-international
 status: publish
+title: Brad Warner and Dogen Sangha International
+wordpress_id: '1745'
+categories:
+- Buddhism
 ---
 Sensei Gudo Nishijima has announced on his blog that Brad Warner is now his successor as the leader of Dogen Sangha International. Nishijima Sensei is a Zen priest and is Brad Warner's teacher.  The announcement is as follows:
 <blockquote>

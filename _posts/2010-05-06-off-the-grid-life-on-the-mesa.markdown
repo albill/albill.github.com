@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2010-05-06 11:16:41'
 layout: post
-title: "Off the Grid: Life on the Mesa"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3622"
-tags: 
+slug: off-the-grid-life-on-the-mesa
+status: publish
+title: 'Off the Grid: Life on the Mesa'
+wordpress_id: '3136'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I recently watched a documentary, "Off the Grid: Life on the Mesa," about the community in the untown of Mesa, New Mexico. 
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-01 04:44:00'
 layout: post
+slug: ogdoadic-hymns
+status: publish
 title: Ogdoadic Hymns
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '807'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 These are hymns used within Aurum Solis rituals in honor of the three deities of the Constellation of the Worshipped: Leukothea, Melnaotheos, and Agathodaimon.
 

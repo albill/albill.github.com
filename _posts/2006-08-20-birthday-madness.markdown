@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-20 00:39:46'
 layout: post
-title: Birthday Madness
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Daily Life
-type: post
+slug: birthday-madness
 status: publish
+title: Birthday Madness
+wordpress_id: '1168'
+categories:
+- Daily Life
 ---
 R and I just got home from seeing Gary Numan play at the Fillmore in San Francisco. I'd never seen him play live before and I'd never been to the famous Fillmore so it was a double-treat. R got the tickets for us as a birthday present for me a couple of months ago.
 

@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-10-18 08:23:17'
 layout: post
-title: Zombies!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: zombies
 status: publish
+title: Zombies!
+wordpress_id: '579'
+categories:
+- Daily Life
 ---
 <p>This is what R and I saw while stopping by <strong>La Tienda</strong> in Ballard on  Sunday to get Day of the Dead items.</p> <p> <a href="http://www.flickr.com/photos/search/text:seattle+zombie/sort:relevance/"> http://www.flickr.com/photos/search/text:seattle+zombie/sort:relevance/</a></p>  <p><img width="500" height="375" border="1" alt="Zombies" src="http://www.zhangzhung.net/lj/zombiemarch.jpg" /><br />&nbsp;</p>

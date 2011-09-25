@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-07 00:15:00'
 layout: post
-title: heh... Proof of R
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: heh-proof-of-r
 status: publish
+title: heh... Proof of R
+wordpress_id: '844'
+categories:
+- Daily Life
 ---
 She exists!
 

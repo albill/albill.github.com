@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-17 00:09:00'
 layout: post
-title: Ken Wilber is a modern
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: ken-wilber-is-a-modern
 status: publish
+title: Ken Wilber is a modern
+wordpress_id: '112'
+categories:
+- Spirituality
 ---
 Ken Wilber is a modern philosopher-scholar whose work I tend to follow. He's notorious for not giving many interviews over the last 25 years or having public appearances, preferring to write and let his work stand for itself.
 

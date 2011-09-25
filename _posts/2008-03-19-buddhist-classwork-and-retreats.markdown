@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2008-03-19 01:36:40'
 layout: post
+slug: buddhist-classwork-and-retreats
+status: publish
 title: Buddhist Classwork and Retreats
-published: true
-meta: 
-  ljID: "3194"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2190'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <a title="Fudo Myoo" href="http://www.flickr.com/photos/albill/322003067/"><img width="206" height="600" border="1" align="right" hspace="10" vspace="10" alt="Fudo Myoo" src="http://static.flickr.com/125/322003067_e0e20652ce_o.jpg" /></a> As I've mentioned before, I've been taking a graduate class at <A href="http://shin-ibs.edu/">the Institute of Buddhist Studies</a>. This is a class on <strong>Esoteric Buddhism</strong> run by <a href="http://www.amazon.com/exec/obidos/search-handle-url?_encoding=UTF8&search-type=ss&index=books&field-author=Richard%20K.%20Payne">Dr. Richard Payne</a>. Dr. Payne is well known in certain circles because he did his PhD dissertation on Shingon rituals, specifically the goma rite (the fire ritual) but covering the four basic rituals in general. Given my interest in both Japanese Buddhism and mikkyo as well as the fact that IBS is only a couple of miles away, it seemed like a good class to take.
 

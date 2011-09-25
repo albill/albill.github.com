@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-30 15:32:00'
 layout: post
-title: Some people have all of the fun!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: some-people-have-all-of-the-fun
 status: publish
+title: Some people have all of the fun!
+wordpress_id: '1399'
+categories:
+- Technology
 ---
 I saw this today. I can't help but take a perverse delight after so many hours playing Asheron's Call in years past.
 

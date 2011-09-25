@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-09-10 01:27:00'
 layout: post
-title: The Oregon Trail
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-oregon-trail
 status: publish
+title: The Oregon Trail
+wordpress_id: '942'
+categories:
+- Daily Life
 ---
 So, this last weekend I drove to Oregon and back. It was about 290 miles or so each way plus side trips and the like. Even doing 80 mph for most of it, that's a hell of the long time in the car.
 

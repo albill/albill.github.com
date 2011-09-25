@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-15 10:18:06'
 layout: post
-title: Photos of the House
-published: true
-meta: 
-  ljID: "2291"
-tags: 
-- Daily Life
-type: post
+slug: photos-of-the-house
 status: publish
+title: Photos of the House
+wordpress_id: '1446'
+categories:
+- Daily Life
 ---
 When we did the inspection, I took the opportunity to take photos of the new house with my camera. In our previous house, I did not do that and regretted it in later years.
 

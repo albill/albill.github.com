@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2011-01-06 17:09:16'
 layout: post
+slug: shoveling-snow-buddha
+status: publish
 title: Shoveling Snow Buddha
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3727"
-tags: 
+wordpress_id: '3394'
+categories:
 - Buddhism
 - Humor
-type: post
-status: publish
 ---
 My mother, Gretchen, took this photo the other day and sent it to me. I thought I'd share it with people as something a little humorous.
 

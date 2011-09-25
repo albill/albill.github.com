@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-26 02:15:27'
 layout: post
-title: Doings of the Day
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: doings-of-the-day
 status: publish
+title: Doings of the Day
+wordpress_id: '243'
+categories:
+- Daily Life
 ---
 <p>
 <img border="2" src="http://www.zhangzhung.net/pics/Olivia-Al-bday.jpg" width="233" height="350" alt="Olivia and Al" align="left" hspace="6">Today 

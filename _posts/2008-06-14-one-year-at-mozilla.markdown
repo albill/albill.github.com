@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-14 01:18:50'
 layout: post
+slug: one-year-at-mozilla
+status: publish
 title: One Year at Mozilla
-published: true
-meta: 
-  ljID: "3292"
-tags: 
+wordpress_id: '2240'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2577507114/" title="teamwork by albill, on Flickr"><img src="http://farm4.static.flickr.com/3069/2577507114_be254a351b_o.jpg" width="300" height="430" alt="teamwork" /></a></p>
 Today, June 14th, is the one year anniversary of my starting at the Mozilla Corporation. I transitioned from spending a year at <a href="http://www.mobitv.com">MobiTV</a>, a startup doing television on cell phones. I suppose that this makes it a time to reflect (or perhaps to checkpoint) on life at Mozilla.

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-12 15:15:00'
 layout: post
+slug: lost-city-could-rewrite-history
+status: publish
 title: Lost city 'could rewrite history'
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '784'
+categories:
 - Academic
 - Society
-type: post
-status: publish
 ---
 From <a href="http://news.bbc.co.uk/hi/english/world/south_asia/newsid_1768000/1768109.stm">http://news.bbc.co.uk/hi/english/world/south_asia/newsid_1768000/1768109.stm</a>
 

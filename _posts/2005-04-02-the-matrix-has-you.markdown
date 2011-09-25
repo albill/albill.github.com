@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-02 18:32:06'
 layout: post
-title: The Matrix Has You
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: the-matrix-has-you
 status: publish
+title: The Matrix Has You
+wordpress_id: '438'
+categories:
+- Science Fiction
 ---
 <p>There is a magician with a blog that I normally follow (called &quot;<a href="http://truenames.blogspot.com">True 
 Names</a>&quot;). He just started up a little personal writing project on Livejournal 

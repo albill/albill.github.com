@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-21 20:12:00'
 layout: post
-title: This is too much!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: this-is-too-much
 status: publish
+title: This is too much!
+wordpress_id: '67'
+categories:
+- Daily Life
 ---
 A friend of mine said this is like asking Michael Jackson if little boys are cute...
 

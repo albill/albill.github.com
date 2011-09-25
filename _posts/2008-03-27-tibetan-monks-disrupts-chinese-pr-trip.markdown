@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-03-27 10:53:04'
 layout: post
+slug: tibetan-monks-disrupts-chinese-pr-trip
+status: publish
 title: Tibetan Monks Disrupts Chinese PR Trip
-published: true
-meta: 
-  ljID: "3200"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2194'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 The Chinese cover-up of what has occurred in Tibet continues but it is not always going smoothly in front of foreign press.
 

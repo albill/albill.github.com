@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-30 14:05:00'
 layout: post
-title: Kids say the darndest things...
-published: true
-meta: 
-  ljID: "2823"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Humor
-type: post
+slug: kids-say-the-darndest-things
 status: publish
+title: Kids say the darndest things...
+wordpress_id: '1900'
+categories:
+- Humor
 ---
 <lj-cut text="This is a picture...I'm saving precious bandwidth but it is safe..."></lj-cut>
 

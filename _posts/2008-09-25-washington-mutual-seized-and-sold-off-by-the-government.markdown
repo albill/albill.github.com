@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-25 21:40:09'
 layout: post
+slug: washington-mutual-seized-and-sold-off-by-the-government
+status: publish
 title: Washington Mutual Seized and Sold Off by the Government
-published: true
-meta: 
-  ljID: "3404"
-tags: 
+wordpress_id: '2494'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 There you go, folks. From the <a href="http://www.nytimes.com/2008/09/26/business/26wamu.html">New York Times</a>:
 <blockquote>"Washington Mutual, the giant lender that came to symbolize the excesses of the mortgage boom, was seized by federal regulators on Thursday night, in what is by far the largest bank failure in American history.

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-19 23:26:53'
 layout: post
-title: Om Tare Tutare Svaha!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: om-tare-tutare-svaha
 status: publish
+title: Om Tare Tutare Svaha!
+wordpress_id: '428'
+categories:
+- Spirituality
 ---
 R and I went over to the Forest Yurt last night for Tara Puja. This is the first meeting of the unnamed, ad-hoc circle of practitioners that <a href="http://www.psychicsophia.com/aion/dennybio.html">Denny</a> and Sophia spoke with us about forming. It was pretty low key and we got to hang out a bit before and after ritual. For the ritual itself, we did a sadhana for the 21 Taras.
 

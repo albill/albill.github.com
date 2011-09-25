@@ -1,21 +1,20 @@
---- 
+---
+author: admin
+date: '2011-08-03 10:44:17'
 layout: post
+slug: buddhist-geeks-last-day-and-closing-thoughts
+status: publish
 title: Buddhist Geeks - Last Day and Closing Thoughts
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3864"
-tags: 
+wordpress_id: '3793'
+categories:
 - Buddhism
-- buddhism
-- buddhist geeks
-- Los Angeles
 - Notable People
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- buddhism
+- buddhist geeks
+- Los Angeles
 ---
 I'm a little late in writing this (it is now Wednesday) but I've had nearly back to back trips to several conferences so bear with me.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-07 11:51:29'
 layout: post
+slug: golden-dawn-documents-and-aristotle
+status: publish
 title: Golden Dawn Documents and Aristotle
-published: true
-meta: 
-  ljID: "2563"
-tags: 
+wordpress_id: '1688'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 An acquaintance of mine from my old BBS and OTO days has photocopies of a bit of original Golden Dawn material (the <a href="http://en.wikipedia.org/wiki/J.F.C._Fuller">J.F.C. Fuller</a> notebooks that Fuller copied, I believe, from Crowley's notebooks). He just wrote to me that he copied the first three volumes of that material for me last week and it should be on its way to me today. He mentioned that the quality wasn't great (second generation or so photocopies) but they are readable.
 

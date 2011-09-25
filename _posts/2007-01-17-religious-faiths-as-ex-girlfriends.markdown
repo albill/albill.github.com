@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-17 00:42:55'
 layout: post
-title: Religious Faiths as Ex-Girlfriends
-published: true
-meta: 
-  ljID: "2366"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Humor
-type: post
+slug: religious-faiths-as-ex-girlfriends
 status: publish
+title: Religious Faiths as Ex-Girlfriends
+wordpress_id: '1521'
+categories:
+- Humor
 ---
 I had a long visit over coffee with <a href="http://miniver.blogspot.com/">Jonathan</a> this evening. In the course of the conversation, I alluded to my involvement with the Ordo Templi Orientis and compared it to a girlfriend being told it was time to go. This analogy kind of rolled on its own and seems worth following up on...
 

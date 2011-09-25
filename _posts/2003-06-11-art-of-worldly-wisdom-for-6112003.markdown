@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-11 22:35:00'
 layout: post
-title: Art of Worldly Wisdom for 6/11/2003
-published: true
-meta: 
-  ljID: "2464"
-tags: 
-- Daily Life
-type: post
+slug: art-of-worldly-wisdom-for-6112003
 status: publish
+title: Art of Worldly Wisdom for 6/11/2003
+wordpress_id: '1601'
+categories:
+- Daily Life
 ---
 <center><b><font size="+1">2</font></b>
 Character and Intellect.

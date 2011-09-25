@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-31 03:53:00'
 layout: post
-title: WASTE
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: waste
 status: publish
+title: WASTE
+wordpress_id: '1400'
+categories:
+- Technology
 ---
 So, our old friends at Nullsoft (original developers of Gnutella) have done it again. They created an encrypting file-sharing utility that allows you to set up private networks amongst your friends (and only your friends) that are truly private.
 

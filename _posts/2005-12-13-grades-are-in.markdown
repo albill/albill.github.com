@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-13 13:03:20'
 layout: post
-title: Grades are In!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: grades-are-in
 status: publish
+title: Grades are In!
+wordpress_id: '634'
+categories:
+- Academic
 ---
 I just got my grades for my two classes that ended last week (well, I had one of them before but whatever...). I received a 4.0 in each class (an 'A' for people not used to that system).
 

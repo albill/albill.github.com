@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-25 00:03:00'
 layout: post
-title: Grant Morrison Interview
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Notable People
-type: post
+slug: grant-morrison-interview
 status: publish
+title: Grant Morrison Interview
+wordpress_id: '120'
+categories:
+- Notable People
 ---
 I just found this interview with Grant Morrison, author of <strong>The Invisibles</strong> along with sundry other comics, today.
 <a href="http://www.comixfan.com/xfan/forums/showthread.php?s=d6568d921114c48baf9086d15b992bad&amp;threadid=27653">Original Link</a>

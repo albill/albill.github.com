@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-22 05:07:00'
 layout: post
-title: Matrix Metaphysics
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: matrix-metaphysics
 status: publish
+title: Matrix Metaphysics
+wordpress_id: '1323'
+categories:
+- Daily Life
 ---
 In preparation for the coming movies, the Matrix website has added essays on some philosophical problems, ideas or aspects of the world of the Matrix. I get to combine my Science Fiction and Philosophy interests for once here...
 

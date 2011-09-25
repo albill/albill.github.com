@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-24 01:37:23'
 layout: post
-title: Japanese Trip this Fall
-published: true
-meta: 
-  ljID: "2436"
-tags: 
-- Daily Life
-type: post
+slug: japanese-trip-this-fall
 status: publish
+title: Japanese Trip this Fall
+wordpress_id: '1574'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/432174497/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/163/432174497_5cbdd0b002_o.jpg" alt="Gorinto Stupa" align="right" height="393" hspace="10" vspace="10" width="233" /></a>R and I went over to the city this evening to meet with one of her old friends from back in the day in high school, Isaac. R mentioned that he lived in Japan at some point when we were on our way over so I made a point of bringing up our impending trip when we were all chatting.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-05-31 02:58:00'
 layout: post
-title: An image...
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: an-image
 status: publish
+title: An image...
+wordpress_id: '840'
+categories:
+- Daily Life
 ---
 Cropped from the cover of the novel I'm reading:
 

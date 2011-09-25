@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-07-05 19:08:00'
 layout: post
+slug: medicine-buddha-practice
+status: publish
 title: Medicine Buddha Practice
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '878'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Fromt <a href="http://www.fpmt-osel.org/meditate/medicine.htm">http://www.fpmt-osel.org/meditate/medicine.htm</a>.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-16 01:48:00'
 layout: post
+slug: additional-buddhist-classes-and-teachings
+status: publish
 title: Additional Buddhist Classes and Teachings
-published: true
-meta: 
-  _edit_last: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '786'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I am looking through the <a href="http://www.sakya.org/vei/Spring2002/virupa.htm">Virupa Ecumenical Institute's</a> calendar and I've actually found things that I'm interested in attending. This is new for me as their events in the past seem to have mainly academic classes.
 

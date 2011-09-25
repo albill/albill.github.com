@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-06-28 18:39:41'
 layout: post
-title: "\"Lords of the Samurai\" Exhibit in San Francisco"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3553"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+slug: lords-of-the-samurai-exhibit-in-san-francisco
+status: publish
+title: '"Lords of the Samurai" Exhibit in San Francisco'
+wordpress_id: '2826'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Yesterday, R and I braved the San Francisco Gay Pride weekend crowds (in a car even!) to visit the <a href="http://www.asianart.org/Samurai.htm">"Lords of the Samurai"</a> exhibit at the San Francisco Asian Art Museum. This was held in the same exhibit area as the exhibit on Bhutan a few months ago.
 

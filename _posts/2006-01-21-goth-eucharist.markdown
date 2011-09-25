@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-21 14:55:40'
 layout: post
-title: Goth Eucharist
-published: true
-meta: 
-  ljID: "2416"
-tags: 
-- Spirituality
-type: post
+slug: goth-eucharist
 status: publish
+title: Goth Eucharist
+wordpress_id: '671'
+categories:
+- Spirituality
 ---
 This  has been reported in several sources but it is still worth writing about... A  goth who is also a priest is having "goth" mass with appropriate music in order to bring people in. As someone who was an altar boy as a child and remembers  guitar masses during the early 80's, I can understand why this is being done but  I doubt if it will work to bring more people back.
 

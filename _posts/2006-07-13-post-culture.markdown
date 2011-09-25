@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2006-07-13 00:34:44'
 layout: post
+slug: post-culture
+status: publish
 title: Post-Culture
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1134'
+categories:
 - Humor
 - Society
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 This made my day...
 

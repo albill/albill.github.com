@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-08 17:29:35'
 layout: post
-title: Science Fiction Authors
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Science Fiction
-type: post
+slug: science-fiction-authors
 status: publish
+title: Science Fiction Authors
+wordpress_id: '167'
+categories:
+- Science Fiction
 ---
 I posted this a while back on another version of the blog but I figured it was worth a re-post.
 

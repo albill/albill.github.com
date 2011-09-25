@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-07-31 15:49:31'
 layout: post
+slug: weekends-and-the-golden-dawn
+status: publish
 title: Weekends and the Golden Dawn
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '519'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>It's been a busy few days. On Thursday, after all day management training at 
 work, I went shooting with my friend, Tim, at the local gun range. He has a 

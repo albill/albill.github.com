@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-13 12:17:41'
 layout: post
-title: Generation X Buddhist Teachers
-published: true
-meta: 
-  ljID: "2529"
-tags: 
-- Buddhism
-type: post
+slug: generation-x-buddhist-teachers
 status: publish
+title: Generation X Buddhist Teachers
+wordpress_id: '1664'
+categories:
+- Buddhism
 ---
 The <a href="http://www.buddhistgeeks.com">BuddhistGeeks</a> blog has a good <a href="http://www.buddhistgeeks.com/2007/04/13/the-gen-xers-a-new-breed-of-dharma-teachers/">post</a> on Generation X and Buddhist Teachers.
 

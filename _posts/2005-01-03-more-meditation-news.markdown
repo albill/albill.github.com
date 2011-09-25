@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-01-03 14:28:54'
 layout: post
+slug: more-meditation-news
+status: publish
 title: More Meditation News
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '350'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 From  <a href="http://www.washingtonpost.com/wp-dyn/articles/A43006-2005Jan2.html">  http://www.washingtonpost.com/wp-dyn/articles/A43006-2005Jan2.html</a>
 <h2>Meditation Gives Brain a Charge, Study Finds</h2>

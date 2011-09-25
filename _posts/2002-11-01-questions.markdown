@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-01 02:16:00'
 layout: post
-title: Questions
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: questions
 status: publish
+title: Questions
+wordpress_id: '1005'
+categories:
+- Daily Life
 ---
 So, I've been pondering proposing to for a while now. Leaving aside the three or so months that we were broken up at the beginning of the year, we've been together two years today (we usually count from our date on Halloween or I do). We're living together now.
 

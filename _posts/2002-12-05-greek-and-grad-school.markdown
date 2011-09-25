@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-05 04:24:00'
 layout: post
+slug: greek-and-grad-school
+status: publish
 title: Greek and Grad School
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1041'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, it is looking more and more likely that I won't be able to enter a Classics graduate program with a heruclean effort (heh). It seems that just about everyone not only wants me to know Greek and Latin <em>before</em> I apply but that they would like <strong>four</strong> years of each. In short: fuck that.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-24 20:13:43'
 layout: post
-title: Spider and Voting
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: spider-and-voting
 status: publish
+title: Spider and Voting
+wordpress_id: '272'
+categories:
+- Society
 ---
 Apparantly, Spider Jerusalem's guide to voting is online now. Let Spider help you with this difficult process.
 

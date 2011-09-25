@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-15 06:20:00'
 layout: post
+slug: one-of-the-greek-magical-texts-that-ive-been-pondering-a-lot
+status: publish
 title: One of the Greek Magical texts that I've been pondering a lot...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1050'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 A MITHRAIC RITUAL
 

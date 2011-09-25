@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-11 01:29:15'
 layout: post
-title: A 'B'
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: a-b
 status: publish
+title: A 'B'
+wordpress_id: '712'
+categories:
+- Academic
 ---
 Oh, and I got my second 'B' of my entire graduate work (and the last one was a 'B+').
 

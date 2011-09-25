@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-03 23:57:55'
 layout: post
+slug: matthieu-ricard-on-happiness
+status: publish
 title: Matthieu Ricard on Happiness
-published: true
-meta: 
-  ljID: "2957"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2035'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 The <a href="http://www.ted.com/index.php/talks">Talks page</a> on the <a href="http://www.ted.com/">TED site</a> has a talk done by Matthieu Ricard in 2004 on happiness, its development, and generally the idea of developing habits of happiness and mind. Ricard is a former scientist who is now a Tibetan Buddhist monk. He has written several books, two of them are <a href="http://www.amazon.com/Quantum-Lotus-Journey-Frontiers-Buddhism/dp/1400080797/"><strong class="sans">The Quantum and the Lotus</strong></a><span class="sans"> and </span><strong class="sans"><a href="http://www.amazon.com/Happiness-Guide-Developing-Lifes-Important/dp/0316167258">Happiness: A Guide to Developing Life's Most Important Skill</a></strong>. The talk is obviously more focused on the areas of his second book.
 

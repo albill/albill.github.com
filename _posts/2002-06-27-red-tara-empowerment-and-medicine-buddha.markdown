@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-27 02:07:00'
 layout: post
+slug: red-tara-empowerment-and-medicine-buddha
+status: publish
 title: Red Tara Empowerment and Medicine Buddha
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '863'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img width="211" vspace="10" hspace="10" height="286" border="1" align="right" src="http://www.zhangzhung.net/lj/red-tara.jpg" />I got a reminder newsletter in my snail mail today that mentioned that <a href="http://www.cmc.net/%7Eamrita/">Chagdud Gonpa Amrita</a> is offering the Red Tara Empowerment on August 8.
 

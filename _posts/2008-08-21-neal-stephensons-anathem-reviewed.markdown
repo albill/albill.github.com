@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-08-21 23:37:08'
 layout: post
+slug: neal-stephensons-anathem-reviewed
+status: publish
 title: Neal Stephensons "Anathem" Reviewed
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3367"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2402'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 <a title="anathem by albill, on Flickr" href="http://www.flickr.com/photos/albill/2608432235/"><img src="http://farm4.static.flickr.com/3003/2608432235_51f3eabb6d_m.jpg" alt="anathem" hspace="10" width="159" height="240" align="right" /></a> I finished Neal Stephenson's new novel, <strong><a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096">Anathem</a></strong>, this evening. This is scheduled to hit the stores on September 9, 2008.
 

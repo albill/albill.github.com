@@ -1,23 +1,14 @@
---- 
+---
+author: admin
+date: '2010-04-17 12:01:40'
 layout: post
-title: "ALMS: a Chan Buddhist film"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3615"
-  enclosure: |
-    http://www.commonfolkfilms.com/Media/DBP%20ALMS%20trailer%20streaming%20480x270.mp4
-    7450218
-    video/mp4
-
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: alms-a-chan-buddhist-film
+status: publish
+title: 'ALMS: a Chan Buddhist film'
+wordpress_id: '3129'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 A fimmaker, Ted Burger, has made a new short film focusing on Buddhism in China. You may know him as the director of "Amongst White Clouds," which was a film about Chinese hermits that gained some following a few years back. Ted wrote to some people recently about the film. He said:
 <blockquote>"It's the first of an on-going series of academic short films I'm producing on Buddhist life in China. It's called ALMS, and it is a portrait of life within a Chan Buddhist monastery, seen from the perspective of the kitchen! The film deals directly with gardening, cooking and ritual surrounding meals in a Chan community, while also serving as general introduction to Chan monastic life." </blockquote>

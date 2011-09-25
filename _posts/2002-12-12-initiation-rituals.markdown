@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-12 15:14:00'
 layout: post
+slug: initiation-rituals
+status: publish
 title: Initiation Rituals
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1048'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I've done plenty of initiation ceremonies (non-OTO) both on book and off book. The best ones, in my opinion, occured when everyone who was an officer had been in that roll for a while and knew it and didn't need a piece of paper. Reading from paper only worked when candidates couldn't see the people anyway so they couldn't see the paper... Delivery is better even so if there is no paper.This happens the most in masonic style initiations where there is a set script. Other forms of initiation follow formulas and have a structure but don't have words and such that are set in stone. This happens in the Ogdoadic tradition and you see this in non-Western magic. As long as certain actions with appropriate visualizations and energy work occur between the intiator and initiate, it doesn't matter what is said. This makes reading from a script less of a concern but still definitely something to be avoided.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-01 01:00:20'
 layout: post
-title: Tsunami Relief Per William Gibson
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: tsunami-relief-per-william-gibson
 status: publish
+title: Tsunami Relief Per William Gibson
+wordpress_id: '344'
+categories:
+- Daily Life
 ---
 From William Gibson's blog. My work is matchin contributions. If I make my contribution to one of these and give, say, $50, that means my work will give another $50 for a total of $100. Then the Canadian government would match that with another $100. So, my $50 becomes $200. Good plan.
 

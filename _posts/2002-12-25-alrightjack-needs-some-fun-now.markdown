@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-25 03:05:00'
 layout: post
+slug: alrightjack-needs-some-fun-now
+status: publish
 title: Alright...Jack needs some fun now...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1064'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 My eyes hurt. Bleh.
 

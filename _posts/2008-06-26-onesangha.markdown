@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-26 18:38:38'
 layout: post
+slug: onesangha
+status: publish
 title: One Sangha
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3306"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2251'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2614939872/" title="onesanghabanner by albill, on Flickr"><img src="http://farm4.static.flickr.com/3262/2614939872_778a0e15e3.jpg" border="1" width="500" height="178" alt="onesanghabanner" /></a></p>
 I am starting a Buddhist group blog now, called "One Sangha," if I can recruit some fellow bloggers for it. I had made some noise in that direction with <a href="http://www.openbuddha.com">OpenBuddha</a>, which still has an empty blog sitting there. On some discussion with a friend, I was donated the <a href="http://www.onesangha.org">OneSangha.org</a> domain that he had registered but wound up not using.

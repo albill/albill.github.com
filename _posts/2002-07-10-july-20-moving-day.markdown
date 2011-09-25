@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-10 19:08:00'
 layout: post
-title: July 20 - Moving Day
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: july-20-moving-day
 status: publish
+title: July 20 - Moving Day
+wordpress_id: '884'
+categories:
+- Daily Life
 ---
 So, for any of my unfortunate friends who have volunteered to help me move:
 

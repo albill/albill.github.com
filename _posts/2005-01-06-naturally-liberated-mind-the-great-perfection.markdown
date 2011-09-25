@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-06 08:30:10'
 layout: post
-title: Naturally Liberated Mind, the Great Perfection
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: naturally-liberated-mind-the-great-perfection
 status: publish
+title: Naturally Liberated Mind, the Great Perfection
+wordpress_id: '357'
+categories:
+- Buddhism
 ---
 I found this online. I'm not sure who did the translation for it.
 <h2 align="center">Naturally Liberated Mind,  The Great Perfection</h2>

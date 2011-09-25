@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-29 00:15:55'
 layout: post
-title: Using Tor
-published: true
-meta: 
-  ljID: "3032"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: friends
-tags: 
-- Technology
-type: post
+slug: using-tor
 status: publish
+title: Using Tor
+wordpress_id: '1793'
+categories:
+- Technology
 ---
 
 <p align="center"><a href="http://www.flickr.com/photos/albill/1264145281/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1260/1264145281_6e7cbcbf66_m.jpg" alt="tor-sticker" border="0" height="189" width="240" /></a></p>

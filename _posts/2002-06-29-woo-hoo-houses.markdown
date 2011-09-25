@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-29 18:16:00'
 layout: post
-title: Woo Hoo! Houses!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: woo-hoo-houses
 status: publish
+title: Woo Hoo! Houses!
+wordpress_id: '867'
+categories:
+- Daily Life
 ---
 R and I visited two houses this morning after I got up at godawfulearly to meet to do costuming stuff. The first one was in Wallingford and was a little rundown but huge and in a great neighborhood. R didn't like it because the basement rooms had short ceilings and while it was low but fine for me, she could feel her hair brushing it. (For those that don't know, R is about six feet tall and/or an inch or so taller than me...)
 

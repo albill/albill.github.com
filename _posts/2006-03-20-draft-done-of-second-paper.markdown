@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-20 03:04:01'
 layout: post
-title: Draft Done of Second Paper
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: draft-done-of-second-paper
 status: publish
+title: Draft Done of Second Paper
+wordpress_id: '717'
+categories:
+- Academic
 ---
 Wow...I just finished my draft of "The Rise of Mainstream Western  Esotericism: Nineteenth Century Esoteric Currents and Societies." This is my  second paper for my independent study in Western Esotericism.
 

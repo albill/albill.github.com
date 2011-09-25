@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-15 23:36:08'
 layout: post
-title: Geek Night Time Terrors
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: geek-night-time-terrors
 status: publish
+title: Geek Night Time Terrors
+wordpress_id: '179'
+categories:
+- Technology
 ---
 <p>The strangest things occur to you when you're falling asleep. This is a 
 thought series that I had last night as I waited to drop off.</p>

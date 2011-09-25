@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-02-11 01:10:46'
 layout: post
-title: Blank Thesis Syndrome
-published: true
-meta: 
-  ljID: "2392"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: blank-thesis-syndrome
 status: publish
+title: Blank Thesis Syndrome
+wordpress_id: '1546'
+categories:
+- Academic
 ---
 I've been doing preparatory work for much of the last month on my thesis. Technically, I have the next two months to work on it if I wanted to get it done this term. I'm under no innate pressure to get it done that quickly except that I'd have to move my graduation date (paperwork only though...). It isn't uncommon for people in my program to take six months or a year to do it with a few notable examples taking much longer.
 

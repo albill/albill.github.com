@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-30 02:13:00'
 layout: post
+slug: jesus-christ-that-hurt
+status: publish
 title: Jesus Christ, that hurt!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1000'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Woot. Back from both my Ancient Greek class and my tattooing session. I'm getting my teeth cleaned for the first time in a couple of years on Thursdays.
 

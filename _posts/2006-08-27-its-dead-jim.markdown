@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-27 22:48:45'
 layout: post
+slug: its-dead-jim
+status: publish
 title: It's Dead, Jim.
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1179'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 The macbook's hard drive is so toast that I cannot even reinstall the operating system on it. The installer cannot even see it in the system (though I can hear the drive power up and seek). I expect that I can kiss the last month and a half of photos and documents, including articles downloaded from JSTOR for thesis work, goodbye.
 

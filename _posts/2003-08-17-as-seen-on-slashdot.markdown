@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-17 06:29:00'
 layout: post
-title: As seen on Slashdot...
-published: true
-meta: 
-  ljID: "2779"
-tags: 
-- Daily Life
-type: post
+slug: as-seen-on-slashdot
 status: publish
+title: As seen on Slashdot...
+wordpress_id: '1855'
+categories:
+- Daily Life
 ---
 <a href=http://www.scoutwalker.com/">http://www.scoutwalker.com/</a>
 

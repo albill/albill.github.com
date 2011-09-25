@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-01-30 18:29:21'
 layout: post
+slug: going-back-to-graduate-school
+status: publish
 title: Going Back to Graduate School!
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3464"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2641'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I received some good news today. The letter from the <a href="http://www.gtu.edu">Graduate Theological Union</a> arrived that granted me preliminary acceptance into GTU's Doctor of Philosophy program, beginning in the Fall. This is preliminary because UC, Berkeley (aka "Cal") has to final approve all applicants as well and they won't make their decision for a month. I don't expect that Cal will turn me away with the GPA of my MA being perfect and being well recommended by my former thesis advisor and two active professors who are also GTU graduates. 
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-25 19:38:00'
 layout: post
-title: Starbucks!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: starbucks
 status: publish
+title: Starbucks!
+wordpress_id: '892'
+categories:
+- Daily Life
 ---
 <p>From <a href="http://www.business2.com/articles/mag/0,1640,41189,FF.html">http://www.business2.com/articles/mag/0,1640,41189,FF.html</a></p>
             <font size="4"><b>How Much Starbucks Is Too Much?</b></font><p>

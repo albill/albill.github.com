@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-31 15:51:00'
 layout: post
+slug: thoughts-for-the-day
+status: publish
 title: Thoughts for the Day
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1002'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 Let's be honest here, if you had to choose between being the intrepid adventurer trying to save the world or the evil, secret cult invoking the elder gods and trying to destroy it, which would you <strong><em>really</em></strong> rather be?
 

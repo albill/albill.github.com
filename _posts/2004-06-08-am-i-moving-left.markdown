@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-08 23:54:00'
 layout: post
-title: Am I moving Left?
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: am-i-moving-left
 status: publish
+title: Am I moving Left?
+wordpress_id: '138'
+categories:
+- Society
 ---
 Am I moving more to the Left and being less of a Centrist as I age?
 

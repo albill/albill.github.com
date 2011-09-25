@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2004-07-09 01:29:43'
 layout: post
-title: Daily Thoughts
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Humor
-type: post
+slug: daily-thoughts
 status: publish
+title: Daily Thoughts
+wordpress_id: '168'
+categories:
+- Humor
 ---
 <center><img src="http://www.arcanology.com/images/smiling-hell.jpg"></center>

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-03 02:21:00'
 layout: post
-title: Angry White Girl
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3248"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: heh
 status: publish
+title: Angry White Girl
+wordpress_id: '874'
+categories:
+- Humor
 ---
 I found an amusing and bitter weblog. It is <a href="http://www.angrywhitegirl.com">http://www.angrywhitegirl.com</a>. It makes me feel calm to read things like this.
 

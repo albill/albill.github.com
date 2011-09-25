@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-18 12:35:10'
 layout: post
+slug: women-and-engineering
+status: publish
 title: Women and Engineering
-published: true
-meta: 
-  ljID: "2368"
-tags: 
+wordpress_id: '1523'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 I read these after hearing about them on <a href="http://www.slashdot.org">Slashdot</a> and I found them to be interesting (and short!). As a “self-taught” engineer, this hits close to home for me and I’ve wondered the same things before.
 

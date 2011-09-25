@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-24 00:36:39'
 layout: post
-title: Pith Instructions on the Great Perfection
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: pith-instructions-on-the-great-perfection
 status: publish
+title: Pith Instructions on the Great Perfection
+wordpress_id: '375'
+categories:
+- Buddhism
 ---
 There are those that same Buddhism is life condemning, that it hates the world and all things in it. While there are definitely elements of that within some of the vehicles of Buddhism, there are clearly schools of thought that see the world as self-perfected but simply obscured from our day to day minds. The world is perfect, even joyous, as it is (or as it isn't, as the case may be). Once you learn to see the world as it is, you no longer become as attached to it or the circumstances that you find yourself in.
 

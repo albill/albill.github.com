@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-26 21:48:26'
 layout: post
-title: The Center for Contemplative Mind in Society
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: the-center-for-contemplative-mind-in-society
 status: publish
+title: The Center for Contemplative Mind in Society
+wordpress_id: '1122'
+categories:
+- Spirituality
 ---
 A month or two ago, I found the website for the Center for Contemplative Mind in Society. They are at  <a href="http://www.contemplativemind.org/">http://www.contemplativemind.org/.</a>
 

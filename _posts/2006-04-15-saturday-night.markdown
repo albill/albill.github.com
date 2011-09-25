@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-15 22:54:53'
 layout: post
+slug: saturday-night
+status: publish
 title: Saturday Night
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '740'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I'm spending Saturday night highlighting Plato's <em>Phaedo</em> and then <em>The Republic, Book IV</em> for my last paper.
 

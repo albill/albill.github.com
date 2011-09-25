@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-13 12:49:00'
 layout: post
+slug: opera-files-antitrust-complaint-in-eu-with-microsoft
+status: publish
 title: Opera Files Antitrust Complaint in EU with Microsoft
-published: true
-meta: 
-  ljID: "3075"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2135'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 This seems to be the news of the hour. Opera has filed an antitrust complaint in the European Union against Microsoft around Internet Explorer and bundling. Opera has filed on the basis of both Microsoft's monopoly power with Windows in relation to Internet Explorer but also based on Internet Explorer's lack of standards support.
 

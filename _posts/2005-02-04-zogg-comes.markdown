@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-04 00:07:23'
 layout: post
-title: Zogg Comes!
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: zogg-comes
 status: publish
+title: Zogg Comes!
+wordpress_id: '386'
+categories:
+- Humor
 ---
 <A href="http://www.whatisdeepfried.com/zogg/zogg1.html">http://www.whatisdeepfried.com/zogg/zogg1.html</A>
 

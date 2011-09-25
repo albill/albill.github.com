@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-21 11:45:17'
 layout: post
-title: "\"Take on the Machine\" Hackerspace Video Series"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3693"
-tags: 
+slug: take-on-the-machine-hackerspace-video-series
+status: publish
+title: '"Take on the Machine" Hackerspace Video Series'
+wordpress_id: '3300'
+categories:
 - Hacking
 - Notable People
 - Technology
-type: post
-status: publish
 ---
 <a href="http://twitter.com/maltman23">Mitch Altman</a>, one of the founders of the Noisebridge hackerspace in San Francisco, has been working with people on the "Take on the Machine" challenge. This is a contest between five different hackerspaces to come up with the best repurposing (and rebuilding) of some common object for a new use. Each of the spaces involved as given three weeks and a $3,000 budget to do this and the whole thing was filmed and is being run as a weekly webisode series. 
 

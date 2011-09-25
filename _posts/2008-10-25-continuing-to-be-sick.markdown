@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-10-25 14:37:24'
 layout: post
-title: Continuing to be sick
-published: true
-meta: 
-  ljID: "3420"
-tags: 
-- Daily Life
-type: post
+slug: continuing-to-be-sick
 status: publish
+title: Continuing to be sick
+wordpress_id: '2525'
+categories:
+- Daily Life
 ---
 Whiny sick post.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-17 10:41:00'
 layout: post
-title: Get Your War On
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: get-your-war-on
 status: publish
+title: Get Your War On
+wordpress_id: '90'
+categories:
+- Humor
 ---
 <p>    The new <strong>Get Your War On</strong> is up! </p>  <p>    <a href="http://www.mnftiu.cc/mnftiu.cc/war34.html">http://www.mnftiu.cc/mnftiu.cc/war34.htm<wbr>l</a>&nbsp;
 

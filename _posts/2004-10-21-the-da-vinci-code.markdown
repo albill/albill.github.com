@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-21 11:48:35'
 layout: post
-title: The Da Vinci Code
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: the-da-vinci-code
 status: publish
+title: The Da Vinci Code
+wordpress_id: '267'
+categories:
+- Spirituality
 ---
 An interesting review from the Village Voice on why <b>The Da Vinci Code</b> seems to strike a nerve with many people. (<a href="http://www.villagevoice.com/vls/182/white.shtml">http://www.villagevoice.com/vls/182/white.shtml</a>):<blockquote>What <i>The Da Vinci Code</i> has created should
 interest us, but not because Brown is right about Da Vinci or the

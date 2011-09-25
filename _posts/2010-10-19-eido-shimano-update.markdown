@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2010-10-19 09:42:46'
 layout: post
+slug: eido-shimano-update
+status: publish
 title: Eido Shimano Update
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3704"
-tags: 
+wordpress_id: '3330'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Rev. Barry Briggs has an <a href="http://www.oxherding.com/my_weblog/2010/10/eido-shimano-update.html">update</a> on his blog on the Zen Studies Society and Eido Shimano for those still keeping track. 
 

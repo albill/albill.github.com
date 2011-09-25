@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-06 23:06:52'
 layout: post
-title: Battlestar Galactica Season 3
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: battlestar-galactica-season-3
 status: publish
+title: Battlestar Galactica Season 3
+wordpress_id: '1221'
+categories:
+- Science Fiction
 ---
 There be spoilers ahead. Don't read further if you care and haven't seen the seaon opener for season 3 of Battlestar Galactica.
 

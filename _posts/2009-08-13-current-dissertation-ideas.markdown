@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-08-13 20:32:25'
 layout: post
+slug: current-dissertation-ideas
+status: publish
 title: Current Dissertation Ideas
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3567"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2843'
+categories:
 - Academic
 - Buddhism
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/sanboin/1327832381/"><img src="http://farm2.static.flickr.com/1193/1327832381_8567775d59.jpg" width="500" height="375" alt="Goma ritual"></a></div>
 

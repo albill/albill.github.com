@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-21 06:26:00'
 layout: post
-title: Poem
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: poem
 status: publish
+title: Poem
+wordpress_id: '1056'
+categories:
+- Daily Life
 ---
 A wrote recently about a poem that I was trying to remember the title of... I could only vaguely remember the last few lines. It was "Ulysses" by Tennyson that I was trying to remember. The last section is the most lingering in my mind...<blockquote><b>We are not now that strength which in old days
 Moved earth and heaven, that which we are, we are,--

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-08 06:57:17'
 layout: post
+slug: back-to-america-tomorrow
+status: publish
 title: Back to America tomorrow
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1966'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 This is our last night in Tokyo (it is just before 11:00 PM here). Tomorrow afternoon, we fly back to the west coast of the United States.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-15 17:37:00'
 layout: post
-title: Incompetant IT People
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: incompetant-it-people
 status: publish
+title: Incompetant IT People
+wordpress_id: '1278'
+categories:
+- Daily Life
 ---
 <strong>Rant mode here...</strong>
 

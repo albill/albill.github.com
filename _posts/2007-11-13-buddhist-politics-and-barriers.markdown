@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-13 01:04:08'
 layout: post
+slug: buddhist-politics-and-barriers
+status: publish
 title: Buddhist Politics and Barriers
-published: true
-meta: 
-  ljID: "3031"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2110'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg" width="180" height="240" alt="Buddha-Sarnath-sepia" / align="right" border="1">It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.
 

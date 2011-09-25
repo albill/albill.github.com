@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-06 23:24:12'
 layout: post
-title: Lama Wangdor and Pictures
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: lama-wangdor-and-pictures
 status: publish
+title: Lama Wangdor and Pictures
+wordpress_id: '477'
+categories:
+- Buddhism
 ---
 A couple of weeks back, just before I went on the Dzogchen Retreat in Wisconsin, I saw Lama Wangdor. Wangdor Rinpoche is a yogi, not a scholar. Decades ago, he escaped Tibet into India. He went to one of the famous locations associated with the historical Buddha, a lake with caves around it, and began to sit and practice. Over time, a community of fellow yogis developed around him and he gained quite a reputation as a practitioner and teacher. These days, he comes over to the U.S. during part of the year to teach a bit on Dzogchen and to raise funds for the refugee community and his fellow practitioners.
 

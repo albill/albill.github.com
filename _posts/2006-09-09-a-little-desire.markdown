@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-09 00:35:26'
 layout: post
-title: A Little Desire
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: a-little-desire
 status: publish
+title: A Little Desire
+wordpress_id: '1186'
+categories:
+- Buddhism
 ---
 Is it too much to ask for a sangha to sit or discuss Buddhism with that doesn't give me hives?
 

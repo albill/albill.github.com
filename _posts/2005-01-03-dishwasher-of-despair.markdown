@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-03 20:43:37'
 layout: post
-title: Dishwasher of Despair
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dishwasher-of-despair
 status: publish
+title: Dishwasher of Despair
+wordpress_id: '352'
+categories:
+- Daily Life
 ---
 <p>The contractor spent about an hour working on the dishwasher (for a total of 
 three hours here today). I shut off the water for the house and the power to 

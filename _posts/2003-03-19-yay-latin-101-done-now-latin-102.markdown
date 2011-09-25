@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-19 04:18:00'
 layout: post
-title: Yay! Latin 101 Done! Now Latin 102!
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: yay-latin-101-done-now-latin-102
 status: publish
+title: Yay! Latin 101 Done! Now Latin 102!
+wordpress_id: '1316'
+categories:
+- Academic
 ---
 Latin 101 is over. In the last six months, I've now taken Latin 101 and Ancient Greek 101. Not too bad for a guy who is a test lead during the day. I'm all signed up for Latin 102 next term!
 

@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2011-05-14 15:38:00'
 layout: post
+slug: cmkt-4-workshop-at-ace-monster-toys
+status: publish
 title: CMKT 4 Workshop at Ace Monster Toys
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3836"
-tags: 
+wordpress_id: '3747'
+categories:
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5719597686/" title="P1010749 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3653/5719597686_142afe44ea.jpg" width="500" height="375" alt="P1010749"></a></p>
 The circuit-bending rock band, <a href="http://www.facebook.com/cmkt4">CMKT 4</a> paid a visit to <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> this last Thursday. CMKT4 plays a rather different sort of music, which you can hear over on their <a href="http://www.reverbnation.com/cmkt4">Reverbnation page</a>.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-29 00:19:17'
 layout: post
-title: Tick...tock...tick...tock
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: ticktockticktock
 status: publish
+title: Tick...tock...tick...tock
+wordpress_id: '246'
+categories:
+- Daily Life
 ---
 <p>Well, four days to go...It&#39;s midnight on Tuesday and I will be married 
 Saturday morning.</p>

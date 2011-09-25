@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-20 05:58:00'
 layout: post
-title: Snow please!
-published: true
-meta: 
-  ljID: "2916"
-tags: 
-- Daily Life
-type: post
+slug: snow-please
 status: publish
+title: Snow please!
+wordpress_id: '1993'
+categories:
+- Daily Life
 ---
 Is it wrong to want a snow day so I don&apos;t have to go to work tomorrow?
 

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-24 23:17:00'
 layout: post
-title: Cirque du Soleil
-published: true
-meta: 
-  ljID: "2789"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: cirque-du-soleil-2
 status: publish
+title: Cirque du Soleil
+wordpress_id: '1865'
+categories:
+- Daily Life
 ---
 R and I went to see <strong>Alegria</strong> by the Cirque du Soleil here in the Seattle area on Friday night. We had phenomenal seats. We were in the 'A' row in the '103' section. This translates to us being, literally, six or seven feet from the corner of the stage. Close enough to just about reach out and touch the performers with only one other row of seats between us and them. This made a nice difference in the show in comparison to last year where we were further back. (Last year was great as well though!)
 

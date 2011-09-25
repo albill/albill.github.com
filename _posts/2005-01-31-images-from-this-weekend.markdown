@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-31 22:42:25'
 layout: post
-title: Images from this Weekend
-published: true
-meta: 
-  ljID: "2606"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: images-from-this-weekend
 status: publish
+title: Images from this Weekend
+wordpress_id: '383'
+categories:
+- Buddhism
 ---
 <p align="center"> <img src="http://www.arcanology.com/images/khachab-rinpoche-web.jpg" border="1" height="368" hspace="5" vspace="5" width="275" />
 <strong>Khachab Rinpoche Relaxing</strong>

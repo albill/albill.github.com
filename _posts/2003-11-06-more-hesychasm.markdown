@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-06 03:35:00'
 layout: post
-title: More Hesychasm
-published: true
-meta: 
-  ljID: "2901"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Spirituality
-type: post
+slug: more-hesychasm
 status: publish
+title: More Hesychasm
+wordpress_id: '1978'
+categories:
+- Spirituality
 ---
 <strong>Hesychasm</strong>
 (Greek hesychos, quiet).

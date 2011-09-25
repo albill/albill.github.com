@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-06 20:03:31'
 layout: post
-title: Movies and Books
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: movies-and-books
 status: publish
+title: Movies and Books
+wordpress_id: '281'
+categories:
+- Daily Life
 ---
 I went and saw <strong>The Incredibles</strong> yesterday with the test organization that I work within. I liked the movie quite a bit but I generally enjoy Pixar's
 work. I wouldn't say it was exceptional but it is as enjoyable as, say, <strong>Finding Nemo</strong> was for me.<a href="http://www.darkhorse.com/profile/profile.php?sku=45-076">

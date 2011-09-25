@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-05 21:23:00'
 layout: post
-title: Update on The Hebrew Hammer
-published: true
-meta: 
-  ljID: "2979"
-tags: 
-- Daily Life
-type: post
+slug: update-on-the-hebrew-hammer
 status: publish
+title: Update on The Hebrew Hammer
+wordpress_id: '2057'
+categories:
+- Daily Life
 ---
 <img align="right" src="http://us.i1.yimg.com/us.yimg.com/i/mo/pre_thehebrewhammer270.jpg" width="270" height="181" hspace="10" vspace="10" border="1">Comedy Central is apparantly playing the Hebrew Hammer next week:<ul><li>12/8/2003 900 PM<li>12/9/2003 300 PM<li>12/14/2003 1000 AM<li>12/14/2003 800 PM</ul>All Times ET/PT
 

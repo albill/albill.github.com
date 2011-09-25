@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-13 13:41:05'
 layout: post
-title: New T-shirt Site
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: new-t-shirt-site
 status: publish
+title: New T-shirt Site
+wordpress_id: '172'
+categories:
+- Humor
 ---
 I need to get myself some new t-shirts and I think that I found the site for me...
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-05 11:57:14'
 layout: post
+slug: ie8-beta-1-is-released
+status: publish
 title: IE8 Beta 1 is Released
-published: true
-meta: 
-  ljID: "3179"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2184'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2312342995/" title="mixo8 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3184/2312342995_390051786a_o.png" align="right" border="0" width="140" height="191" alt="mixo8" /></a>I had been under the impression that the techbeta for IE8 was going to be closed. Apparently, this was wrong information on my part. With the <a href="http://visitmix.com/2008/default.aspx">Mix08</a> conference occurring today, the first beta of IE8 is now available. You can find a list of features on the <a href="http://www.microsoft.com/windows/products/winfamily/ie/ie8/readiness/NewFeatures.htm">Microsoft site</a>.
 

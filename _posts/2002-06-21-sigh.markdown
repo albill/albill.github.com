@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-21 04:19:00'
 layout: post
-title: "*sigh*"
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: sigh
 status: publish
+title: '*sigh*'
+wordpress_id: '856'
+categories:
+- Technology
 ---
 Burning all of your music to MP3 is so fucking time-consuming. I feel like I'm nailed to this chair as a human cd switcher sometimes. ;-)
 

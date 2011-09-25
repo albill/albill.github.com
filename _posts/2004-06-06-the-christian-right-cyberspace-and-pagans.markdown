@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-06 23:15:00'
 layout: post
-title: The Christian Right, Cyberspace and Pagans!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: the-christian-right-cyberspace-and-pagans
 status: publish
+title: The Christian Right, Cyberspace and Pagans!
+wordpress_id: '134'
+categories:
+- Spirituality
 ---
 <p>This is just precious. </p>
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-26 21:57:00'
 layout: post
+slug: maoomancy
+status: publish
 title: Maoomancy
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '35'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 <img align="right" src="http://www.arcanology.com/images/redbook.jpg" />At least one or two of my coworkers have no heard my opinion of the new  be-all and end-all of divination methods: Maoomancy.
 

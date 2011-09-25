@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-01 03:58:00'
 layout: post
-title: Found on CraigsList for Seattle...
-published: true
-meta: 
-  ljID: "2803"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: found-on-craigslist-for-seattle
 status: publish
+title: Found on CraigsList for Seattle...
+wordpress_id: '1879'
+categories:
+- Humor
 ---
 How wrong is this?
 <blockquote>

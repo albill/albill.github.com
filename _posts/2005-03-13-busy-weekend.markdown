@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-13 21:59:33'
 layout: post
-title: Busy Weekend
-published: true
-meta: 
-  ljID: "2737"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: busy-weekend
 status: publish
+title: Busy Weekend
+wordpress_id: '422'
+categories:
+- Daily Life
 ---
 It's been a busy weekend.
 

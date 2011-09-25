@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-14 14:55:00'
 layout: post
+slug: door-stuff-third-places-etc
+status: publish
 title: Door Stuff, Third Places, etc.
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '914'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I tend to have stuff on my door at work. I used to have a whole bunch of comics from <a href="http://www.redmeat.com">RedMeat</a> which appropriately disturbed many coworkers but only enough to ensure "freak" status amongst the test leads and test organization, not enough to get me narc'd out to HR (read: The Political Office) for a tallking too. I took those down a while back because we were moving to a new building and my door has been empty since then. Yesterday, I decided to put some stuff up again. One of the performance testers who is on the other side of the hall from me said "Oh crap, you're putting stuff on your door again." as soon as he saw me there cutting papers and with a roll of tape. I found this amusing because I'm not putting anything truly disturbing up this time. I put up some images/diagrams and text about <a href="http://www.aula.cc">Aula</a>, the Finnish cybercommunity that also has its own space and system for people to meet in a collective manner for discussion, art, presentations, etc.
 

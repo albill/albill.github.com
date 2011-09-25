@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-02-29 16:38:40'
 layout: post
-title: Killings and Our Society
-published: true
-meta: 
-  ljID: "3172"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: killings-and-our-society
 status: publish
+title: Killings and Our Society
+wordpress_id: '2180'
+categories:
+- Society
 ---
 Two weeks ago, Steven Kazmierczak walked into Northern Illinois University and started shooting. He succeeded in wounding 21 students and killing seven (?) before being killing himself with his own weapon. I've seen the typical hand wringing and questions of why and how this could happen occurring within and without the media. By all the accounts that I have seen, no one really knows why he decided to kill and then kill himself. I've even <a href="http://www.msnbc.msn.com/id/23214369/">read an account</a> by his girlfriend, whom he called very early that day without telling her what he was going to do and seeming normal.
 

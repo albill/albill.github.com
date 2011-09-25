@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-18 12:13:20'
 layout: post
-title: Moved to Moveable Type
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: moved-to-moveable-type
 status: publish
+title: Moved to Moveable Type
+wordpress_id: '146'
+categories:
+- Daily Life
 ---
 Anyone reading this will have realized that I have moved by blog from dasBlog to Moveable Type. 
 

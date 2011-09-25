@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-12-22 15:13:56'
 layout: post
+slug: ibreviary
+status: publish
 title: iBreviary?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3446"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2597'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/3128552859/" title="ibreviary by albill, on Flickr"><img src="http://farm4.static.flickr.com/3218/3128552859_d7291e6c88_o.jpg" width="450" height="336" alt="ibreviary" /></a></p>
 I found <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2008/12/22/international/i095719S33.DTL">this article</a> in the San Francisco paper today. Apparently, the Vatican has officially endorsed an iPhone application, "<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=291505219&mt=8">iBreviary</a>," for Catholics. The article states:

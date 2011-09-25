@@ -1,14 +1,12 @@
---- 
+---
+author: admin
+date: '2005-11-27 00:07:26'
 layout: post
-title: Armed
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3247"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: armed
 status: publish
+title: Armed
+wordpress_id: '605'
+categories:
+- Daily Life
 ---
 <p>I have a firearm now. Through a friend, I am now the proud owner of a Taurus  PT 92 9mm pistol. It means that I can now go target shooting with my friends  without borrowing a pistol or renting one. I have pretty rural family on my  dad's side so I I grew up shooting guns (receiving my first rifle as a seventh  birthday present) but I've never owned one as an adult. The PT 92 is a common,  workhorse 9mm. </p> <p>My next order of business will be spend some time on the range with it in the  next month or so in order to get comfortable with it. Since it hasn't been fired  in quite a few years, I picked up a gun cleaning kit earlier today and plan on  giving it a good cleaning before use. I'm pretty happy that I finally picked  this up but you'd probably have to be a person into guns in order to really grok  the feeling. I know that plenty of other people have a &quot;guns icky!&quot; idea and I  don't fault them for it. Different strokes for different folks and all that.</p> <p align="center"> <img width="379" vspace="5" hspace="5" height="259" border="1" src="http://www.arcanology.com/images/pt92.jpg" /></p>

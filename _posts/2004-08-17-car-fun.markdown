@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-17 20:50:44'
 layout: post
-title: Car Fun
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: car-fun
 status: publish
+title: Car Fun
+wordpress_id: '204'
+categories:
+- Daily Life
 ---
 <p>Well, shit, my car is fucked now. I was on my way to pick up my daughter for 
 dinner and I started here a metal on metal (like disks rubbing together) from my 

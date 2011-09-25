@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-05-30 11:59:12'
 layout: post
+slug: world-religion-paper
+status: publish
 title: World Religion Paper
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '467'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I received my copy of the graded version of my first assignment for my graduate World Religions class back from my professor while I was out of town. As I was warned, he does has spidery handwriting. On the plus side, he covered my paper in remarks, often as much as every other sentence with copious notes on the sides.
 

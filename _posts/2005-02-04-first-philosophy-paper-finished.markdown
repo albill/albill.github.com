@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-04 00:26:39'
 layout: post
+slug: first-philosophy-paper-finished
+status: publish
 title: First Philosophy Paper Finished
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '387'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>The first paper for Philosophy is done. Kee-rist!</p>
 <p>I found up rewriting, oh, something like three times. I think I spent 

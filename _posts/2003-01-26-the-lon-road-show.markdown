@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-26 04:40:00'
 layout: post
+slug: the-lon-road-show
+status: publish
 title: The Lon Road Show
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1257'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I just got back a couple of hours ago from spending the day at a workshop with OTO Bishop Lon Milo Duquette and Constance Duquette (his wife). Both are multiple decade veterans of the OTO and Lon is one of the most experienced bishops within the <a href="http://www.otohq.org/oto/egc.html"><em>Ecclesia Gnostica Catholica</em></a>, the religious side of the OTO. He's also the author of quite a few amusing books (and an object lesson of how to <strong>not</strong> use Abramelin oil...).
 

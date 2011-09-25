@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-16 20:30:26'
 layout: post
-title: Shambhala Training this Weekend
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: shambhala-training-this-weekend
 status: publish
+title: Shambhala Training this Weekend
+wordpress_id: '369'
+categories:
+- Buddhism
 ---
 <div align="center"><img width="416" vspace="5" hspace="5" height="312" border="1" src="http://www.arcanology.com/images/sthall3.jpg" /></div>
 

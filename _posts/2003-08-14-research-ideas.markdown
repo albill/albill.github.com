@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-14 16:59:00'
 layout: post
-title: Research Ideas
-published: true
-meta: 
-  ljID: "2773"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Academic
-type: post
+slug: research-ideas
 status: publish
+title: Research Ideas
+wordpress_id: '1849'
+categories:
+- Academic
 ---
 I'm investigating schools again. It turns out that the Open University in the UK has a graduate level Religious Studies department and that members of it focus on Western Esotericism and Paganism.
 

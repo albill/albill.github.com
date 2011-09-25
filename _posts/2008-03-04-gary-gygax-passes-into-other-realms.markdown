@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-04 12:28:51'
 layout: post
+slug: gary-gygax-passes-into-other-realms
+status: publish
 title: Gary Gygax Passes Into Other Realms
-published: true
-meta: 
-  ljID: "3178"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2183'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2311040850/" title="PlayersHandbook8Cover by albill, on Flickr"><img src="http://farm3.static.flickr.com/2040/2311040850_cac752d89b_o.jpg" width="218" height="300" border="1" hspace="5" align="right" alt="PlayersHandbook8Cover" /></a> I just heard the news that <a href="http://en.wikipedia.org/wiki/Gary_Gygax">Gary Gygax</a>, co-creator of Dungeons and Dragons, is now dead. 
 

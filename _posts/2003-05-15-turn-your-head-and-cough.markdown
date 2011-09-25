@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-15 04:17:00'
 layout: post
-title: Turn your head and cough
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: turn-your-head-and-cough
 status: publish
+title: Turn your head and cough
+wordpress_id: '1376'
+categories:
+- Daily Life
 ---
 Yesterday, R and I had our first meeting with our mortgage broker. Meeting with a mortgage broker is like being anally probed by a bank. It&apos;s a bit uncomfortable and you get a lot of the attention of the kind that you don&apos;t really like.
 

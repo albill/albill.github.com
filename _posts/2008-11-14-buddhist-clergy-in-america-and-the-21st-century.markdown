@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-11-14 13:56:01'
 layout: post
+slug: buddhist-clergy-in-america-and-the-21st-century
+status: publish
 title: Buddhist Clergy in America and the 21st Century
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3429"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2548'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/1432539348/" title="Priests at Engaku-ji Temple"><img src="http://farm2.static.flickr.com/1384/1432539348_f163386b9a.jpg" width="500" height="375" border="1" alt="Priests at Engaku-ji Temple" /></a></p>
 I have been pondering what it means to be Buddhist clergy in America and the 21st century lately. 

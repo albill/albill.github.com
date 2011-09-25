@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-22 18:04:00'
 layout: post
-title: Five Days...
-published: true
-meta: 
-  ljID: "2479"
-tags: 
-- Daily Life
-type: post
+slug: five-days
 status: publish
+title: Five Days...
+wordpress_id: '1616'
+categories:
+- Daily Life
 ---
 In five days, I move into the first home that I have ever purchased...
 

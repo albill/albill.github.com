@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-17 14:44:40'
 layout: post
+slug: omphalos-riding
+status: publish
 title: Omphalos Riding
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1091'
+categories:
 - Esoteric
 - Humor
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/148293867/" title="Omphalos Riding by albill, on Flickr"><img src="http://farm1.static.flickr.com/51/148293867_f7a7d6d393.jpg" width="333" height="500" alt="Omphalos Riding" /></a>
 

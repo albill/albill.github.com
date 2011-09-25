@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-07 10:07:01'
 layout: post
-title: Lovecraft, meet Tentacle Porn
-published: true
-meta: 
-  ljID: "3097"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Science Fiction
-type: post
+slug: lovecraft-meet-tentacle-porn
 status: publish
+title: Lovecraft, meet Tentacle Porn
+wordpress_id: '506'
+categories:
+- Science Fiction
 ---
 Lovecraft is spinning like a turbine in his grave.
 <A href="http://www.eos-press.com/spotlight-ctech.html">http://www.eos-press.com/spotlight-ctech.html</A>

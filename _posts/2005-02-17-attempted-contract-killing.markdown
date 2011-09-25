@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-17 00:32:37'
 layout: post
-title: Attempted Contract Killing
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: attempted-contract-killing
 status: publish
+title: Attempted Contract Killing
+wordpress_id: '401'
+categories:
+- Daily Life
 ---
 <p><b>Current Game Score:</b></p>
 <p>White Four Door Japanese Car - 1<br>

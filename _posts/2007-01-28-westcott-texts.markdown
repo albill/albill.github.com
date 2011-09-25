@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-28 20:13:13'
 layout: post
+slug: westcott-texts
+status: publish
 title: Westcott Texts
-published: true
-meta: 
-  ljID: "2383"
-tags: 
+wordpress_id: '1539'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 My copy of <strong>Yeats's Golden Dawn</strong> by George Mills Harper has not been a lot of use in my Golden Dawn research for my thesis. One appendix at the back has been useful. It is the catalogue of books in the "Westcott Hermetic Library" founded by...Westcott in 1891. The catalogue is from 1897 but it lists the books of the library, many of which would have been in Westcott's personal collection earlier.
 

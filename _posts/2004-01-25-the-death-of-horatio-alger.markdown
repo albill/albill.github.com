@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-25 01:03:00'
 layout: post
-title: The Death of Horatio Alger
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: the-death-of-horatio-alger
 status: publish
+title: The Death of Horatio Alger
+wordpress_id: '30'
+categories:
+- Society
 ---
 My leftist political views come to the front here. While I am college educated, as is my mother, her parents and at least two of my great-grandparents on that side, my father's family are all working class. My dad went to college and received a business degree after his back was permanently damaged in a shipyard accident. His father was a Teamster shop steward and most of my cousins are carpenters, ranchers or trade professions.
 

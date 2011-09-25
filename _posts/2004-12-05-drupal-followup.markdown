@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-05 02:33:06'
 layout: post
-title: Drupal Followup
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: drupal-followup
 status: publish
+title: Drupal Followup
+wordpress_id: '311'
+categories:
+- Technology
 ---
 So, I deleted the mysql tables for the <b>FileStore2</b> module (and the underlying <b>Fsrch</b> module that was likely to be the problem). I recreated the tables. Result: no change whatsoever.
 

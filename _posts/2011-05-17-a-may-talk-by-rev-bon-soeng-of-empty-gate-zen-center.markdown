@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-05-17 16:11:40'
 layout: post
+slug: a-may-talk-by-rev-bon-soeng-of-empty-gate-zen-center
+status: publish
 title: A May Talk by Rev. Bon Soeng of Empty Gate Zen Center
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3839"
-tags: 
+wordpress_id: '3753'
+categories:
 - Buddhism
+- Spirituality
+tags:
 - buddhism
 - empty gate
 - kwan um school of zen
-- Spirituality
 - zen
-type: post
-status: publish
 ---
 <a href="http://emptygatezen.com/">Empty Gate Zen Center</a> is my local instance of the <a href="http://www.kwanumzen.org/">Kwan Um School of Zen</a>. The lineage that I practice in is ultimately the same as theirs as we are all students of Zen Master Seung Sahn, who founded that school and who died a few years back. 
 

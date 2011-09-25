@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-20 00:18:48'
 layout: post
-title: The Sisters
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: the-sisters
 status: publish
+title: The Sisters
+wordpress_id: '1201'
+categories:
+- Daily Life
 ---
 My blessed wife was once one of the few female members of the Sisters of Perpetual Indulgence, a queer organization composed largely of gay men. Earlier today, she posted a <a href="http://www.flickr.com/photos/rerlin/sets/72157594291961420/">photo set</a> from her old albums including the photo below.
 

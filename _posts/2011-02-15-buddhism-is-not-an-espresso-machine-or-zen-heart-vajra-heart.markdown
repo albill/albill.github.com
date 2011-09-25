@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2011-02-15 17:59:46'
 layout: post
+slug: buddhism-is-not-an-espresso-machine-or-zen-heart-vajra-heart
+status: publish
 title: Buddhism is not an espresso machine or Zen Heart, Vajra Heart
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3744"
-tags: 
+wordpress_id: '3428'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I attended my first <a href="http://www.zenheartvajraheart.com/">Zen Heart, Vajra Heart</a> day-long workshop last weekend. This was taught by Lew Richmond, an heir of Suzuki Roshi, and Lama Palden Drolma, an empowered teacher in the lineage of Kalu Rinpoche. 
 

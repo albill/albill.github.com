@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-25 21:13:52'
 layout: post
-title: Housing Madness
-published: true
-meta: 
-  ljID: "2266"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: housing-madness
 status: publish
+title: Housing Madness
+wordpress_id: '1421'
+categories:
+- Daily Life
 ---
 R and I have been involved in the endless search for a house this week.
 

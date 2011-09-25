@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-10 21:39:00'
 layout: post
+slug: article-on-ritual-implements
+status: publish
 title: Article on Ritual Implements
-published: true
-meta: 
-  ljID: "2444"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '945'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This is a longish article on ritual implements in Tibetan Buddhism that I found exoticindiaart.com.
 <h2 align="center">Ritual Implements in Tibetan Buddhism:

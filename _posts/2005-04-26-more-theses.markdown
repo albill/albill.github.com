@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-04-26 01:31:40'
 layout: post
+slug: more-theses
+status: publish
 title: More Theses
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '455'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I&#39;m finding many more theses relevant to religion when I go digging back a 
 few years. Roughly 70 total in the program. Here are some of the more 

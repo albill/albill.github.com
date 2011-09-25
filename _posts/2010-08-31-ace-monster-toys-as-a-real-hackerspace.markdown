@@ -1,19 +1,16 @@
---- 
+---
+author: admin
+date: '2010-08-31 17:22:42'
 layout: post
+slug: ace-monster-toys-as-a-real-hackerspace
+status: publish
 title: Ace Monster Toys as a real hackerspace
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3666"
-tags: 
+wordpress_id: '3225'
+categories:
 - Daily Life
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4946348909/" title="ace-card by albill, on Flickr"><img src="http://farm5.static.flickr.com/4112/4946348909_d0001c5c6e_m.jpg" align="right" hspace="10" width="173" height="240" alt="ace-card" /></a> I've been meaning to post an update for <a href="http://www.acemonstertoys.org/display/AMT/Home">Ace Monster Toys</a>, the hackerspace that I co-founded recently in Berkeley. I last <a href="http://www.openbuddha.com/2010/06/17/ace-monster-toys-all-on-board/">posted about it</a> in mid-June. We had just elected our board and begun collecting dues while we were looking for a space to rent.
 

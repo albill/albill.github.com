@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-04-16 22:13:15'
 layout: post
+slug: current-life-and-finishing-the-term
+status: publish
 title: Current Life and Finishing the Term
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '445'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I haven&#39;t been reading a lot of weblogs for the last week nor have I really 
 been posting. If your life has been interesting but I haven&#39;t commented as 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-20 22:36:56'
 layout: post
+slug: the-blessing-of-the-internets
+status: publish
 title: The Blessing of the Internets
-published: true
-meta: 
-  ljID: "2871"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1949'
+categories:
 - Buddhism
 - Technology
-type: post
-status: publish
 ---
 My friend, <a href="http://technosattva.org/">Nathan</a>, recently hosted  teachings by a Tibetan Lama, <a href="http://www.kagyu.org/kagyulineage/teachers/tea28.php">Lama Samten</a>, in Seattle.
 

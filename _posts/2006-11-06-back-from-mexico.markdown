@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-06 00:49:55'
 layout: post
-title: Back from Mexico
-published: true
-meta: 
-  ljID: "2277"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: back-from-mexico
 status: publish
+title: Back from Mexico
+wordpress_id: '1432'
+categories:
+- Daily Life
 ---
 R and I are back from Mexico now. We left Cancun this morning and flew back to Oakland via Charlotte. That's a bit of a trip.
 

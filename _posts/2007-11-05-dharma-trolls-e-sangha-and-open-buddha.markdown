@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2007-11-05 02:20:37'
 layout: post
+slug: dharma-trolls-e-sangha-and-open-buddha
+status: publish
 title: Dharma Trolls, E-sangha, and Open Buddha
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "2959"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2037'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 I have a <a href="http://www.arcanology.com/2007/01/25/e-sangha-and-control-freaks/">post from the early part of 2007</a> that gets regular traffic and comments here on my blog. It is concerned with <a href="http://www.lioncity.net/buddhism/index.php">e-Sangha</a>, one of the larger (and one of the few successful) online forums for Buddhists, and the problems that I and others have had with it.
 

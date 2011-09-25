@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-31 01:57:15'
 layout: post
-title: Nonviolence and the Dharma
-published: true
-meta: 
-  ljID: "2387"
-tags: 
-- Buddhism
-type: post
+slug: nonviolence-and-the-dharma
 status: publish
+title: Nonviolence and the Dharma
+wordpress_id: '1543'
+categories:
+- Buddhism
 ---
 The issue of nonviolence is one that I struggle with, at least in my thoughts, when it comes to the Dharma.
 

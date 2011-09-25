@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-11 13:43:05'
 layout: post
-title: Update on Stuff
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: update-on-stuff
 status: publish
+title: Update on Stuff
+wordpress_id: '664'
+categories:
+- Daily Life
 ---
 I'm at the Denver International Airport right now. R is arriving on a plane  in a few minutes to give me help and support in dealing with my father's death,  apartment, legal process, etc.
 

@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2005-03-10 14:05:09'
 layout: post
+slug: dd-makes-you-weak-minded
+status: publish
 title: D&D Makes You Weak-Minded
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3232"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '417'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 From <a href="http://www.boingboing.net">BoingBoing Blog</a>:
 <strong>Israeli Army thinks D&amp;D players are weak-minded security risks</strong>

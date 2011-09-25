@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-02-26 16:05:00'
 layout: post
-title: Jesus Christ, Vampire Hunter
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: jesus-christ-vampire-hunter
 status: publish
+title: Jesus Christ, Vampire Hunter
+wordpress_id: '50'
+categories:
+- Humor
 ---
 <img height="446" src="http://www.filmthreat.com/UploadImages/jcvampirehunter1X.jpg" width="280" align="right" hspace="10" vspace="10" 4=""><b>JESUS CHRIST VAMPIRE  HUNTER (DVD)</b>
 by Eric  Campos

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-29 22:55:00'
 layout: post
-title: R and I saw Kill Bill
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: r-and-i-saw-kill-bill
 status: publish
+title: R and I saw Kill Bill
+wordpress_id: '93'
+categories:
+- Daily Life
 ---
 R and I saw <strong>Kill Bill, Vol. 2</strong> last night after work. People are right, as far as films go, it is a better film than the first volume. It is richer in plot and details. I am hoping that there is a director's cut of the two together at some point. This evening, after leaving work fairly late, I picked up Volume 1 on DVD at a local store. I just finished watching it again. I don't care what people say, I don't think Tarantino is being overly indulgent in it. It's a homage to the films I grew up seeing as a kid. At a guess, I think Tarantino is only about six or seven years older than me but I could be wrong. (Yes, the power of Google could tell me but I don't really give a shit.)
 

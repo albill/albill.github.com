@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-03-10 14:38:28'
 layout: post
+slug: review_of_two_recent_novels
+status: publish
 title: A review of two recent novels
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: "2702"
-  ljID: "3490"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2702'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3345286652/" title="Caryatids by albill, on Flickr"><img src="http://farm4.static.flickr.com/3356/3345286652_210ce0b542_m.jpg" border="1" align="right" width="157" height="240" alt="Caryatids" /></a> I recently purchased and read two new books by well known science fiction authors. These were <strong><a href="http://www.amazon.com/Caryatids-Bruce-Sterling/dp/0345460626/">The Caryatids</a></strong> by Bruce Sterling and <strong><a href="http://www.amazon.com/Cyberabad-Days-Ian-McDonald/dp/1591026997/">Cyberabad Days</a></strong> by Ian McDonald.
 

@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-10-06 23:35:32'
 layout: post
+slug: buddhist-studies-and-blogs
+status: publish
 title: Buddhist Studies and Blogs
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3584"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2869'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I wonder if there is something weird about the demographics of academic students of Buddhism or Buddhist Studies. Unlike a number of other disciplines that I can think of, there seem to be almost no blogs done by people working in Buddhist Studies. Out of those that blog, only one that I know of (<a href="http://earlytibet.com/">http://earlytibet.com</a>) is an actual academic blog.
 

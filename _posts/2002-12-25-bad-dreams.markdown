@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-25 14:29:00'
 layout: post
-title: Bad Dreams
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: bad-dreams
 status: publish
+title: Bad Dreams
+wordpress_id: '1065'
+categories:
+- Daily Life
 ---
 So, I went to bed late and woke up earlier than I had been on vacation. The net result of such things, of course, is that I woke up in the middle of my dream cycle. Normally, I don't remember most of my dreams. I've never made a point of recording them though I've thought about doing so for years.
 

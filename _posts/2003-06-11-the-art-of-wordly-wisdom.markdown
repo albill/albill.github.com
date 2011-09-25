@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-11 01:24:00'
 layout: post
-title: The Art of Wordly Wisdom
-published: true
-meta: 
-  ljID: "2463"
-tags: 
-- Daily Life
-type: post
+slug: the-art-of-wordly-wisdom
 status: publish
+title: The Art of Wordly Wisdom
+wordpress_id: '1600'
+categories:
+- Daily Life
 ---
 I&apos;m going to start posting aphorisms from <i>The Art of Worldly Wisdom</i> Baltasar Gracian. He was a Jesuit priest who lived in northeast Spain in the 17th century. The book consists of 300 pithy sayings, on politics, professional life, and personal development.
 

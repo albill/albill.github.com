@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-26 12:46:00'
 layout: post
-title: Warren Ellis on Googe's Orkut
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: warren-ellis-on-googes-orkut
 status: publish
+title: Warren Ellis on Googe's Orkut
+wordpress_id: '33'
+categories:
+- Technology
 ---
 This is from <a href="http://www.khephra.org/ct.ashx?id=99e869eb-13c2-4e16-a865-2d089718139f&url=http%3a%2f%2fboingboing.net%2f">BoingBoing Blog</a>:
 

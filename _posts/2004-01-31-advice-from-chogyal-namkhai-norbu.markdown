@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-31 01:16:00'
 layout: post
-title: "Advice from Ch\xC3\xB6gyal Namkhai Norbu"
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: advice-from-chogyal-namkhai-norbu
 status: publish
+title: Advice from Chögyal Namkhai Norbu
+wordpress_id: '38'
+categories:
+- Spirituality
 ---
 Namkahi Norbu is the primary Buddhist teacher that I follow. He is also one of the few that I would say “follow“ and really mean it in a whole hearted manner. Norbu brings a fresh breath of reality with him whenever he teaches without being an apologist for some of the “weirder“ seeming claims of Buddhism. You just get a sense of him being fairly bullshit free.
 

@@ -1,19 +1,14 @@
---- 
+---
+author: admin
+date: '2011-02-17 14:25:13'
 layout: post
+slug: question-about-kong-ans-koans-to-zen-master-bon-soeng
+status: publish
 title: Question About Kong-ans (koans) to Zen Master Bon Soeng
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3751"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3440'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This was posted on <a href="http://www.facebook.com/note.php?note_id=10150182849768312">facebook</a> today by <a href="http://emptygatezen.com">Empty Gate Zen Center</a>. As someone who is doing ongoing work with kong-ans (though I usually just use the colloquial American "koan" at this point), this spoke to me.
 

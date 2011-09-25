@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-21 13:34:33'
 layout: post
-title: The Rebirth of the Sun
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: the-rebirth-of-the-sun
 status: publish
+title: The Rebirth of the Sun
+wordpress_id: '645'
+categories:
+- Spirituality
 ---
 <h1 align="center">All Hail the Rebirth<br />of our Father, the Sun!</h1>
 

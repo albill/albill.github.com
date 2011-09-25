@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-13 14:37:00'
 layout: post
-title: "Bruce Sterling and Derek Woodgate: Tomorrow Now"
-published: true
-meta: {}
-
-tags: 
+slug: bruce-sterling-and-derek-woodgate-tomorrow-now
+status: publish
+title: 'Bruce Sterling and Derek Woodgate: Tomorrow Now'
+wordpress_id: '1307'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 A transcription from South by Southwest thinger that's been going on this last week... Sterling is one of my current heroes. ;-)
 

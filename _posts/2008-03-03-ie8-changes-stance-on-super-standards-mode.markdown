@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-03 16:58:58'
 layout: post
+slug: ie8-changes-stance-on-super-standards-mode
+status: publish
 title: IE8 Changes Stance on Super Standards Mode
-published: true
-meta: 
-  ljID: "3176"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2182'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2309131362/" title="ie7 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2190/2309131362_477f1682ae_o.png" border="0" align="right" width="150" height="150" alt="ie7" /></a>The IE team has just blogged that they are going to reverse their stance on the super standards mode not being the default rendering mode for IE8. They actually got Dean to write this post for the blog (he only gets to write the really important posts...) The reasoning does seem a bit..<em>odd</em>. The <a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx">blog post</a> states:
 <blockquote><strong>Why Change?</strong>

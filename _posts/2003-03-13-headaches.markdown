@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-13 04:06:00'
 layout: post
+slug: headaches
+status: publish
 title: Headaches
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1305'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, I run the Web Browser test team for Windows now. Who would have thought that the headaches would be this immediate? I've probably spent about six hours a day in meetings for the last three days and the rest of the week looks the same. There are a lot of people to coral into working with us and while none of this is necessarily an immediate crisis, no one has been driving any issues for months now. It's all basically been sitting under benign neglect.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-05 17:59:06'
 layout: post
-title: Black Iron Prison
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: black-iron-prison
 status: publish
+title: Black Iron Prison
+wordpress_id: '441'
+categories:
+- Spirituality
 ---
 <P>My wife is sick today. When I was leaving for work, she was watching <B>What Dreams May Come</B> starring Robin Williams. She was feeling underwhelmed by the movie.</P>
 <P>It reminded me of a thought that I was having a night or two ago. I've only seen a section of the movie before but it is clear that its vision of the afterlife is one of those Swedenborgian visions where the souls of the dead create their own heaven or hell from their worldview or, in a Buddhist sense, from the karma that they bring with them. It isn't imposed on them but something that they create. People are then able to deal with their issues or traumas and find some sort of peace.</P>

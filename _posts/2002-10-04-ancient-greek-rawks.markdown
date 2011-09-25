@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-04 01:20:00'
 layout: post
+slug: ancient-greek-rawks
+status: publish
 title: Ancient Greek Rawks
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '967'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Oh, how I'd forgotten the joys of the Greek alphabet. Well, no more!
 

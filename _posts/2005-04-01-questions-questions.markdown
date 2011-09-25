@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-01 23:34:54'
 layout: post
-title: Questions, Questions...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: questions-questions
 status: publish
+title: Questions, Questions...
+wordpress_id: '436'
+categories:
+- Daily Life
 ---
 <p>Do you ever look at the life you lead and wonder how you got here? Do you 
 think about the person that you once were and wonder who that person was? While 

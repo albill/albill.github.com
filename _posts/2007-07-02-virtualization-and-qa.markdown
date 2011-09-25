@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-02 16:53:05'
 layout: post
-title: Virtualization and QA
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _utw_tags_0: s:108:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"firefox";}i:1;O:8:"stdClass":1:{s:3:"tag";s:14:"virtualization";}}";
-tags: 
-- Mozilla
-type: post
+slug: virtualization-and-qa
 status: publish
+title: Virtualization and QA
+wordpress_id: '1801'
+categories:
+- Mozilla
 ---
 Part of the work that I'm doing in QA here right now is focusing on virtualization technologies. This is kind of a project I've taken on in order to help create a good environment for our day to day testing.
 

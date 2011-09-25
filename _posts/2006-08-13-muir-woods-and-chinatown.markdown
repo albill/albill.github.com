@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-13 00:53:15'
 layout: post
-title: Muir Woods and Chinatown
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: muir-woods-and-chinatown
 status: publish
+title: Muir Woods and Chinatown
+wordpress_id: '1162'
+categories:
+- Daily Life
 ---
 R and I took a drive out to the Muir Woods today. I had never been out there before.
 

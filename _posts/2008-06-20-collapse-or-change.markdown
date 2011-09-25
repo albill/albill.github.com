@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-20 02:30:23'
 layout: post
+slug: collapse-or-change
+status: publish
 title: Collapse or Change?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3300"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2245'
+categories:
 - Books
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2594291429/" title="Free Coffee by albill, on Flickr"><img src="http://farm4.static.flickr.com/3049/2594291429_f4165d7de4.jpg" border="1" width="500" height="405" alt="Free Coffee" /></a></p>
 I've been reading quite a few books that could be loosely gathered together into "Sustainable Living" (or, I prefer, "Mindful Living") and "Peak Oil" stacks.

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-11-01 01:55:10'
 layout: post
-title: Saul Williams' Niggy Tardust Album for Download!
-published: true
-meta: 
-  ljID: "2955"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: saul-williams-niggytardust-album-for-download
 status: publish
+title: Saul Williams' Niggy Tardust Album for Download!
+wordpress_id: '2033'
+categories:
+- Daily Life
 ---
 Saul Williams' new album, "<a href="http://niggytardust.com/">The Inevitable Rise and Liberation of Niggy Tardust!</a>", came out today.
 

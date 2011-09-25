@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-17 03:03:00'
 layout: post
-title: Scotch and Weekends
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: scotch-and-weekends
 status: publish
+title: Scotch and Weekends
+wordpress_id: '851'
+categories:
+- Daily Life
 ---
 These days, I seem to have the most time to post at the end of a weekend. Of course, considering that I left work at 10:20 PM Thursday night, my weeks haven't exactly been short...
 

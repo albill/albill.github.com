@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-08 18:27:00'
 layout: post
-title: Wow...I had no idea...
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Society
-type: post
+slug: wowi-had-no-idea
 status: publish
+title: Wow...I had no idea...
+wordpress_id: '1368'
+categories:
+- Society
 ---
 From <a href="http://www.korpios.org/resurgent/Coup.htm">http://www.korpios.org/resurgent/Coup.htm</a>
 

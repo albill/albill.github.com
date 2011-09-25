@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-07 17:11:09'
 layout: post
+slug: hey-buddy-can-you-spare-2500
+status: publish
 title: Hey Buddy, can you spare $2,500?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3286"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2237'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/344757591/" title="Fudo"><img src="http://farm1.static.flickr.com/138/344757591_570f4f782c_o.jpg" width="285" height="500" alt="Fudo" /></a></p>While out this morning to the library, I randomly just stopped by an antique store near my house. I'd vaguely seen it occasionally but I just decided, while driving past it, that I needed to go there. This was to the extent that I actually had to circle around the neighborhood in order to come by it again to park. Other than looking like a typical antique store, there was nothing remarkable about it.
 

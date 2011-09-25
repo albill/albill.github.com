@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-12 12:15:11'
 layout: post
-title: Should I be offended or amused?
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Humor
-type: post
+slug: should-i-be-offended-or-amused
 status: publish
+title: Should I be offended or amused?
+wordpress_id: '318'
+categories:
+- Humor
 ---
 Some weird intersection between D&amp;D and Gay Culture? :-)
 

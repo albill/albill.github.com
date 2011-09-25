@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-02 03:18:05'
 layout: post
-title: Gah!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: gah
 status: publish
+title: Gah!
+wordpress_id: '658'
+categories:
+- Daily Life
 ---
 We had a power surge, brownout and then blackout earlier today. After the power came back, my main computer, which was completely off during all of this, would give a "machine exception error" after I logged into my account on XP and then reboot. Neat.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-17 23:46:02'
 layout: post
-title: Japanese Dinner
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: japanese-dinner
 status: publish
+title: Japanese Dinner
+wordpress_id: '1166'
+categories:
+- Daily Life
 ---
 R and I had dinner with Kat, her boyfriend, and Lefty this evening. We met at a nice little Japanese restaurant in Japantown in San Francisco. En-no-gyoja is in town for a Linux conference and this is the first time we've seen him in person in a couple of years (he lives a bit further south normally).
 

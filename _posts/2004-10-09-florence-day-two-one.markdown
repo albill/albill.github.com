@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-09 06:20:03'
 layout: post
-title: Florence - Day Two (One?)
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: florence-day-two-one
 status: publish
+title: Florence - Day Two (One?)
+wordpress_id: '256'
+categories:
+- Daily Life
 ---
 Today, we got up early at our only somewhat dingy hotel (which is also a converted palazzo but not that nice ayway). We choked down the nastiest breakfast that I've had here and went out.
 

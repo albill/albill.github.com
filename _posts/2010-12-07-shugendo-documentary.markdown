@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-12-07 13:24:14'
 layout: post
+slug: shugendo-documentary
+status: publish
 title: Shugendo Documentary
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3712"
-tags: 
+wordpress_id: '3358'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I went to the International Buddhist Film Festival showcase in San Rafael last night. I didn't even know that the festival was occurring and missed a number of good films. I heard about it because I was looking at information on Shugendo and found out that there were three recent documentaries and, lo and behold, one was being shown the next day 30 minutes away from me!
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-17 20:55:28'
 layout: post
+slug: books-and-yoga
+status: publish
 title: Books and Yoga
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '639'
+categories:
 - Books
 - Spirituality
-type: post
-status: publish
 ---
 I stopped by Third Place Books near my home on the way back from seeing the  Aged Elders today. I picked up a couple of things:
 <ul>

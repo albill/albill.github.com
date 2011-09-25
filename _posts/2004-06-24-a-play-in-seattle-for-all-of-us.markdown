@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-24 22:04:15'
 layout: post
-title: A Play in Seattle for All of Us
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: a-play-in-seattle-for-all-of-us
 status: publish
+title: A Play in Seattle for All of Us
+wordpress_id: '152'
+categories:
+- Humor
 ---
 <body>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-24 00:15:00'
 layout: post
-title: Poetry
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: poetry
 status: publish
+title: Poetry
+wordpress_id: '1033'
+categories:
+- Daily Life
 ---
 I'm trying to remember a poem... I know it is well known and I've read it within the last year. I've heard it quoted off and on so I know it gets around.
 

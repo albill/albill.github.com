@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-23 05:24:35'
 layout: post
-title: Zojo-ji Temple
-published: true
-meta: 
-  ljID: "2874"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: zojo-ji-temple
 status: publish
+title: Zojo-ji Temple
+wordpress_id: '1952'
+categories:
+- Daily Life
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1427203465/" title="Photo Sharing">
 <img src="http://farm2.static.flickr.com/1312/1427203465_f6b9545481.jpg" alt="DSCF0116.JPG" height="375" width="500" /></a>

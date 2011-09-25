@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-24 19:12:54'
 layout: post
-title: Turkey Day '06
-published: true
-meta: 
-  ljID: "2303"
-tags: 
-- Daily Life
-type: post
+slug: turkey-day-06
 status: publish
+title: Turkey Day '06
+wordpress_id: '1458'
+categories:
+- Daily Life
 ---
 Yesterday was the infamous Turkey Day 2006. My daughter and mother are here visiting. They joined R and I at my in-laws' place in Berkeley for the festivities. Fairly normal activities across the board there.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-07 01:27:13'
 layout: post
+slug: d00d
+status: publish
 title: D00d...
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1156'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Man, I should not have had that half pot of coffee about, oh, 8:00 PM. I'm a bit too wired now and it's 11:20 PM or so. Not a good sign...
 

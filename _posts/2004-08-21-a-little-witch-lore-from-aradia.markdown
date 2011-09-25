@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-21 21:29:33'
 layout: post
-title: A Little Witch-lore from Aradia
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: a-little-witch-lore-from-aradia
 status: publish
+title: A Little Witch-lore from Aradia
+wordpress_id: '209'
+categories:
+- Esoteric
 ---
 <strong>Aradia</strong> is a famous text from the 19th century. Collected by Charles Leland, he purported it to be recorded from a witch he met in Italy. This isn't the modern witch-lore of the Wiccans but the more Christian-influenced, folk magic of previous centuries. It is not sweetness and light and, in fact, has much in common with the feeling of the common people towards their "betters" over the centuries so it includes quite a bit on cursing, poisoning and the like. It is still interesting and was quite influential on the rebirth of Witchcraft in the 20th century in the form of the modern religion of Wicca.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-16 00:49:52'
 layout: post
-title: Fire Arts Festival
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: fire-arts-festival
 status: publish
+title: Fire Arts Festival
+wordpress_id: '1137'
+categories:
+- Daily Life
 ---
 R and I went to the Fire Arts Festival put on by the Crucible last night. We met up with my recent friend, Autumn, and her husband. The event was quite a bit of fun. Lots of fire, lots of Burning Man derived or related art.
 

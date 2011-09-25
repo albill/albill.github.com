@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-10 14:23:00'
 layout: post
-title: For Stonemirror...
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: for-stonemirror
 status: publish
+title: For Stonemirror...
+wordpress_id: '101'
+categories:
+- Technology
 ---
 heh.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-06-26 13:09:45'
 layout: post
-title: Remodeling and House Work
-published: true
-meta: 
-  ljID: "3305"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: remodeling-and-house-work
 status: publish
+title: Remodeling and House Work
+wordpress_id: '2250'
+categories:
+- Daily Life
 ---
 This is a boring homeowner post. Be warned!
 

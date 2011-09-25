@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-02 18:14:12'
 layout: post
-title: 2007 in Review
-published: true
-meta: 
-  ljID: "3112"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: 2007-in-review
 status: publish
+title: 2007 in Review
+wordpress_id: '2151'
+categories:
+- Daily Life
 ---
 Now that it is 2008, I'm doing some year end (or year beginning) thinking about the last year.
 

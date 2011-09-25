@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-31 01:22:13'
 layout: post
+slug: lunch-with-the-dean
+status: publish
 title: Lunch with the Dean
-published: true
-meta: 
-  ljID: "2953"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2031'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 On a different note that many recent postings, I had lunch with <a href="http://www.shin-ibs.edu/people/staff/payne.php">Dr. Richard Payne</a> today (well, technically yesterday now). Dr. Payne is the Dean of the <a href="http://www.shin-ibs.edu">Institute  of Buddhist Studies</a> (IBS) and also the author of "<a href="http://www.worldcat.org/oclc/27428833">The Tantric ritual of Japan: feeding the gods, the Shingon fire ritual</a>." He is one of the few scholars of Buddhism in America to focus on Mikkyo, Japanese Esoteric Buddhism. He is the only one on the West Coast, as far as I know. As the title of his book mentions, it focuses on the Goma fire ritual, a core part of Mikkyo practice.
 

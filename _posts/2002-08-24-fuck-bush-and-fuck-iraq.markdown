@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-24 05:01:00'
 layout: post
+slug: fuck-bush-and-fuck-iraq
+status: publish
 title: Fuck Bush and Fuck Iraq
-published: true
-meta: 
-  _edit_last: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '926'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 Alright, so my title is a little inflamatory. I got in a fun near flamewar on a local list within the last couple of weeks because I was soliciting others to get together to protest any invasion of Iraq if it occured.
 

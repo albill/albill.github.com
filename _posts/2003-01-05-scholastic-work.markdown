@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-05 06:17:00'
 layout: post
+slug: scholastic-work
+status: publish
 title: Scholastic Work
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1231'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 While looking through the website for <a href="http://www.esoteric.msu.edu/">Esoterica</a>, I found a link for <a href="http://www.aseweb.org/">The Association for the Study of Esotericism</a>.
 

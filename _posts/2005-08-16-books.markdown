@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-16 21:04:27'
 layout: post
-title: Books!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: books
 status: publish
+title: Books!
+wordpress_id: '528'
+categories:
+- Daily Life
 ---
 <p>R and I stopped by Third Place Books the other day and I picked up a few 
 books there.</p>

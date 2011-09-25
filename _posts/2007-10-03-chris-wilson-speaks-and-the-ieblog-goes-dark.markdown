@@ -1,21 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-03 06:41:11'
 layout: post
+slug: chris-wilson-speaks-and-the-ieblog-goes-dark
+status: publish
 title: Chris Wilson Speaks and the IEBlog Goes Dark
-published: true
-meta: 
-  enclosure: |
-    http://media.sitepoint.com/presentations/2007-09-28_wds07chriswilson.mp3
-    9863504
-    audio/mpeg
-
-  ljID: "2886"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:72:"http://media.sitepoint.com/presentations/2007-09-28_wds07chriswilson.mp3";s:5:"title";s:34:"Kevin Yank Interviews Chris Wilson";s:4:"type";s:9:"audio_mp3";s:4:"size";s:7:"9863504";s:8:"duration";s:5:"20:33";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '1963'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I am certain that some Mozilla people may get tired of my mentioning Internet Explorer and their lack of communication but I do see a real issue here for the browser landscape as a whole.
 

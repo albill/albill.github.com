@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-10-24 19:20:00'
 layout: post
+slug: roman-virtues
+status: publish
 title: Roman Virtues
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '995'
+categories:
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I found two lists of Roman Virtues that don't quite match. I should look up the sources for these...
 

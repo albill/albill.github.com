@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-06 02:03:41'
 layout: post
-title: Sitting Groups in East Bay
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: sitting-groups-in-east-bay
 status: publish
+title: Sitting Groups in East Bay
+wordpress_id: '1103'
+categories:
+- Buddhism
 ---
 Now that I live in the East Bay, I want to find a group to sit with at least once a week.
 

@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-04-30 15:06:40'
 layout: post
+slug: ready-for-the-flu
+status: publish
 title: Ready for the Flu?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3525"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2769'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3489928676/" title="12_monkeys by albill, on Flickr"><img src="http://farm4.static.flickr.com/3334/3489928676_23ff401654_o.gif" border="0" align="right" width="139" height="181" alt="12_monkeys" /></a> Everyone is worked up about the new flu this week. I can't say that I've been immune to this either. As sick as I've been in the last six months, the prospect of another big disease coming around makes me worry about the state of my immune system. 
 

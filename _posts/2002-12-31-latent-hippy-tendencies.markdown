@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-31 06:36:00'
 layout: post
+slug: latent-hippy-tendencies
+status: publish
 title: Latent Hippy Tendencies
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3786"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1077'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I just found <a href="http://fic.ic.org/cmag/95/2595.html">this</a> online (while looking for information on the people mentioned here). I have the issue of <em>Communities</em> magazine with it from 1997 as well. Here are some better images of the structures from the article:
 

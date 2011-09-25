@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-17 22:50:20'
 layout: post
+slug: rocking-the-knight-away
+status: publish
 title: Rocking the Knight Away
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3328"
-tags: 
+wordpress_id: '2287'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2679366436/" title="heathledger_joker by albill, on Flickr"><img src="http://farm4.static.flickr.com/3275/2679366436_ab102366fe_o.jpg" width="470" height="311" alt="heathledger_joker" border="1" /></a></p>
 R and I got a special treat this evening. Courtesy of <a href="http://www.xoopit.com/">Xoopit</a>, a Bay Area tech startup, we attended a showing of <strong>The Dark Knight</strong> in San Francisco. A number of acquaintances of mine are going to midnight showings or to the regular opening day tomorrow but it was nice to get a chance to see it pre-opening day and without fighting the crowds to see it.

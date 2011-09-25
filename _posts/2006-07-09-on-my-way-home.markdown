@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-09 14:20:17'
 layout: post
+slug: on-my-way-home
+status: publish
 title: On my way home...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1128'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I am at the Cincinnati airport now (which Jim tells me is actually in Kentucky...). My flight doesn't leave for home for about three hours. Jim had to drop me off early for scheduling reasons with Daiun-Ji's activities today (that is the center here that he is running).
 

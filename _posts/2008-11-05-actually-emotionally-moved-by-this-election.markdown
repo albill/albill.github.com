@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-11-05 00:03:36'
 layout: post
-title: Actually Emotionally Moved By This Election
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3424"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: actually-emotionally-moved-by-this-election
 status: publish
+title: Actually Emotionally Moved By This Election
+wordpress_id: '2535'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/3003684903/" title="obama holo by albill, on Flickr"><img src="http://farm4.static.flickr.com/3022/3003684903_46be1214d8_o.jpg" width="450" height="368" alt="obama holo" border="1" /></a></p>
 You know, I can be as cynical as the next guy. It isn't hard in this day and age, especially in our scandal saturated environment of constant media. I was surprised to find, watching the election results this evening, that I was actually emotionally moved, and strongly, when it became clear that Obama will be our president. I really hadn't expected the surge of emotion that I felt with the results. So much for my jaded self.

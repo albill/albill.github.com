@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-17 23:38:52'
 layout: post
-title: Marriage
-published: true
-meta: 
-  ljID: "2627"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: marriage
 status: publish
+title: Marriage
+wordpress_id: '1730'
+categories:
+- Daily Life
 ---
 My friend, John Mueller, got married without telling anyone until after the fact recently. I blogged about this before. I've been pondering marriage. As my friends know, I'm married and have been since October, 2004. This is my second marriage. The first took place in June, 1994 and last until July, 1997.
 

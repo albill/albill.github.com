@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-11 05:21:00'
 layout: post
+slug: lakshmi-puja
+status: publish
 title: Lakshmi Puja
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
+wordpress_id: '1919'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 After a rather hectic day at work with my newly enlarged team (which is causing me severe headaches), <lj user="samajh"> and I managed to have a nice evening.</lj>
 

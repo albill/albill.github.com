@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-21 21:04:04'
 layout: post
-title: Some Wedding Photos
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3392"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: some-wedding-photos
 status: publish
+title: Some Wedding Photos
+wordpress_id: '290'
+categories:
+- Daily Life
 ---
 I scanned a few of the photos in from the wedding today. I've got a lot more to do though. Yikes.
 <p align="center"><a href="http://www.flickr.com/photos/albill/102494648/" title="al-rebecca-1 by albill, on Flickr"><img src="http://farm1.static.flickr.com/28/102494648_44b5712d2b.jpg" width="500" height="286" alt="al-rebecca-1" /></a><br>Me and R</p>

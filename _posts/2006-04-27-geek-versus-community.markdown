@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-04-27 02:34:17'
 layout: post
+slug: geek-versus-community
+status: publish
 title: Geek versus Community
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '753'
+categories:
 - Daily Life
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I'm signed up and ready to go to Mind Camp 2.0 this week. I've been pretty psyched about going to it. It is from noon on Saturday through noon on Sunday.
 

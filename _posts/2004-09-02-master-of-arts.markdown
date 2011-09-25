@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-02 23:50:38'
 layout: post
-title: Master of Arts
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: master-of-arts
 status: publish
+title: Master of Arts
+wordpress_id: '223'
+categories:
+- Daily Life
 ---
 <p>I filled out an application today for the Master of Arts in Humanities at
 <a href="http://www.csudh.edu/hux/">California State University, Dominguez Hills</a>. 

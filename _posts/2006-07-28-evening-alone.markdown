@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-28 23:25:21'
 layout: post
+slug: evening-alone
+status: publish
 title: Evening Alone
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1148'
+categories:
 - Academic
 - Books
 - Daily Life
-type: post
-status: publish
 ---
 The missus is off in Las Vegas with my mom. I'm hoping that I don't get a call to bail people out of jail...
 

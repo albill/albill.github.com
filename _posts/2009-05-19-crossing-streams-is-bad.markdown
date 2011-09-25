@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-05-19 09:17:49'
 layout: post
+slug: crossing-streams-is-bad
+status: publish
 title: Crossing Streams (is Bad)
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3532"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2782'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3545564433/" title="crossing-streams"><img src="http://farm4.static.flickr.com/3393/3545564433_73b2472ab6_o.jpg" width="474" height="290" alt="crossing-streams" /></a></div>
 Buddhist Geeks has finally crossed streams into my own past. They've posted an interview but not with a Buddhist this time but, instead, a practitioner of Western Magic (I have and always will refuse to use "magick" as a word). The interview is <a href="http://personallifemedia.com/podcasts/236-buddhist-geeks/episodes/46038-great-work-western">The Great Work of Western Magick</a> (sic) and the interview is with Alan Chapman, whom I don't know. He is co-running a site, <a href="http://openenlightenment.org/">Open Enlightenment</a>.

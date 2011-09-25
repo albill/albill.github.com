@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-14 01:23:50'
 layout: post
-title: Hypnosis to Control Pain
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: hypnosis-to-control-pain
 status: publish
+title: Hypnosis to Control Pain
+wordpress_id: '635'
+categories:
+- Spirituality
 ---
 <p>This was found at <a href="http://news.bbc.co.uk/go/pr/fr/-/1/hi/health/4524138.stm"> http://news.bbc.co.uk/go/pr/fr/-/1/hi/health/4524138.stm</a>.</p>
 <p>This doesn't really surprise me. My grandmother, a retired nurse, practiced hypnosis as part of her work with hospice patients to control pain. Later on, she used it on herself to control pain. I know that she had dental work (drilling) done without any anesthesia by hypnotizing herself...</p>

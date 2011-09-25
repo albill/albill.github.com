@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-09-14 07:43:47'
 layout: post
+slug: acalanatha-in-soto-zen
+status: publish
 title: Acalanatha in Soto Zen?
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1193'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I had an interesting and odd conversation following Aikido last night. One of my fellow students had heard that I was a Buddhist and wanted to chat with me a little about it. (This was a casual thing as we were doing clean up and happened to be working in the same area.)
 

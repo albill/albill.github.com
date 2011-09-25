@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2010-04-09 10:00:31'
 layout: post
+slug: zen-and-the-art-of-dating
+status: publish
 title: Zen and the Art of Dating
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3116'
+categories:
 - Buddhism
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 <em>This is a guest post by <a href="http://zenfant.wordpress.com/about-zenfant/">Shane</a> as part of the <a href="http://preciousmetal.wordpress.com/2010/03/22/article-swap-pt-3-pairings-announced/">article swap, part 3</a> within the Buddhist blogoshphere. I am posting over at <a href="http://peacegroundzero.wordpress.com/">Peace Ground Zero</a> today. - Al</em>
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-27 00:36:00'
 layout: post
+slug: sweet-2
+status: publish
 title: Sweet!!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1260'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I didn't even know this was coming out!
 

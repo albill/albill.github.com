@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-20 20:35:15'
 layout: post
+slug: ten-tons-of-flax
+status: publish
 title: Ten Tons of Flax!
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3219"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2208'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2430374654/" title="veil-of-the-sanctuary by albill, on Flickr"><img src="http://farm3.static.flickr.com/2208/2430374654_4bd006a6ea.jpg" border="1" width="316" height="500" alt="veil-of-the-sanctuary" /></a></p>
 It is amazing the amount of drek that is on the Internet sometimes. I was thinking about the Hermetic Order of the Golden Dawn today and my thesis. Since I put it up on <a href="http://www.lulu.com">Lulu</a> as a free download, I happened to go there. I then made the mistake of doing a search there on <a href="http://www.lulu.com/browse/search.php?fSubmitSearch=1&fSearch=golden+dawn&fPageNumber=7">

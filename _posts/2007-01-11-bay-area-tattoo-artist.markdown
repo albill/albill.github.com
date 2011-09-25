@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-11 16:38:45'
 layout: post
-title: Bay Area Tattoo Artist
-published: true
-meta: 
-  ljID: "2362"
-tags: 
-- Daily Life
-type: post
+slug: bay-area-tattoo-artist
 status: publish
+title: Bay Area Tattoo Artist
+wordpress_id: '1517'
+categories:
+- Daily Life
 ---
 To my few readers,
 

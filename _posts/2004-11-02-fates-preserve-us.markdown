@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-02 23:10:41'
 layout: post
-title: Fates Preserve Us
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: fates-preserve-us
 status: publish
+title: Fates Preserve Us
+wordpress_id: '277'
+categories:
+- Society
 ---
 <p>Oh gods. I&#39;m on my last beer and it isn&#39;t enough. Why do I live in a country 
 of morons?</p>

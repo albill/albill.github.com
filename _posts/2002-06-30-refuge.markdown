@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-30 22:53:00'
 layout: post
+slug: refuge
+status: publish
 title: Refuge
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '868'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Well, I took Refuge this morning at the <a href="http://www.sakya.org">Sakya Monastery</a> in Seattle from His Holiness Jigdal Dagchen Sakya.  was in attendance hiding in the back of the room. My Tibetan name is "Gunga Dendar."
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-08 00:50:09'
 layout: post
-title: Santa Cruz Saturday
-published: true
-meta: 
-  ljID: "2643"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: santa-cruz-saturday
 status: publish
+title: Santa Cruz Saturday
+wordpress_id: '1743'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/753056040/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1117/753056040_187111bf6e_m.jpg" alt="Al &amp; R on the Double Shot" align="right" height="179" width="240" /></a>R suggested on Friday that we go have a "fun day" out this weekend. We decided to go to Santa Cruz's boardwalk, which we had gone to a few years ago, before we moved here.
 

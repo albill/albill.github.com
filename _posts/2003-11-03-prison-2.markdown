@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-11-03 02:52:00'
 layout: post
+slug: prison-2
+status: publish
 title: Prison
-published: true
-meta: 
-  ljID: "2895"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1972'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I spent about 11 hours or so at McNeil Island yesterday, which is one of the Washington State Prisons. I went out there with <lj user="m7o7n7k"> for the Samhain celebration of the Wiccan group there. M7o7n7k is the sponsor of the group and generally goes out there on a monthly basis to lead a study group. Each religious group is allowed to pick an annual holiday (like Christmas Day) for a banquet for family and visitors to come out to and this group picked Samhain as their holiday.</lj>
 

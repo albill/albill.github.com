@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-24 22:42:58'
 layout: post
-title: San Francisco Chinatown
-published: true
-meta: 
-  ljID: "2304"
-tags: 
-- Daily Life
-type: post
+slug: san-francisco-chinatown
 status: publish
+title: San Francisco Chinatown
+wordpress_id: '1459'
+categories:
+- Daily Life
 ---
 My mother and daughter had never been to the Chinatown in San Francisco so we spent the day out there and also paid a visit to Japantown.
 

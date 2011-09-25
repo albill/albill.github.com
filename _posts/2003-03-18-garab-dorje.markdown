@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-18 20:37:00'
 layout: post
+slug: garab-dorje
+status: publish
 title: Garab Dorje
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1315'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 So I attended the Anniversary of Garab Dorje practices with the Dzogchen Community in Seattle last night. The Dzogchen Community is the organization that Namkhai Norbu runs, for those not familiar with it. Norbu has a lot going for him, especially a desire not to play into the political games of a lot of groups and their sectarianism. I plan on attending a retreat with him this fall and meeting the local group and learning some of the practices is a good beginning towards this end.
 

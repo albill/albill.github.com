@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-06 23:25:13'
 layout: post
-title: Japanese Cinema
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: japanese-cinema
 status: publish
+title: Japanese Cinema
+wordpress_id: '312'
+categories:
+- Daily Life
 ---
 R and I watched <strong><a href="http://www.imdb.com/title/tt0364385/">Ju-On: The Grudge</a></strong> tonight. We had rented it and <strong>Ultraviolet</strong>, a short-live British show about a clandestine organization fighting vampires, from Scarecrow
 Video. We picked up a new progressive scan, region free DVD player too. My Apex, able to be hacked for any region, had finally given up the ghost after having served me well since 1998 or so. Given the foreign DVDs that we have, we had to have something. An early Christmas gift.

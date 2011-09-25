@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-04-11 04:14:00'
 layout: post
-title: Yay! We're in the Stranger!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: yay-were-in-the-stranger
 status: publish
+title: Yay! We're in the Stranger!
+wordpress_id: '783'
+categories:
+- Daily Life
 ---
 <a href="http://www.thestranger.com/current/theater_listings.html">http://www.thestranger.com/current/theater_listings.html</a>
 

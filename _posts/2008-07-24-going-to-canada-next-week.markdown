@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-24 11:10:25'
 layout: post
+slug: going-to-canada-next-week
+status: publish
 title: Going to Canada Next Week
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3333"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2310'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a title="Mozilla Summit 2008 by albill, on Flickr" href="http://www.flickr.com/photos/albill/2696319777/"><img src="http://farm4.static.flickr.com/3138/2696319777_1575533259.jpg" alt="Mozilla Summit 2008" width="375" height="500" /></a></p>
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-27 20:14:20'
 layout: post
+slug: gre-mood-swings
+status: publish
 title: GRE Mood Swings
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2496'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2894203246/" title="First Steps by albill, on Flickr"><img src="http://farm3.static.flickr.com/2274/2894203246_5fb96e42c2.jpg" width="236" height="320" align="right" border="1" hspace="10" alt="First Steps" /></a> I just got out of taking the <a href="http://www.ets.org/gre/">Graduate Record Exam</a> (GRE) an hour ago. For those that never paid attention or simply didn't care, this is, effectively, the graduate school equivalent of the SAT for most people (leaving aside GMAT and other things). It is divided into three sections: verbal, quantitative, and analytical. 
 

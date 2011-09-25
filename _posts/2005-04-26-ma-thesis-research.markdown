@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-04-26 00:33:49'
 layout: post
+slug: ma-thesis-research
+status: publish
 title: MA Thesis Research
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '454'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, I finally got access to the online library at my program. This allows me to connect to California State University, Dominguez Hills' online access. This, in turn, gave me access to UMI. 
 

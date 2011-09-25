@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2011-02-17 13:32:45'
 layout: post
+slug: a-letter-from-kanzeon-zen-center-concerning-genpo-merzel
+status: publish
 title: A Letter from Kanzeon Zen Center Concerning Genpo Merzel
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3750"
-tags: 
+wordpress_id: '3430'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 As many of you have heard, Genpo Merzel of Kanzeon Zen Center and Big Mind disrobed recently on the revelation that he had been having an affair with one of his senior students and Dharma heirs. You can read about it on <a href="http://sweepingzen.com/2011/02/07/dennis-genpo-merzel-disrobes-as-a-zen-priest/">Sweeping Zen</a> as well as other places. I have refrained from comment so far as so many others were doing so and because I felt that, by and large, Genpo was doing the right thing by acknowledging his actions, disrobing as a priest, resigning as a White Plum Asanga elder, and going into therapy.
 

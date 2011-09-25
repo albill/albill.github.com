@@ -1,15 +1,16 @@
---- 
+---
+author: admin
+date: '2006-10-08 11:44:51'
 layout: post
-title: Parallels between Vajrayana and Western Magic in the Maha-Vairocana Abhisambodhi Tantra
-published: true
-meta: {}
-
-tags: 
+slug: parallels-between-vajrayana-and-western-magic-in-the-maha-vairocana-abhisambodhi-tantra
+status: publish
+title: Parallels between Vajrayana and Western Magic in the Maha-Vairocana Abhisambodhi
+  Tantra
+wordpress_id: '1223'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I've been reading a translation of the Maha-Vaircocana Abhisambodhi Tantra by Stephen Hodges. This is one of the root tantras used in China (when Tantric Buddhism existed there) and Japan. The ritual work that I do is ultimately derived from it along with some other sources. In my experience within the Tibetan tradition, since translations of the tantras are so uncommon, most people have never read them. In that tradition as well, given a thousand years of commentary and elaboration, many lamas seem not to bother either. They focus on the later material.
 

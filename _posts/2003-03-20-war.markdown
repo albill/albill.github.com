@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-20 04:24:00'
 layout: post
-title: War
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: war
 status: publish
+title: War
+wordpress_id: '1318'
+categories:
+- Society
 ---
 I have no funny positive things to say here.
 

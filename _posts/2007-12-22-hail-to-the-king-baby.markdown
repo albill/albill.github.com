@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-22 03:28:06'
 layout: post
+slug: hail-to-the-king-baby
+status: publish
 title: Hail to the King, Baby
-published: true
-meta: 
-  ljID: "3090"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2144'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 On this longest night of the year, I look into the darkness and await the dawning of the light.
 

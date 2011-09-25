@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-05 00:09:11'
 layout: post
+slug: a-vision-of-loss
+status: publish
 title: A Vision of Loss
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1218'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I weep for the nation of our dreams.
 

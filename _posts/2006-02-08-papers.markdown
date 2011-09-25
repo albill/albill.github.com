@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-08 01:16:42'
 layout: post
+slug: papers
+status: publish
 title: Papers
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '681'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I turned in my first paper for my Greek thought class last week. It was pretty short and I was relatively happy with it. It takes me about eight pages to really get a heard of steam on something so these shorter papers always make me feel like I'm leaving things out.
 

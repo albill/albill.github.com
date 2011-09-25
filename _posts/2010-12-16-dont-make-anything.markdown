@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2010-12-16 13:07:34'
 layout: post
+slug: dont-make-anything
+status: publish
 title: Don't Make Anything
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3713"
-tags: 
+wordpress_id: '3368'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/3710957239/" title="zen_motivational_poster by albill, on Flickr"><img src="http://farm4.static.flickr.com/3520/3710957239_77543c1ba5.jpg" width="457" height="500" alt="zen_motivational_poster" /></a></p>
 I came across part of the following quote today in comments on Jack Daw's blog post, <a href="http://greatplainsbuddha.com/the-enlightenment-of-ghouls">The Enlightenment of Ghouls</a>. Jack posted about his disillusionment with many Buddhists and their materialism and attachment.

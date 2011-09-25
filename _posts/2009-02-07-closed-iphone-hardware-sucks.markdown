@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2009-02-07 14:52:46'
 layout: post
+slug: closed-iphone-hardware-sucks
+status: publish
 title: Closed iPhone Hardware Sucks
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3468"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2652'
+categories:
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
+tags:
+- Hacking
 ---
 I love my iPhone. I resisted getting one initially because many of my coworkers at Mozilla (and people elsewhere) gushed endlessly about it. Eventually, after playing with one, I did purchase one. I can say that having it has affected my usage of the net in ways that nothing else has in many years.
 

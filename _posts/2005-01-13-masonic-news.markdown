@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-13 22:56:09'
 layout: post
-title: Masonic News
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: masonic-news
 status: publish
+title: Masonic News
+wordpress_id: '367'
+categories:
+- Daily Life
 ---
 As I mentioned the other day, I met with the Masons this last weekend to be interviewed for becoming a member. 
 

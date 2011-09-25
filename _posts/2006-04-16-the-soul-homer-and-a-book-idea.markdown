@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-04-16 16:03:34'
 layout: post
+slug: the-soul-homer-and-a-book-idea
+status: publish
 title: The Soul, Homer, and a Book Idea
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '741'
+categories:
 - Academic
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 I have about five and a half pages done of my draft of this last paper.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-15 23:25:36'
 layout: post
-title: Kitties and the Mouse
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: kitties-and-the-mouse
 status: publish
+title: Kitties and the Mouse
+wordpress_id: '286'
+categories:
+- Daily Life
 ---
 <p>Took Freya (my female cat) in for x-rays tonight. We&#39;ll know whether her 
 mammary cancer has spread tomorrow. Even if it hasn&#39;t, the tumors are large 

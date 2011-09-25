@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-05-26 01:20:13'
 layout: post
+slug: paper-finished-and-summer-plans
+status: publish
 title: Paper Finished and Summer Plans
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3272"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2229'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2523155407/" title="taizokai-vairocana by albill, on Flickr"><img src="http://farm3.static.flickr.com/2329/2523155407_482e157abd.jpg" width="391" border="1" height="500" alt="taizokai-vairocana" /></a></p>
 I finished the first full and largely complete draft of my term paper for my esoteric Buddhism class today. It came in at 28 pages but one must remember, since we're using footnotes for citations, that anywhere from a half to full inch at the bottom of many pages is taken up by footnotes.

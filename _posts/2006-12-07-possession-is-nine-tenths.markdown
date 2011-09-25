@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-07 01:18:14'
 layout: post
-title: Possession is Nine Tenths
-published: true
-meta: 
-  ljID: "2321"
-tags: 
-- Daily Life
-type: post
+slug: possession-is-nine-tenths
 status: publish
+title: Possession is Nine Tenths
+wordpress_id: '1474'
+categories:
+- Daily Life
 ---
 I went to the hospital today and picked up the keys to the house.
 

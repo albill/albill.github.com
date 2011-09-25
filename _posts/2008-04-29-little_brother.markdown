@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2008-04-29 16:23:32'
 layout: post
+slug: little_brother
+status: publish
 title: Little Brother is Out
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: "2214"
-  ljID: "3233"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:103:"http://www.archive.org/download/SFinSF_Cory_Doctorow_and_Rudy_Rucker/SFinSF_1_Cory_Doctorow_256_vbr.mp3";s:5:"title";s:53:"Cory Doctorow Reading from Little Brother at SF in SF";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"36768876";s:8:"duration";s:5:"27:15";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '2214'
+categories:
 - Books
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 I've been waiting to read <a href="http://www.craphound.com">Cory Doctorow's</a> new book, <strong><a href="http://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765319853">Little Brother</a></strong>, since I first heard him talk about it. He did a reading from it last year at <strong><a href="http://www.sfinsf.org/">SF in SF</a></strong>, a local Science Fiction salon (who are unable to provide an RSS feed for events...). 
 

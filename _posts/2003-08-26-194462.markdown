@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-26 17:58:00'
 layout: post
-title: "194462"
-published: true
-meta: 
-  ljID: "2794"
-tags: 
-- Daily Life
-type: post
+slug: '194462'
 status: publish
+title: '194462'
+wordpress_id: '1870'
+categories:
+- Daily Life
 ---
 From <a href="http://www.darkecho.com/JohnShirley/mental.html">http://www.darkecho.com/JohnShirley/mental.html</a>
 <p><font size="+1">Mental State of the Union</p>

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-06 22:36:36'
 layout: post
+slug: podcasting-and-questions
+status: publish
 title: Podcasting and Questions
-published: true
-meta: 
-  ljID: "2520"
-tags: 
+wordpress_id: '1656'
+categories:
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I now have the item of recording equipment (a Zoom H4) that I wanted for podcasting and other activities. We did a test run with it tonight, realized one or two gotchas (it will overwrite files if you turn the power off and back on) but quality is good.
 

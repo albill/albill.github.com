@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-26 21:52:00'
 layout: post
-title: Electronic Paper
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: electronic-paper
 status: publish
+title: Electronic Paper
+wordpress_id: '72'
+categories:
+- Technology
 ---
 The first electronic paper products finally seem to be coming to market. I will probably splurge and get one of these if the reviews say that it doesn't suck... From the BBC:
 

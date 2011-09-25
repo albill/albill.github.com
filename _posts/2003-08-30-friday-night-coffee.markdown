@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-30 05:21:00'
 layout: post
-title: Friday Night Coffee
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: friday-night-coffee
 status: publish
+title: Friday Night Coffee
+wordpress_id: '1877'
+categories:
+- Daily Life
 ---
 I was going to bail from work early with it being a three day weekend and all but I started talkign to Dianthus <lj user="minim_calibre"> in e-mail at work. She just started working on campus again this last week. In any case, it seemed like a good excuse to get coffee since we haven't chatted much in the last few months outside of my BBQ the other week. </lj>
 

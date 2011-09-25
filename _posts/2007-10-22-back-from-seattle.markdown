@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-22 00:16:42'
 layout: post
-title: Back from Seattle
-published: true
-meta: 
-  ljID: "2943"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: back-from-seattle
 status: publish
+title: Back from Seattle
+wordpress_id: '2020'
+categories:
+- Daily Life
 ---
 I'm back from my short trip to Seattle for my grandfather's 80th birthday. I spent Saturday seeing my grandparents, my daughter, my uncles and their families. I haven't seen some of them in quite a few years, even though it doesn't ever seem that long. It is clearer with my cousins, who are all about 18 to 25 years younger than me, since they change so much from the times I've seen them last. I even saw my brother and his wife for the first time since my wedding.
 <p style="text-align: center"><a href="http://www.flickr.com/photo_zoom.gne?id=285456416&amp;size=m"><img src="http://farm1.static.flickr.com/113/285456416_21c757ce74.jpg" border="1" /></a></p>

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-23 16:55:02'
 layout: post
-title: Abuse of a Franchise
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: abuse-of-a-franchise
 status: publish
+title: Abuse of a Franchise
+wordpress_id: '150'
+categories:
+- Humor
 ---
 Is George Lucas happy now?
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-16 11:53:30'
 layout: post
+slug: cheaply-printing-a-book
+status: publish
 title: Cheaply Printing a Book?
-published: true
-meta: 
-  ljID: "2293"
-tags: 
+wordpress_id: '1448'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I'm interested in exploring the costs of cheaply printing a book. This is part of my thoughts around a Burning Man project.
 

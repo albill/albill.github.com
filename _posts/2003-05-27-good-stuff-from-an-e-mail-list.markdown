@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-05-27 16:30:00'
 layout: post
+slug: good-stuff-from-an-e-mail-list
+status: publish
 title: Good Stuff from an E-mail List
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1395'
+categories:
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 This was sent to mock the original poster by another member of this e-mail list I'm on but I think it stands well on its ow n...
 

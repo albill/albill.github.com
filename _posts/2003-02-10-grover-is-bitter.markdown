@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-10 20:34:00'
 layout: post
-title: Grover is Bitter
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: grover-is-bitter
 status: publish
+title: Grover is Bitter
+wordpress_id: '1273'
+categories:
+- Humor
 ---
 It seems to be my day for posting. ;-)
 

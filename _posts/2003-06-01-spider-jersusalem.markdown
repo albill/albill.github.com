@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-01 05:12:00'
 layout: post
-title: Spider Jersusalem
-published: true
-meta: 
-  ljID: "2449"
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: spider-jersusalem
 status: publish
+title: Spider Jersusalem
+wordpress_id: '1586'
+categories:
+- Daily Life
 ---
 So, I've never read <strong>Transmetropolitan</strong> before. This is a rather kick ass (and now defunct) comic series by Warren Ellis (<a href="http://diepunyhumans.com">http://www.diepunyhumans.com</a>) about a sociopathic journalist in some non-future named "Spider Jerusalem." This is despite the fact that I read Warren's RSS feed from his site and am on his badsignal e-mail list. Weird, eh?
 

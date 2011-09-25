@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-30 23:19:00'
 layout: post
+slug: refuge-vows
+status: publish
 title: Refuge Vows
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '869'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I was pondering the refuge vows today a bit. There is the vow to not take refuge in worldly deities. When His Holiness was explaining this, the main bit was about deities of this world but the specific example was deities such as those that people make blood offerings to (such as animal sacrifice) being forbidden. I know that this is a more complex situation than that and I thought people might have some thoughts.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-10 02:43:31'
 layout: post
-title: Things to make you paranoid...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: things-to-make-you-paranoid
 status: publish
+title: Things to make you paranoid...
+wordpress_id: '682'
+categories:
+- Daily Life
 ---
 I called home on my way to my masonic lodge this evening. R had just gotten home and said "Hey, did you call? I can hear a message is waiting." (Our new phone system chirps when a message is waiting.) I told her that I hadn't called and I asked her to play it in case it was something important. With all of my dad's stuff going on and with someone coming from out of town to crash with me tomorrow for the retreat, who knows?
 

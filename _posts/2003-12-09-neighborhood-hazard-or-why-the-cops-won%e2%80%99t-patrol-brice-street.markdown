@@ -1,13 +1,15 @@
 --- 
+author: admin
+date: '2009-11-16 14:20:30'
 layout: post
-title: "Neighborhood Hazard (or: Why the Cops Won\xE2\x80\x99t Patrol Brice Street)"
-published: true
-meta: 
-  ljID: "2983"
-tags: 
-- Daily Life
-type: post
+slug: dharmapalooza-2009-%e2%80%93-day-3
 status: publish
+title: Dharmapalooza 2009 – Day 3
+wordpress_id: '2925'
+categories:
+- Buddhism
+- Daily Life
+- Spirituality
 ---
 Quoted in entirety from <a href="http://cuagain.manilasites.com/discuss/msgReader%24287?mode=day">here</a>. This was so funny that I had to share:
 

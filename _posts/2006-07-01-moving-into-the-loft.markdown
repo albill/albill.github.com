@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-01 20:41:40'
 layout: post
-title: Moving into the Loft
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: moving-into-the-loft
 status: publish
+title: Moving into the Loft
+wordpress_id: '1125'
+categories:
+- Daily Life
 ---
 We received our keys to the loft today. We now have a permanent home in Oakland.
 

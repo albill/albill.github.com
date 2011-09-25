@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-24 14:22:28'
 layout: post
-title: The Philosophy of Time Travel
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Science Fiction
-type: post
+slug: the-philosophy-of-time-travel
 status: publish
+title: The Philosophy of Time Travel
+wordpress_id: '377'
+categories:
+- Science Fiction
 ---
 I like Donnie Darko. I like it a lot. 
 

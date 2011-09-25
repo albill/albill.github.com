@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-12 01:41:28'
 layout: post
-title: Almost Done...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: almost-done
 status: publish
+title: Almost Done...
+wordpress_id: '1080'
+categories:
+- Daily Life
 ---
 I have crafted my "Goodbye" post for the Internet Explorer blog (the IEBlog) and tomorrow is my last day at Microsoft. I have my exit interview in the mid-afternoon and I plan to leave after that (besides, they take my badge and parking pass then...).
 

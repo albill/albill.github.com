@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-05-12 23:50:31'
 layout: post
-title: Two Years!
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3256"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: two-years
 status: publish
+title: Two Years!
+wordpress_id: '2223'
+categories:
+- Daily Life
 ---
 I realized today that it had been two years, to the day, since I quit Microsoft. In most ways, it doesn't seem like it has been quite that long but in others, it has. This means that we'll have been living in the Bay Area for two years next month as well. 
 

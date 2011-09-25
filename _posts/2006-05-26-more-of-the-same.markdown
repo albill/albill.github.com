@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-26 15:58:57'
 layout: post
-title: More of the same...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: more-of-the-same
 status: publish
+title: More of the same...
+wordpress_id: '1094'
+categories:
+- Daily Life
 ---
 Last night, I spent the evening with my dad's family (my dad's uncle who owns a big house here, his kids and grandkids, and my grandfather). It was the birthday of my dad's cousin.
 

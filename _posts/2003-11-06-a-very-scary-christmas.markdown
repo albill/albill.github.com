@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-06 04:31:00'
 layout: post
-title: A Very Scary Christmas
-published: true
-meta: 
-  ljID: "2900"
-tags: 
-- Daily Life
-type: post
+slug: a-very-scary-christmas
 status: publish
+title: A Very Scary Christmas
+wordpress_id: '1977'
+categories:
+- Daily Life
 ---
 A little Cthulu for Christmas...
 <a href="http://www.cthulhulives.org/solstice/">http://www.cthulhulives.org/solstice/</a>

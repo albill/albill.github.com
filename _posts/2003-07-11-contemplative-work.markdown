@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-11 16:33:00'
 layout: post
-title: Contemplative Work
-published: true
-meta: 
-  ljID: "2494"
-tags: 
-- Daily Life
-type: post
+slug: contemplative-work
 status: publish
+title: Contemplative Work
+wordpress_id: '1632'
+categories:
+- Daily Life
 ---
 I&apos;m finding myself more and more in tune with contemplative work and meditation these days as opposed to just magical ritual for its own sake. 
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-05-05 18:15:00'
 layout: post
+slug: i-suck
+status: publish
 title: I suck!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '814'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 So, I was supposed to go to the Shitro empowerment with  but I had a sudden attack of lameness and got up waaay to late to make it there. I got this wonderful e-mail from her a short while ago telling me how cool it was. Joy. I suck.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-29 11:43:39'
 layout: post
-title: The House
-published: true
-meta: 
-  ljID: "2309"
-tags: 
-- Daily Life
-type: post
+slug: the-house
 status: publish
+title: The House
+wordpress_id: '1462'
+categories:
+- Daily Life
 ---
 We signed paperwork this morning at the title company. As of December 6, we will be moving into our new house in Oakland that I've posted about previously. We are now Bay Area home owners (for better or worse).
 

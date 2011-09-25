@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-06 16:19:57'
 layout: post
-title: Presidential Humor
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: presidential-humor
 status: publish
+title: Presidential Humor
+wordpress_id: '415'
+categories:
+- Humor
 ---
 This was found at <A href="http://truenames.blogspot.com/2005/03/if-only-it-werent-joke.html">http://truenames.blogspot.com/2005/03/if-only-it-werent-joke.html</A>
 

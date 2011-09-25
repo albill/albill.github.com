@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-29 06:23:17'
 layout: post
-title: Kyoto Fun
-published: true
-meta: 
-  ljID: "2882"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: kyoto-fun
 status: publish
+title: Kyoto Fun
+wordpress_id: '1959'
+categories:
+- Daily Life
 ---
 I'm not going to take a lot of time to post tonight. The weather finally broke here so instead of being 85 degrees with high humidity (and sweat running down the insides of your clothing), it was overcast, slightly rainy at times, and about 70 degrees. That was a nice change. Since I'm from Seattle originally, a little rain doesn't bother me but the heat really does. <lj-cut text="read the rest...">
 

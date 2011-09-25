@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-10-24 19:03:00'
 layout: post
+slug: esoteric-government
+status: publish
 title: Esoteric Government
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '994'
+categories:
 - Esoteric
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 This is an old essay by W.E. Butler on lodge structure and government. You may find it interesting (or not!)
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-28 00:52:01'
 layout: post
+slug: more-ie-comments-from-dave-massy
+status: publish
 title: More IE Comments from Dave Massy
-published: true
-meta: 
-  ljID: "2880"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1958'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 For those following the request that IE begin to actually speak in public again about what is being done for upcoming IE development (IE8), Dave Massy continues to speak as well on his blog on this. It is worth reading <a href="http://www.dmassy.com/details.aspx?entry=15">what he has to say</a>:
 <blockquote>I do agree though that the IE team needs to start talking to the developer community on a much more consistent basis. After the release of IE7 all online chats stopped. The online chats had been taking place every month since well before IE7 was under development. After the release of IE7 the bug reporting system was withdrawn. There have been vague promises that it was only temporary but it has now been almost a year and no replacement is in sight.

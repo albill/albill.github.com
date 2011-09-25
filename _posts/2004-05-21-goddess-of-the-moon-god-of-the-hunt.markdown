@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-21 00:27:00'
 layout: post
-title: Goddess of the Moon, God of the Hunt
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Esoteric
-type: post
+slug: goddess-of-the-moon-god-of-the-hunt
 status: publish
+title: Goddess of the Moon, God of the Hunt
+wordpress_id: '116'
+categories:
+- Esoteric
 ---
 R and I met with our Wiccan High Priestess friend last night (Wednesday). It looks like the group might be coming together a bit. We have an open full moon rite based on our discussions from the <i>previous</i> meeting last month. We discussed this a bit and some other ritual particulars. We'll be getting together in a couple of weeks for the next Full Moon to put the rite into practice. 
 

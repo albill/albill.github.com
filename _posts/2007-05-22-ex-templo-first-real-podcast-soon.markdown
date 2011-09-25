@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-05-22 23:19:27'
 layout: post
+slug: ex-templo-first-real-podcast-soon
+status: publish
 title: Ex Templo First Real Podcast Soon
-published: true
-meta: 
-  ljID: "2591"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1707'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 As some are aware from previous postings, I'm starting a podcast series, <strong>Ex Templo</strong>, over at <a href="http://www.extemplo.org/">extemplo.org</a>. I'm planning on recording the first interview for it with <a href="http://www.daiun-ji.org/About/teachers.php">Right Rev. James Jiun Foster</a> from <a href="http://www.daiun-ji.org">Daiun-Ji Great Cloud Temple</a> in Cincinnati, Ohio this weekend. Rev. Foster has a podcast of his own, <a href="http://www.daiun-ji.org/path/index.php">Path of the Ekayana</a>, which he has been doing for over a year and a half now. In this podcast, he records teachings from gatherings of Daiun-Ji Great Cloud Temple and classes that he runs for it.
 

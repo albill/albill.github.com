@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-05 23:03:00'
 layout: post
-title: Hmm...
-published: true
-meta: 
-  ljID: "2454"
-tags: 
-- Daily Life
-type: post
+slug: hmm-2
 status: publish
+title: Hmm...
+wordpress_id: '1591'
+categories:
+- Daily Life
 ---
 Does it seem odd to anyone else that my main enthusiasms are:<ul><li>Hermetic Magic</li><li>Neoplatonism, its cultural antecedents and praxis</li><li>Tibetan Buddhism and Tantra</li></ul>??
 

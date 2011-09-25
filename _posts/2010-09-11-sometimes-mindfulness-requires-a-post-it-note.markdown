@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-11 11:22:37'
 layout: post
+slug: sometimes-mindfulness-requires-a-post-it-note
+status: publish
 title: Sometimes Mindfulness Requires a Post-it Note
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3685"
-tags: 
+wordpress_id: '3285'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Yesterday, I had my second tattoo done. I did one <a href="http://www.openbuddha.com/2002/10/30/tattoo/">almost eight years ago</a> on the top of my right arm, back before I was committed to Buddhism as my path. It reflected my spiritual background at the time. I'm generally committed to the idea, for myself, that a tattoo should be a meaningful reflection of something in your life. I took refuge in 2002 and fully committed to the Buddhist path over the next few years more and more. I'd been wanting to do something to both acknowledge this as my path and as a reminder to mindfulness concerning it.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-28 01:29:00'
 layout: post
-title: Alexander the Great Movie?
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: alexander-the-great-movie
 status: publish
+title: Alexander the Great Movie?
+wordpress_id: '123'
+categories:
+- Daily Life
 ---
 Does anyone know anything about this?
 

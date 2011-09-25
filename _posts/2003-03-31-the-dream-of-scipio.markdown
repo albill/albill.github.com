@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-31 06:34:00'
 layout: post
+slug: the-dream-of-scipio
+status: publish
 title: The Dream of Scipio
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1331'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 This was in the latest Thelema Lodge calendar but has been something that I've been meaning to read...I thought it amusing to put a translation by Golden Dawn people up...
 

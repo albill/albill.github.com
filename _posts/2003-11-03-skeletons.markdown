@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-11-03 03:24:00'
 layout: post
+slug: skeletons
+status: publish
 title: Skeletons
-published: true
-meta: 
-  ljID: "2896"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1973'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 Muelos wrote about this: <a href="http://www.rochesterdandc.com/news/10310I27NT7_skeleton31_news.shtml">http://www.rochesterdandc.com/news/10310I27NT7_skeleton31_news.shtml</a>.
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-28 21:27:48'
 layout: post
+slug: reality
+status: publish
 title: Reality
-published: true
-meta: 
-  ljID: "2547"
-tags: 
+wordpress_id: '1681'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 One of the vows in my daily Buddhist practices contains the following line:
 <blockquote>"I avoid setting myself against the world."</blockquote>

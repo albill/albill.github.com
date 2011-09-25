@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-05 20:42:00'
 layout: post
-title: Tulpas and Transmissions
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: tulpas-and-transmissions
 status: publish
+title: Tulpas and Transmissions
+wordpress_id: '56'
+categories:
+- Spirituality
 ---
 It was kind of odd to read this piece at <a href="http://www.livejournal.com/users/mistersleepless/14073.html">http://www.livejournal.com/users/mistersleepless/14073.html</a> after coming home from a Tibetan Buddhist (Dzogchen) event this evening though I am familiar with the concept of Tulpas.
 

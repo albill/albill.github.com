@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-03 02:39:00'
 layout: post
-title: Shows, Rites, and Activities
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: shows-rites-and-activities
 status: publish
+title: Shows, Rites, and Activities
+wordpress_id: '841'
+categories:
+- Daily Life
 ---
 I've had a busy weekend and actually haven't had much of a chance to get on the computer for more than a brief e-mail or two. <a href="http://www.anunnaki.org/origins/">Origins II</a> went well. I'm not sure how many people showed up in total but the FUNC was pretty much filled by the end of the evening. I heard most of the alcohol was sold as well. I got drafted for impromptu fire safety duty which generally means crouching low and in front ready to put flaming friends out. ;-)
 

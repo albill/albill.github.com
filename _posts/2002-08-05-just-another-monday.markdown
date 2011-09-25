@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-05 21:16:00'
 layout: post
+slug: just-another-monday
+status: publish
 title: Just another Monday...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '905'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 So, this is likely to be a bit of a busy week overall. Wednesday is a dress rehearsal in tux and all for a friend and brother's wedding... The wedding is this Friday night, something that I had kind of spaced out on. Since I've known the friend in question for something like six or seven years now and I'm actually in his wedding party, I'd better keep it straight!
 

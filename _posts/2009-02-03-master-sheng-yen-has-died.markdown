@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-02-03 10:50:18'
 layout: post
+slug: master-sheng-yen-has-died
+status: publish
 title: Master Sheng Yen has died
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3465"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2643'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3250339511/" title="Sheng Yen"><img src="http://farm4.static.flickr.com/3050/3250339511_536d7ceef2_m.jpg" align="right" border="1" width="173" height="240" alt="Sheng Yen" /></a> The famous Chan Buddhist master, Sheng Yen, has just <a href="http://news.xinhuanet.com/english/2009-02/03/content_10758515.htm">died in Taiwan</a> today at 79 years of age. He spent the majority of his life promoting Buddhism and was (and is) a hugely influential figure.
 

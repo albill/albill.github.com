@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-01-13 22:20:46'
 layout: post
+slug: back-from-los-angeles
+status: publish
 title: Back from Los Angeles
-published: true
-meta: 
-  ljID: "3124"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2156'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2191978754/" title="LAX at Sunset by albill, on Flickr"><img border="1" src="http://farm3.static.flickr.com/2383/2191978754_ccca679744.jpg" width="500" height="277" alt="LAX at Sunset" /></a></p>
 I made it back from Los Angeles this evening. I had a nice little trip down there. I stayed relatively near LAX since my hotel was in Redondo Beach and the temple I was visiting was also there. 

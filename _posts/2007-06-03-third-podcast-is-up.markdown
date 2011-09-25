@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-06-03 12:28:31'
 layout: post
+slug: third-podcast-is-up
+status: publish
 title: Third Podcast is Up
-published: true
-meta: 
-  ljID: "2608"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1715'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I've put the <a href="http://www.extemplo.org/?p=6">third podcast</a> for <a href="http://www.extemplo.org"><strong>Ex Templo</strong></a> up on its site. This is the second of the three parts of my interview with Jiun Sensei, my Buddhist teacher and the abbot of <a href="http://www.daiun-ji.org">Daiun-Ji Great Cloud Temple</a> in Ohio.
 

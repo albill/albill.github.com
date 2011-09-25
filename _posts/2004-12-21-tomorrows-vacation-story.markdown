@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-21 22:50:27'
 layout: post
-title: Tomorrow's vacation story
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: tomorrows-vacation-story
 status: publish
+title: Tomorrow's vacation story
+wordpress_id: '333'
+categories:
+- Humor
 ---
 Tomorrow's vacation story will be "hey, this 'service engine soon' light just came on. I wonder if it is important..."
 

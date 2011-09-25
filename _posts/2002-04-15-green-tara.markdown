@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-04-15 21:52:00'
 layout: post
+slug: green-tara
+status: publish
 title: Green Tara
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '785'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I think that I know what I'm doing on April 27 in the morning...
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-17 02:46:28'
 layout: post
-title: Thesis Work
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: thesis-work
 status: publish
+title: Thesis Work
+wordpress_id: '1138'
+categories:
+- Academic
 ---
 I may not get to start my thesis this fall as I had planned. It turns out that the deadline for Advancement to Candidacy, an official necesary step to begin thesis work, was May 1st. Well, shit.
 

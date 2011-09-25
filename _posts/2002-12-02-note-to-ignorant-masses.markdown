@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2002-12-02 19:22:00'
 layout: post
+slug: note-to-ignorant-masses
+status: publish
 title: Note to Ignorant Masses
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1039'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <strong>To:</strong> Ignorant Crack-smoking Occultists
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-07-02 01:57:00'
 layout: post
+slug: a-little-neoplatonism
+status: publish
 title: A little Neoplatonism...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '871'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Proclus was the last of the great pagan philosophers. He developed an extensive system of Theurgy based on the work of Plotinus, Iamblichus and others.
 

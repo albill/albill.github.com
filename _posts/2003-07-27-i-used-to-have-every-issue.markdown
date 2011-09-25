@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-27 02:53:00'
 layout: post
-title: I used to have every issue...
-published: true
-meta: 
-  ljID: "2510"
-tags: 
-- Daily Life
-type: post
+slug: i-used-to-have-every-issue
 status: publish
+title: I used to have every issue...
+wordpress_id: '1648'
+categories:
+- Daily Life
 ---
 From the New York Times...
 

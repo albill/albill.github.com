@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-04-06 12:25:29'
 layout: post
-title: "\"Wake up! On the Road with a Zen Master\""
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3510"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+slug: wake-up-on-the-road-with-a-zen-master
+status: publish
+title: '"Wake up! On the Road with a Zen Master"'
+wordpress_id: '2742'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 I just found a link to this on Google Video this morning. I haven't had the time to watch it but I thought that I would share it out.
 

@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-24 11:12:41'
 layout: post
+slug: audio-of-dmitry-orlovs-talk-social-collapse-best-practices-available
+status: publish
 title: Audio of Dmitry Orlov's talk, "Social Collapse Best Practices," Available
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: audio-of-dmitry-orloves-talk-social-collapse-best-practices-available
-  ljID: "3485"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2694'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 The <a href="http://www.longnow.org">Long Now Foundation</a> maintains a <a href="http://www.longnow.org/projects/seminars/podcast.php">podcast</a> of audio from their seminars. I <a href="http://www.arcanology.com/2009/02/15/dmitry-orlov-on-the-best-practices-for-societal-collapse/">blogged recently</a> about the talk that <a href="http://cluborlov.blogspot.com">Dmitry Orlov</a> did, "<a href="http://cluborlov.blogspot.com/2009/02/social-collapse-best-practices.html">Social Collapse Best Practices</a>." I noticed in iTunes this morning that the talk is now available through the Long Now's podcast.
 

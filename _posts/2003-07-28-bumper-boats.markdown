@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-28 15:27:00'
 layout: post
-title: Bumper Boats
-published: true
-meta: 
-  ljID: "2511"
-tags: 
-- Daily Life
-type: post
+slug: bumper-boats
 status: publish
+title: Bumper Boats
+wordpress_id: '1649'
+categories:
+- Daily Life
 ---
 R and I went white water rafting on Saturday on the Wenatchee River. Actually "white water" might be a misnomer as the water level was fairly low overall so there weren&apos;t as many rapids and drops as normal. 
 

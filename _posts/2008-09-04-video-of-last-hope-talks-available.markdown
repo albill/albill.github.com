@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-04 11:57:40'
 layout: post
+slug: video-of-last-hope-talks-available
+status: publish
 title: Video of Last HOPE Talks Available
-published: true
-meta: 
-  ljID: "3379"
-tags: 
+wordpress_id: '2438'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 The Last HOPE was a hacker convention that took place in New York City in July, 2008. It is one of a series, over the years, sponsored by <a href="http://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly">2600</a> magazine. I did not attend because we had just had the Mozilla Summit and I was already scheduled to go to the Black Hat and DEFCON conventions in August. Several of my friends and acquaintances did go though and at least one of them presented there.
 

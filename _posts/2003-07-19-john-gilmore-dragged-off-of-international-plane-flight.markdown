@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-19 04:36:00'
 layout: post
-title: John Gilmore Dragged Off of International Plane Flight
-published: true
-meta: 
-  ljID: "2501"
-tags: 
-- Daily Life
-type: post
+slug: john-gilmore-dragged-off-of-international-plane-flight
 status: publish
+title: John Gilmore Dragged Off of International Plane Flight
+wordpress_id: '1639'
+categories:
+- Daily Life
 ---
 John Gilmore: I was ejected from a plane for wearing "Suspected Terrorist" button
 

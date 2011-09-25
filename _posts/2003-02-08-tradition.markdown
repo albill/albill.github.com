@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2003-02-08 23:54:00'
 layout: post
+slug: tradition
+status: publish
 title: Tradition
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1268'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Sometimes I wonder, as I oscillate between the draw towards Tantric Buddhism and my longer term path of Hermeticism, about how much of our own history and of our paths are a blind and a straightjacket.
 

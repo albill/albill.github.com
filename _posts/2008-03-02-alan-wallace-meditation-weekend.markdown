@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-03-02 20:25:07'
 layout: post
+slug: alan-wallace-meditation-weekend
+status: publish
 title: Alan Wallace Meditation Weekend
-published: true
-meta: 
-  ljID: "3175"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2181'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2306060671/" title="DSCF2751.JPG by albill, on Flickr"><img src="http://farm4.static.flickr.com/3030/2306060671_9ded679902.jpg" border="1" width="500" height="424" alt="DSCF2751.JPG" /></a></p>
 I just got home a short while ago from the teaching weekend at <a href="http://www.orgyendorjeden.org/">Orgyen Dorje Den</a> with <a href="http://www.alanwallace.org/">B. Alan Wallace</a> (you can see the <a href="http://www.orgyendorjeden.org/announcements/AlanWallace08.pdf">flyer</a> for this weekend if you wish). The official topic for the weekend was "Balancing the Heart &amp; Mind."

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-28 03:26:44'
 layout: post
+slug: fellow-travelers
+status: publish
 title: Fellow Travelers
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1147'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I just got back from having chicken and waffles with Sean (<a href="http://www.seanomlor.com/">http://www.seanomlor.com</a>). Sean works swing shift about two miles from my place so we agreed to meet a little bit after 11:00 PM, when he got off from work.
 

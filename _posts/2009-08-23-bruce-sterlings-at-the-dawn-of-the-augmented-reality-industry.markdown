@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-08-23 10:29:24'
 layout: post
+slug: bruce-sterlings-at-the-dawn-of-the-augmented-reality-industry
+status: publish
 title: Bruce Sterling's "At the Dawn of the Augmented Reality Industry"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3573"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2848'
+categories:
 - Notable People
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 Bruce Sterling did a keynote at the <a href="http://www.layar.com">Layar</a> launch event the other day, "At the Dawn of the Augmented Reality Industry."
 

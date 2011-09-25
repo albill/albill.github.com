@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-10 16:52:48'
 layout: post
-title: Thesis Approved!
-published: true
-meta: 
-  ljID: "2893"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: thesis-approved
 status: publish
+title: Thesis Approved!
+wordpress_id: '1969'
+categories:
+- Academic
 ---
 I spoke to the office at the university today for my program. When I got back from Japan, I did not have any mail waiting for me about requested changes from the last two readers in my thesis committee. I wanted to see what the status of things was since I have friends who have had committee members sit on reading their thesis for months before...
 

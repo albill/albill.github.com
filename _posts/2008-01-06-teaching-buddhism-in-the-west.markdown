@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-06 13:48:11'
 layout: post
-title: Dzogchen Ponlop Rinpoche and Teaching Buddhism in the West
-published: true
-meta: 
-  ljID: "3118"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: teaching-buddhism-in-the-west
 status: publish
+title: Dzogchen Ponlop Rinpoche and Teaching Buddhism in the West
+wordpress_id: '2153'
+categories:
+- Buddhism
 ---
 <a href="http://www.flickr.com/photos/albill/2173183372/" title="dpr by albill, on Flickr"><img src="http://farm3.static.flickr.com/2059/2173183372_cdd3100e5c_m.jpg" align="right" border="1" hspace="5" vspace="5" width="192" height="240" alt="dpr" /></a>I found a recent article from the Seattle Post-Intelligencer today, <a href="http://seattlepi.nwsource.com/local/341882_needle01.html">Under The Needle: Bringing Buddhism to a wired Seattle</a>, about <a href="http://dpr.info/">Dzogchen Ponlop Rinpoche</a> and <a href="http://www.nalandabodhi.org/">Nalandabodhi</a>, his organization. Rinpoche is a lineage holder in the Tibetan Karma Kagyu lineage. I had heard of him (heck, I have a couple of his books) but he was largely not present in Seattle in the times that I was looking for Buddhist groups with which to practice and study. A few years ago, his group bought an old school building in the Fremont neighborhood in Seattle and it looks like they have been doing great things with it. This is <a href="http://www.nalandawest.org/index.htm">Nalanda West</a>. 
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-06 21:46:00'
 layout: post
+slug: heh-3
+status: publish
 title: heh
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '970'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 sent this to me:
 

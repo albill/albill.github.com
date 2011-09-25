@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-08-30 23:44:30'
 layout: post
+slug: visiting-dharma-cousins-in-las-vegas
+status: publish
 title: Visiting Dharma Cousins in Las Vegas
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3663"
-tags: 
+wordpress_id: '3218'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4942399442/" title="Main Building - 2 by albill, on Flickr"><img src="http://farm5.static.flickr.com/4116/4942399442_83ab920634.jpg" width="500" height="375" alt="Main Building - 2" /></a><br>The Zen Center of Las Vegas</div>
 This last weekend, I was in Las Vegas for the second time in a month. I had been there a month ago for the Black Hat and Defcon computer security conventions. Generally, I only go to Vegas when my work sends me since I don't really drink, gamble, or womanize. This time, I came back for a Zen retreat.

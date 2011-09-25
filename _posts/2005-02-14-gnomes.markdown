@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-14 21:46:13'
 layout: post
-title: Gnomes!
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: gnomes
 status: publish
+title: Gnomes!
+wordpress_id: '398'
+categories:
+- Humor
 ---
 <p>The gnome threat is real! I told you!!!</p>
 <p><a href="http://news.bbc.co.uk/go/pr/fr/-/1/hi/england/cumbria/4263761.stm">

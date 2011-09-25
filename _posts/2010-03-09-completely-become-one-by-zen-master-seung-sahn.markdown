@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2010-03-09 11:37:14'
 layout: post
-title: "\"Completely Become One\" by Zen Master Seung Sahn"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3611"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: completely-become-one-by-zen-master-seung-sahn
+status: publish
+title: '"Completely Become One" by Zen Master Seung Sahn'
+wordpress_id: '2969'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <em>The following is part of a teaching from Zen Master Seung Sahn given at the Cambridge Zen Center on Saturday, July 16, 1977. Seung Sahn is the teacher who brought my lineage to the West and there is great value in what he had to say to his students. I thought it was a good example of relating a very traditional and useful teaching to modern circumstances. I am told that the use of English here is how he often spoke.</em>
 

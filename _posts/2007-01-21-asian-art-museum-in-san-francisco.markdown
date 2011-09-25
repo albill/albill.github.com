@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-21 00:39:43'
 layout: post
+slug: asian-art-museum-in-san-francisco
+status: publish
 title: Asian Art Museum in San Francisco
-published: true
-meta: 
-  ljID: "2371"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1526'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 R and I did an outing to San Francisco today, something which we don't do enough of even though we've lived in the Bay Area for almost eight months now.
 

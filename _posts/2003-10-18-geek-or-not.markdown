@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-18 22:09:00'
 layout: post
-title: Geek or not?
-published: true
-meta: 
-  ljID: "2853"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: geek-or-not
 status: publish
+title: Geek or not?
+wordpress_id: '1931'
+categories:
+- Technology
 ---
 Jezus fookin' krist! You'd think they'd make it a little easier...
 

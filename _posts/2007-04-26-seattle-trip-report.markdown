@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-26 10:41:03'
 layout: post
-title: Seattle Trip Report
-published: true
-meta: 
-  ljID: "2545"
-tags: 
-- Daily Life
-type: post
+slug: seattle-trip-report
 status: publish
+title: Seattle Trip Report
+wordpress_id: '1678'
+categories:
+- Daily Life
 ---
 I suppose that I should post something about my trip to Seattle for the five people who care. :-)
 

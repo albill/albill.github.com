@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-22 23:03:42'
 layout: post
-title: Gnostic Mass
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: gnostic-mass
 status: publish
+title: Gnostic Mass
+wordpress_id: '211'
+categories:
+- Spirituality
 ---
 <p>Today, the only thing I had to do was attend the
 <a href="http://www.hermetic.com/sabazius/gnostic_mass.htm">Gnostic Mass</a> at 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-28 23:33:47'
 layout: post
-title: Nova-nine-fingers
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: nova-nine-fingers
 status: publish
+title: Nova-nine-fingers
+wordpress_id: '582'
+categories:
+- Daily Life
 ---
 My younger tomcat got himself in a bit of trouble the other day. He was running around fine this last weekend but sometime on Sunday evening or Monday, he seems to have lost a claw...more specifically, he removed the claw from his right forepaw's thumb. Of course, in doing so, he seems to have removed the tip of the thumb as well (which sounds more gruesome than it appeared).
 

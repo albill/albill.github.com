@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-14 02:08:08'
 layout: post
+slug: im-going-to-camp-in-a-couple-of-weeks
+status: publish
 title: I'm going to camp in a couple of weeks...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '738'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 Seattle Mind Camp 1.0 was an event that happened last fall in Seattle. It's a  24 hour geekfest with people. I found out about it at the last minute and wasn't  able to go because it was sold out and I had a school conflict.
 

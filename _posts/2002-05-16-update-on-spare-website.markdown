@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-16 00:28:00'
 layout: post
+slug: update-on-spare-website
+status: publish
 title: Update on Spare Website
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '821'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/ars-stele.jpg" align="right" border="1" height="251" hspace="10" vspace="2" width="172" />So, I stayed at work late for the free pizza... I have a fast Internet connection and I was going to do website work tonight anyway.
 

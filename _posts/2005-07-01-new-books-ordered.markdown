@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-01 18:08:08'
 layout: post
-title: New Books Ordered
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3230"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: new-books-ordered
 status: publish
+title: New Books Ordered
+wordpress_id: '500'
+categories:
+- Daily Life
 ---
 <p>Since today is payday and I never seem to have enough books (hah!), I ordered 
 a few more today:</p>

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-09 04:22:00'
 layout: post
+slug: an-excerpt-of-ficino
+status: publish
 title: An excerpt of Ficino
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1234'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
 An excerpt from <em>The Book of the Sun</em> by our departed and wise spiritual ancestor, Marsilio Ficino:
 

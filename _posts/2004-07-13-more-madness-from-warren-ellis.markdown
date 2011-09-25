@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-13 23:12:31'
 layout: post
-title: More Madness from Warren Ellis
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: more-madness-from-warren-ellis
 status: publish
+title: More Madness from Warren Ellis
+wordpress_id: '174'
+categories:
+- Society
 ---
 <a href="http://www.livejournal.com/users/mistersleepless/22976.html">http://www.livejournal.com/users/mistersleepless/22976.html</a>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-27 15:38:27'
 layout: post
-title: V for Vendetta Trailer
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: v-for-vendetta-trailer
 status: publish
+title: V for Vendetta Trailer
+wordpress_id: '516'
+categories:
+- Science Fiction
 ---
 A trailer is finally out.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-17 23:49:59'
 layout: post
-title: Other Golden Dawn Work
-published: true
-meta: 
-  ljID: "2534"
-tags: 
-- Academic
-type: post
+slug: other-golden-dawn-work
 status: publish
+title: Other Golden Dawn Work
+wordpress_id: '1669'
+categories:
+- Academic
 ---
 One of my readers, Guido Woudenberg, alerted me that there is a thesis on the Cipher Manuscript of the Golden Dawn and another on the history of the order. I don't know the name of the author (title pages were missing) but Guido sent me copies of the texts.
 

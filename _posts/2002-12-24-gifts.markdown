@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-24 20:39:00'
 layout: post
+slug: gifts
+status: publish
 title: Gifts
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1063'
+categories:
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 R and I did the gift exchange before she left to visit her sister. I got her some nice stuff (she can write about it if she wishes). I, on the other hand, got a number of very nice things that I'd been wanting.
 

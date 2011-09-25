@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-25 00:57:00'
 layout: post
-title: Summary of "Will Mainstream Media Co-opt Blogs and the Internet?" from Davos
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: summary-of-will-mainstream-media-co-opt-blogs-and-the-internet-from-davos
 status: publish
+title: Summary of "Will Mainstream Media Co-opt Blogs and the Internet?" from Davos
+wordpress_id: '29'
+categories:
+- Technology
 ---
 <a href="http://www.weforum.org/pdf/Session_Summaries2004/092e.pdf">http://www.weforum.org/pdf/Session_Summaries2004/092e.pdf</a>
 Annual Meeting 2004

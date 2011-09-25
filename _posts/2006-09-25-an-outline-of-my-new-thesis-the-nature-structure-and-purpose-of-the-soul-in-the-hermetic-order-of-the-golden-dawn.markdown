@@ -1,15 +1,16 @@
---- 
+---
+author: admin
+date: '2006-09-25 23:12:30'
 layout: post
-title: "An Outline of My New Thesis: The Nature, Structure, and Purpose of the Soul in the Hermetic Order of the Golden Dawn"
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+slug: an-outline-of-my-new-thesis-the-nature-structure-and-purpose-of-the-soul-in-the-hermetic-order-of-the-golden-dawn
+status: publish
+title: 'An Outline of My New Thesis: The Nature, Structure, and Purpose of the Soul
+  in the Hermetic Order of the Golden Dawn'
+wordpress_id: '1208'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 This is a rough draft that I sat down and outlined over the last hour. Parts of it are still missing but it gives an idea of where I am going currently. I've shifted my emphasis over to the Golden Dawn's conception of the Soul. The hardest part is the abstract or "Why should anyone reading this care?" for discussing it.
 

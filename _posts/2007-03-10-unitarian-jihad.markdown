@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-03-10 14:31:29'
 layout: post
+slug: unitarian-jihad
+status: publish
 title: Unitarian Jihad
-published: true
-meta: 
-  ljID: "2412"
-tags: 
+wordpress_id: '1558'
+categories:
 - Humor
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 It is time once again to remind people of the Unitarian Jihad.
 

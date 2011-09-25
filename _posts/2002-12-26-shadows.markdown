@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-26 02:04:00'
 layout: post
+slug: shadows
+status: publish
 title: Shadows
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1068'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 So, I'm reading this Lovecraftian collection, "Shadows Over Innsmouth," which has Lovecraft's "Shadow Over Innsmouth" tale and then a collection of related tales about the Deep Ones and Human-hybrids, etc. set in the period following it. One of the tales is by Neil Gaiman, which I didn't realize when I bought it.
 

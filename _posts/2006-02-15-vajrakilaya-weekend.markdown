@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-15 03:24:50'
 layout: post
+slug: vajrakilaya-weekend
+status: publish
 title: Vajrakilaya Weekend
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '684'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This last weekend was the Vajrakilaya retreat at a local Nyingma center. A  friend of a friend who is on a private vajrayana e-mail list with me, John, came  down from Vancouver, B.C. as well to attend. We'd never met before and only  corresponded a couple of times by means of the list but I figured he shouldn't  have to pay to stay someplace for this. He crashed downstairs since we have a  lot of room in the house.
 

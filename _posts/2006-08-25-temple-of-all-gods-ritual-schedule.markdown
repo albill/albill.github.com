@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-25 14:21:06'
 layout: post
+slug: temple-of-all-gods-ritual-schedule
+status: publish
 title: Temple of All Gods Ritual Schedule
-published: true
-meta: 
-  ljID: "2586"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1175'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Veleda has posted the ritual schedule for the Temple of All Gods (TAG) at Burning Man next week.
 

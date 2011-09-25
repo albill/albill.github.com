@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-18 22:31:32'
 layout: post
-title: Darknet Thoughts II
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: darknet-thoughts-ii
 status: publish
+title: Darknet Thoughts II
+wordpress_id: '182'
+categories:
+- Technology
 ---
 I did have more Darknet thoughts over the weekend.
 

@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2003-04-28 01:06:00'
 layout: post
+slug: the-gnostic-mass-and-weird-anime
+status: publish
 title: The Gnostic Mass and Weird Anime
-published: true
-meta: 
-  ljID: "2241"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '1361'
+categories:
 - Daily Life
 - Science Fiction
 - Spirituality
-type: post
-status: publish
 ---
 Today was a much lower key day compared to yesterday. I stayed up until about 3:00 am last night so I didn't get up until around 10:00 or so this morning. R and I hung out for a while and I made us breakfast. Afterwards, R cut my hair (and did a nice job as always).
 

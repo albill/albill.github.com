@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-25 01:24:00'
 layout: post
-title: Millenium
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Science Fiction
-type: post
+slug: millenium
 status: publish
+title: Millenium
+wordpress_id: '191'
+categories:
+- Science Fiction
 ---
 I just watched the first four episodes of <strong>Millenium</strong> back to back with
 R. I haven't seen any of these since, oh, 1999 or something. It's hard to

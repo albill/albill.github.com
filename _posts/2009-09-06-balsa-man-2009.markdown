@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-09-06 19:54:11'
 layout: post
+slug: balsa-man-2009
+status: publish
 title: Balsa Man 2009
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3579"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2852'
+categories:
 - Daily Life
 - Science Fiction
 - Spirituality
-type: post
-status: publish
 ---
 This year, R and I had to forgo the great joy of attending Burning Man. To be honest, we went last year and swore that we wouldn't go two years in a row. Then I had the "year of illin" which has left me with sleep issues and my doctoral program started at the same time as Burning Man. This meant that it was just impractical to go (and we're thinking of going to Hawaii in January anyway).
 

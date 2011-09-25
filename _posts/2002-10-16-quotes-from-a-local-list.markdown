@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-16 01:08:00'
 layout: post
+slug: quotes-from-a-local-list
+status: publish
 title: Quotes from a local list
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3307"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '979'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I'm on a Daniel Quinn focused list with what seems to be a herd of fucking tree huggers. The group had a meeting the other week (I've attended a couple but the group freaks me in its hippy-ness and rampant leftism) and "decided" on a bunch of new rules for the list that we all happen to use even though most of us weren't there and they don't run the list themselves per se (no one does really).
 

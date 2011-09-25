@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-21 21:33:21'
 layout: post
+slug: my-thesis-question
+status: publish
 title: My Thesis Question
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1144'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I had a bit of inspiration while pondering my thesis question and my dissatisfaction with my old (current) one, especially now that I have to turn it in with paperwork in order to do it.
 

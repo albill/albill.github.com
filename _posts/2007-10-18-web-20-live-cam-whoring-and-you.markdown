@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-10-18 00:03:20'
 layout: post
+slug: web-20-live-cam-whoring-and-you
+status: publish
 title: Web 2.0 Live Cam Whoring and You
-published: true
-meta: 
-  ljID: "2940"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2017'
+categories:
 - Buddhism
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://weblogs.mozillazine.org/asa/">Asa Dotzler</a> has gotten into this via <a href="http://www.justin.tv/">Justin.tv</a>. You can watch our beloved Asa picking his nose while working on his latest blog post through <a href="http://www.justin.tv/asadotzler">his site on Justin.tv</a>. Asa mentioned this briefly on his blog on October 5 but he's been really getting into it at work lately with three different webcams in his office pointing in different directions.
 

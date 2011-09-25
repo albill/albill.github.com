@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-10 04:16:00'
 layout: post
-title: Writing More and Weekends
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Daily Life
-type: post
+slug: writing-more-and-weekends
 status: publish
+title: Writing More and Weekends
+wordpress_id: '846'
+categories:
+- Daily Life
 ---
 Well, I obviously haven't been writing as much recently. I wind up not writing a lot on the weekends as I tend to keep busy with R and/or my daughter on most weekends recently. The weekends are the only time that R and I can see each other during the day without my taking a break from work or her doing the same. Otherwise, we see each other at 1:00 am after she gets home from work and it is hard to do much at that time.
 

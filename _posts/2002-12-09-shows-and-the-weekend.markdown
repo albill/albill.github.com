@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2002-12-09 19:05:00'
 layout: post
+slug: shows-and-the-weekend
+status: publish
 title: Shows and the Weekend
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1042'
+categories:
 - Books
 - Buddhism
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 I haven't been logging as much as I should recently...I should try to be better about that. Quite a few entries are also Friends only for those that may read my journal but aren't on my friends list (50% at a guess). So, if you really want to read my stuff, you should contact me. ;-)
 

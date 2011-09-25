@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-20 16:24:00'
 layout: post
+slug: careers-and-the-hall-of-academia
+status: publish
 title: Careers and the Hall of Academia
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '957'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So I'm visiting my shrink this morning for the first time in a month (yes, I have a shrink because I have panic attacks sometimes and I'm a stressed monkey).
 

@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-08-11 14:47:13'
 layout: post
+slug: als-black-hat-2011-and-def-con-19-visit
+status: publish
 title: Al's Black Hat 2011 and DEF CON 19 Visit
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3866"
-tags: 
-- black hat
-- defcon
+wordpress_id: '3807'
+categories:
 - Hacking
-- las vegas
 - Mozilla
 - Technology
-type: post
-status: publish
+tags:
+- black hat
+- defcon
+- las vegas
 ---
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6032777919/" title="Defcon Floor by albill, on Flickr"><img src="http://farm7.static.flickr.com/6087/6032777919_708e2047c9.jpg" width="500" height="333" alt="Defcon Floor"></a></p>
 I attended <a href="http://www.blackhat.com">Black Hat 2011</a> and <a href="https://www.defcon.org">DEF CON 19</a> this last week under the auspices of Mozilla. We generally have a bunch of us who are involved in facets of the security releases attending these back to back conferences every Summer in Las Vegas. This is for a few reasons but the primary ones are to be on hand for the exposure of potential zero day security holes in Firefox and to get a sense of the direction and focus of the work going on in exploiting browsers (and security in general).

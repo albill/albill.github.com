@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-03-26 23:27:00'
 layout: post
+slug: free-culture
+status: publish
 title: Free Culture
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '73'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 Lawrence Lessig's new book "Free Culture" is out and online now. It's up at <a href="http://free-culture.org/freecontent/">http://free-culture.org/freecontent/</a> where it is released under the Creative Commons license. This is likely to be an important book in the discussion of copyright and intellectual property.
 

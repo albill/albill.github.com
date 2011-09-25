@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-15 18:42:00'
 layout: post
+slug: more-on-the-biofeedback-game
+status: publish
 title: More on the Biofeedback Game
-published: true
-meta: 
-  ljID: "2850"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1928'
+categories:
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 This is the game I mentioned the other day...From <strong>Wired</strong> magazine. <a href="http://www.wired.com/wired/archive/11.11/play.html?pg=4">http://www.wired.com/wired/archive/11.11/play.html?pg=4</a>
 

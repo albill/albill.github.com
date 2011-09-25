@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-22 10:23:23'
 layout: post
-title: Goodbye, Hunter!
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: goodbye-hunter
 status: publish
+title: Goodbye, Hunter!
+wordpress_id: '529'
+categories:
+- Notable People
 ---
 <p>See <a href="http://talkleft.com/new_archives/011936.html">http://talkleft.com/new_archives/011936.html</a> for details on Hunter S. Thompson's goodbye bonanza.</p>
 

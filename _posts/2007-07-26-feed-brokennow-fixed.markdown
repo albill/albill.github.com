@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-26 13:11:20'
 layout: post
-title: Feed Broken...now fixed.
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: feed-brokennow-fixed
 status: publish
+title: Feed Broken...now fixed.
+wordpress_id: '1761'
+categories:
+- Technology
 ---
 For some reason, the RSS2 feed on the blog quit generating any content. I thought it was a Feedburner issue but it turned out to behave the same when I accessed the Wordpress-generated version directly. I then thought it might be my new pretty site theme but checking Google Reader, I saw that the feed broke last weekend or so, before I put the new theme up, and my posts since then had not appeared.
 

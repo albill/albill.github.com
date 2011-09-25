@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-11-13 17:27:25'
 layout: post
-title: Interview with John Yorke about his father and Crowley
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3428"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: interview-with-john-yorke-about-his-father-and-crowley
 status: publish
+title: Interview with John Yorke about his father and Crowley
+wordpress_id: '2545'
+categories:
+- Daily Life
 ---
 I just came across this interview with John Yorke by the Julian Doyle. John Yorke is the son of Gerald Yorke. The elder Yorke was a close associate of Aleister Crowley's who produced many of the typescripts of Crowley's texts. He is also the source of the "Gerald Yorke Collection" at the <a href="http://warburg.sas.ac.uk/">Warburg Institute</a> in the UK. This is one of the few public collections of Golden Dawn materials (as well as those of Crowley) and I referenced some of its contents while working on my Master's thesis on the Golden Dawn. Julian Doyle recently directed the over-the-top Crowley-inspired horror movie, <a href="http://www.chemicalweddingmovie.com/">Chemical Wedding</a>.  
 

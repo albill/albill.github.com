@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-23 23:56:00'
 layout: post
-title: Christmas Eve Eve...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: christmas-eve-eve
 status: publish
+title: Christmas Eve Eve...
+wordpress_id: '1060'
+categories:
+- Daily Life
 ---
 I slept in until 11:30 today (was up late fucking around on the net looking up martial arts stuff). The damn dog next door is going to die one of these days. The neighbor lady, a nice little ol' lady, has the most irritating kick-me dog in the world. It yips all of the time and it is one of those things that we wished we'd known about before we moved in... It makes sleeping in problematic since it barks at <strong><em>everything</em></strong>.
 

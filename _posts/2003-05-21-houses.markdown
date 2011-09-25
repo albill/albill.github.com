@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-21 03:39:00'
 layout: post
-title: Houses
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: houses
 status: publish
+title: Houses
+wordpress_id: '1386'
+categories:
+- Daily Life
 ---
 So, I attended my Latin class tonight. We're working on the joy of the relative pronoun (who, that, which, etc.). Oh, I can hardly contain my joy at deconstructing sentences that contain subordinate clauses.
 

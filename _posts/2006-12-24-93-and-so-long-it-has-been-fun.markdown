@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2006-12-24 12:54:44'
 layout: post
+slug: 93-and-so-long-it-has-been-fun
+status: publish
 title: 93 and so long, it has been fun!
-published: true
-meta: 
-  ljID: "2336"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1490'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/mage.jpg" align="right" border="1" hspace="10" vspace="10" />I'm quitting the <a href="http://oto-usa.org/">Ordo Templi Orientis</a> (<a href="http://en.wikipedia.org/wiki/Ordo_Templi_Orientis">wikipedia</a>). It's been fun but I don't see myself taking the fourth degree or continuing an ongoing involvement. At some point, I'll send official notice in to the order to officially resign.
 While I quite enjoy the relationships that I have with members, the degree work, and even the teachings, it isn't my path. I'm a Buddhist and this isn't going to be changing. There are certain core concepts to Thelema as envisioned by the OTO and its members that are at odds with being a Vajrayana practitioner. While I have questioned my membership previously, I decided to wait and see instead of rushing to a decision.

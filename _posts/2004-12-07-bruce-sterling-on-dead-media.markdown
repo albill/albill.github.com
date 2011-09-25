@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-07 12:16:48'
 layout: post
-title: Bruce Sterling on Dead Media
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: bruce-sterling-on-dead-media
 status: publish
+title: Bruce Sterling on Dead Media
+wordpress_id: '313'
+categories:
+- Technology
 ---
 <p>I found this online today from St. Sterling. It's an interesting read.</p>
 <p>From

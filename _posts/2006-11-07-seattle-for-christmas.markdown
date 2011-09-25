@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-07 19:02:22'
 layout: post
-title: Seattle for Christmas
-published: true
-meta: 
-  ljID: "2280"
-tags: 
-- Daily Life
-type: post
+slug: seattle-for-christmas
 status: publish
+title: Seattle for Christmas
+wordpress_id: '1434'
+categories:
+- Daily Life
 ---
 Madeline, my daughter, and my mother will be visiting the Bay Area for Thanksgiving weekend.
 

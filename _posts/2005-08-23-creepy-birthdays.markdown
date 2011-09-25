@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-23 22:37:53'
 layout: post
-title: Creepy Birthdays
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: creepy-birthdays
 status: publish
+title: Creepy Birthdays
+wordpress_id: '530'
+categories:
+- Daily Life
 ---
 <p>I had a 206 area code phone call at work this afternoon. When I picked up, a older, gravelly male voice sang a belated happy birthday song in rhyme. Then it paused a few seconds, in which I said "Hello?" and then it hung up...</p>
 

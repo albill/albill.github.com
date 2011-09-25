@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-08-10 14:43:09'
 layout: post
+slug: enjoying-defcon-and-black-hat
+status: publish
 title: Enjoying Defcon and Black Hat
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3352"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '2368'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2750482555/" title="defcon16badge by albill, on Flickr"><img src="http://farm4.static.flickr.com/3023/2750482555_72938ac19e_m.jpg" width="191" height="240" align="right" hspace="10" border="1" alt="defcon16badge" /></a> I have been in Las Vegas since this last Tuesday attending <a href="http://www.blackhat.com">Black Hat</a> and <a href="http://www.defcon.org">Defcon</a> security conferences. As those familiar with these events know, Black Hat is the more industry or corporate event and <a href="http://en.wikipedia.org/wiki/DEF_CON">Defcon</a> is really a hacker convention. There is massive overlap in attendee and some duplication in talks but there are quite a few people who come for Defcon that don't go to Black Hat. This may partially be because Black Hat costs over $1,000 to attend (thank you, Mozilla!) and Defcon costs a little over $100. 
 

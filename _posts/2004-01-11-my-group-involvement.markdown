@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-11 13:40:00'
 layout: post
+slug: my-group-involvement
+status: publish
 title: My Group Involvement
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '16'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 just posted about her group involvement and I realized that I'd left out the local Tibetan Buddhist group, Pema Kilaya (<a href="http://www.pemakilaya.org">http://www.pemakilaya.org</a>).
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-17 08:22:07'
 layout: post
-title: Birthdays
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: birthdays
 status: publish
+title: Birthdays
+wordpress_id: '203'
+categories:
+- Daily Life
 ---
 <p>Through the use of a friendly steroid topical and anti-histamines, my bee 
 sting has gone from &quot;atrocious&quot; to only &quot;somewhat annoying.&quot; Someone remind me 

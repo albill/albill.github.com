@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-17 04:38:00'
 layout: post
+slug: buddhist-empowerments
+status: publish
 title: Buddhist Empowerments
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1250'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I took the P'Howa empowerment this evening and the Wrathful Guru Rinpoche empowerment yesterday from Tulku Loga Rinpoche, the head of the Kathok Monastery in Tibet.
 

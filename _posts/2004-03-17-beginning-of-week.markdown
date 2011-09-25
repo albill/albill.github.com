@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-17 00:48:00'
 layout: post
-title: Beginning of Week
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: beginning-of-week
 status: publish
+title: Beginning of Week
+wordpress_id: '62'
+categories:
+- Daily Life
 ---
 It's all getting fuzzy now but this wekend, R and I went and had our taxes done by a professional because of the purchase of the house, etc. this last year. Following that, on Saturday, we went and saw Lazuli93 at her work and had massages done there, which was quite nice. I should do that more often.
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-11-25 13:47:20'
 layout: post
+slug: karmapa-as-dalai-lamas-regent
+status: publish
 title: Karmapa as Dalai Lama's Regent?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3434"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2561'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2547090115/" title="karmapa-starbucks by albill, on Flickr"><img src="http://farm4.static.flickr.com/3049/2547090115_52c0abe526.jpg" width="500" height="375" border="1" alt="Karmapa starbucks" /></a></p>
 I just saw <a href="http://www.timesonline.co.uk/tol/comment/faith/article5217495.ece">this article</a> at the Times Online today. An excerpt is below:

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-30 02:53:57'
 layout: post
-title: Clownz
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: clownz
 status: publish
+title: Clownz
+wordpress_id: '758'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/choconancy/137294102/" title="photo sharing"><img src="http://static.flickr.com/54/137294102_42ebf597f2_m.jpg" alt="" style="border: solid 2px #000000;" /></a>
 <br />

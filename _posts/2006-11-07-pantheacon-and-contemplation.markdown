@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-07 23:51:04'
 layout: post
+slug: pantheacon-and-contemplation
+status: publish
 title: Pantheacon and Contemplation
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1436'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Some day, when Hell is frosty, I will find out if the panel on contemplation that I submitted for Pantheacon in February has been approved or not. The proposal for this is:
 

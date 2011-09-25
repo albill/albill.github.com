@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-17 14:53:42'
 layout: post
+slug: the-teacup-and-the-skullcup
+status: publish
 title: The Teacup and the Skullcup
-published: true
-meta: 
-  ljID: "2580"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1703'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/teacup-skullcup.jpg" align="right" border="1" />I had a new book arrive today, <strong><a href="http://www.amazon.com/Teacup-Skullcup-Chogyam-Trungpa-Tantra/dp/1550550241">The Teacup and the Skullcup: Chogyam Trungpa on Zen and Tantra</a></strong>. I've been looking forward to reading this book for a while. This book is a drawn from two seminars that Trungpa did on Zen and Tantra in 1974, early in his teaching career.
 

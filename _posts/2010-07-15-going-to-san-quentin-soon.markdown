@@ -1,19 +1,16 @@
---- 
+---
+author: admin
+date: '2010-07-15 15:36:07'
 layout: post
+slug: going-to-san-quentin-soon
+status: publish
 title: Going to San Quentin Soon
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3651"
-tags: 
+wordpress_id: '3201'
+categories:
 - Buddhism
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4797093235/" title="Prison by albill, on Flickr"><img hspace="10" vspace="10" src="http://farm5.static.flickr.com/4136/4797093235_1163fb2b13.jpg" width="400" height="266" alt="Prison" /></a></div>
 I've received word back that I am now approved to visit and on the visitor's list for San Quention. SQ is the big (and fairly famous) prison in the Bay Area of California. What many people don't know is that it is also a facility with an incredible amount of volunteers and volunteer work. There are all kinds of groups and individuals meeting with inmates to try to help their lives or give them opportunities.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-13 23:33:06'
 layout: post
-title: New Grant Morrison Interview
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: new-grant-morrison-interview
 status: publish
+title: New Grant Morrison Interview
+wordpress_id: '175'
+categories:
+- Notable People
 ---
 <p>This is a day for posting it seems.</p>
 <p>There is another Grant Morrison interview online to go with the one I posted 

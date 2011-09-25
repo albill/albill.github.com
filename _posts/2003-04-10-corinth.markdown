@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2003-04-10 00:47:00'
 layout: post
-title: Corinth
-published: true
-meta: 
-  ljID: "2228"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-- Travel Greece Corinth
-type: post
+slug: corinth
 status: publish
+title: Corinth
+wordpress_id: '1348'
+categories:
+- Daily Life
+tags:
+- Travel Greece Corinth
 ---
 So we left Delphi this morning after visiting the Temple of Athena there below the main site. It was beautiful but relatively small. Very picturesque in the mountains though.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-30 22:00:00'
 layout: post
-title: "71330"
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: '71330'
 status: publish
+title: '71330'
+wordpress_id: '901'
+categories:
+- Daily Life
 ---
 <a href="http://www.theregus.com/content/6/25785.html">http://www.theregus.com/content/6/25785.html</a>
 

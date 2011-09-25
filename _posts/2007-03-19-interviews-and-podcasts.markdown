@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2007-03-19 13:57:08'
 layout: post
+slug: interviews-and-podcasts
+status: publish
 title: Interviews and Podcasts
-published: true
-meta: 
-  ljID: "2427"
-tags: 
+wordpress_id: '1569'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 To support a potential book project on modern Gnostic churches and their beliefs in America, I've been pondering doing interviews of a bunch of the various Gnostic bishops and priests ranging from the Ordo Temple Orientis' <em>Ecclesia Gnostica Catholica</em> through Stephen Hoeller's <em>Ecclesia Gnostica</em> and going through various other leaders along the way.
 

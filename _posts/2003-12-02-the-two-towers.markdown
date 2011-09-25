@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-02 12:12:00'
 layout: post
-title: The Two Towers
-published: true
-meta: 
-  ljID: "2971"
-tags: 
-- Daily Life
-type: post
+slug: the-two-towers
 status: publish
+title: The Two Towers
+wordpress_id: '2049'
+categories:
+- Daily Life
 ---
 The Two Towers of Microsoft and Palm...I bought a Palm Tungsten C via Ebay last night (and got it for about half of the list price, which seems fair) so I&apos;m going to finally have a device made by someone other than my employer (or indirectly my employer). 
 

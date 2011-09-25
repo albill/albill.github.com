@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-22 13:10:00'
 layout: post
-title: Domains and Spam
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: domains-and-spam
 status: publish
+title: Domains and Spam
+wordpress_id: '1387'
+categories:
+- Daily Life
 ---
 I&apos;ve had the memoria.com domain since 1996 (I think and I&apos;m too lazy to look). I&apos;m thinking of retiring it, as much as I like it, as  I get massive amounts of spam to my domain and it wouldn&apos;t be terribly disruptive since it only hosts my home page.
 

@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-03-15 21:42:54'
 layout: post
+slug: oxy-acetylene-welding-class
+status: publish
 title: Oxy-Acetylene Welding Class
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3494"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2705'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3354500083/" title="P1010541 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3607/3354500083_f3f0084966_m.jpg" width="180" height="240" align="right" border="1" alt="Al Welding" /></a> This weekend, I did something a bit unusual with my time. R, my wife, is studying homeopathy and has an all weekend class once a month every semester. Because of this, I have a weekend where I can and do something on my own. 
 

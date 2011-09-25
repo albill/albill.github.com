@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-04-01 11:54:33'
 layout: post
+slug: zen-priesting
+status: publish
 title: Zen Priesting
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3506"
-tags: 
+wordpress_id: '2736'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3397894828/" title="Jigen"><img src="http://farm4.static.flickr.com/3649/3397894828_5073aca4d1.jpg" width="500" height="486" alt="Jigen" /></a></div>
 As I mentioned in my last post, I'm now a Zen priest in a Korean-derived Zen lineage. Technically, in the way we've organized things, I'm formally a "Dharma Priest" and hold the 16 precepts. My teacher, along with being formally recognized as a teacher, is a Bodhisattva Priest who holds the same precepts as me plus all of the Bodhisattva precepts. This is following the tradition of practice organized by Seung Sahn for the <a href="http://en.wikipedia.org/wiki/Kwan_Um_School_of_Zen">Kwan Um School of Zen</a>. Seung Sahn taught and practiced in Japan for a number of years and our ordination system is very similar to what you see in the Japanese Zen traditions. There is definitely a Rinzai influence in the way that we do things.

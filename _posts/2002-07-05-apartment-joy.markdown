@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-05 22:39:00'
 layout: post
-title: Apartment Joy
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: apartment-joy
 status: publish
+title: Apartment Joy
+wordpress_id: '879'
+categories:
+- Daily Life
 ---
 Well, there went the hope of a relaxing evening.
 

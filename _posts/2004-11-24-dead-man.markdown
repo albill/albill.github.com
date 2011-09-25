@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-24 00:23:52'
 layout: post
-title: Dead Man
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dead-man
 status: publish
+title: Dead Man
+wordpress_id: '292'
+categories:
+- Daily Life
 ---
 <p>R and I watched <b>Dead Man</b> this evening, starring Johnny Depp and with a 
 cast of notable side characters (including Iggy Pop in a bonnet and a dress). 

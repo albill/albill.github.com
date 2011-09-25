@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-09 19:09:57'
 layout: post
-title: Home Again
-published: true
-meta: 
-  ljID: "2890"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: home-again
 status: publish
+title: Home Again
+wordpress_id: '1967'
+categories:
+- Daily Life
 ---
 We made it home this morning (local time). We're jetlagged all to hell though.
 

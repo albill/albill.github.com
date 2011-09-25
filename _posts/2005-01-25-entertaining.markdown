@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-25 00:08:39'
 layout: post
-title: Entertaining
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: entertaining
 status: publish
+title: Entertaining
+wordpress_id: '378'
+categories:
+- Science Fiction
 ---
 So, yesterday afternoon I picked up the copy of <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765341476/">Sister Alice</a></b> that I'd gotten the other week. I like Robert Reed's books, usually, so I was looking forward to reading it. In between other tasks (like dinner and errands), I finished the book around midnight. It's been a while since I read a book in one day like that and it wasn't terribly short.
 

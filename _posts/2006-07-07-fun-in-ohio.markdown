@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-07-07 18:34:46'
 layout: post
+slug: fun-in-ohio
+status: publish
 title: Fun in Ohio
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1127'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I am in Cincinnati, Ohio right now staying with my friend, Jim, who does the 'The Path of the Mahayana' podcast.
 

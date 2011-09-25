@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-11-13 21:38:49'
 layout: post
+slug: dharmapalooza-2009-day-1
+status: publish
 title: Dharmapalooza 2009 - Day 1
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3595"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2902'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I visited my mom in Salt Lake City for a couple of days this week before coming here to Boulder, Colorado. I'm here to attended "<a href="http://www.stuartdavis.com/blog/dharmapalooza-2009">Dharmapalooza 2009</a>," having won a free ticket from the <a href="http://www.buddhistgeeks.com">Buddhist Geeks</a> during a giveaway on Twitter. 
 

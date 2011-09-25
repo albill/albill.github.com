@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-07 03:19:00'
 layout: post
-title: Wi-Fi
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: wi-fi
 status: publish
+title: Wi-Fi
+wordpress_id: '1011'
+categories:
+- Technology
 ---
 Well, I've finally gone Wi-Fi in the house. R has always disliked the ethernet cable across the middle of the hallway and, even with the carpet, people trip on it. Beyond that, we have rooms upstairs and a basement room directly beneath the living room that can't easily reach the hub...
 

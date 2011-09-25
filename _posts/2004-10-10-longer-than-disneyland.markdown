@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-10 10:17:10'
 layout: post
-title: Longer than Disneyland
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: longer-than-disneyland
 status: publish
+title: Longer than Disneyland
+wordpress_id: '257'
+categories:
+- Daily Life
 ---
 It is Sunday here in Florence. Needless to say, since it is a Catholic country, quite a few things are shut down, though not as many as you'd expect. It kind of reminds me of how things were when I was a kid in Seattle and the mall wasn't open on Sundays until I was a teenager.
 

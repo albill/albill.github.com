@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-18 00:41:46'
 layout: post
-title: 21 Taras and the Yurt
-published: true
-meta: 
-  _oembed_e2570f166d89bfe5a5c6f662eaefc3b3: "{{unknown}}"
-  _oembed_d7f48aabbcf23cad79b21b67190091ad: "{{unknown}}"
-  _oembed_f18266fbea09f00bf2e15af78193b427: "{{unknown}}"
-  _oembed_7281dce6a620a39693cd6b3d31922c03: "{{unknown}}"
-tags: 
-- Spirituality
-type: post
+slug: 21-taras-and-the-yurt
 status: publish
+title: 21 Taras and the Yurt
+wordpress_id: '484'
+categories:
+- Spirituality
 ---
 <p>We&#39;re just home from the monthly Tara Circle over at Denny and Sophia&#39;s 
 place. We get together every month to do a group practice of <b>21 Taras</b> for 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-27 02:22:34'
 layout: post
+slug: a-visit-to-mt-hiei
+status: publish
 title: A Visit to Mt. Hiei
-published: true
-meta: 
-  ljID: "2878"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1956'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 R and I took the train out to Mt. Hiei (Hieisan) today. This is the home of Tendai Buddhism, from whom the temple I am associated with in Ohio derives its lineage. The temple complex is about an hour outside of Kyoto on top of a mountain.
 

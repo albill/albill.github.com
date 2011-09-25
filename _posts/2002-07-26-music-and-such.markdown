@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-26 03:14:00'
 layout: post
-title: Music and such
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: music-and-such
 status: publish
+title: Music and such
+wordpress_id: '893'
+categories:
+- Daily Life
 ---
 I bought music and I will face the music...
 

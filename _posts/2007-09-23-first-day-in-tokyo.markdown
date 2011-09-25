@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-23 04:55:23'
 layout: post
-title: First Day in Tokyo
-published: true
-meta: 
-  ljID: "2873"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: first-day-in-tokyo
 status: publish
+title: First Day in Tokyo
+wordpress_id: '1951'
+categories:
+- Daily Life
 ---
 We made it to Tokyo. The flight wasn't too bad and they had a decent entertainment system (Linux-based) for everyone on it. This allowed us to do something other than read, sleep, and eat on the flight.
 

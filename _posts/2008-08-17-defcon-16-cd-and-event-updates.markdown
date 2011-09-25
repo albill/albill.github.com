@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-08-17 12:56:39'
 layout: post
+slug: defcon-16-cd-and-event-updates
+status: publish
 title: Defcon 16 CD and Event Updates
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3364"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2393'
+categories:
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2779097343/" title="dc-16-logo by albill, on Flickr"><img src="http://farm4.static.flickr.com/3176/2779097343_d81bf1f7ef_o.png" width="333" height="167" border="0" alt="dc-16-logo" /></a></p>
 For anyone that wants to find the Defcon 16 CD of presentations, it is on <a href="http://thepiratebay.org/torrent/4347389/DEFCON16_2008.rar">popular bittorrent sites</a> but can also be downloaded <a href="http://www.i-hacked.com/freefiles/defcon16.iso">here</a> as well.

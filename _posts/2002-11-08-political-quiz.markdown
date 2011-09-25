@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-08 04:47:00'
 layout: post
+slug: political-quiz
+status: publish
 title: Political Quiz
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1013'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 I took a political quiz this evening. I don't feel it is entirely accurate. I disagree with the basis of quite a few of the questions. My anarchosyndicalist leanings combined with Daniel Quinn meme infestation don't seem to be truly represented.
 

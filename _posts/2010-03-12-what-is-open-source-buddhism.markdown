@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2010-03-12 16:01:56'
 layout: post
+slug: what-is-open-source-buddhism
+status: publish
 title: What is Open Source Buddhism?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3613"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3107'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.openbuddha.com/images/white-buddha.gif" align="right" hspace="10" vspace="10" height="200" width="179">The moniker, "Open Source Buddhism," has been used on this site for quite a while. What this actually means is easily open to question and it seems worthy of a longer discussion.
 

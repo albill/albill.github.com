@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2007-11-28 15:42:28'
 layout: post
-title: "Mindfulness and the Brain: The Neuroscience of Meditation"
-published: true
-meta: 
-  ljID: "3045"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: "a:1:{i:0;a:10:{s:3:\"URI\";s:98:\"http://www.archive.org/download/Goldin_Mindfulness_and_the_Brain/Mindfulness_and_the_Brain_vbr.mp3\";s:5:\"title\";s:57:\"Mindfulness and the Brain: The Neuroscience of Meditation\";s:4:\"type\";s:9:\"audio_mp3\";s:4:\"size\";s:9:\"111271348\";s:8:\"duration\";s:7:\"1:55:54\";s:12:\"previewImage\";s:81:\"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png\";s:10:\"dimensionW\";s:3:\"320\";s:10:\"dimensionH\";s:3:\"240\";s:3:\"rss\";s:2:\"on\";s:4:\"atom\";s:2:\"on\";}}"
-tags: 
+slug: mindfulness-and-the-brain-the-neuroscience-of-meditation
+status: publish
+title: 'Mindfulness and the Brain: The Neuroscience of Meditation'
+wordpress_id: '2122'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://farm3.static.flickr.com/2178/2071708063_13f2d5e2a7_m.jpg" alt="Sitting Monks" align="right" height="240" width="192" />R and I attended the "<a href="http://sciencecafesf.com/">Down to a Science Cafe</a>" in San Francisco last night near her work in SOMA.
 

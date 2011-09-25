@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-16 12:22:05'
 layout: post
-title: Virigina Tech Shootings Today
-published: true
-meta: 
-  ljID: "2532"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: virigina-tech-shootings-today
 status: publish
+title: Virigina Tech Shootings Today
+wordpress_id: '1667'
+categories:
+- Society
 ---
 Jack Thompson, at attorney who is an "expert" on school shootings is on Fox News and elsewhere talking about the Virginia Tech shootings today. Because I work on an Internet TV project, I often have Fox News playing in the project in the background (it is the main news channel for it...).
 

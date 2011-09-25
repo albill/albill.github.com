@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-18 02:20:00'
 layout: post
-title: Geeks vs. Ninjas
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: geeks-vs-ninjas
 status: publish
+title: Geeks vs. Ninjas
+wordpress_id: '1611'
+categories:
+- Daily Life
 ---
 What could be wrong with geeks versus ninjas with a techno beat?
 

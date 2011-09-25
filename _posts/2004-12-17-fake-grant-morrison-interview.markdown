@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-17 22:25:37'
 layout: post
-title: Fake Grant Morrison Interview
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: fake-grant-morrison-interview
 status: publish
+title: Fake Grant Morrison Interview
+wordpress_id: '325'
+categories:
+- Science Fiction
 ---
 <p>Fake Grant Morrison Interview</p><p>This is amusing as all hell. I wish they'd do Warren Ellis.</p>
 <p><a href="http://www.comixexperience.com/fbr0503.htm">http://www.comixexperience.com/fbr0503.htm</a></p>

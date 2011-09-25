@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-12 00:27:10'
 layout: post
-title: High School
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: high-school
 status: publish
+title: High School
+wordpress_id: '526'
+categories:
+- Humor
 ---
 <p>You know, I am a high school dropout. I never attended my senior year. I 
 skipped it and went straight to community college.</p>

@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-07-13 01:34:18'
 layout: post
-title: Mechanicrawl
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3319"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: mechanicrawl
 status: publish
+title: Mechanicrawl
+wordpress_id: '2265'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2665105690/" title="Mechanicrawl by albill, on Flickr"><img src="http://farm4.static.flickr.com/3078/2665105690_c970d02aaa_o.jpg" width="336" height="280" alt="Mechanicrawl" /></a></p>
 Today, R and I went out to San Francisco for the Long Now Foundation's <a href="http://www.longnow.org/mechanicrawl/">Mechanicrawl</a> event. I'm a charter member of the <a href="http://www.longnow.org">Long Now Foundation</a> so I was given free tickets to the event.

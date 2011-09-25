@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-12 20:09:10'
 layout: post
-title: Thunderbird and Encrypting E-mail
-published: true
-meta: 
-  ljID: "2723"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-  _utw_tags_0: s:204:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"cryptography";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"enigmail";}i:2;O:8:"stdClass":1:{s:3:"tag";s:5:"gnupg";}i:3;O:8:"stdClass":1:{s:3:"tag";s:11:"thunderbird";}}";
-tags: 
-- Mozilla
-type: post
+slug: thunderbird-and-encrypting-e-mail
 status: publish
+title: Thunderbird and Encrypting E-mail
+wordpress_id: '1808'
+categories:
+- Mozilla
 ---
 I originally wrote this for my main blog at <a href="http://www.arcanology.com">Arcanology.com</a> because of an interest in encrypting e-mail. A few friends had asked me about it and I've just started doing this (and signing mail). Since it is using Mozilla technology, it seemed appropriate to post here as well. It isn't strictly related to my QA work.
 

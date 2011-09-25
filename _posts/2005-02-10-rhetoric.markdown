@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-10 22:40:31'
 layout: post
-title: Rhetoric
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: rhetoric
 status: publish
+title: Rhetoric
+wordpress_id: '393'
+categories:
+- Daily Life
 ---
 I just got back from a lecture at Queen Anne Masonic Lodge. This is the lodge where I will be taking the first degree of masonry in two weeks (from tonight).
 

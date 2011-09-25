@@ -1,23 +1,19 @@
---- 
+---
+author: admin
+date: '2011-02-22 11:05:18'
 layout: post
+slug: diy-book-scanner-in-progress
+status: publish
 title: DIY Book Scanner in progress
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3755"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Ace Monster Toys
-- bookscanner
+wordpress_id: '3442'
+categories:
 - Daily Life
-- ebooks
 - Hacking
 - Technology
-type: post
-status: publish
+tags:
+- Ace Monster Toys
+- bookscanner
+- ebooks
 ---
 I don't blog as often on the out and out geeky side of things here very often right now but I wanted to share a project that I've been working on. Along with all of the Buddhist things that I do, I am a founding member of a hackerspace and spend a significant amount of time each week with hackers hacking (along with my job working on the Firefox web browser).
 

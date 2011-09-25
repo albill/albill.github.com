@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-02-16 00:54:29'
 layout: post
+slug: classwork-and-pagans
+status: publish
 title: Classwork and Pagans
-published: true
-meta: 
-  _wp_old_slug: japanese-and-pagans
-  ljID: "3153"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2172'
+categories:
 - Academic
 - Buddhism
 - Esoteric
-type: post
-status: publish
 ---
 I haven't had as much to say lately. Between the security releases that I spend much of my time on at work and classes, day to day life has been a bit busy. Outside of these things, dramatic things have not occurred. 
 

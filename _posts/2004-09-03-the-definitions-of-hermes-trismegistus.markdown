@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-03 00:21:58'
 layout: post
-title: The Definitions of Hermes Trismegistus
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: the-definitions-of-hermes-trismegistus
 status: publish
+title: The Definitions of Hermes Trismegistus
+wordpress_id: '225'
+categories:
+- Spirituality
 ---
 <p>This is drawn from a late period document that survives, as I recall, only in 
 Armenian translation via Christian monks. It is obviously drawn from the same 

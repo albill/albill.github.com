@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-19 04:59:00'
 layout: post
-title: Neo-Tantra II
-published: true
-meta: 
-  ljID: "2911"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: neo-tantra-ii
 status: publish
+title: Neo-Tantra II
+wordpress_id: '1988'
+categories:
+- Spirituality
 ---
 Tomorrow is the secon of the series of three "Neo-Tantra" type classes R and I are doing. Hopefully we'll get past pranayama and chakras. I'm glad we're doing this as it is fairly interesting. I'm not sure how it relates to ritual work for me but we'll see.
 

@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2004-06-17 11:56:00'
 layout: post
-title: I love Warren Ellis
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: i-love-warren-ellis
 status: publish
+title: I love Warren Ellis
+wordpress_id: '144'
+categories:
+- Notable People
 ---
 <a href="http://www.livejournal.com/users/mistersleepless/20354.html">http://www.livejournal.com/users/mistersleepless/20354.html</a>.

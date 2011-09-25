@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-08 20:20:00'
 layout: post
-title: Dissin' Harry Potter
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: dissin-harry-potter
 status: publish
+title: Dissin' Harry Potter
+wordpress_id: '1014'
+categories:
+- Books
 ---
 <a href="http://slate.msn.com/?id=2073627">http://slate.msn.com/?id=2073627</a>
 

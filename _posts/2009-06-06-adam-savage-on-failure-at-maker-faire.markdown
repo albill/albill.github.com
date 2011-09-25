@@ -1,22 +1,16 @@
---- 
+---
+author: admin
+date: '2009-06-06 15:03:15'
 layout: post
-title: Adam Savage on Failure at Maker Faire
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3542"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+slug: adam-savage-on-failure-at-maker-faire
+status: publish
+title: 'Adam Savage on Failure at Maker Faire '
+wordpress_id: '2802'
+categories:
 - Esoteric
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I'm a huge Mythbusters fan (much to my wife's tired acceptance). Co-host Adam Savage spoke at Maker Faire the other week. The topic of his discussion is failure and it is a pretty interesting speech by him (if you find him interesting at all). I'm sorry that I missed seeing him live but this is good enough!
 

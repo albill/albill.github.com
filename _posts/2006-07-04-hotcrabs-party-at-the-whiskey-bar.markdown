@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-04 00:45:32'
 layout: post
-title: Hotcrab's Party at the Whiskey Bar
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: hotcrabs-party-at-the-whiskey-bar
 status: publish
+title: Hotcrab's Party at the Whiskey Bar
+wordpress_id: '1126'
+categories:
+- Daily Life
 ---
 Proof that R and I do get out to see the city occasionally.
 

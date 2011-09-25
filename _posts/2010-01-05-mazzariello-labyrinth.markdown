@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2010-01-05 11:22:01'
 layout: post
+slug: mazzariello-labyrinth
+status: publish
 title: Mazzariello Labyrinth
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3605"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2957'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 This last weekend, R and I were looking for something to do together. I recalled that there is a labyrinth locally in a state park and suggested that we hike out to it. One thing that isn't readily apparent when you live in the Bay Area is how close some fairly large parks are to the urban areas. R has been making a point of hiking these during the last couple of years but I haven't seen most of them.
 

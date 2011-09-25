@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-02 09:36:00'
 layout: post
-title: Ouch! I'm bleeding!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: ouch-im-bleeding
 status: publish
+title: Ouch! I'm bleeding!
+wordpress_id: '54'
+categories:
+- Daily Life
 ---
 I am the man or at least I'm handy.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-01 23:42:42'
 layout: post
+slug: oops
+status: publish
 title: Oops...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1152'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, my term ends the Friday after this next one. That's when I thought my last paper was due (which it normally has been for previous classes). Instead, I found out last night that it was due this Friday when I looked at my paperwork... oops.
 

@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2009-03-19 13:39:40'
 layout: post
+slug: an-evening-with-brad-warner
+status: publish
 title: An Evening with Brad Warner
-published: true
-meta: 
-  ljID: "3496"
-tags: 
+wordpress_id: '2710'
+categories:
 - Books
 - Buddhism
 - Daily Life
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3366505777/" title="Brad Warner"><img src="http://farm4.static.flickr.com/3636/3366505777_b6739c9f8e.jpg" width="375" height="500" alt="Brad Warner" /></a></div>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-17 14:12:08'
 layout: post
-title: Burning Man 2007
-published: true
-meta: 
-  ljID: "2367"
-tags: 
-- Daily Life
-type: post
+slug: burning-man-2007
 status: publish
+title: Burning Man 2007
+wordpress_id: '1522'
+categories:
+- Daily Life
 ---
 Burning Man tickets went on sail today. They start out at a lower price and work their way up so it is worth getting them early if possible.
 

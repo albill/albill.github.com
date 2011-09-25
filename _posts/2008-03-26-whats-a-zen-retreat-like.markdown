@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-26 00:02:00'
 layout: post
+slug: whats-a-zen-retreat-like
+status: publish
 title: What's a Zen Retreat Like?
-published: true
-meta: 
-  _wp_old_slug: whats-a-zen-monastery-like
-  ljID: "3199"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2193'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Have you ever wondered what a Zen retreat is like, especially here in the West? A documentary, "Bodhidharma's Shoe", was filmed at <a href="http://www.bmzc.org">Bodhi Manda Zen Center</a> in New Mexico.
 

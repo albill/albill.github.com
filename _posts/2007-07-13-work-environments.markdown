@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-07-13 23:12:32'
 layout: post
+slug: work-environments
+status: publish
 title: Work Environments
-published: true
-meta: 
-  ljID: "2655"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1752'
+categories:
 - Daily Life
 - Society
 - Technology
-type: post
-status: publish
 ---
 I realized the other day that I'm not sure I could work in a "normal" work environment or that I even really understand one anymore on a gut level. 
 

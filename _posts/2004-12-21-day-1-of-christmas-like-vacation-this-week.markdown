@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-21 00:06:38'
 layout: post
-title: Day 1 of Christmas-like Vacation (this week)
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: day-1-of-christmas-like-vacation-this-week
 status: publish
+title: Day 1 of Christmas-like Vacation (this week)
+wordpress_id: '329'
+categories:
+- Daily Life
 ---
 <p>Get up a bit after seven instead of sleeping in so I can let furnace service 
 guy into house. He, for once, shows up early even. He leaves around 9:10 AM, 

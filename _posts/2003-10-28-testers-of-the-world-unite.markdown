@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-28 05:09:00'
 layout: post
-title: Testers of the World Unite
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
-- Technology
-type: post
+slug: testers-of-the-world-unite
 status: publish
+title: Testers of the World Unite
+wordpress_id: '1943'
+categories:
+- Technology
 ---
 If you want to understand, in anal retentive detail, what my life is like at work, read this:
 

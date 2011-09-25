@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-30 23:53:01'
 layout: post
-title: Picture of the Day
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: picture-of-the-day
 status: publish
+title: Picture of the Day
+wordpress_id: '342'
+categories:
+- Humor
 ---
 <p>And I laughed and laughed.</p>
 <p>This is from

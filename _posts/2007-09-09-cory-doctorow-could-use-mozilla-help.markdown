@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2007-09-09 18:58:03'
 layout: post
+slug: cory-doctorow-could-use-mozilla-help
+status: publish
 title: Cory Doctorow Could Use Mozilla Help
-published: true
-meta: 
-  ljID: "2736"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:124:"http://www.archive.org/download/Cory_Doctorow_Podcast_78/Cory_Doctorow_Podcast_78_Little_Brother_excerpt_Chapter_12_64kb.mp3";s:5:"title";s:45:"Excerpt from Chapter 12 of \"Little Brother\"";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"12504147";s:8:"duration";s:5:"26:03";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '1819'
+categories:
 - Mozilla
 - Notable People
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 I <a href="http://www.arcanology.com/2007/09/06/cory-doctorows-firefox-theme/">mentioned the other day</a> that writer, activist, and ne'erdowell , Cory Doctorow, wanted to release a theme and/or some kind of bundle alongside his next science fiction novel, <strong>Little Brother</strong>.  This is a young adult novel focused on hacker kids and includes some supporting activities to help get kids more involved with the ideas within the book.
 

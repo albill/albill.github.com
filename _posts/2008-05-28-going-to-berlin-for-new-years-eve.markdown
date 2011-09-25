@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-05-28 22:46:18'
 layout: post
+slug: going-to-berlin-for-new-years-eve
+status: publish
 title: Going to Berlin for New Year's Eve
-published: true
-meta: 
-  ljID: "3274"
-tags: 
+wordpress_id: '2230'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2532538035/" title="Berlin_Fernsehturm_Festival_of_Lights_2007 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2125/2532538035_fe13c3fbdc.jpg" border="1" width="305" height="500" alt="Berlin_Fernsehturm_Festival_of_Lights_2007" /></a><br><em>Fernsehturm in Alexanderplatz</em></p> I just got non-binding but relatively firm approval today at work to go to Berlin at the end of the year. I'm going to go to the 25th Chaos Communication Congress (25C3) this year for Mozilla, along with "Tomcat," one of my German coworkers.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-26 18:37:38'
 layout: post
-title: Nader Loses It
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: nader-loses-it
 status: publish
+title: Nader Loses It
+wordpress_id: '435'
+categories:
+- Daily Life
 ---
 <p><a href="http://releases.usnewswire.com/GetRelease.asp?id=44858">http://releases.usnewswire.com/GetRelease.asp?id=44858</a></p>
 <blockquote><p> WASHINGTON, March 24 /U.S. Newswire/ -- Consumer Advocate Ralph

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-18 23:11:15'
 layout: post
+slug: meme-therapy-and-thoughts
+status: publish
 title: Meme Therapy and Thoughts
-published: true
-meta: 
-  ljID: "2256"
-tags: 
+wordpress_id: '1413'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I may be on the Memetherapy blog soon (unless they choose not to use my comments, of course). I was contacted by them a bit over a week ago about replying to some questions. I'm not sure how I rate but it is an excellent blog so I am happy that they contacted me. It makes me feel special (unlike tiresome posts on hats). Check them out at <a href="http://memetherapy.net/">http://memetherapy.net/</a>.
 In other news, I <em>think</em> my thesis proposal has been approved by my faculty advisor. I'll know more once the U.S. Postal Service delivers the official response. If this is the case, I have a couple of months of on and off thesis writing to do. Following this, I will finally have my Master's degree. Personally, I'm ready for this to be done after nearly two years of school after work in the evenings but I am pondering whether I want to pursue doctoral work and, if so, what I wish to do.

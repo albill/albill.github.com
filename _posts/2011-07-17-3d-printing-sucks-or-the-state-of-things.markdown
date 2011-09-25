@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2011-07-17 11:52:55'
 layout: post
+slug: 3d-printing-sucks-or-the-state-of-things
+status: publish
 title: 3D Printing Sucks or the State of Things
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3857"
-tags: 
+wordpress_id: '3779'
+categories:
+- Technology
+tags:
 - 3d printer
 - hackerspaces
 - makerbot
-- Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5255741204/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5085/5255741204_279e469386.jpg" width="500" height="500" alt=""></a><br><em>Alice...my makerbot</em></p>
 Look around and you'll see more and more articles in the mainstream press about 3D printing and printers. <a href="http://www.makerbot.com">Makerbot Industries</a> has built a business (and gotten investment) on kits for 3D printing over the last few years and there are actually a number of competitors now for them in the hobbyist market. <a href="http://reprap.org/">Reprap</a> hobbyist printers have existed for years before that as a DIY open source movement (with all that entails) as well.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-02 22:17:19'
 layout: post
-title: Probing of Meditators in Yearlong Retreat
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: probing-of-meditators-in-yearlong-retreat
 status: publish
+title: Probing of Meditators in Yearlong Retreat
+wordpress_id: '307'
+categories:
+- Spirituality
 ---
 <p>This article comes from <strong>The Buddhist Channel</strong> (<a href="http://www.buddhistchannel.tv/index.php?id=7,316,0,0,1,0">http://www.buddhistchannel.tv/index.php?id=7,316,0,0,1,0</a>)</p>
 <h2>Meditation study aims to leap over mental barriers</h2>

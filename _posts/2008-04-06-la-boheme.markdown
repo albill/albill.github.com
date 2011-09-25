@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-04-06 17:24:50'
 layout: post
-title: "La Boh\xC3\xA8me"
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3210"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: la-boheme
 status: publish
+title: La Bohème
+wordpress_id: '2202'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/2393688155/" title="Boheme.jpeg by albill, on Flickr"><img src="http://farm4.static.flickr.com/3173/2393688155_a489e8e989_m.jpg" align="right" hspace="10" vspace="10" width="165" height="240" alt="Boheme.jpeg" /></a> Today, R and I went with her mother and a couple of other family members to see a high definition broadcast of Puccini's <a href="http://en.wikipedia.org/wiki/La_boh%C3%A8me"><strong>La Bohème</strong></a> at a local theatre. This was part of a series of broadcasts of opera all over the country.
 

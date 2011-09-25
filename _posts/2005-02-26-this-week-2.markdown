@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-26 23:49:38'
 layout: post
+slug: this-week-2
+status: publish
 title: This Week
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '407'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I got the grade back for my first paper for my graduate history class (the 
 required one for my program). This is the paper that I posted online. In any 

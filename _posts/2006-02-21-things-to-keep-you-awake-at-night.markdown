@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-21 17:24:19'
 layout: post
-title: Things to Keep You Awake at Night
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: things-to-keep-you-awake-at-night
 status: publish
+title: Things to Keep You Awake at Night
+wordpress_id: '692'
+categories:
+- Society
 ---
 Could a small group engage in bioterrorism? You decide...
 

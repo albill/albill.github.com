@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-19 16:59:34'
 layout: post
+slug: passover-seder-2
+status: publish
 title: Passover Seder
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3217"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2207'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2425850899/" title="Seder Plate by albill, on Flickr"><img src="http://farm3.static.flickr.com/2317/2425850899_41e9591823.jpg" border="1" width="500" height="434" alt="Seder Plate" /></a></p>
 One of my coworkers told me that I was weird the other day. Then he corrected himself to say it wasn't that I was <em>personally</em> weird but that I did weird things. (Then he corrected himself again to say, actually, I was weird. Thanks, Sam!)

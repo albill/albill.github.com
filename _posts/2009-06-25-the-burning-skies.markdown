@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-06-25 19:47:51'
 layout: post
+slug: the-burning-skies
+status: publish
 title: The Burning Skies
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3552"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2822'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 I have been reading a bit of fiction lately. Perhaps it is a last hurrah before I start my doctoral program this Fall and no longer have time to read as much for pleasure.
 

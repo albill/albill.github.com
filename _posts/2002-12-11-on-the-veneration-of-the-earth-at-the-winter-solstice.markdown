@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-11 18:30:00'
 layout: post
+slug: on-the-veneration-of-the-earth-at-the-winter-solstice
+status: publish
 title: On the Veneration of the Earth at the Winter Solstice
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1045'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <strong>On the Veneration of the Earth at the Winter Solstice</strong>
 Fragments 6 & 7 from "On Images"

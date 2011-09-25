@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-07-04 20:35:37'
 layout: post
+slug: the-heart-sutra-commentary-by-zen-master-seung-sahn
+status: publish
 title: The Heart Sutra Commentary by Zen Master Seung Sahn
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3853"
-tags: 
+wordpress_id: '3773'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 I found this randomly on the Internet today. I'm a student of Seung Sahn's lineage and try to understand his perspective especially, as well as that of other teachers that I study. Given the role and importance of the Heart Sutra within Zen, I thought this teaching would be worth studying by others and wanted to share it.
 

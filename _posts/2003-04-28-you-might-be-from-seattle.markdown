@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-28 01:10:00'
 layout: post
-title: You might be from Seattle...
-published: true
-meta: 
-  ljID: "2242"
-tags: 
-- Daily Life
-type: post
+slug: you-might-be-from-seattle
 status: publish
+title: You might be from Seattle...
+wordpress_id: '1362'
+categories:
+- Daily Life
 ---
 <i>Thanks to </i>
 

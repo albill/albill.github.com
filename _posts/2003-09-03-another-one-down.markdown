@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-03 21:59:00'
 layout: post
-title: Another One Down...
-published: true
-meta: 
-  ljID: "2805"
-tags: 
-- Daily Life
-type: post
+slug: another-one-down
 status: publish
+title: Another One Down...
+wordpress_id: '1882'
+categories:
+- Daily Life
 ---
 I just found out that a casual acquaintance of mine is dead. No sympathy is required. We weren&apos;t close. We mostly interacted on the Church of Mez list locally.
 

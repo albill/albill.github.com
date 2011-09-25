@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-31 18:18:03'
 layout: post
+slug: t-shirt-lust
+status: publish
 title: T-Shirt Lust
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '654'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 R and I saw some t-shirts once, about six months ago, at a local mall when we  were doing some other shopping. At the time, I wanted one of the shirts but I  didn't feel like spending the money and didn't think it was worth it. Since  then, I've wanted the shirt but haven't been able to find it. R and I even  stopped by the same place a week and a half ago in order to see if they still  have them. They did not. I had hoped to get it for yule but I got the cool (and  it is) Cthulhu the Destroyer shirt instead.
 

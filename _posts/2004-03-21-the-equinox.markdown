@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2004-03-21 17:53:00'
 layout: post
+slug: the-equinox
+status: publish
 title: The Equinox
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3759"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '64'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 R and I went out to Egypt's place (yes, that's a person) on Friday night to attend an Invocation of Ra-Hoor-Khuit to celebrate the 100th anniversary of the Equinox of the Gods. Various parties were in attendence Matertiamat, Regulus666, Babalonyieh and many others...). Other than it being quite a bit of a drive from the city since it is out in the next county away from any major towns, it was kind of nice to get out into the country. Egypt has about an acre with a small house on it and a tree covered hill out behind it. The top of the hill is largely open and has been cleared as a ritual space. The invocation was performed and the roles were officiated in a superb manner by all. R and I then chatted for a while, had a bit of wine and then headed home. Thus passes the 100th anniversary. The equinox itself was, I believe, around 11:00 PM on Friday night.
 

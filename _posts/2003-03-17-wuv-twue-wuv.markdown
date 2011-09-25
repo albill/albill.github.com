@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-17 17:48:00'
 layout: post
-title: Wuv, Twue Wuv
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: wuv-twue-wuv
 status: publish
+title: Wuv, Twue Wuv
+wordpress_id: '1313'
+categories:
+- Daily Life
 ---
 So, on Saturday, R had her killer software certification test from Hell. Apparantly, she&apos;s appalled, which you can read about on her journal. The whole thing sounds like a certification nightmare to me. Given the amount of time that she worked on it, it&apos;s more than a little irritating for her (and by extension, me!).
 

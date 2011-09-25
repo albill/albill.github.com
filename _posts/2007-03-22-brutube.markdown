@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-03-22 21:23:48'
 layout: post
+slug: brutube
+status: publish
 title: BruTube
-published: true
-meta: 
-  ljID: "2435"
-tags: 
+wordpress_id: '1572'
+categories:
 - Notable People
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 A Bruce Sterling Fan-boy moment...
 

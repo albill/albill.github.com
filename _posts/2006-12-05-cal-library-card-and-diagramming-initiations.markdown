@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-05 01:38:57'
 layout: post
-title: Cal Library Card and Diagramming Initiations
-published: true
-meta: 
-  ljID: "2318"
-tags: 
-- Daily Life
-type: post
+slug: cal-library-card-and-diagramming-initiations
 status: publish
+title: Cal Library Card and Diagramming Initiations
+wordpress_id: '1471'
+categories:
+- Daily Life
 ---
 Theoretically, I can get a library card at Cal (aka University of California, Berkeley). This is done by presenting my student identification as a graduate student at another school and paying a $50 or so annual fee.
 

@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-09-08 10:31:37'
 layout: post
+slug: buddhist-applications-for-iphone
+status: publish
 title: Buddhist Applications for iPhone
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3580"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_comments: "0"
-  ljxp_privacy: "0"
-tags: 
+wordpress_id: '2859'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 Some of us in my sangha have discussed having Buddhist applications for the iPhone (or iPod Touch). It would be convenient to have our daily service, and the various sutras that we use in it, available easily. Since none of us program in Objective C, it isn't a project that has gotten very far. (I'm actually partial to the "Monastic Office" book with the rubberized cover that Shasta Abbey put out back in the day as a useful format for carrying around as well.)
 

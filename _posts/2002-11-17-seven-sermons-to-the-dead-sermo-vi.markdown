@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-17 06:41:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo VI
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: seven-sermons-to-the-dead-sermo-vi
 status: publish
+title: Seven Sermons to the Dead, Sermo VI
+wordpress_id: '1026'
+categories:
+- Spirituality
 ---
 <font size="+1"><strong>Sermo VI</strong></font>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-22 15:33:00'
 layout: post
-title: Theism
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: theism
 status: publish
+title: Theism
+wordpress_id: '68'
+categories:
+- Spirituality
 ---
 Theism is a question that I ponder off and on.
 

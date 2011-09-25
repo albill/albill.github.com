@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-10 02:11:26'
 layout: post
+slug: first-day-at-ase-conference
+status: publish
 title: First Day at ASE Conference
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3234"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1107'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Today was the first day at the Association for the Study of Esotericism conference at the University of California in Davis.
 

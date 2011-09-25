@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-17 10:50:11'
 layout: post
-title: Moved In...
-published: true
-meta: 
-  ljID: "2327"
-tags: 
-- Daily Life
-type: post
+slug: moved-in
 status: publish
+title: Moved In...
+wordpress_id: '1480'
+categories:
+- Daily Life
 ---
 The horror is mostly over. We are in our new house. The Irish movers showed up at 8:30 AM on Saturday and it took about 4 1/2 hours to do the move.
 

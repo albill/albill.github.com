@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-23 01:31:00'
 layout: post
-title: Questions, always questions
-published: true
-meta: 
-  ljID: "2506"
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: questions-always-questions
 status: publish
+title: Questions, always questions
+wordpress_id: '1644'
+categories:
+- Daily Life
 ---
 What is it that brings all of my interests together? Do I really work for the wrong side? Do I have a choice without making myself a pauper?
 

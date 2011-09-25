@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-05 11:30:56'
 layout: post
-title: You are on your own...
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: you-are-on-your-own
 status: publish
+title: You are on your own...
+wordpress_id: '280'
+categories:
+- Spirituality
 ---
 No one is going to save you. There is no rescue party on its way. You are on your own. You control your destiny and are responsible for your success or failures.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-16 16:36:37'
 layout: post
-title: Esotericism Conference
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: esotericism-conference
 status: publish
+title: Esotericism Conference
+wordpress_id: '1088'
+categories:
+- Academic
 ---
 I will be attending the second conference run by the <a href="http://www.aseweb.org/">Association for the Study of Esotericism</a> from June 8 through 11 at the University of California, Davis. The mission statement for the association is <a href="http://www.aseweb.org/ASE/ASEMission.html">online</a> but it is an academic organization focusing on Western Esotericism, which is the area in which I will be writing my thesis for my MA.
 

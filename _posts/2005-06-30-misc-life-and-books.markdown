@@ -1,17 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-30 23:58:05'
 layout: post
-title: Misc. Life and Books
-published: true
-meta: 
-  enclosure: |
-    http://netsoc.ucd.ie/~coma/HST/17%20Grateful%20Dead-End.mp3
-    681271
-    audio/mpeg
-
-tags: 
-- Daily Life
-type: post
+slug: misc-life-and-books
 status: publish
+title: Misc. Life and Books
+wordpress_id: '499'
+categories:
+- Daily Life
 ---
 Today was a long day. It is review time at work. I and my peers spent eight  hours in a room with our test manager (our immediate boss) doing calibration of  data for the team for the period of the last year. We're doing another six hours  tomorrow. Woot!
 

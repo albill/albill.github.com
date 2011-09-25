@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-15 21:05:43'
 layout: post
-title: Household Repairs Resolved
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: household-repairs-resolved
 status: publish
+title: Household Repairs Resolved
+wordpress_id: '399'
+categories:
+- Daily Life
 ---
 <P>I found a carpenter for the work that I need done on the front of the house. 
 My neighbor across the street is a single mom with two teens. Her house is the 

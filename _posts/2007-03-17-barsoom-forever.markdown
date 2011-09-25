@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-17 23:43:57'
 layout: post
-title: Barsoom Forever!
-published: true
-meta: 
-  ljID: "2426"
-tags: 
-- Science Fiction
-type: post
+slug: barsoom-forever
 status: publish
+title: Barsoom Forever!
+wordpress_id: '1568'
+categories:
+- Science Fiction
 ---
 Like many children of the generations before me, I spent my childhood reading Edgar Rice Burroughs' Mars books. No Tarzan for me, no sir. It was all about our beloved Barsoom (Mars for you philistines!).
 

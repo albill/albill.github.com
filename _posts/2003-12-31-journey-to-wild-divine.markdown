@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-12-31 10:42:00'
 layout: post
+slug: journey-to-wild-divine
+status: publish
 title: Journey to Wild Divine
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '2107'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 My copy of <em>The Journey to Wild Divine</em> arrived yesterday. Damn that was quick (compared to the copy of <em>The Hidden God</em> that still hasn't arrived...). <lj user="stonemirror"> and <lj user="abrasax"> have their copies as well. I only did the intro and it was late but it is interesting.</lj></lj>
 

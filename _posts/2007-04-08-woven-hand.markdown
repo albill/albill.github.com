@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-08 02:16:39'
 layout: post
-title: Woven Hand
-published: true
-meta: 
-  ljID: "2521"
-tags: 
-- Daily Life
-type: post
+slug: woven-hand
 status: publish
+title: Woven Hand
+wordpress_id: '1657'
+categories:
+- Daily Life
 ---
 R and I went out this evening with a couple of friends of hers from high school. We went to see the band, "<a href="http://www.soundsfamilyre.com/">Woven Hand</a>," at the <a href="http://www.starryploughpub.com/">Starry Plough</a>, a Berkeley bar.
 

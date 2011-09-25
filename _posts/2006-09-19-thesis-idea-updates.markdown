@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-19 07:05:01'
 layout: post
-title: Thesis Idea Updates
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: thesis-idea-updates
 status: publish
+title: Thesis Idea Updates
+wordpress_id: '1200'
+categories:
+- Academic
 ---
 After reviewing a number of the completed theses for my program, I find that I am being a bit overly ambitious. I'm also finding that in my review of Golden Dawn materials. I need to do something a bit more straightforward. I have the current term to nail down my thesis, submit the abstract and longer outlines of it, lay out my methods and assumptions, and to give my (near) final bibliography.
 

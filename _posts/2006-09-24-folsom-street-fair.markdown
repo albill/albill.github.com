@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-09-24 20:14:54'
 layout: post
-title: Folsom Street Fair
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: folsom-street-fair
 status: publish
+title: Folsom Street Fair
+wordpress_id: '1207'
+categories:
+- Daily Life
 ---
 R and I went to the Folsom Street Fair with Sandy this afternoon. I'd never been before and didn't want to miss out.
 

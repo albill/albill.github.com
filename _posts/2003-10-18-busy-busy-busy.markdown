@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-18 02:17:00'
 layout: post
+slug: busy-busy-busy
+status: publish
 title: Busy, Busy, Busy...
-published: true
-meta: 
-  ljID: "2852"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1930'
+categories:
 - Daily Life
 - Esoteric
-type: post
-status: publish
 ---
 My work has been really busy lately. We've finally had the reorganization that we've been waiting for so my boss is now (as of today) only responsible for one giant ass team instead of two. Since shit flows downhill, this will probably make my life a little saner even though my own org that I run is ten people with nine of them reporting directly to me.
 

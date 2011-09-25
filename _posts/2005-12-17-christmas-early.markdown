@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-17 20:34:35'
 layout: post
-title: Christmas Early
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: christmas-early
 status: publish
+title: Christmas Early
+wordpress_id: '638'
+categories:
+- Daily Life
 ---
 Today, R and I went over to my grandparents' place in order to open some  Christmas gifts with them. My daughter is going out of town on the twenty-third  so we had moved up the gift exchange to accommodate her. R and I will be opening  gifts on the twenty-first as we normally do.
 

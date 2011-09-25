@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-02-01 17:00:26'
 layout: post
+slug: esoteric-buddhism-class
+status: publish
 title: Esoteric Buddhism Class
-published: true
-meta: 
-  ljID: "3137"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2166'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 It is time for a sanity check, I suppose. Since I finished my degree in December, I decided to start taking a class at UC, Berkeley Extension for Japanese. I blogged about this just the other day. Because that does not entirely fill my schedule (along with a full time job), I decided that I should sign up to take a class at the <a href="http://shin-ibs.edu/">Institute of Buddhist Studies</a> as well.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-04 02:11:21'
 layout: post
-title: Oil and the Middle East
-published: true
-meta: 
-  ljID: "2406"
-tags: 
-- Society
-type: post
+slug: oil-and-the-middle-east
 status: publish
+title: Oil and the Middle East
+wordpress_id: '1555'
+categories:
+- Society
 ---
 It has been in the news the last few days that Saudi Arabian oil production was <a href="http://www.theoildrum.com/node/2325">down 8% in 2006</a> versus 2005 even though the Saudis are drilling more than ever. Peak oil seems to have come for Saudi Arabia in 2005.
 

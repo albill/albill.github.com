@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-05-12 16:54:56'
 layout: post
+slug: open-source-buddhism
+status: publish
 title: Open Source Buddhism?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3526"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2772'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/233610575/" title="Open Mind Zendo at Burning Man"><img src="http://farm1.static.flickr.com/88/233610575_cd6e751c71.jpg" width="500" height="375" alt="Open Mind Zendo at Burning Man" border="1" /></a></div>
 With the move top openbuddha.com, I'm changed the name and byline of the blog. The name is now, obviously, "Open Buddha," and my byline is "Open Source Buddhism" for it.

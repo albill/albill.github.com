@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-19 18:37:00'
 layout: post
-title: Faery King
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: faery-king
 status: publish
+title: Faery King
+wordpress_id: '919'
+categories:
+- Daily Life
 ---
 So, I got to play Oberon, the Faery King in a short little piece that the Cabiri did on Saturday at a small ecological festival at Camp Long in West Seattle. We just kind of threw the whole thing together at the last minute but it seemed to go well. I find it amusing that when I'm in a really goofy costume for a show, the Fish Priest costume (aka "The Grand Salmon"), we have a horde of pictures taken. When I'm in a cool costume and actually get compliments on it, we don't have any pictures. Life's a bitch that way. ;-)
 

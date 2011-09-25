@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-07 19:20:14'
 layout: post
+slug: why-we-need-schools
+status: publish
 title: Why we need schools...
-published: true
-meta: 
-  ljID: "3069"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2131'
+categories:
 - Academic
 - Humor
 - Society
-type: post
-status: publish
 ---
 If there is a sadder demonstration of why we both need schools and some standards for the people we allow to pontificate on television, I don't know what it would be.
 

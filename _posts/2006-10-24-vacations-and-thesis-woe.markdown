@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-24 23:12:58'
 layout: post
+slug: vacations-and-thesis-woe
+status: publish
 title: Vacations and Thesis Woe
-published: true
-meta: 
-  ljID: "2264"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1419'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 Let's do this in reverse order... No update on the thesis proposal questions. I did speak to my mentor this morning (the chair of my thesis committee) but that was simply to make sure he saw that I had sent him a reply as a word document. We didn't talk about details but his tone, as always, was cheerful and friendly. He said he'd read it this afternoon and reply by e-mail.
 

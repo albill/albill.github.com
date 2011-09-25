@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-03 13:45:00'
 layout: post
-title: Further Black Sun Gathering Information
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: further-black-sun-gathering-information
 status: publish
+title: Further Black Sun Gathering Information
+wordpress_id: '842'
+categories:
+- Daily Life
 ---
 This is the updated information that I received last night in e-mail for the Black Sun Gathering.
 

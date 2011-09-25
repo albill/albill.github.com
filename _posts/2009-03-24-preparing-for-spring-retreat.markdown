@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-03-24 10:32:40'
 layout: post
+slug: preparing-for-spring-retreat
+status: publish
 title: Preparing for Spring Retreat
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3500"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2723'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3381989807/" title="By the short hairs!"><img src="http://farm4.static.flickr.com/3595/3381989807_9e5beaa5b8.jpg" width="500" height="375" alt="By the short hairs!" /></a><br><em>Pre-shaving trim</em></div>
 I'm preparing for the <a href="http://cincinnatizen.org/images/spring-retreat-09.pdf">Four Day Sesshin</a> of the <a href="http://fivemountain.org/">Five Mountain Sangha</a> this week. Rev. Paul Lynch, JDPSN, will be leading the retreat and my primary teacher, Rev. Jiun Foster, will be installed as a Dharma Holder there (I and another Dharma brother will be ordained as well). 

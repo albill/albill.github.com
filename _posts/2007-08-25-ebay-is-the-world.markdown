@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-25 01:29:27'
 layout: post
-title: Ebay is the World
-published: true
-meta: 
-  ljID: "2707"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-type: post
+slug: ebay-is-the-world
 status: publish
+title: Ebay is the World
+wordpress_id: '1789'
+categories:
+- Buddhism
 ---
 It seems that anything can be found on ebay these days with enough time and patience. 
 

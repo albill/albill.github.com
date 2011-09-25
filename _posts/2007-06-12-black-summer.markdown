@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-12 17:03:09'
 layout: post
-title: Black Summer
-published: true
-meta: 
-  ljID: "2619"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Science Fiction
-type: post
+slug: black-summer
 status: publish
+title: Black Summer
+wordpress_id: '1723'
+categories:
+- Science Fiction
 ---
 I just read the first issue of Warren Ellis' new comic, <strong>Black Summer</strong>. Actually, technically, it is issue zero since the first full issue isn't until August.
 

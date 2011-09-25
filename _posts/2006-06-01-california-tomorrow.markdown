@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-01 00:48:14'
 layout: post
-title: California Tomorrow
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: california-tomorrow
 status: publish
+title: California Tomorrow
+wordpress_id: '1096'
+categories:
+- Daily Life
 ---
 I made it back last night to Seattle. I got in just before 10:00 PM. Today was spent taking the cats to the vet, running last errands, and seeing my daughter.
 

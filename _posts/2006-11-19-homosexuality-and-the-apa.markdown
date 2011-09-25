@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-19 14:10:53'
 layout: post
-title: Homosexuality and the APA
-published: true
-meta: 
-  ljID: "2298"
-tags: 
-- Society
-type: post
+slug: homosexuality-and-the-apa
 status: publish
+title: Homosexuality and the APA
+wordpress_id: '1453'
+categories:
+- Society
 ---
 I would recommend to any with the time to listen to <a href="http://www.thisamericanlife.org/pages/descriptions/02/204.html">this story</a> on <strong>This American Life</strong> on NPR.
 

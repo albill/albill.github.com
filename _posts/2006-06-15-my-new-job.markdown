@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-15 00:13:36'
 layout: post
-title: My New Job
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: my-new-job
 status: publish
+title: My New Job
+wordpress_id: '1111'
+categories:
+- Daily Life
 ---
 I am on the third day of my new job. I've been assigned two main projects, which I won't discuss beyond a certain level here. One is a backend, server focused project and the other one is client focused. I am the primary tester on both (or I will be soon...). The backend project is iterative (it is version three) and the client one is fairly new.
 

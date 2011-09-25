@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-22 23:01:24'
 layout: post
-title: Green Homes
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: green-homes
 status: publish
+title: Green Homes
+wordpress_id: '492'
+categories:
+- Technology
 ---
 I found this Green Homes site tonight: <a href="http://www.greenhomesforsale.com">http://www.greenhomesforsale.com</a>.
 

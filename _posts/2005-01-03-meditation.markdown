@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-01-03 12:53:06'
 layout: post
+slug: meditation
+status: publish
 title: Meditation
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '349'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 A Zen teacher that I know online received this description of meditation practice from a student of his and decided to share it with a bunch of us...
 

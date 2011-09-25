@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-27 22:53:00'
 layout: post
-title: Another Song of Enlightenment
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: another-song-of-enlightenment
 status: publish
+title: Another Song of Enlightenment
+wordpress_id: '193'
+categories:
+- Buddhism
 ---
 <p>This was sent to me by a friend of mine in exchange for the other song that I posted.</p>
 <p>From the Shangpa <strong>Timeless Rapture- Inspired Verses of the Shangpa Masters</strong>, p.103- Songs of Kyergangpa- from the "vajra song that introduces one's own mind as the spiritual master"....</p>

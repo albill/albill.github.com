@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-03 14:05:21'
 layout: post
+slug: mountain-view-this-week
+status: publish
 title: Mountain View this week
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '728'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I'll be flying down to San Jose, California tomorrow night. I'll be at Microsoft's Silicon Valley Campus (SVC) in Mountain View all day Wednesday and then be coming back.
 

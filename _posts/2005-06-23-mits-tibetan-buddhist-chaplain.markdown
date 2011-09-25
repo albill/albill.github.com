@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-23 23:45:33'
 layout: post
-title: MIT's Tibetan Buddhist Chaplain
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: mits-tibetan-buddhist-chaplain
 status: publish
+title: MIT's Tibetan Buddhist Chaplain
+wordpress_id: '493'
+categories:
+- Buddhism
 ---
 From Science and Technology News (<a href="http://www.stnews.org/articles.php?article_id=823&amp;category=rlr">http://www.stnews.org/articles.php?article_id=823&amp;category=rlr</a>):
 <h2>Dharma in the dorm: MIT hires Buddhist chaplain</h2>

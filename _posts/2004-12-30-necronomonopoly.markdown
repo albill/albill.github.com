@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-30 18:25:23'
 layout: post
-title: Necronomonopoly
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: necronomonopoly
 status: publish
+title: Necronomonopoly
+wordpress_id: '341'
+categories:
+- Humor
 ---
 This kicks ass. Too bad the yuletide season is over for gifts. Thanks to Lefty for showing this...
 

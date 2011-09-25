@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-16 21:59:57'
 layout: post
-title: An Interesting Take on Wikipedia
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: an-interesting-take-on-wikipedia
 status: publish
+title: An Interesting Take on Wikipedia
+wordpress_id: '444'
+categories:
+- Science Fiction
 ---
 <P>From Gamegrene.com for the world of Ghyll:</P>
 <BLOCKQUOTE>

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-20 15:33:57'
 layout: post
+slug: death-guild-thunderdome-fundraiser
+status: publish
 title: Death Guild Thunderdome Fundraiser
-published: true
-meta: 
-  ljID: "2585"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1706'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 R and I went to the Death Guild's <a href="http://www.deathguildthunderdome.com/">Thunderdome Fundraiser</a> in Oakland last night. The Death Guild is a relatively long lasting Burning Man group which has also been involved with the local Goth/Industrial scene off and on over the years. I know back in 2000 or so, they were throwing monthly music events in a local warehouse space but they quit doing it at some point.
 

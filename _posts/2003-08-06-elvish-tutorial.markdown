@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-06 18:31:00'
 layout: post
-title: Elvish Tutorial
-published: true
-meta: 
-  ljID: "2760"
-tags: 
-- Daily Life
-type: post
+slug: elvish-tutorial
 status: publish
+title: Elvish Tutorial
+wordpress_id: '1836'
+categories:
+- Daily Life
 ---
 On a Greek Index of 1 to 10, how geeky is this?
 

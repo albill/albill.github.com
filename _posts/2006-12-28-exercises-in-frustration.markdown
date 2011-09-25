@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-28 15:56:16'
 layout: post
-title: Exercises in Frustration
-published: true
-meta: 
-  ljID: "2342"
-tags: 
-- Technology
-type: post
+slug: exercises-in-frustration
 status: publish
+title: Exercises in Frustration
+wordpress_id: '1496'
+categories:
+- Technology
 ---
 Would you like an exercise in frustration? Try getting KDE or Gnome (or X in general) to work with a twin-headed Nvidia video card in order to use two monitors in Ubuntu (or Kubuntu in my case).
 

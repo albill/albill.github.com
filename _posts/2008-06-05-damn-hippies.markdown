@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-06-05 00:30:37'
 layout: post
-title: Damn Hippies!
-published: true
-meta: 
-  ljID: "3280"
-tags: 
-- Humor
-type: post
+slug: damn-hippies
 status: publish
+title: Damn Hippies!
+wordpress_id: '2234'
+categories:
+- Humor
 ---
 Given my own commentary on occasion on "Hippies" and that of some of my old-school punk friends who knew hippies back in the day, I find the following amusing.
 

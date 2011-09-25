@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-03-05 15:16:18'
 layout: post
+slug: library-cards
+status: publish
 title: Library Cards
-published: true
-meta: 
-  ljID: "2431"
-tags: 
+wordpress_id: '413'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I finally paid my University of Washington Alumni membership fee. I've been expired for a year. The main reason to do this is that Alumni get a library card to the University of Washington library system. While I can't borrow as many books as a student, I have full access to their library. This is good for me personally as well as, potentially, for my research for my degree work.
 

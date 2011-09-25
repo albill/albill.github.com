@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-07-18 02:11:41'
 layout: post
+slug: not-broken
+status: publish
 title: Not Broken
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1139'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I used to think that there was a flaw that ran through the heart of the world and I wondered where this flaw came from, the deep and abiding dissatisfaction with all that is... I wondered how, why, and when I had been lied to...the lies that we have all taken in with our mother's milk, our daily lessons in pain, suffering, want, and desire...
 

@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-10-24 03:48:00'
 layout: post
+slug: mayor-smoked-crack-hire-him-back
+status: publish
 title: Mayor smoked Crack? Hire him back!
-published: true
-meta: 
-  ljID: "2860"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1938'
+categories:
 - Daily Life
 - Esoteric
-type: post
-status: publish
 ---
 It's been a busy few days and I haven't posted much. My mother did her lecture at the Pagan Scholars Meeting on Sunday on Nuit, the Infinite Goddess. It seemed rather well received and I thought it went over even better than it did at Notocon.
 

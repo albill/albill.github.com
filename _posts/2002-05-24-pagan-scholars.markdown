@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-24 02:04:00'
 layout: post
+slug: pagan-scholars
+status: publish
 title: Pagan Scholars
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '831'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 So, I went to Ted and  lecture on <strong>Getting Closer to the Gods</strong> or <em>Using the "Temple/Research Feedback Loop" to establish contact and enhance relationships with Deific forces</em> this evening. This was a good hour and half or so lecture. It was quite good and I wish that what Ted and Brandy said there (and, yes, Brandy, you did speak a bit!) was more circulated. I think the two of them need to write up a lot of this thought and either get it published or publish it on the web. I know a number of people that use this method of research either explicitly or implicitly.
 

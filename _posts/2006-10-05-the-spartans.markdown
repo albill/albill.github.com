@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-05 12:52:22'
 layout: post
+slug: the-spartans
+status: publish
 title: The Spartans
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1220'
+categories:
 - Notable People
 - Society
-type: post
-status: publish
 ---
 Frank Miller's vision of the Spartan stand at the Battle of Thermopylae against the Persian empire is finally being made into a movie.
 

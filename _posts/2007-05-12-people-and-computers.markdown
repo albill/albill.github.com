@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-12 13:11:18'
 layout: post
+slug: people-and-computers
+status: publish
 title: People and Computers
-published: true
-meta: 
-  ljID: "2568"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1691'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 I think Eddie Izzard has captured the normal frustration that non-geeks feel with technology very well here.
 

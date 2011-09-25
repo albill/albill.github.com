@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-18 17:10:30'
 layout: post
+slug: peter-lamborn-wilson-interview
+status: publish
 title: Peter Lamborn Wilson Interview
-published: true
-meta: 
-  ljID: "3035"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2115'
+categories:
 - Notable People
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 Over on Youtube, there is now a <a href="http://www.youtube.com/watch?v=i3cL1zAQry4">copy of the first ten minutes</a> of an interview with Peter Lamborn Wilson (aka "Hakim Bey"). Much of the interview is concerned with his articulation (not creation, as he pointed out) of the idea of the Temporary Autonomous Zone (TAZ) in his writings back in the 1980s.
 

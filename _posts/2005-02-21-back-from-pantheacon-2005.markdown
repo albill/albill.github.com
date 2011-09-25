@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-21 20:30:31'
 layout: post
-title: Back from Pantheacon 2005
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: back-from-pantheacon-2005
 status: publish
+title: Back from Pantheacon 2005
+wordpress_id: '403'
+categories:
+- Esoteric
 ---
 We're home at last. I didn't really have a lot of time over the weekend to write as much as before. Maybe I'll put something together in the next couple of days.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-23 00:01:00'
 layout: post
-title: Cthulhu Lives!
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: cthulhu-lives
 status: publish
+title: Cthulhu Lives!
+wordpress_id: '26'
+categories:
+- Science Fiction
 ---
 It seems that there has been a live action role-playing group that does Cthulhu scenarios. Normally, even though I did LARP'ing back before it had that name, I heap derision on LARP'ers, these guys are pretty crafty.
 

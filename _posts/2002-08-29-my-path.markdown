@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2002-08-29 19:15:00'
 layout: post
+slug: my-path
+status: publish
 title: My Path
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '928'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Well, I think I can safely say that yesterday's post got the most responses that I've had in quite some time. I'm sure more will filter in as well.
 

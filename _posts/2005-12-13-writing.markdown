@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-13 03:36:15'
 layout: post
-title: Writing
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: writing
 status: publish
+title: Writing
+wordpress_id: '633'
+categories:
+- Daily Life
 ---
 I feel like I should write more...specifically, that I should write some fiction. I've had various ideas at a variety of points but I've never felt that <i>push</i> to start telling a particular story. I don't know if I'm putting too much emphasis on the idea of writing as a calling instead of it being an interesting thought exercise.
 

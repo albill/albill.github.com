@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-11 23:48:53'
 layout: post
-title: Paintball!
-published: true
-meta: 
-  ljID: "2246"
-tags: 
-- Daily Life
-type: post
+slug: paintball
 status: publish
+title: Paintball!
+wordpress_id: '1403'
+categories:
+- Daily Life
 ---
 Today was a morale event with the QA department (well, most of us) from work today. We drove out somewhere by Walnut Creek, which is inland from the main part of the Bay Area, and went to an outdoor paintball course. Since the place is normally only open for the weekends, it was just the 15 of us that went and a couple of staff members. There we spent roughly four hours running around like idiots shooting paint at each other.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-16 00:59:00'
 layout: post
+slug: star-wars
+status: publish
 title: Star Wars
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '822'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 Oooh. One of my coworkers (yes, I'm still at work) found out that they are showing Star Wars at 12:01 am not far from where I live and you can buy tickets online. We're trying to organize a rebel assault!
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-01 23:10:02'
 layout: post
-title: Seattle for the New Year
-published: true
-meta: 
-  ljID: "3110"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: seattle-for-the-new-year
 status: publish
+title: Seattle for the New Year
+wordpress_id: '2150'
+categories:
+- Daily Life
 ---
 R and I took a quick trip to Seattle over this last weekend. Our friends, Autumn and Doug, were getting married and R was in the wedding party. We know the two of them, largely, from the OTO and it was a chance to see a bunch of people that we haven't seen since we moved to Oakland in mid-2006.
 

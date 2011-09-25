@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-15 19:41:00'
 layout: post
-title: Speech developed 200,000 years ago
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: speech-developed-200000-years-ago
 status: publish
+title: Speech developed 200,000 years ago
+wordpress_id: '917'
+categories:
+- Academic
 ---
 From <a href="http://www.washingtonpost.com/wp-dyn/articles/A17863-2002Aug14.html">http://www.washingtonpost.com/wp-dyn/articles/A17863-2002Aug14.html</a>:
 

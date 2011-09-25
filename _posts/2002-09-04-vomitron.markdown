@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-09-04 18:02:00'
 layout: post
+slug: vomitron
+status: publish
 title: Vomitron
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '936'
+categories:
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 A note from a work e-mail today (of all places). The Gravitron is one of those spinning top sort of rides where the force of the spinning pulls you up the walls and hangs you there...
 

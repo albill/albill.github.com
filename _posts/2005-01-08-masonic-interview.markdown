@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-08 19:01:04'
 layout: post
-title: Masonic Interview
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: masonic-interview
 status: publish
+title: Masonic Interview
+wordpress_id: '364'
+categories:
+- Daily Life
 ---
 The local Masons finally called me back. They are interviewing me tomorrow. Luckily, because of the weather and such, we are meeting at a local coffeeshop, which means I don't have to make my home presentable to them. Given the state of my kitchen floor, that's a relief.
 

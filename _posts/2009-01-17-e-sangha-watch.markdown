@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2009-01-17 18:39:33'
 layout: post
+slug: e-sangha-watch
+status: publish
 title: E-Sangha Watch
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3456"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2614'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 I've posted several times on the unfortunate way that <a href="http://www.e-sangha.com/">E-Sangha</a>, a popular Buddhist forum, is operated. It is run by a group of administrators and moderators who disallow open discussion of Buddhist ideas if these discussions run to interpretations with which the moderators disagree. This happens even when these disallowed interpretations are actually traditional views in specific traditions of Buddhism. They also have a policy of banning individuals from the forum if a moderator dislikes the tradition of practice of these individuals or if moderator decisions (or the sudden disappearance of discussion threads or individuals from the site) are discussed in public.
 

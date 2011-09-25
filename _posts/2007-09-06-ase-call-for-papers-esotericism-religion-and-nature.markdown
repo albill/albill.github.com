@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-06 16:46:38'
 layout: post
-title: "ASE Call for Papers: Esotericism, Religion, and Nature"
-published: true
-meta: 
-  ljID: "2732"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+slug: ase-call-for-papers-esotericism-religion-and-nature
+status: publish
+title: 'ASE Call for Papers: Esotericism, Religion, and Nature '
+wordpress_id: '1816'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 I'm posting this as a member of the Association for the Study of Esotericism. I attended the 2006 conference at the University of California, Davis, and had a very good time. This is the general area that my Master's thesis is within so I may see about creating a paper for this if I can think of a good topic.
 <h2>Association for the Study of Esotericism

@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2009-12-25 14:12:14'
 layout: post
+slug: sensory-deprivation-and-fun
+status: publish
 title: Sensory Deprivation and Fun
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3602"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2939'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4213339419/" title="Flotation Tank - 2 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2789/4213339419_e4e2b49fb7.jpg" width="500" height="375" alt="Flotation Tank - 2" /></a><br><em>Your Technological Womb?</em></div>
 Last night, R and I went to <a href="http://www.thefloatcenter.com/floating.html">Float: The Flotation Center and Art Gallery</a> nearby in Oakland. Float is, as the name implies, a place to float. In this instance, it is floating in a flotation tank aka a <a href="http://en.wikipedia.org/wiki/Isolation_tank">sensory deprivation or isolation tank</a>. (Apparently, the older names are now no longer commonly used with their odd associations.) 

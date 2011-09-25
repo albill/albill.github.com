@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-05 00:47:48'
 layout: post
+slug: for-the-ex-catholics-in-our-midst
+status: publish
 title: For the ex-Catholics in our midst
-published: true
-meta: 
-  ljID: "3064"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2128'
+categories:
 - Humor
 - Science Fiction
 - Spirituality
-type: post
-status: publish
 ---
 Like many, I grew up Roman Catholic. My mother was a convert from a form of Methodism before converting further to the truly odd (though I think Catholicism qualified to much of our family already).
 

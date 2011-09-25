@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-17 23:43:25'
 layout: post
-title: Templatizing an Old Site?
-published: true
-meta: 
-  ljID: "2939"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: templatizing-an-old-site
 status: publish
+title: Templatizing an Old Site?
+wordpress_id: '2016'
+categories:
+- Technology
 ---
 I have a bit of a crufty old site (<a href="http://www.hermetic.com">hermetic.com</a>), which I handcoded in html the old fashion away. Some of this was done as long ago as ten or so years.
 

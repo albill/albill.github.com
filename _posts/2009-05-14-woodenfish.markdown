@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-05-14 21:58:22'
 layout: post
+slug: woodenfish
+status: publish
 title: Woodenfish English Sutra Translations Available
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3527"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2774'
+categories:
 - Books
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I received the following e-mail today concerning the Woodenfish Sutra Translation Project (which I had never heard of before!). They have new translations of a selection of sutras available for free. 
 <blockquote>Woodenfish English Sutra Translation for free download <a href="http://www.woodenfish.org/sutra">http://www.woodenfish.org/sutra</a> 

@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2003-10-09 03:55:00'
 layout: post
-title: Pets
-published: true
-meta: 
-  ljID: "2840"
-tags: 
-- Daily Life
-type: post
+slug: pets
 status: publish
+title: Pets
+wordpress_id: '1918'
+categories:
+- Daily Life
 ---
 R and I went out to dinner after carpooling to work together today. Next to the restaurant was a PetCo. I finally convinced her it was time for another ferret (for those that don&apos;t know, Doodle died early in the year of cancer) and we brought a young female home...We&apos;re debating names but she seems pretty calm and energetic for a ferret. She&apos;s been awake for three or so hours straight now, which is just amazing!

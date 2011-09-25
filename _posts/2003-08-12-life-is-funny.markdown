@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-12 05:24:00'
 layout: post
-title: Life is funny
-published: true
-meta: 
-  ljID: "2766"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
-- Daily Life
-type: post
+slug: life-is-funny
 status: publish
+title: Life is funny
+wordpress_id: '1842'
+categories:
+- Daily Life
 ---
 <blockquote><i>"we close our eyes and look in opposite direction
 we ignore the threats and hope they&apos;ll go away

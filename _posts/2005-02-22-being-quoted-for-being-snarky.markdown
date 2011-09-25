@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-22 23:04:19'
 layout: post
-title: Being Quoted for Being Snarky
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: being-quoted-for-being-snarky
 status: publish
+title: Being Quoted for Being Snarky
+wordpress_id: '404'
+categories:
+- Esoteric
 ---
 Hey, it looks like I got noticed on khephra.org:
 

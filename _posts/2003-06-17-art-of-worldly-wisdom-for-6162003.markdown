@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-17 02:50:00'
 layout: post
-title: Art of Worldly Wisdom for 6/16/2003
-published: true
-meta: 
-  ljID: "2471"
-tags: 
-- Daily Life
-type: post
+slug: art-of-worldly-wisdom-for-6162003
 status: publish
+title: Art of Worldly Wisdom for 6/16/2003
+wordpress_id: '1608'
+categories:
+- Daily Life
 ---
 <center><b><font size="+1">5</font></b>
 Make people depend on you.

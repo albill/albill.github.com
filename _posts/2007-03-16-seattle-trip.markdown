@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-16 15:05:55'
 layout: post
-title: Seattle Trip
-published: true
-meta: 
-  ljID: "2422"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: seattle-trip
 status: publish
+title: Seattle Trip
+wordpress_id: '1565'
+categories:
+- Daily Life
 ---
 I'm going to be in Seattle from the morning of Friday, April 20 through the evening of Sunday, April 22. I haven't been back since we moved away at the beginning of June last year so I wanted to make a trip up.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-22 13:49:52'
 layout: post
+slug: ma-versus-doctorate-programs
+status: publish
 title: MA versus Doctorate Programs
-published: true
-meta: 
-  ljID: "2705"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1787'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I had lunch with <a href="http://djbuddha.org/">Scott</a> yesterday. He's finishing up his PhD at the Graduate Theological Union (GTU) and has an MA through the Institute for Buddhist Studies. I've been considering getting an MA through them, there Master of Arts in Buddhist Studies, recently. I have previously considered getting a PhD through GTU.
 

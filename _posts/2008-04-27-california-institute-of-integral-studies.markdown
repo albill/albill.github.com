@@ -1,19 +1,18 @@
---- 
+---
+author: admin
+date: '2008-04-27 17:29:51'
 layout: post
+slug: california-institute-of-integral-studies
+status: publish
 title: California Institute of Integral Studies?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3226"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2212'
+categories:
 - Academic
 - Buddhism
+tags:
 - CIIS
 - GTU
 - PhD
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/ciis.gif" align="right" hspace="10" vspace="10" border="1">  I have been focused on the <a href="http://www.gtu.edu">Graduate Theological Union</a> (GTU) as the main place to do my PhD. This is largely because Dr. Richard Payne is there and he is one of the few scholars in Japanese Buddhism of the esoteric sort (Shingon, in his case) in the United States. 
 

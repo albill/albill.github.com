@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-30 15:53:15'
 layout: post
-title: Tulum Ruins
-published: true
-meta: 
-  ljID: "2271"
-tags: 
-- Daily Life
-type: post
+slug: tulum-ruins
 status: publish
+title: Tulum Ruins
+wordpress_id: '1426'
+categories:
+- Daily Life
 ---
 Tonight is our last night in Tulum, Mexico. We'll spend the night here and then drive to the ruins of Coba in the morning. Following that, we're driving to Merida, the capitol of the Yucatan province.
 

@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2009-04-28 15:43:18'
 layout: post
+slug: buddhism-and-christianity
+status: publish
 title: Buddhism and Christianity
-published: true
-meta: 
-  aktt_notify_twitter: "no"
-  _edit_last: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '2759'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p>A friend linked to this article earlier today on Buddhism and Christianity, &#8220;<a href="http://www.boston.com/bostonglobe/ideas/articles/2008/12/14/when_jesus_met_buddha/?page=full">When Jesus met Buddha</a>&#8220;. </p>
 <p>It discusses the Eastern Christian churches, most of which are fairly unknown to modern Christians (to my dismay given their tenacity in non-European regions). I&#8217;ve been reading a little lately on the Japanese Christians of a few hundred years ago (who have interested me ever since I say how they hid their Christian items by making them look Buddhist). </p>

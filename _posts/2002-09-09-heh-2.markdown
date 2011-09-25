@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-09-09 17:24:00'
 layout: post
-title: heh
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: heh-2
 status: publish
+title: heh
+wordpress_id: '941'
+categories:
+- Daily Life
 ---
 An amusing blog courtesy of : <a href="http://www.improvisation.ws/mb/showthread.php?s=b627ddf7bff53053ae23b57b2858366f&amp;threadid=4475">True Porn Clerk Stories</a>
 

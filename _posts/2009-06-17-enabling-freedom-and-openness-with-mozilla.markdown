@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2009-06-17 15:03:41'
 layout: post
+slug: enabling-freedom-and-openness-with-mozilla
+status: publish
 title: Enabling freedom and openness with Mozilla?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3545"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2805'
+categories:
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3636246085/" title="Iran"><img src="http://farm4.static.flickr.com/3413/3636246085_f9f1c2f6c4.jpg" width="500" height="285" alt="Iran" /></a></div>
 Watching the twitterstorm around the current situation with the Iranian elections has been fairly thought provoking. The Iranian protesters are completely shut out of the official media in the form of newspapers, radio, and television in Iran. These are under the thumb of the state at the service of a man that may (or may not) have stolen an election for himself. The only viable option is the use of the net and other direct media communication, such as SMS. Of course, the state can block access to net resources and has turned off the cell networks at various points. Like the situation in China at times, people have found ways around these blockages to continue to report and communicate with each other. 

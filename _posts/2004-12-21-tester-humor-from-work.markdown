@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-21 14:07:03'
 layout: post
-title: Tester Humor from Work
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: tester-humor-from-work
 status: publish
+title: Tester Humor from Work
+wordpress_id: '331'
+categories:
+- Humor
 ---
 <p>This is just to remind people that I do work in QA for a living...A coworker sent this out.</p>
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-03 02:03:00'
 layout: post
+slug: assumption-of-the-godform-2
+status: publish
 title: Assumption of the Godform
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
+wordpress_id: '811'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Here is an excerpt from <a href="http://www.llewellyn.com/bookinfo/J169">Mysteria Magica</a> by Melita Denning and Osborne Philips, one of the published (and out of print) books detailing parts of the Ogdoadic system of magic, the main magical tradition that I work within. The contents of this section are fairly typical in post-Golden Dawn Hermetic magic though.
 <h2 align="center"><em>IDENTIFYING WITH GOD-FORCES</em></h2>In present-day occult working several techniques exist by which identification with God-forces may be achieved. The procedure here given is traditional to the A.S.

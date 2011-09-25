@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-19 14:57:27'
 layout: post
-title: Habeas Corpus is not a Constitutional Right
-published: true
-meta: 
-  ljID: "2370"
-tags: 
-- Society
-type: post
+slug: habeas-corpus-is-not-a-constitutional-right
 status: publish
+title: Habeas Corpus is not a Constitutional Right
+wordpress_id: '1525'
+categories:
+- Society
 ---
 According to <a href="http://www.whitehouse.gov/government/gonzales-bio.html">Alberto Gonzales</a>, our Attorney General, even though Habeas Corpus cannot be infringed upon according to the Constitution, that doesn't mean it is actually a right. Watch his testimony to <a href="http://en.wikipedia.org/wiki/Arlen_Specter">Arlen Specter</a>, a member of his own party (!), below:
 

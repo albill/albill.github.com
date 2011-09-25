@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-05 14:18:18'
 layout: post
+slug: berkeley-zen-center
+status: publish
 title: Berkeley Zen Center
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3314"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2259'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2640175796/" title="Hut Behind Zendo - 2 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3269/2640175796_a9e712ca1e.jpg" width="500" height="375" border="1" alt="Hut Behind Zendo - 2" /></a></p>R and I went down to the <a href="http://www.berkeleyzencenter.org/">Berkeley Zen Center</a> (BZC) today. They have a regular Saturday morning sitting session (well, more than one) followed by a Dharma teaching from either the abbot, another roshi, or a priest from the area. 
 

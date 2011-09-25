@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2006-05-16 16:15:30'
 layout: post
+slug: pressure-washing-fun-and-books
+status: publish
 title: Pressure Washing Fun and Books
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1087'
+categories:
 - Books
 - Daily Life
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 Since we have been having record heat the last few days, I decided it was a good time to do the pressure washing I wanted to do on the outside of the house. I have some touch-up painting to do and the cleaning is necessary for it (but it has to dry, which is hard in this climate).
 

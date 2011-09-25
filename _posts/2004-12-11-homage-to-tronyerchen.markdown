@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-11 14:59:18'
 layout: post
-title: Homage to Tronyerchen
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: homage-to-tronyerchen
 status: publish
+title: Homage to Tronyerchen
+wordpress_id: '317'
+categories:
+- Buddhism
 ---
 I found a nice book on the 21 Taras today that I may purchase. It is <strong><a href="http://www.skydancerpress.com/index.php?option=content&amp;task=view&amp;id=11&amp;Itemid=30">The Smile of Sun and Moon</a></strong> and it follows Jigme Lingpa's teachings among others.
 

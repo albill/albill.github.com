@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-15 00:12:00'
 layout: post
-title: Hellblazer Trailer
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: hellblazer-trailer
 status: publish
+title: Hellblazer Trailer
+wordpress_id: '108'
+categories:
+- Science Fiction
 ---
 See it here first!
 

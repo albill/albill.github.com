@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-06 23:47:00'
 layout: post
+slug: more-interviews-with-st-bruce-sterling
+status: publish
 title: More interviews with St. Bruce Sterling
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '10'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 This is from <a href="http://www.boingboing.net">Boing Boing</a>:
 

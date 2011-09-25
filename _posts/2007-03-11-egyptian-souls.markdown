@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-03-11 23:03:23'
 layout: post
+slug: egyptian-souls
+status: publish
 title: Egyptian Souls
-published: true
-meta: 
-  ljID: "2417"
-tags: 
+wordpress_id: '1561'
+categories:
 - Academic
 - Spirituality
-type: post
-status: publish
 ---
  I've some progress on source material for the thesis today. It is kind of funny because my section on the antecedents to the Golden Dawn and its ideas concerning the soul is only one chapter but it has probably taken more research time than the Golden Dawn material. Of course, I have the Golden Dawn material at hand and am pretty familiar with it already. I hope that I don't wind up kicking myself for taking all of this time to dig out these texts.
 

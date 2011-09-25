@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-11-15 21:06:41'
 layout: post
+slug: vegetarianism-and-food-or-backsliding
+status: publish
 title: Vegetarianism and Food or Backsliding
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3430"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2553'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 After some study and reflection on a proper vegetarian diet recently, I've really been thinking about what I am eating. I've also been pondering this with my recent poor health I haven't written here about it but I've been sick again to some degree the last two weeks. I'm finally feeling a bit better but it has led to some thought.
 

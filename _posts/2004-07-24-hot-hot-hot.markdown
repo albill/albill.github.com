@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-24 18:09:12'
 layout: post
-title: Hot, Hot, Hot!
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: hot-hot-hot
 status: publish
+title: Hot, Hot, Hot!
+wordpress_id: '190'
+categories:
+- Daily Life
 ---
 <p>Hot enough for you? I haven&#39;t looked but its got to be in the 90s or so in Seattle today. For around here, with our humidity, it&#39;s nasty hot. My cats are passed out on the floor and haven&#39;t moved for hours. Hell, the ferret even looks tired.</p><p>I finished <b>Iron Sunrise</b> by Charles Stross while I was home sick yesterday. (I think it was my curry from the other day...). It is quite a different book from <b>Singularity Sky</b>. I haven&#39;t decided how I feel about it though I think, at a basic level, it is an entertaining read. To read something light, I started my used copy of <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0451459490/">Wyrmhole</a></b> today. So far, it is interesting but I&#39;m not sure if it is interesting enough...</p><p>Today was &quot;Wicca in the Prison&quot; day. I got up a little before 6:00 AM and 
 drove down to McNeil Island and...missed my ferry by about two minutes. I watched it pull away as I got up to the doc. So, I waited an hour and fifteen for the next one. Once I got out there, I found the guys waiting and I did a normal two hour session or so with them. I handed out some study material and we&#39;ll see how it goes. The dynamics of dealing with inmates is kind of interesting and the group has undergone some kind of internal power shift over the last six months. Some of the people that used to go have either been transferred out or have quit coming, depending on the guy. One particular fellow and his buddies is kind of in charge of their ritual work now but the others seem to back this. It isn&#39;t really my call to make since they need to come to accommodations on their own for what they do and how they practice. I got back to the mainland around noon, drove up to Seattle and did a little time-wasting on Capitol Hill. </p><p>This week, R and I joined Netflix so we&#39;ll be turning off the TV portion of 

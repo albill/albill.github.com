@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-27 01:22:00'
 layout: post
-title: Ripley
-published: true
-meta: 
-  ljID: "3015"
-tags: 
-- Daily Life
-type: post
+slug: ripley
 status: publish
+title: Ripley
+wordpress_id: '2095'
+categories:
+- Daily Life
 ---
 I watched <b>Ripley&apos;s Game</b> this evening. This is a sequel to <b>The Talented Mr. Ripley</b> inasmuch as it is a movie version of one of the later novels about Tom Ripley by the same author. This is decades later and Ripley is married and an art dealer in Italy. He is played quite aptly by John Malkavich. 
 

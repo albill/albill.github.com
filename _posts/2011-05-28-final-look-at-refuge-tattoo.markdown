@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-05-28 11:18:07'
 layout: post
+slug: final-look-at-refuge-tattoo
+status: publish
 title: Final Look at Refuge Tattoo
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3845"
-tags: 
+wordpress_id: '3761'
+categories:
 - Buddhism
-- buddhism
 - Daily Life
 - Spirituality
+tags:
+- buddhism
 - tattoos
 - vows
-type: post
-status: publish
 ---
 Last September, <a href="http://www.openbuddha.com/2010/09/11/sometimes-mindfulness-requires-a-post-it-note/">I blogged</a> about the tattoo work I was having done on my left arm by a friend. I had Buddhist refuge vows done in Sanskrit using the script commonly called "Siddham" here in the West. You see this a lot for mantras and other Sanskrit text in Japan and Korea (and I presume China, at least at some point). The vows go:
 > बुद्धं शरणं गच्छामि। <br />

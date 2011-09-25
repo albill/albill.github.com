@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-06-29 00:38:51'
 layout: post
+slug: wedding-at-green-gulch
+status: publish
 title: Wedding at Green Gulch
-published: true
-meta: 
-  ljID: "3310"
-tags: 
+wordpress_id: '2253'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 R and I went out to Green Gulch again today. This is the second time this month after never having gone there before. My friend, <a href="http://www.technosattva.org">Nathan</a> went with us and he's staying here at the house for a few days after coming down from Seattle. (Mostly, he's spending time with my Nintendo Wii but we'll see...)
 <p align="center"><a href="http://www.flickr.com/photos/albill/2620406754/" title="Nathan and Rebecca by albill, on Flickr"><img src="http://farm4.static.flickr.com/3198/2620406754_1325753f57.jpg" width="500" height="375" alt="Nathan and Rebecca" border="1" /></a></p>

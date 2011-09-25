@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-30 16:33:00'
 layout: post
-title: Moving
-published: true
-meta: 
-  ljID: "2488"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: moving
 status: publish
+title: Moving
+wordpress_id: '1625'
+categories:
+- Daily Life
 ---
 Wow, moving is a real bitch. We&apos;ve been three days nearly non-stop moving crap around, cleaning and unpacking. I took Friday off from work, packed some more, and the movers showed up just before 1:00 pm. We moved with them until 6:30 pm (we helped load and unload as well). Then we did some unpacking. Saturday, we got up, ate breakfast and then went to the old house to clean with Autumn. We were there until 4:30 or so. Then I got a couple of hours to myself, ate some food and then went home and unpacked some more!
 

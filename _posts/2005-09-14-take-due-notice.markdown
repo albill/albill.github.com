@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-09-14 23:20:00'
 layout: post
-title: Take Due Notice
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: take-due-notice
 status: publish
+title: Take Due Notice
+wordpress_id: '558'
+categories:
+- Daily Life
 ---
 There is something to be said to reading Thomas Paine's <strong>The Rights of Man</strong> while listening to ¡Tchkung! on my headphones at maximum volume.
 

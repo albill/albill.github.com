@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-02-13 00:22:00'
 layout: post
+slug: leaving-town
+status: publish
 title: Leaving Town
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '45'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I'm off to PantheaCon in the morning via SeaTac. I've tried figuring out how to tell coworkers what PantheaCon is but gave up and just called it a convention for pagans. Easy enough to do assuming people have been exposed to conventions before. I'm quite looking forward to some of the panels, to seeing old friends that I only usually speak to online, meeting new friends and seeing my mother, who is presenting on Nuit.
 

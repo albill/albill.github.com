@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-16 16:31:17'
 layout: post
-title: There can be only one!
-published: true
-meta: 
-  ljID: "2936"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: there-can-be-only-one
 status: publish
+title: There can be only one!
+wordpress_id: '2013'
+categories:
+- Humor
 ---
 I have a feeling that I need to send Guido and Luigi over to talk to someone about identity and the net.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-10 19:20:00'
 layout: post
-title: I laughed, I cried...
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: i-laughed-i-cried
 status: publish
+title: I laughed, I cried...
+wordpress_id: '15'
+categories:
+- Humor
 ---
 The Bible in Lego...
 

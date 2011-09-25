@@ -1,19 +1,16 @@
---- 
+---
+author: admin
+date: '2010-09-15 13:47:35'
 layout: post
+slug: new-steampunk-manjushri-logo-for-open-buddha
+status: publish
 title: New Steampunk Manjushri Logo for Open Buddha
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3690"
-tags: 
+wordpress_id: '3298'
+categories:
 - Buddhism
 - Science Fiction
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 A Buddhist and artist that I know from twitter, <a href="http://thekamikazen.com/">the Kamikazen</a>, designed a new logo for my blog today. You can see <a href="http://thekamikazen.com/2010/09/15/steampunk-dharma/">his post</a> on it (as "Steampunk Dharma"). He's also making t-shirts of it <a href="http://www.redbubble.com/people/thekamikazen/t-shirts/5916251-1-steampunk-manjushri">available as well</a>.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-18 17:08:40'
 layout: post
-title: Principia Discordia and Dzogchen
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: principia-discordia-and-dzogchen
 status: publish
+title: Principia Discordia and Dzogchen
+wordpress_id: '181'
+categories:
+- Spirituality
 ---
  <img src="http://www.arcanology.com/images/sacred-chao.jpg" align="right" border="1" height="127" hspace="5" vspace="2" width="127" />R and I went and saw the <a href="http://www.annextheatre.org/principiaDiscordia/Principiadetails.htm">live performance</a> of <strong>Principia Discordia</strong> at the Empty Space Theatre in Fremont on Friday night. This was an hour long production of part of the opening
 tale of how Discordianism came to be founded and its basic tenets from the <strong>Principia Discordia</strong>, a "bible" of the religion of Discordian "discovered" and published a few decades back. Old hat for most pagans but apparently quite new to many squares still. I've found two versions online <a href="http://www.trip23.com/pd/index.htm">here</a> and <a href="http://www.ology.org/principia/">here</a> for those that haven't been graced with a copy of this text in the past. I think I first read it when I was 16 or so and hadn't paid much attention to it in a long time.

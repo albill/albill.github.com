@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-01-07 12:47:13'
 layout: post
+slug: meditation-and-brain-science
+status: publish
 title: Meditation and Brain Science
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3452"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2607'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 There have been quite a few articles in recent years about scientists looking at the science of meditation. "Science" in the sense of understanding what happens in the brain to practitioners of meditation and, perhaps, how to use it therapeutically as a tool. I've mentioned <a href="http://www.alanwallace.org/">Alan Wallace</a> and the <a href="http://www.sbinstitute.com/">Santa Barbara Institute for Consciousness Studies</a> before, as one example of this previously. There are also a couple of labs doing a lot of imagery and readings of monks, for example, practicing meditative techniques.
 

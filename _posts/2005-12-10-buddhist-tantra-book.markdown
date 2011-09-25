@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-10 16:20:25'
 layout: post
-title: Buddhist Tantra Book
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: buddhist-tantra-book
 status: publish
+title: Buddhist Tantra Book
+wordpress_id: '623'
+categories:
+- Spirituality
 ---
 I received a copy of <strong>The Buddhist Tantras: Light on Indo-Tibetan  Esotericism</strong> by Alex Wayman today. It had been recommended to me in the same  conversation as Stephen Beyer's <strong>Cult of Tara</strong> so I figured it might be  good. It is supposed to be back in print but I found a hardcover from a few  years ago via Powell's in Portland.
 

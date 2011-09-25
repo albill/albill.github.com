@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-07 04:48:44'
 layout: post
-title: Italia - First Entry
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: italia-first-entry
 status: publish
+title: Italia - First Entry
+wordpress_id: '252'
+categories:
+- Daily Life
 ---
 First Entry from Italy and I'm on a freakin' Italian keyboard so you'll have to bear with the occasional typographical errors.
 

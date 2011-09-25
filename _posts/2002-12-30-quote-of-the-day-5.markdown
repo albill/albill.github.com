@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-30 20:42:00'
 layout: post
-title: Quote of the Day
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: quote-of-the-day-5
 status: publish
+title: Quote of the Day
+wordpress_id: '1075'
+categories:
+- Notable People
 ---
 "<strong>Odi profanum vulgus et arceo</strong>"
 

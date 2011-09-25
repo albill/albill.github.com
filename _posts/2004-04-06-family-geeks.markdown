@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-06 00:06:00'
 layout: post
-title: Family Geeks
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: family-geeks
 status: publish
+title: Family Geeks
+wordpress_id: '82'
+categories:
+- Daily Life
 ---
 Madeline's birthday part (late) was yesterday at my grandparents' retirement community. As it turns out, my Uncle George, his two sons, and his wife, Roe, are in town for the week. They came by the party and we got to speak for a while.
 

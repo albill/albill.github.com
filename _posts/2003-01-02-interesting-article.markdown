@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-01-02 14:59:00'
 layout: post
-title: Interesting Article
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: interesting-article
 status: publish
+title: Interesting Article
+wordpress_id: '1225'
+categories:
+- Daily Life
 ---
 Wow. This is a really cool article. I want to read this fellow&apos;s book.
 

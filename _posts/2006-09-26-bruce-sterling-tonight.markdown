@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-09-26 15:55:09'
 layout: post
+slug: bruce-sterling-tonight
+status: publish
 title: Bruce Sterling Tonight
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1210'
+categories:
 - Daily Life
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 I'm going to go here Bruce Sterling lecture tonight in San Francisco.
 

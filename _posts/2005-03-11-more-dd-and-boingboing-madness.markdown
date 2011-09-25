@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-11 14:42:15'
 layout: post
-title: More D&D and BoingBoing Madness
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: more-dd-and-boingboing-madness
 status: publish
+title: More D&D and BoingBoing Madness
+wordpress_id: '419'
+categories:
+- Humor
 ---
 <P>I used to LARP when I was about, oh, 17 or so. This was almost 17 years ago. Somehow, now, I'm glad that I stopped a year or so later.</P>
 <P>From <A href="http://www.boingboing.net/2005/03/11/dd_reenactment_vid_r.html">BoingBoing Blog</A>:</P>

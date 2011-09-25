@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-11-27 19:22:32'
 layout: post
+slug: western-esotericism-resources
+status: publish
 title: Western Esotericism Resources
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '606'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I'm on the Nature Religion Scholars list (have been for years). This list is composed of either academics working on the topic of Nature Religions and Paganism or graduate students working in this area. There are only a few exceptions (I used to be one) of people who were grandfathered in when the list went from being very open to only being open to academics.</p>
 

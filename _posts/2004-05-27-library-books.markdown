@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-27 23:40:00'
 layout: post
-title: Library Books
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: library-books
 status: publish
+title: Library Books
+wordpress_id: '122'
+categories:
+- Books
 ---
 I have a strange, nigh uncontrollable desire, to take <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0812238087/">Understanding Terror Networks</a></strong> and apply the principles in it to a paper on the cell structure of the revolutionary network of <strong><a href="http://www.amazon.com/exec/obidos/ASIN/1563892677">The Invisibles</a></strong>. Does this strike anyone as wrong? I figure if it can apply to Al-Qaeda, it can apply to King Mob and friends... It would be interesting to do as a faux academic paper and to then submit it to some Homeland Security conference.
 

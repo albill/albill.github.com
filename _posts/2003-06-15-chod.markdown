@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-15 16:54:00'
 layout: post
-title: Chod
-published: true
-meta: 
-  ljID: "2469"
-tags: 
-- Daily Life
-type: post
+slug: chod
 status: publish
+title: Chod
+wordpress_id: '1606'
+categories:
+- Daily Life
 ---
 So, R and I went to a local gathering of Dzogchen Community people yesterday. She hadn&apos;t been to any Tibetan Buddhist rites of any sort before. 
 

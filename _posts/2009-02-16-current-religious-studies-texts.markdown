@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2009-02-16 21:54:50'
 layout: post
+slug: current-religious-studies-texts
+status: publish
 title: Current Religious Studies Texts?
-published: true
-meta: 
-  ljID: "3479"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2688'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 One of the bits of advice that I've been given of study that I can do during the next six months is to get a decent basis of understanding of the current field of Religious Studies. This would help me be in a good place for the beginning of my doctoral work.
 

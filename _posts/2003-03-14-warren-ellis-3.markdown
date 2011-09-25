@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2003-03-14 14:19:00'
 layout: post
+slug: warren-ellis-3
+status: publish
 title: Warren Ellis
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1309'
+categories:
 - Humor
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 Warren Ellis cracks me up. I'm not his Badsignal e-mail list which is functionally a blog that he e-mails out. This is complicated by the fact that he actually has a blog at <a href="http://diepunyhumans.com">diepunyhumans.com</a>. Warren is best known, I suppose, as a comic book writer and the creater of <strong>Transmetropolitan</strong>. Mostly he's a sarcastic fuck, which is why I like him.
 

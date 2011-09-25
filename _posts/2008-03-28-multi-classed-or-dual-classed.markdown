@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-03-28 00:50:44'
 layout: post
+slug: multi-classed-or-dual-classed
+status: publish
 title: Multi-Classed or Dual-Classed?
-published: true
-meta: 
-  ljID: "3203"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2195'
+categories:
 - Academic
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2368494058/" title="scholar by albill, on Flickr"><img src="http://farm4.static.flickr.com/3058/2368494058_3cc663b756_m.jpg" hspace="10" vspace="10" border="1" align="right" width="183" height="240" alt="scholar" /></a> There are days where the hub-bub and the fun of working in software is the greatest thing in the world. I've been on the net since my late teens in the late 1980s and I have always felt especially blessed in the sense that I managed to talk, finangle, and possibly bullshit my way into an engineering career working on software on the Internet. I never would have expected it to work out this way. While my grandfather is an old Boeing electrical engineer (he designed electrical systems for missiles and military craft), my bachelor's degree is in Cultural Anthropology (originally it was going to be Political Science!). 
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-30 15:57:40'
 layout: post
-title: At the Airport
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: at-the-airport
 status: publish
+title: At the Airport
+wordpress_id: '1095'
+categories:
+- Daily Life
 ---
 It turns out that the little airport in Gillette, Wyoming has wifi for free (unlike the pay wifi in most).
 

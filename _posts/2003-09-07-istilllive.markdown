@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-07 22:54:00'
 layout: post
-title: I...still...live!!
-published: true
-meta: 
-  ljID: "2809"
-tags: 
-- Daily Life
-type: post
+slug: istilllive
 status: publish
+title: I...still...live!!
+wordpress_id: '1886'
+categories:
+- Daily Life
 ---
 I&apos;m back. Shit, air travel really is the Greyhound of the Sky. I was stuck with a two year old directly behind me and over one seat and an infant in my row across the aisle... ;-)
 

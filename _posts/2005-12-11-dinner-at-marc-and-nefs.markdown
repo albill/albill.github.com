@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-11 15:42:49'
 layout: post
-title: Dinner at Marc and Nef's
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: dinner-at-marc-and-nefs
 status: publish
+title: Dinner at Marc and Nef's
+wordpress_id: '630'
+categories:
+- Daily Life
 ---
 Yesterday evening, R and I went over to see our friends Marc and Nef. They  live in a house on some acreage out in Monroe. People that recall my posts about  last May Day and burning a wicker man will know this place as they are the hosts  of that annual event.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-07 23:48:00'
 layout: post
-title: Work on Hermetic.com Today...
-published: true
-meta: 
-  ljID: "2459"
-tags: 
-- Daily Life
-type: post
+slug: work-on-hermeticcom-today
 status: publish
+title: Work on Hermetic.com Today...
+wordpress_id: '1596'
+categories:
+- Daily Life
 ---
 <p>Added <a href="http://www.hermetic.com/egc/xv_latin.html">The Gnostic Mass done into Latin</a> to <a href="http://www.hermetic.com/egc/index.html">A Collection of Ecclesia Gnostica Catholica and Gnostic Mass Materials</a> site.</p>
 <p>Added: </p>

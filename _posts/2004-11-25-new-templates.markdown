@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-25 13:35:27'
 layout: post
-title: New Templates
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: new-templates
 status: publish
+title: New Templates
+wordpress_id: '297'
+categories:
+- Daily Life
 ---
 I've updated the templates for the site. There were some issues with the old one and things that I didn't like about it.
 

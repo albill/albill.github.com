@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-28 14:13:36'
 layout: post
-title: Temple Buddhism
-published: true
-meta: 
-  ljID: "2341"
-tags: 
-- Buddhism
-type: post
+slug: temple-buddhism
 status: publish
+title: Temple Buddhism
+wordpress_id: '1495'
+categories:
+- Buddhism
 ---
 I received my copy of Stephen Covell's "J<a href="http://www.amazon.com/Japanese-Temple-Buddhism-Renunciation-Contemporary/dp/0824829670/">apanese Temple Buddhism: Worldliness in a Religion of Renunciation</a>" today. While the book primarily focuses on temple Buddhism in Japan, looking through it, I can see items of relevance to American Buddhists and Buddhist organizations.
 

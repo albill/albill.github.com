@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-09-02 00:08:54'
 layout: post
+slug: i-survived-burning-man-2008
+status: publish
 title: I Survived Burning Man 2008
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3375"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2427'
+categories:
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2818810099/" title="The Man"><img src="http://farm4.static.flickr.com/3083/2818810099_ddbff934b9.jpg" width="375" height="500" alt="The Man" border="1" /></a><br><em>The Man</em></p>
 R and I made it back this afternoon from Burning Man. Lucky me, I get to go back to work tomorrow. I've been up for most of 24 hours now because, as it turns out, the serial killer van tends to overheat when it is in stop and go traffic in 90+ degree weather. (This fact was noticed as we made our way onto the playa at Burning Man with the needle nearly red-lined the whole way...). We left at 3:00 AM this morning in order to avoid the two to four hour lines that commonly happen during exodus on Sunday and Monday, which would have blown the van in the heat. Unfortunately, our headlights turn out to have a switch that likes to randomly turn them off after the van has been running a while, so we had to wait until dawn after we got out in order to drive down the two lane rural highway in the middle of Nevada in order to leave.

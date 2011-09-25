@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-17 22:00:11'
 layout: post
-title: Rain, Rain, Rain
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: rain-rain-rain
 status: publish
+title: Rain, Rain, Rain
+wordpress_id: '370'
+categories:
+- Daily Life
 ---
 Well, it's been pouring buckets for the first time in a long while today. Given my lack of trust in my roof after the fix, you can imagine that I looked closely at things. So far, things seem like normal so I can probably turn the paranoia down a notch. 
 

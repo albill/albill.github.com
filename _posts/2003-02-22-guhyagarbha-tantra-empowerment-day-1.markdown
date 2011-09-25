@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-02-22 15:42:00'
 layout: post
+slug: guhyagarbha-tantra-empowerment-day-1
+status: publish
 title: Guhyagarbha Tantra Empowerment - Day 1
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1285'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 So, I've never attended an empowerment for a particular tantra as a whole before. Is there a translation or commentary in English anywhere for the Guhyagarbha Tantra? Like most Tibetan empowerments where they've recited text, no one is explaining most of it. The lama, Kilung Rinpoche, actually apologized for this and said that he normally would explain quite a bit but that the tantra is so long that he's afraid we won't get through it if he just doesn't just go full bore.
 

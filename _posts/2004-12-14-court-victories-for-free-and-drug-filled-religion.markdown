@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-14 00:28:44'
 layout: post
-title: Court Victories for Free, and drug-filled, Religion
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: court-victories-for-free-and-drug-filled-religion
 status: publish
+title: Court Victories for Free, and drug-filled, Religion
+wordpress_id: '320'
+categories:
+- Spirituality
 ---
 <p><a href="http://www.cnn.com/2004/LAW/12/10/scotus.religious.tea.ap/index.html">http://www.cnn.com/2004/LAW/12/10/scotus.r<wbr>eligious.tea.ap/index.html</a></p><h2>Court allows church to use hallucinogenic tea</h2><p><b>ALBUQUERQUE, New Mexico (AP) -- The U.S.
 Supreme Court sided Friday with a New Mexico church that wants to use

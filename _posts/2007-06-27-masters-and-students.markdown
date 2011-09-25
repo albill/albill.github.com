@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-06-27 22:47:05'
 layout: post
+slug: masters-and-students
+status: publish
 title: Masters and Students
-published: true
-meta: 
-  ljID: "2632"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1734'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 They say that you should always be very careful when picking a master in the spiritual arts...
 

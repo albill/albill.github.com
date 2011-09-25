@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-12 23:36:00'
 layout: post
-title: Biofeedback Computer Games
-published: true
-meta: 
-  ljID: "2844"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: biofeedback-computer-games
 status: publish
+title: Biofeedback Computer Games
+wordpress_id: '1922'
+categories:
+- Daily Life
 ---
 I was just reading the new issue of <b>Wired</b> and they had an article about a new computer game from <a href="http://www.wilddivine.com">Wild Divine</a> that uses biofeedback. The reviewer tried it out and thought it was pretty cool. I&apos;m thinking of picking it up when it comes out.
 

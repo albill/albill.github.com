@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-11 17:14:00'
 layout: post
+slug: oldest-usenet-message-of-mine
+status: publish
 title: Oldest Usenet Message of Mine
-published: true
-meta: 
-  ljID: "2651"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1748'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I've found the oldest archived Usenet message of mine (but not the oldest that I made, I know) on Google Groups.
 

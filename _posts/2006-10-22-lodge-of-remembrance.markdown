@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-10-22 23:48:45'
 layout: post
+slug: lodge-of-remembrance
+status: publish
 title: Lodge of Remembrance
-published: true
-meta: 
-  ljID: "2259"
-tags: 
+wordpress_id: '1416'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I drove down to Santa Cruz this morning and spent the afternoon with Hiram Lodge #11, which is the co-masonic lodge that mentioned previously. They rent space with a local masonic body there so we were able to use the hall.
 

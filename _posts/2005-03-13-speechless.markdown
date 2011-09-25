@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-13 15:30:58'
 layout: post
-title: Speechless
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: speechless
 status: publish
+title: Speechless
+wordpress_id: '421'
+categories:
+- Humor
 ---
 From a thread on a
 <a href="http://www.livejournal.com/users/gordonzola/197169.html">Livejournal community</a> where they were discussing bad tattoos (and no, it isn't about a tattoo...):<blockquote><em>and this reminds me of when i used to be a union negotiator, well,

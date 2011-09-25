@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-12 23:12:21'
 layout: post
-title: House Exteriors
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: house-exteriors
 status: publish
+title: House Exteriors
+wordpress_id: '395'
+categories:
+- Daily Life
 ---
 <p>Just to prove that owning a home is a never ending trial, I realized today 
 that a piece of siding at the bottom that overhands part of my foundation in the 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-03-03 15:06:21'
 layout: post
+slug: im-turning-japanese
+status: publish
 title: I'm turning Japanese...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '699'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Through a weird turn of events, I appear to be turning Japanese, in a Buddhist manner.
 

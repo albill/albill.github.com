@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-10 00:31:00'
 layout: post
-title: Naropa Responds
-published: true
-meta: 
-  ljID: "2462"
-tags: 
-- Daily Life
-type: post
+slug: naropa-responds
 status: publish
+title: Naropa Responds
+wordpress_id: '1599'
+categories:
+- Daily Life
 ---
 I wrote to Naropa asking them about the "upcoming" MA in Buddhist Studies listed on their distance learning site.
 

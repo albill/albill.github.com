@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-30 21:43:14'
 layout: post
+slug: a-short-trip-report-for-seattle-mind-camp-20
+status: publish
 title: A Short Trip Report for Seattle Mind Camp 2.0
-published: true
-meta: 
-  ljID: "2548"
-tags: 
+wordpress_id: '761'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I wanted to give a very brief trip report for a very brief  event: <a href="http://campmind.gearlive.com/wiki/index.php/Main_Page"> Seattle Mind Camp 2.0</a>.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-10-26 14:14:38'
 layout: post
+slug: day-of-the-dead-3
+status: publish
 title: Day of the Dead
-published: true
-meta: 
-  ljID: "3421"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2527'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2975969890/" title="Our Day of the Dead Altar for 2008 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3292/2975969890_69f5ceb639.jpg" border="1" width="500" height="338" alt="Our Day of the Dead Altar for 2008" /></a><br><em>Our Day of the Dead Altar for this year</em></p>
 I am feeling slightly better today so R and I decided to get out of the house for a while. In Fruitvale (part of Oakland) there is a <a href="http://www.unitycouncil.org/ddlm/index.htm">Day of the Dead festival</a>. This is a sort of streetfair with Day of the Dead altars, vendors, food, music, etc. We'd spoken about going earlier in the week so it seemed a good opportunity to do something.

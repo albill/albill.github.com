@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-08-12 13:04:00'
 layout: post
+slug: portland-yay
+status: publish
 title: Portland! Yay!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '909'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 and I went down to Portland this weekend. There was a seminar on Enochian magic done by David R Jones, who I've corresponded with online for many years and then a party for the feast of the first night of the prophet and his bride.
 

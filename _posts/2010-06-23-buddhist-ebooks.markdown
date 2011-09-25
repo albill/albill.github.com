@@ -1,20 +1,15 @@
---- 
+---
+author: admin
+date: '2010-06-23 13:34:25'
 layout: post
+slug: buddhist-ebooks
+status: publish
 title: Buddhist Ebooks
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3647"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3192'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I'm a computer geek and an avid reader of ebooks. I understand the criticisms that many have of whether you "own" an ebook or not and I certainly don't like digital rights management (DRM) combined with ebooks. That said, I also own more than 8,000 physical books. I have half of them in boxes in the garage at this point. The rest are scattered in overflowing bookshelves throughout my house and I really don't have room for many more books.
 

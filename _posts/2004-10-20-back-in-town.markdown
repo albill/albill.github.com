@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-20 20:52:21'
 layout: post
-title: Back in Town!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: back-in-town
 status: publish
+title: Back in Town!
+wordpress_id: '265'
+categories:
+- Daily Life
 ---
 R and I arrived home about an hour ago from the airport. We went to the airport in Rome at about 8:30 AM local time, which makes that about 22 hours ago or a bit less, and have been on the grand tour of the airports of the world.
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-06-12 03:05:00'
 layout: post
+slug: research-and-books
+status: publish
 title: Research and Books
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '848'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Well, after being trapped at work for a couple of extra hours (traffic was backed up on 520 all the way to Redmond) and being forced to eat greasy pizza there, I managed to get over to Seattle. My quest? To find a particular scholastic book that I discovered this weekend which was supposed to be in the UW library.
 

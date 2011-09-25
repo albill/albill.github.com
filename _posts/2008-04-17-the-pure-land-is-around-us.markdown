@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-17 02:05:29'
 layout: post
+slug: the-pure-land-is-around-us
+status: publish
 title: The Pure Land is Around Us
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3216"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2206'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/1432332966/" title="Daibutsu by albill, on Flickr"><img src="http://farm2.static.flickr.com/1200/1432332966_2e788845df.jpg" width="500" height="375" border="1" alt="Daibutsu" /></a></p>
 For my class on Esoteric Buddhism at the Institute of Buddhist Studies, I have been reading materials in <strong><a href="http://www.amazon.com/Tantric-Buddhism-East-Richard-Payne/dp/0861714873">Tantric Buddhism in East Asia</a></strong>. This is a collection of essays edited by the professor for the course. The topic matter of the collection is fairly obvious but one of the essays in it was particularly interesting. This was James Sanford's <em>Breath of Life: The Esoteric Nembutsu</em>. This is the same James Sanford that wrote one of the few works on the Tachikawa cult in Japan, an organization that was later suppressed because its (seeming) heretical ideas.

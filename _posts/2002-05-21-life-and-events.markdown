@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-05-21 02:55:00'
 layout: post
-title: Life and Events
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: life-and-events
 status: publish
+title: Life and Events
+wordpress_id: '826'
+categories:
+- Daily Life
 ---
 I've written a lot less as of late. I've felt that I've had less time to write overall and, in a sense, both less and more to write about. There is only so much that one can write about how good one's life is going right now. I&apos;m sure that it gets tiresome to read and I don&apos;t have a lot to add there.
 

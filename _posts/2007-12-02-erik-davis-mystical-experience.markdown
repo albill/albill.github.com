@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-02 15:19:15'
 layout: post
+slug: erik-davis-mystical-experience
+status: publish
 title: Erik Davis' Mystical Experience
-published: true
-meta: 
-  ljID: "3057"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2125'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 The author Erik Davis is known for his many essays in a variety of both fringe and mainstream publications over the last two decades. I remember reading pieces by him in <a href="http://www.lumen.org/"><strong>Gnosis</strong></a> magazine back in the day (seen <a href="http://www.techgnosis.com/chunkshow-single.php?chunk=chunkfrom-2005-06-15-1943-0.txt">here</a> and <a href="http://www.techgnosis.com/chunkshow-single.php?chunk=chunkfrom-2005-12-13-1057-0.txt">here</a>)  as well as his book, <a href="http://www.amazon.com/Techgnosis-Magic-Mysticism-Information-Paperback/dp/1852427728"><strong>Techgnosis</strong></a>, when it first came out. Last year, he came out with <a href="http://www.amazon.com/Visionary-State-Californias-Spiritual-Landscape/dp/0811848353/"><strong>The Visionary State</strong></a>, a beautiful coffee table book about the long tradition of California fringe spirituality as documented through photographs of buildings and locations. He has an essay <a href="http://www.techgnosis.com/chunks.php?sec=articles&amp;cat=tribes&amp;file=chunkfrom-2006-06-13-1742-0.txt">available online</a>, "Beyond Beliefs: The Cults of Burning Man," that was published in <a href="http://www.amazon.com/AfterBurn-Reflections-Burning-Man-Counterculture/"><strong>AfterBurn: Reflections on Burning Man</strong></a>, as well.
 

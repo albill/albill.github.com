@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-04 14:59:27'
 layout: post
-title: Death Guild and Burning Man
-published: true
-meta: 
-  ljID: "2727"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: death-guild-and-burning-man
 status: publish
+title: Death Guild and Burning Man
+wordpress_id: '1812'
+categories:
+- Society
 ---
 When I first went to Burning Man in 2001, the <a href="http://www.deathguild.com/">Death Guild</a> was an organization that was already there. Because of happenstance fate, I attended Burning Man with the Chupacabra Policia. Unfortunately for the Chupas, their "mutant lovechild of a swat team and the extras from the Road Warrior" look was a bit too similar to that of the Death Guild (even though we had helmets, badges and BDUs) to the point where everyone seemed to confuse us for the much larger Death Guild.
 

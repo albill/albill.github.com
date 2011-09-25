@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-03 01:22:24'
 layout: post
-title: Jeff Vandermeer has a blog
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: jeff-vandermeer-has-a-blog
 status: publish
+title: Jeff Vandermeer has a blog
+wordpress_id: '502'
+categories:
+- Notable People
 ---
 Jeff Vandermeer, a fairly interesting author, has a blog. I just found this out. Cool.
 

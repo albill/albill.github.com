@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-01-23 16:39:06'
 layout: post
+slug: the-end-times-and-science-fiction
+status: publish
 title: The End Times and Science Fiction
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '673'
+categories:
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 Who would have thought that in an essay on an online Science Fiction site which is closing would be focused on the end of civilization as we know it (and what it means to Science Fiction writers)?
 

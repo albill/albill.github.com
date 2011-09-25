@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2011-05-08 10:49:40'
 layout: post
-title: "Article Swap: Nate of Precious Metal on the Role of Tradition"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3827"
-tags: 
+slug: article-swap-nate-of-precious-metal-on-the-role-of-tradition
+status: publish
+title: 'Article Swap: Nate of Precious Metal on the Role of Tradition'
+wordpress_id: '3722'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <em>As part of the <a href="http://preciousmetal.wordpress.com/2011/04/11/article-swap-2k11-part-one-pairings-here/">2011 Article Swap</a>, the following piece was written by Nate from <a href="http://preciousmetal.wordpress.com">Precious Metal</a> on the role of Buddhist tradition in the current age.</em>
 

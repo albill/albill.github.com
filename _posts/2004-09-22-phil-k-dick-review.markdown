@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-22 12:55:51'
 layout: post
-title: Phil K. Dick Review
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: phil-k-dick-review
 status: publish
+title: Phil K. Dick Review
+wordpress_id: '242'
+categories:
+- Notable People
 ---
 I just picked up Lawrence Sutin's biography of Dick from the library this week (Sutin is also known for his fairly good Crowley bio) and I'd been wondering about this more recent book.
 

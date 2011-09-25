@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-04 22:34:00'
 layout: post
-title: Santorini Today
-published: true
-meta: 
-  ljID: "2221"
-tags: 
-- Daily Life
-type: post
+slug: santorini-today
 status: publish
+title: Santorini Today
+wordpress_id: '1341'
+categories:
+- Daily Life
 ---
 So, we&apos;re stuck on Santorini for an extra day since the only boat to Crete doesn&apos;t go until Sunday afternoon (it&apos;s friday at 5:24 pm right now).
 

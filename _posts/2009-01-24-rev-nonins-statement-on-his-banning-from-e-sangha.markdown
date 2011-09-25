@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2009-01-24 11:42:40'
 layout: post
+slug: rev-nonins-statement-on-his-banning-from-e-sangha
+status: publish
 title: Rev. Nonin's statement on his banning from E-Sangha
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3462"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2636'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 I <a href="http://www.arcanology.com/2009/01/17/e-sangha-watch/">posted</a> on the continuing issues on E-Sangha the other day and the formation of the site, <a href="http://www.e-sangha.info/">E-Sangha Watch</a>. I mentioned that there have been particular issues around the treatment of Zen practitioners (especially Soto Zen) on E-Sangha. The Soto Zen forum was closed under pretenses and a variety of Zen teachers have been harrassed and banned from the site.
 

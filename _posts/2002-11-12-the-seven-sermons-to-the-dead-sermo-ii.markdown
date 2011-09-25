@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-12 17:16:00'
 layout: post
-title: The Seven Sermons to the Dead, Sermo II
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: the-seven-sermons-to-the-dead-sermo-ii
 status: publish
+title: The Seven Sermons to the Dead, Sermo II
+wordpress_id: '1018'
+categories:
+- Spirituality
 ---
 <font size="+1"><strong>Sermo II</strong></font>
 In the night the dead stood along the wall and cried:

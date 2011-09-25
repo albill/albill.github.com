@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-11 20:55:13'
 layout: post
-title: John Shirley and some of my favorite writers
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: john-shirley-and-some-of-my-favorite-writers
 status: publish
+title: John Shirley and some of my favorite writers
+wordpress_id: '234'
+categories:
+- Science Fiction
 ---
 <p>John Shirley spoke with six science fiction writers recently and the results are up at <b>Locus</b> at <a href="http://www.locusmag.com/2004/Features/09_ShirleySocialFuture.html">http://www.locusmag.com/2004/Features/09_ShirleySocialFuture.html</a>.</p>
 <p>Here is an excerpt.</p>

@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2002-12-19 21:21:00'
 layout: post
+slug: vacation
+status: publish
 title: Vacation
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1054'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 It's hard to work when your vacation starts after tomorrow. Almost no one is here at work. My boss is out today and tomorrow. On Monday, I'm on vacation (from work...) for two weeks though I'll just be home. I took my test team (all three of them) out to lunch at Claimjumpers today as a morale event. It seemed like a good way to kill time.
 

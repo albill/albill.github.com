@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-02-06 14:26:39'
 layout: post
-title: This is just sad...
-published: true
-meta: 
-  ljID: "2389"
-tags: 
-- Society
-type: post
+slug: this-is-just-sad
 status: publish
+title: This is just sad...
+wordpress_id: '1544'
+categories:
+- Society
 ---
 I saw this during lunch today at <a href="http://www.cnn.com/2007/US/02/06/haggard.ap/index.html">CNN</a>.
 <blockquote>

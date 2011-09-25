@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-27 23:12:16'
 layout: post
-title: Contractors and Satan
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: contractors-and-satan
 status: publish
+title: Contractors and Satan
+wordpress_id: '339'
+categories:
+- Daily Life
 ---
 <p>This is long, overly detailed and probably not worth reading unless you care 
 about houses or something.</p>

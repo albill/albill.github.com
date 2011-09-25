@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-11 21:53:33'
 layout: post
-title: The New Pussy in the House
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3323"
-tags: 
-- Daily Life
-type: post
+slug: the-new-pussy-in-the-house
 status: publish
+title: The New Pussy in the House
+wordpress_id: '235'
+categories:
+- Daily Life
 ---
 Wow, you forget how temperamental cats can be after a while. Today, my friend, Kris, gave his cat to us. He's moved into a place with his fiancée and they are in the process of buying a house together. One problem: she can't handle cats. So, after much soul-searching, Kris decided to give up his kitty. When he told me about his troubles, I spoke to R and then volunteered to take his cat. I've already got two but they are both a bit older now and I expect that one or both will die within a few years. Kris' cat is supposed to be sweet and is fairly young and it seemed a good thing to do.
 

@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-08 00:05:21'
 layout: post
+slug: eido-shimano-steps-down-as-abbot-of-the-zen-studies-society
+status: publish
 title: Eido Shimano Steps Down as Abbot of the Zen Studies Society
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3675"
-tags: 
+wordpress_id: '3251'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4969890285/" title="eido-shimano by albill, on Flickr"><img src="http://farm5.static.flickr.com/4104/4969890285_9d7383ca94_m.jpg" width="180" height="240" align="right" hspace="10" alt="eido-shimano" /></a> I <a href="http://www.openbuddha.com/2010/08/22/zen-sex-scandal-goes-mainstream/">blogged</a> back on August 22 about the rekindled controvery with Eido Shimano, the longtime abbot of the Zen Studies Society in New York, concerning his alleged history of improper sexual relationships with students. The New York Times had a <a href="http://www.nytimes.com/2010/08/21/us/21beliefs.html">piece</a> on it and there has been <a href="http://www.thezensite.com/ZenEssays/CriticalZen/Aitken_Shimano_Letters.html">other documentation</a> available for some time now.
 

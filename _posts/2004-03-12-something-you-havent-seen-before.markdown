@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2004-03-12 01:05:00'
 layout: post
+slug: something-you-havent-seen-before
+status: publish
 title: Something you haven't seen before...
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3760"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '60'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I published this in <strong>Caduceus: The Hermetic Quarterly</strong> with John Michael Greer years ago. That is long out of print and it is a relatively unknown Golden Dawn paper.
 

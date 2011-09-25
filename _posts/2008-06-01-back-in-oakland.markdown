@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-06-01 23:19:45'
 layout: post
+slug: back-in-oakland
+status: publish
 title: Back in Oakland
-published: true
-meta: 
-  ljID: "3275"
-tags: 
+wordpress_id: '2231'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 We just got back from our trip to Seattle. We spent the weekend visiting friends and I attended the events for the Karmapa while I was there. I'll be writing more about it later.
 

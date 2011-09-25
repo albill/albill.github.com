@@ -1,21 +1,18 @@
---- 
+---
+author: admin
+date: '2011-03-13 13:32:11'
 layout: post
+slug: diy-book-scanner-is-almost-complete
+status: publish
 title: DIY Book Scanner is almost complete
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3778"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3478'
+categories:
+- Hacking
+- Technology
+tags:
 - Ace Monster Toys
 - bookscanner
 - ebooks
-- Hacking
-- Technology
-type: post
-status: publish
 ---
 Myles and I have continued to spend a few hours a couple of times a week on our <a href="http://www.diybookscanner.org">DIY Book Scanner</a>. As you can see below, it is mostly complete at this point.
 

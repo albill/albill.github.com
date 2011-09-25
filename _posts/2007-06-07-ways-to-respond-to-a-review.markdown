@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-06-07 13:24:37'
 layout: post
+slug: ways-to-respond-to-a-review
+status: publish
 title: Ways to Respond to a Review...
-published: true
-meta: 
-  ljID: "2614"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1718'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I know that I pick on <a href="http://hardcorezen.blogspot.com">Brad Warner</a> a bit but he sets himself up so much for it.
 

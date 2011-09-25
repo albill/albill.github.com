@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2003-01-15 15:56:00'
 layout: post
+slug: bruce-sterling
+status: publish
 title: Bruce Sterling
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1244'
+categories:
 - Daily Life
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 <img hspace="10" border="1" align="right" src="http://www.arcanology.com/images/bsterling-web.jpg" />So, Bruce Sterling came to Microsoft campus yesterday. He's doing a book promotion tour for his new book, <strong><em>Tomorrow Now</em></strong>, which I read an advance copy of over Thanksgiving. (It's a good book.)
 

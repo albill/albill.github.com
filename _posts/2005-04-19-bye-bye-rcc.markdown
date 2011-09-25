@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-19 09:56:40'
 layout: post
-title: Bye Bye RCC
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: bye-bye-rcc
 status: publish
+title: Bye Bye RCC
+wordpress_id: '447'
+categories:
+- Spirituality
 ---
 I just heard from my wife and them from a bunch of freemasons that Cardinal Ratzinger is now Pope Benedict XVI.
 

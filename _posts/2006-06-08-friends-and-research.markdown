@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-06-08 21:04:10'
 layout: post
+slug: friends-and-research
+status: publish
 title: Friends and Research
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1106'
+categories:
 - Academic
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I met with an online acquaintance, Lee Gilmore, today. She is someone that I met through academic lists online and mutual friends. Lee received her PhD from the <a href="http://www.gtu.edu/">Graduate Theological Union</a> (GTU) in Berkeley last year. She focused on Burning Man for her research though I don't actually recall the title of her dissertation. She looked at the experiences and conceptualizations people have of them at Burning Man. From what she's told me, it is interesting stuff.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-06 05:05:00'
 layout: post
+slug: chaldean-oracles-fr-37
+status: publish
 title: Chaldean Oracles (fr. 37)
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '778'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <blockquote>In Thought with vigorous Will Paternal Nous shoots forth
 the Multiformed Ideas, and from one Fount they all

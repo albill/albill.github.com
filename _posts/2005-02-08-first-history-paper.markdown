@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-08 22:38:03'
 layout: post
+slug: first-history-paper
+status: publish
 title: First History Paper
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '391'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <P>This is a copy of my first History paper for my graduate history class. We were required to read a particular text introducing the study of history. The first assignment was defined as:</P>
 <P>ASSIGNMENT I (See Gustavson Study Guide before reading) </P>

@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-16 01:19:40'
 layout: post
+slug: saturns-children
+status: publish
 title: A Look at Saturn's Children
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3325"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2277'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 <a title="saturns-children-US-cover by albill, on Flickr" href="http://www.flickr.com/photos/albill/2673895572/"><img src="http://farm4.static.flickr.com/3150/2673895572_ff5877f5e6_m.jpg" border="1" alt="saturns-children-US-cover" hspace="10" width="159" height="240" align="right" /></a> This evening I finished reading Charles Stross' new novel, <a href="http://www.amazon.com/Saturns-Children-Charles-Stross/dp/0441015948/"><strong>Saturn's Children</strong></a>. This came out about two weeks ago and had been much anticipated by those of us who are fans of Stross' work.
 

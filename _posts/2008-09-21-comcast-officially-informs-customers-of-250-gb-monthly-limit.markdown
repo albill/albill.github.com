@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-09-21 14:40:46'
 layout: post
+slug: comcast-officially-informs-customers-of-250-gb-monthly-limit
+status: publish
 title: Comcast Officially Informs Customers of 250 GB Monthly Limit
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3399"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2488'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I've been hearing news during the last week that Comcast is officially imposing a monthly 250 GB limit on traffic for their high speed Internet users. Since I use their service and telecommute part of the time, I've been paying attention to it, wondering how it will affect things like my VOIP use for work, iTunes video downloads, etc.
 

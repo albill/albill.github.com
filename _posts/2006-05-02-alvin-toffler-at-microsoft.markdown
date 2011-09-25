@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-02 17:10:52'
 layout: post
+slug: alvin-toffler-at-microsoft
+status: publish
 title: Alvin Toffler at Microsoft
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '766'
+categories:
 - Notable People
 - Society
-type: post
-status: publish
 ---
 I attended a talk by Alvin Toffler this afternoon on Microsoft campus. Alvin  Toffler has been one of my heroes since my teen years when I read his early  books, like <strong><a href="http://www.amazon.com/gp/product/0553277375/"> Futureshock</a></strong>, <strong><a href="http://www.amazon.com/gp/product/0553246984"> The Third Wave</a></strong>, and <strong> <a href="http://www.amazon.com/gp/product/0553292153/">Powershift</a></strong>. I  purchased his new book following the talk.
 <h2>A Talk on Revolutionary Wealth</h2>

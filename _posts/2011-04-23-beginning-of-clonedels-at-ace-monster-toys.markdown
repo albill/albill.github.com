@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2011-04-23 17:46:21'
 layout: post
+slug: beginning-of-clonedels-at-ace-monster-toys
+status: publish
 title: Beginning of Clonedels at Ace Monster Toys
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3816"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3690'
+categories:
 - Daily Life
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 Today, we poured our first set of clonedel pieces for the upcoming set of <a href="http://reprap.org/wiki/Prusa_Mendel">Reprap Prusa</a> 3D printers that we're going to make at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>. "<a href="http://open3dp.me.washington.edu/2011/02/prusa-mendel-and-the-clonedels/">Clonedel</a>" is what people have been calling the Reprap printers where the pieces normally made from printed plastic are made from molds, instead. The printing of these parts on another printer, such as the makerbots we have at AMT, takes about 14 hours. Pouring them takes about 10 minutes plus pulling them from the molds and letting them cure.
 

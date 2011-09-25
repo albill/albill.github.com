@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-06 14:39:00'
 layout: post
-title: Role-Playing Game Setting
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: role-playing-game-setting
 status: publish
+title: Role-Playing Game Setting
+wordpress_id: '7'
+categories:
+- Science Fiction
 ---
 <img vspace="10" hspace="10" align="right" src="http://www.nada.kth.se/~asa/Game/Dragons/drakkross.GIF" />
 

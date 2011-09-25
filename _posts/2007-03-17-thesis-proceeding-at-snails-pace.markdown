@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-03-17 22:48:16'
 layout: post
+slug: thesis-proceeding-at-snails-pace
+status: publish
 title: Thesis Proceeding at Snail's Pace
-published: true
-meta: 
-  ljID: "2425"
-tags: 
+wordpress_id: '1567'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I had my eight hours of training in Flash today. (Don't worry, I get eight more hours tomorrow! Yee Haw!) What did I do when I got home after drinking some caffeine and eating, I figured I should work on my thesis!
 

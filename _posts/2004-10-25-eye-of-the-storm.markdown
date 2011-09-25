@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-25 00:38:47'
 layout: post
-title: Eye of the Storm
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: eye-of-the-storm
 status: publish
+title: Eye of the Storm
+wordpress_id: '273'
+categories:
+- Daily Life
 ---
 Things are going well for me now. Marriage, honeymoon, work, starting an MA but some around me aren't doing as well. I wish I was more help to them right now than a sympathetic ear.
 

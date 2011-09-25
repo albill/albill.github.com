@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-10 14:54:51'
 layout: post
+slug: encrypt-everything
+status: publish
 title: Encrypt everything!
-published: true
-meta: 
-  _edit_last: "1"
-  _wp_old_slug: searching-your-ipod
-  ljID: "3318"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2264'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 My friend, Jacob Appelbaum, pointed me at <a href="http://www.guardian.co.uk/technology/2008/jul/10/intellectualproperty.law">this article</a> today. It discusses the "Anti-Counterfeiting Trade Agreement" (ACTA), which the G8 governments are about to ratify. This isn't just an anti-counterfeiting agreement but also an anti-piracy one. 
 

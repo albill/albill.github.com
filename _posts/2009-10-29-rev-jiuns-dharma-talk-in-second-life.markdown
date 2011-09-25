@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-10-29 09:58:14'
 layout: post
-title: Rev. Jiun's Dharma Talk in Second Life
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3592"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_comments: "0"
-  ljxp_privacy: "0"
-tags: 
+slug: rev-jiuns-dharma-talk-in-second-life
+status: publish
+title: 'Rev. Jiun''s Dharma Talk in Second Life '
+wordpress_id: '2898'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I <a href="http://www.openbuddha.com/2009/10/16/the-dharma-of-second-life/">blogged recently</a> about Rev. Jiun Foster doing a teaching in Second Life at <a href="http://kannonji.blogspot.com/">Kannonji</a>. Unknown to me, video of the talk was captured and it has now been put up on Youtube. 
 

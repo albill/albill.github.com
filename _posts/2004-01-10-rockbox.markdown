@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-10 13:55:00'
 layout: post
-title: Rockbox
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: rockbox
 status: publish
+title: Rockbox
+wordpress_id: '14'
+categories:
+- Technology
 ---
 Sweet. I have an Archos Jukebox 20 GB MP3 player. I've had it for a year and a half or so. There are two things I dislike about it:
 <ol>

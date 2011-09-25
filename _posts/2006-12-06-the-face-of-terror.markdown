@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-12-06 00:45:29'
 layout: post
+slug: the-face-of-terror
+status: publish
 title: The Face of Terror
-published: true
-meta: 
-  ljID: "2601"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1473'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 This is the face of terror and I don't mean the poor fucker in the orange jumpsuit. He may or may not have done anything. He may or may not ever get a real day in court with a judge and lawyer facing his accusers but this treatment (of a fellow citizen!) is horrific. It's a wonder that he hasn't gone insane in isolation.
 

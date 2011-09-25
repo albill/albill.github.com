@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-07 23:29:09'
 layout: post
-title: Two Years Gone...
-published: true
-meta: 
-  ljID: "3119"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: two-years-gone
 status: publish
+title: Two Years Gone...
+wordpress_id: '2154'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/170206480/" title="Lou-Passport-Adult-30 by albill, on Flickr"><img src="http://farm1.static.flickr.com/45/170206480_7c5dab6f96_m.jpg" width="228" height="240" align="right" hspace="5" vspace="5" alt="Lou-Passport-Adult-30" /></a>My father, Louis Albert Billings Jr., passed away two years ago today, January 7. It hardly seems like it has been two entire years but it has.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-09-17 13:43:30'
 layout: post
-title: The Man Burns and BRC Over Time
-published: true
-meta: 
-  ljID: "2747"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: the-man-burns-and-brc-over-time
 status: publish
+title: The Man Burns and BRC Over Time
+wordpress_id: '1824'
+categories:
+- Daily Life
 ---
 Brady posted about a time-lapse video which covers Black Rock City (the city created for Burning Man) over the course of its existence. This was taken from one of the solar power centers that had been built for the event.
 

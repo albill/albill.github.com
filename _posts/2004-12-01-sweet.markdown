@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-01 21:25:54'
 layout: post
-title: Sweet!
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: sweet
 status: publish
+title: Sweet!
+wordpress_id: '303'
+categories:
+- Technology
 ---
 <p>This is so cool that I want one even though I don&#39;t have an immediate use!</p>
 <p>From

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-03 19:13:33'
 layout: post
+slug: more-oom-ph
+status: publish
 title: More Oom-ph
-published: true
-meta: 
-  ljID: "2353"
-tags: 
+wordpress_id: '1507'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 It has been pointed out to me now (almost immediately) that it is "Oom the Omnipotent." I had forgotten that Hugh Urban has mentioned him in both Esoterica and the Journal of the American Academy of Religion.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-10-29 03:48:00'
 layout: post
-title: Events so far...
-published: true
-meta: 
-  ljID: "2866"
-tags: 
-- Daily Life
-type: post
+slug: events-so-far
 status: publish
+title: Events so far...
+wordpress_id: '1944'
+categories:
+- Daily Life
 ---
 I haven&apos;t written much the last couple of weeks. It&apos;s been so busy at work that I just ignore LJ for the most part and after work, I just want to do something besides the computer. 
 

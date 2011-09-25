@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-06-06 19:57:32'
 layout: post
+slug: the-best-bookstore-in-the-bay-area
+status: publish
 title: The Best Bookstore in the Bay Area
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1104'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I went over to <a href="http://www.fieldsbooks.com/">Fields Book Store today</a>. Fields has always had the best selection of obscure books on spirituality. I've found hard to get Buddhist texts before and I've had them ship rare occult books, like the Cultus Sabbati works. I've met the owner socially in the past when I've gone to Pantheacon and we have mutual friends (as well as being on some e-mail lists together). Simply put, it is the best bookstore in the Bay Area on anything to do with non-mainstream spirituality.
 

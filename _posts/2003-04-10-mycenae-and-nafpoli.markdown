@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-10 22:45:00'
 layout: post
-title: Mycenae and Nafpoli
-published: true
-meta: 
-  ljID: "2229"
-tags: 
-- Daily Life
-type: post
+slug: mycenae-and-nafpoli
 status: publish
+title: Mycenae and Nafpoli
+wordpress_id: '1349'
+categories:
+- Daily Life
 ---
 We left the armpit of Corinth this morning without even getting breakfast. Unlike every other Greek city that we&apos;ve been in, there is almost no convenient food in Corinth. Feh on them.
 

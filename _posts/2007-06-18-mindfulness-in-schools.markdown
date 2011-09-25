@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-06-18 13:59:33'
 layout: post
+slug: mindfulness-in-schools
+status: publish
 title: Mindfulness in Schools
-published: true
-meta: 
-  ljID: "2628"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1731'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 There is an <a href="http://www.nytimes.com/2007/06/16/us/16mindful.html?_r=2&amp;oref=slogin&amp;oref=slogin">article</a> in the New York Times from last week on the teaching of mindfulness in schools. I noticed that the source program was here in Oakland, California, where I live.
 

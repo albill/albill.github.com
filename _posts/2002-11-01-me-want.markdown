@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-01 20:58:00'
 layout: post
-title: Me Want...
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: me-want
 status: publish
+title: Me Want...
+wordpress_id: '1007'
+categories:
+- Technology
 ---
 <a href="http://www.venturecapitaljournal.net/vcj/1031550782394.html">http://www.venturecapitaljournal.net/vcj/1031550782394.html</a>
 

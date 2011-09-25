@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-20 04:03:00'
 layout: post
-title: Houseguests
-published: true
-meta: 
-  ljID: "2477"
-tags: 
-- Daily Life
-type: post
+slug: houseguests
 status: publish
+title: Houseguests
+wordpress_id: '1614'
+categories:
+- Daily Life
 ---
 So, we have Jason Newcomb, author of <b>21st Century Mage</b>, staying in our house this weekend. I&apos;ve just spent the last couple of hours chatting about magic and the OTO with him.
 

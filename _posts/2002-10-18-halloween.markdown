@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-10-18 19:24:00'
 layout: post
-title: Halloween
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: halloween
 status: publish
+title: Halloween
+wordpress_id: '985'
+categories:
+- Daily Life
 ---
 So, R and I are discussing Halloween costumes and I'm not sure what it should be this year for me. Last year, I was a clown (obviously) and she was a mime.
 

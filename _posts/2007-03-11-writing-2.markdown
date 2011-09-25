@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-11 01:38:11'
 layout: post
-title: Writing
-published: true
-meta: 
-  ljID: "2415"
-tags: 
-- Daily Life
-type: post
+slug: writing-2
 status: publish
+title: Writing
+wordpress_id: '1560'
+categories:
+- Daily Life
 ---
 I'm getting ideas for writing projects post-thesis again. I still want to try my hand at writing fiction but most of the ideas that come to me are for non-fiction projects. There are probably some essays on Esotericism that I could write but I'm not sure where they would be published unless I wanted to try to do this as academic pieces for the Pomegranate or Aries.
 

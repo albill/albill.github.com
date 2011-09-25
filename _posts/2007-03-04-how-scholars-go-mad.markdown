@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-04 16:42:13'
 layout: post
-title: How Scholars Go Mad
-published: true
-meta: 
-  ljID: "2407"
-tags: 
-- Academic
-type: post
+slug: how-scholars-go-mad
 status: publish
+title: How Scholars Go Mad
+wordpress_id: '1556'
+categories:
+- Academic
 ---
 I've literally spent the last three hours both creating the first chapter and introduction to my thesis (using the independent study that I did as prep work as part of the first chapter) and trying to format the damn thing correctly.
 

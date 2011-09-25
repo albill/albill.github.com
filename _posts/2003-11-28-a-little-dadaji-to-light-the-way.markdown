@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-28 23:57:00'
 layout: post
-title: A little Dadaji to light the way
-published: true
-meta: 
-  ljID: "2932"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: a-little-dadaji-to-light-the-way
 status: publish
+title: A little Dadaji to light the way
+wordpress_id: '2009'
+categories:
+- Daily Life
 ---
 Dadaji (aka <i>Mahendranath</i>) was an Englishman who became a sadhu in India and who came back to the West for a while to teach. A number of occultists in various places became followers of his, including my own friends Aion and Shade. I find a lot of value in his writings even though I haven&apos;t studied them as extensively as I like.
 

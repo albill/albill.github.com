@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-25 12:25:00'
 layout: post
+slug: warren-ellis-2
+status: publish
 title: Warren Ellis
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '31'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/nn020510.jpg" align="right" /> Sometimes I read the stuff that Warren Ellis (<a href="http://www.diepunyhumans.com/">http://www.diepunyhumans.com</a> and <a href="http://www.livejournal.com/mistersleepless">http://www.livejournal.com/users/mistersleepless</a>) writes and think to myself, "Whoa! This guy must have had some rather whacked out childhood or something. He's got serious issues." On reflection, though, I must assume that Warren had a completely normal childhood and that there is no intrinsic explanation there for his borderline schizophrenia. He's just a whacked out guy for his own reasons. This is along some of the same lines of thought that I had about Clive Barker in the past. Then I read an interview with his parents and, gods, they were about as normal and humdrum as you can get. They obviously loved their son but had no idea why he had such weird things in his head.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-28 20:23:40'
 layout: post
-title: Christmas Mass
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: christmas-mass
 status: publish
+title: Christmas Mass
+wordpress_id: '649'
+categories:
+- Daily Life
 ---
 R and I attended Christmas Mass this year. Of course, it was the <a href="http://oto-usa.org/index.html">Ordo Templi Orientis</a>' <a href="http://www.hermetic.com/sabazius/gnostic_mass.htm">Gnostic Mass</a>, the public ritual of the Ecclesia Gnostica Catholica of the order. We had a priest and priestess that I hadn't seen perform mass before.
 

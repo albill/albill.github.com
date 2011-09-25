@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-08 15:47:00'
 layout: post
-title: Too Much Highlander?
-published: true
-meta: 
-  ljID: "2982"
-tags: 
-- Daily Life
-type: post
+slug: too-much-highlander
 status: publish
+title: Too Much Highlander?
+wordpress_id: '2060'
+categories:
+- Daily Life
 ---
 As tragic as this is (and it really is), why do I hear Freddy Mercury singing when I read this?
 

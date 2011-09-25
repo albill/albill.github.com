@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-08 00:15:26'
 layout: post
-title: Advice from Patrul Rinpoche
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: advice-from-patrul-rinpoche
 status: publish
+title: Advice from Patrul Rinpoche
+wordpress_id: '316'
+categories:
+- Spirituality
 ---
 <p>Patrul Rinpoche was a great Dzogchen master of the 19th century in Tibet and he wrote this bit of advice for himself, which is amusing in its humility as well as pithy advice.</p>
 <h2>Advice from Me to Myself </h2>

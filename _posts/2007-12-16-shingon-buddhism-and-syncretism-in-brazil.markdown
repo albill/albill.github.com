@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-16 22:22:49'
 layout: post
+slug: shingon-buddhism-and-syncretism-in-brazil
+status: publish
 title: Shingon Buddhism and Syncretism in Brazil
-published: true
-meta: 
-  _wp_old_slug: shingon-and-syncretism-in-brazil
-  ljID: "3079"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2138'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I found a fascinating paper on Shingon Buddhism in Brazil today. As people may or may not know, there are over one and a half million Brazilians of Japanese descent in Brazil due to Japanese migration over the last century for work. This forms the largest group of Japanese living in any place outside of Japan (including the United States).
 

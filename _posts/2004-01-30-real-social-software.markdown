@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-30 17:53:00'
 layout: post
-title: REAL Social Software
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: real-social-software
 status: publish
+title: REAL Social Software
+wordpress_id: '36'
+categories:
+- Technology
 ---
 I found this online today at <a href="http://www.ambiguous.org/archive.php3/2004/01/30#quinn2004130.1">http://www.ambiguous.org/archive.php3/2004/01/30#quinn2004130.1</a>.
 

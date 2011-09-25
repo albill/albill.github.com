@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-06 01:54:00'
 layout: post
-title: An Event-filled Day
-published: true
-meta: 
-  ljID: "2491"
-tags: 
-- Daily Life
-type: post
+slug: an-event-filled-day
 status: publish
+title: An Event-filled Day
+wordpress_id: '1629'
+categories:
+- Daily Life
 ---
 Today was rather event filled, to say the least.
 

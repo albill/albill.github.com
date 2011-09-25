@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-01 00:50:43'
 layout: post
-title: Death and such
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: death-and-such
 status: publish
+title: Death and such
+wordpress_id: '612'
+categories:
+- Daily Life
 ---
 <p align="center"><img src="http://www.zhangzhung.net/pics/51523955.jpg" alt="Chris and Friends" / width="90%" border="1"/></p>
 My friend Chris died yesterday. He wasn't a close friend. He lived too far away in Los Angeles. 

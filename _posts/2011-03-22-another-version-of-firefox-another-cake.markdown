@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-03-22 15:11:02'
 layout: post
+slug: another-version-of-firefox-another-cake
+status: publish
 title: Another version of Firefox, another cake
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3789"
-tags: 
+wordpress_id: '3620'
+categories:
 - Daily Life
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 We shipped <a href="http://www.mozilla.com/">Firefox 4</a> today at Mozilla, where I work. This is a big deal for us and for the open web as well. (Go download it!)
 

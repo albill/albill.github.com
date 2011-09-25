@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-27 02:46:18'
 layout: post
-title: New Role
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: new-role
 status: publish
+title: New Role
+wordpress_id: '674'
+categories:
+- Daily Life
 ---
 I have now officially converted from being a Software Test Lead reporting to  the Director of Test for my department (Internet Explorer) to being a Project  Manager on the Program Management team in the same group. I'm reporting to a  Program Manager Lead that I've worked with for three or so years now and who I  have a pretty friendly relationship with. Technically, my role still reports to  my old manager to the extent that he will be turning in my review but I am  having a "semester abroad" working for the PM team and "dotted line" reporting  to my new manager. My day to day work and my coaching will be done by my new  manager and my title has been changed (which we were in the process of doing  even when I was in the test org since I don't really lead a test team and  haven't for a year now).
 

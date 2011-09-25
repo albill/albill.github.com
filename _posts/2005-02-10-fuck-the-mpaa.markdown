@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-10 22:47:15'
 layout: post
-title: Fuck the MPAA
-published: true
-meta: 
-  ljID: "3101"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: fuck-the-mpaa
 status: publish
+title: Fuck the MPAA
+wordpress_id: '394'
+categories:
+- Daily Life
 ---
 Hmmm...I guess this is &quot;Hey MPAA, fuck you!&quot; from me. While I understand where they are coming from, no one likes the self-righteous.
 

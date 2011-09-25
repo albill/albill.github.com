@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-18 00:44:00'
 layout: post
-title: Evening
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: evening
 status: publish
+title: Evening
+wordpress_id: '113'
+categories:
+- Daily Life
 ---
 Another exciting day on the ranch... This reminds me that I need to make sure to get to work in time tomorrow morning to fill out an early report. Ah well.
 

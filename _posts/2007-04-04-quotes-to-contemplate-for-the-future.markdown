@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-04 11:52:48'
 layout: post
-title: Quotes to Contemplate for the Future
-published: true
-meta: 
-  ljID: "2517"
-tags: 
-- Daily Life
-type: post
+slug: quotes-to-contemplate-for-the-future
 status: publish
+title: Quotes to Contemplate for the Future
+wordpress_id: '1653'
+categories:
+- Daily Life
 ---
 On and off, I contemplate my future especially in the realm of making a living.
 

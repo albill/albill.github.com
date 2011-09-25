@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-14 04:14:00'
 layout: post
-title: Interesting...
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: interesting
 status: publish
+title: Interesting...
+wordpress_id: '1277'
+categories:
+- Society
 ---
 <a href="http://www.signumpress.com/Issue6/index.html">http://www.signumpress.com/Issue6/index.html</a>
 

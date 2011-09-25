@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-25 13:07:21'
 layout: post
-title: Alexander
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: alexander
 status: publish
+title: Alexander
+wordpress_id: '296'
+categories:
+- Daily Life
 ---
 <p>R and I went and saw <b>Alexander</b> last night. She's not much for seeing 
 movies during opening week but I was insistent. Apparantly, it was &quot;Al gets his 

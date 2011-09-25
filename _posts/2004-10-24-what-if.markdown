@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-24 18:52:15'
 layout: post
-title: What if?
-published: true
-meta: 
-  ljID: "2740"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Society
-type: post
+slug: what-if
 status: publish
+title: What if?
+wordpress_id: '271'
+categories:
+- Society
 ---
 From <a href="http://jameswolcott.com/archives/2004/10/what_if.php">http://jameswolcott.com/archives/2004/10/what_if.php</a>:
 <blockquote><!--StartFragment -->Contemplating the dubious prospect of Muqtada al-Sadr as a Democratic presidential candidate, I got to wondering.

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-06 10:33:27'
 layout: post
-title: The Next DaVinci Code
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: the-next-davinci-code
 status: publish
+title: The Next DaVinci Code
+wordpress_id: '164'
+categories:
+- Books
 ---
 <p><p><a href="http://www.mercurynews.com/mld/mercurynews/living/9073264.htm">http://www.mercurynews.com/mld/mercuryne<wbr />ws/living/9073264.htm</a> <br><br><b>Renaissance tome inspires new thriller</b></p>
 <p>By Jerome Weeks<br>Dallas Morning News</p>

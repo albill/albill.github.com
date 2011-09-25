@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-11 23:37:46'
 layout: post
-title: Oh yeah...
-published: true
-meta: 
-  ljID: "2600"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: oh-yeah
 status: publish
+title: Oh yeah...
+wordpress_id: '525'
+categories:
+- Daily Life
 ---
 Needless to say, I'm back in Seattle from San Diego.
 

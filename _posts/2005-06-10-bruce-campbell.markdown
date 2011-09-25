@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-10 22:21:20'
 layout: post
-title: Bruce Campbell
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: bruce-campbell
 status: publish
+title: Bruce Campbell
+wordpress_id: '480'
+categories:
+- Notable People
 ---
 <p>Bruce Campbell will be speaking at my work in a couple of weeks. He's also doing a public appearance. I plan to attend one of these.</P>
 <p>Seattle, WA<br>Monday, June 27, 2005

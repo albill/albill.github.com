@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-12 17:33:00'
 layout: post
-title: Anti-Sprawl
-published: true
-meta: 
-  ljID: "2989"
-tags: 
-- Daily Life
-type: post
+slug: anti-sprawl
 status: publish
+title: Anti-Sprawl
+wordpress_id: '2067'
+categories:
+- Daily Life
 ---
 This is an interesting article. I found it because the fellow also maintains a site documenting horrible architecture <a href="http://www.kunstler.com/eyesore.html">"Eyesore of the Month"</a>.
 

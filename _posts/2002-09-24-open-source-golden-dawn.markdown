@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-24 19:48:00'
 layout: post
+slug: open-source-golden-dawn
+status: publish
 title: Open Source Golden Dawn
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '962'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 An ex-girlfriend of mine forwarded this url to me today. She's a member of the Open Source Golden Dawn group down in the San Francisco Bay Area. This was started by my friend <a href="http://www.hermetic.com/webster/">Sam Webster</a> about a year and a half or so ago. He and the group seem to be doing a lot of good things.
 

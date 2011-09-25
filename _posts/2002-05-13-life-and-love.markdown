@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2002-05-13 04:56:00'
 layout: post
-title: Life and Love
-published: true
-meta: 
-  aktt_notify_twitter: "no"
-  _edit_last: "1"
-  ljID: "3604"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: life-and-love
 status: publish
+title: Life and Love
+wordpress_id: '818'
+categories:
+- Daily Life
 ---
 Well, this is the first chance that I&apos;ve had to post all weekend, it has been non-stop the whole time pretty much...
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-03-26 16:13:48'
 layout: post
+slug: wedding-today
+status: publish
 title: Wedding Today
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '720'
+categories:
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I'm off in about half an hour to perform a wedding for some friends of mine. This will be the third wedding that I've done and the second that is for an ex of mine, technically.
 

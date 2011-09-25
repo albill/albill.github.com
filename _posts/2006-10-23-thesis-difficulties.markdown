@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-23 22:59:15'
 layout: post
-title: Thesis Difficulties
-published: true
-meta: 
-  ljID: "2261"
-tags: 
-- Academic
-type: post
+slug: thesis-difficulties
 status: publish
+title: Thesis Difficulties
+wordpress_id: '1417'
+categories:
+- Academic
 ---
 It took a week in the mail (or half a week and half wandering around campus) but I finally got my mentor's comments on my thesis proposal. Most were relatively minor issues with grammar in my proposal or a few basic questions. The kicker was the first one, written in the lower left corner of my title page:
 <blockquote>"I understand that you will be writing an explanation of the meaning of the soul as worked out by the Golden Dawn. I am concerned, given the nature of esoteric philosophy, about your stance and tone when conducting your study. As you know, there is an important difference between an interested student and being a follower or devotee of a kind of philosophy whose truths, if there are any, require a suspension of disbelief. I assume that you fall into the first category -- an interested student -- just as I am an interested reader. Have you any idea of the projected length of your thesis?"</blockquote>

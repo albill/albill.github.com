@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-11-30 00:40:00'
 layout: post
+slug: death-and-immortality
+status: publish
 title: Death and Immortality
-published: true
-meta: 
-  ljID: "2311"
-tags: 
+wordpress_id: '1464'
+categories:
 - Daily Life
 - Science Fiction
 - Spirituality
-type: post
-status: publish
 ---
 R and I went and saw <a href="http://thefountainmovie.warnerbros.com/"><strong>The Fountain</strong></a> after work today. This is Darren Aronofsky's new film.
 

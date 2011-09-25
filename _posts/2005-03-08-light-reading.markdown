@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-08 10:07:46'
 layout: post
-title: Light Reading
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Science Fiction
-type: post
+slug: light-reading
 status: publish
+title: Light Reading
+wordpress_id: '416'
+categories:
+- Science Fiction
 ---
 I've been doing a bit of non-school reading this last week. I had <strong>TheGolden Compass</strong> on the plane to Pantheacon a couple of weeks ago. This last week, I read <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0440238145/">The Subtle Knife</a></strong> as well, which is the sequel for those that don't know. As people had told me, it wasn't quite as good as the first novel but still quite well written.
 

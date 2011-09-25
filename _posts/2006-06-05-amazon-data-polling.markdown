@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-06-05 15:03:55'
 layout: post
+slug: amazon-data-polling
+status: publish
 title: Amazon Data Polling
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1100'
+categories:
 - Notable People
 - Technology
-type: post
-status: publish
 ---
 Does anyone have a clue how to use Amazon's APIs to pull your purchasing data? For <a href="http://www.librarything.com">LibraryThing</a>, I want to pull pages with the ISBN numbers of books that I have purchased.
 

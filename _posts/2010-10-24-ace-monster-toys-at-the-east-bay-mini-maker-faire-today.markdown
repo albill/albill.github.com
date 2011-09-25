@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-10-24 18:30:31'
 layout: post
+slug: ace-monster-toys-at-the-east-bay-mini-maker-faire-today
+status: publish
 title: Ace Monster Toys at the East Bay Mini Maker Faire Today
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3707"
-tags: 
+wordpress_id: '3352'
+categories:
 - Daily Life
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5112158309/" title="Sean and the Ace Monster Toys Table by albill, on Flickr"><img src="http://farm5.static.flickr.com/4130/5112158309_f3a86dc10f.jpg" width="500" height="375" alt="Sean and the Ace Monster Toys Table" /></a></p>
 

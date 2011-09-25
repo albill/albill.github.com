@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-21 11:23:00'
 layout: post
+slug: more-on-the-exorcism-news-from-the-other-day
+status: publish
 title: More on the Exorcism News from the Other Day
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '25'
+categories:
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <h3>A husband and wife have been charged with murdering a 6-year-old girl whose back was broken in what police said may have been an
 exorcism gone wrong.</h3>

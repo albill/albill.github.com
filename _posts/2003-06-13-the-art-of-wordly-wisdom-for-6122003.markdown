@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-13 03:05:00'
 layout: post
-title: The Art of Wordly Wisdom for 6/12/2003
-published: true
-meta: 
-  ljID: "2465"
-tags: 
-- Daily Life
-type: post
+slug: the-art-of-wordly-wisdom-for-6122003
 status: publish
+title: The Art of Wordly Wisdom for 6/12/2003
+wordpress_id: '1602'
+categories:
+- Daily Life
 ---
 <center><b><font size="+1">3</font></b>
 Keep Matters for a time in suspense.

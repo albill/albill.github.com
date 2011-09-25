@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-07 11:24:00'
 layout: post
-title: Einstuerzende Neubauten
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: einstuerzende-neubauten
 status: publish
+title: Einstuerzende Neubauten
+wordpress_id: '98'
+categories:
+- Daily Life
 ---
 The other thing that we did this week was go see <span style="font-weight: bold;">Einstuerzende Neubauten</span> this week for R's birthday. I'd never seen them in concert before but R has been a big fan for quite a while and it was a chance to get out.
 

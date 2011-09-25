@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-05 02:19:17'
 layout: post
-title: Words for the Wise
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: words-for-the-wise
 status: publish
+title: Words for the Wise
+wordpress_id: '310'
+categories:
+- Spirituality
 ---
 <blockquote>"Rely not on the teacher, but on the teaching. Rely not on the words of the teaching, but on the
 spirit of the words. Rely not on theory, but on experience. Do not believe in anything simply because you

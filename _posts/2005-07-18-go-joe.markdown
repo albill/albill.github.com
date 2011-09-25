@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-18 23:20:36'
 layout: post
-title: Go, Joe!
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: go-joe
 status: publish
+title: Go, Joe!
+wordpress_id: '514'
+categories:
+- Humor
 ---
 <p>(Too bad that I don't have a category called 'Disturbed')
 

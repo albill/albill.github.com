@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-12-07 19:17:00'
 layout: post
+slug: new-toys-and-tools
+status: publish
 title: New Toys and Tools
-published: true
-meta: 
-  ljID: "2980"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '2058'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 A little mini-geek tech update.
 

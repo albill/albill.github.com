@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-05-15 21:19:32'
 layout: post
+slug: comcast-really-is-horking-your-connection
+status: publish
 title: Comcast really *is* horking your connection
-published: true
-meta: 
-  ljID: "3259"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2224'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2495686605/" title="Comcastic by albill, on Flickr"><img src="http://farm4.static.flickr.com/3241/2495686605_5f31c31cbf_m.jpg" width="192" height="240" alt="Comcastic" / align="right" hspace="10" border="1"></a>I saw <a href="http://ap.google.com/article/ALeqM5g4MtXwTvN9ReaZ5W76pwZxV3nhqAD90M3KS00">this article</a> from the Associated Press today. It is confirmation that Comcast really does mess with the connection of people using bittorrent quite commonly. We've known for a while that they mess with traffic but there has been the question of how often they do it. From the article:
 <blockquote>A study based on the participation of 8,175 Internet users around the world found conclusive signs of blocked file-sharing connections only at three Internet service providers: Comcast and Cox in the U.S. and StarHub in Singapore.

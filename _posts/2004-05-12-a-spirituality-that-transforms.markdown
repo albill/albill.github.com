@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-12 12:27:00'
 layout: post
-title: A Spirituality that Transforms
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: a-spirituality-that-transforms
 status: publish
+title: A Spirituality that Transforms
+wordpress_id: '105'
+categories:
+- Spirituality
 ---
 <p>lThis was found at <a href="http://wilber.shambhala.com/html/misc/spthtr.cfm/">http://wilber.shambhala.com/html/misc/spthtr.cfm/</a>. I believe that I've posted it before but I still quite like it.</p>
 <p><strong><font color="#000080">H</font></strong>al Blacker, consulting editor of<i> What is Enlightenment</i>?,

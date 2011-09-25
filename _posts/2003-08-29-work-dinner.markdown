@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-29 05:17:00'
 layout: post
-title: Work Dinner
-published: true
-meta: 
-  ljID: "2798"
-tags: 
-- Daily Life
-type: post
+slug: work-dinner
 status: publish
+title: Work Dinner
+wordpress_id: '1874'
+categories:
+- Daily Life
 ---
 Last night I had a mandatory after-work work dinner. My boss wanted to talk with those of us who will be reporting to him in our new organization so he scheduled a two hour meeting post-work. The only plus is that we went to a fairly nice restaurant and work picked up the tab. I had a nice steak.
 

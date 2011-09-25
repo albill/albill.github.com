@@ -1,19 +1,13 @@
---- 
+---
+author: admin
+date: '2009-08-22 10:00:58'
 layout: post
-title: Buddha Planet
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3572"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
-- Buddhism
-type: post
+slug: buddha-planet
 status: publish
+title: Buddha Planet
+wordpress_id: '2847'
+categories:
+- Buddhism
 ---
 A cool image that I found via <a href="http://dharmabum.typepad.com/dharma_bum/">Dharma Bum</a> today:
 

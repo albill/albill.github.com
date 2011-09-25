@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-05 18:13:36'
 layout: post
+slug: open-social-networks
+status: publish
 title: Open Social Networks
-published: true
-meta: 
-  ljID: "2730"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1814'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 As something related to my post yesterday,<strong> </strong><a href="http://www.arcanology.com/2007/09/04/messaging-clients-in-the-post-web-20-world/">Messaging Clients in a Post-Web 2.0 World</a>, this post by Cedric called "<a href="http://www.allpeers.com/blog/2007/09/05/top-15-features-for-an-open-social-network/">Top 15 Features of an Open Social Network</a>" is spot on.
 

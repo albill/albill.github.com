@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-07-10 01:37:27'
 layout: post
-title: Compassion is the Vice of Kings
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Humor
-type: post
+slug: compassion-is-the-vice-of-kings
 status: publish
+title: Compassion is the Vice of Kings
+wordpress_id: '509'
+categories:
+- Humor
 ---
 <center><img src="http://www.arcanology.com/images/isuck.jpg" border="1" /></center>

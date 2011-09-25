@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-05-24 09:37:55'
 layout: post
+slug: heart-sutra-resources
+status: publish
 title: Heart Sutra Resources
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3534"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2784'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I noticed today that Marcus has a <a href="http://marcusjournal.blogspot.com/2009/03/know-and-proclaim-its-truth.html">listing of different Heart Sutra resources</a> on his blog. Some of these were ones that I'd never seen before.
 

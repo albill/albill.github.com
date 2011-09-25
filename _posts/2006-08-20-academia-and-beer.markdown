@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-08-20 22:31:06'
 layout: post
+slug: academia-and-beer
+status: publish
 title: Academia and Beer
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1169'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 On Friday night, I went over to Pier 39 in San Francisco. This is near Fisherman's Wharf and the whole area is this massive zoo of people, especially on a Friday. I had no idea at all.
 

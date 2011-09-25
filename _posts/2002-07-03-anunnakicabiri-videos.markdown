@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-07-03 02:02:00'
 layout: post
-title: Anunnaki/Cabiri Videos
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: anunnakicabiri-videos
 status: publish
+title: Anunnaki/Cabiri Videos
+wordpress_id: '873'
+categories:
+- Daily Life
 ---
 Well, we wonderful souls of the <a href="http://www.anunnaki.org">Anunnaki Project</a> have finally put some videos online. These are short, 30 second, clips... The promo CD will be available soon and these are drawn from it.
 

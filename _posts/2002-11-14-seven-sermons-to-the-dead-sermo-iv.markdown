@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-14 20:23:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo IV
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: seven-sermons-to-the-dead-sermo-iv
 status: publish
+title: Seven Sermons to the Dead, Sermo IV
+wordpress_id: '1023'
+categories:
+- Daily Life
 ---
 <font size="+1"><b>Sermo IV</b></font>
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-07-21 02:05:54'
 layout: post
+slug: new-dharma-center
+status: publish
 title: New Dharma Center
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1143'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 R and I found another local Dharma Center to check out. It is the "New Dharma Community" at <a href="http://www.newdharma.com">http://www.newdharma.com</a>.
 

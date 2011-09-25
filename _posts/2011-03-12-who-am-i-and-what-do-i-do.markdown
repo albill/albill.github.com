@@ -1,20 +1,18 @@
---- 
+---
+author: admin
+date: '2011-03-12 12:19:16'
 layout: post
+slug: who-am-i-and-what-do-i-do
+status: publish
 title: Who am I and what do I do?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3767"
-tags: 
+wordpress_id: '3468'
+categories:
 - Academic
 - Daily Life
 - Hacking
 - Society
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/rerlin/5416310188/" title="P1030687.JPG by rerlin, on Flickr"><img src="http://farm6.static.flickr.com/5018/5416310188_f19ac93ec7.jpg" width="500" height="375" alt="P1030687.JPG" /></a><br><em>Me at Borobudur on Java paying homage to the Buddha</em></p>
 

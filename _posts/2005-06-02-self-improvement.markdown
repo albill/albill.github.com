@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-02 09:49:51'
 layout: post
-title: Self Improvement
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: self-improvement
 status: publish
+title: Self Improvement
+wordpress_id: '470'
+categories:
+- Spirituality
 ---
 <P>I use an RSS reader and actually read a shitload of blogs (yes, that's a technical term, like fuckwad). Most of the blogs fall into&nbsp;four categories:</P>
 <UL>

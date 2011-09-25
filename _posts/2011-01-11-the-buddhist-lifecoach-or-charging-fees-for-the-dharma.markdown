@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2011-01-11 15:07:59'
 layout: post
+slug: the-buddhist-lifecoach-or-charging-fees-for-the-dharma
+status: publish
 title: The Buddhist Lifecoach or Charging Fees for the Dharma
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3731"
-tags: 
+wordpress_id: '3396'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5346855673/" title="Nepalese Buddhist Coins by albill, on Flickr"><img src="http://farm6.static.flickr.com/5164/5346855673_fcfb915814.jpg" border="0" width="500" height="237" alt="Nepalese Buddhist Coins" /></a></p>
 

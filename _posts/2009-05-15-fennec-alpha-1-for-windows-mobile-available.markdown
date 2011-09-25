@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-05-15 10:41:12'
 layout: post
+slug: fennec-alpha-1-for-windows-mobile-available
+status: publish
 title: Fennec Alpha 1 for Windows Mobile Available
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3529"
-tags: 
+wordpress_id: '2776'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 As some people know, in my day to day job, I work on QA on various Firefox related projects. Mostly, I work as the QA lead for our security releases but I have also been working on the <a href="http://wiki.mozilla.org/Mobile">Mobile Firefox</a> (aka "Fennec") project in between these releases. Mobile browsing has become more and more important over the last few years as cell phones and other mobile devices have become more powerful. It is as important for people to have options there that support an open Internet as it is for their main personal computers. This is especially true since so much of the world is moving in the direction of primarily using the Internet by means of mobile devices without the use of a desktop or laptop.
 

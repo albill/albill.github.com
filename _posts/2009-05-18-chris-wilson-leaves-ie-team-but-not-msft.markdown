@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-05-18 15:48:31'
 layout: post
+slug: chris-wilson-leaves-ie-team-but-not-msft
+status: publish
 title: Chris Wilson Leaves IE team (but not MSFT)
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3530"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2780'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/cwilso/171421679/"><img src="http://farm1.static.flickr.com/64/171421679_259d531cb5_m.jpg" align="right" border="0" hspace="10"></a>My friend, Chris Wilson, <a href="http://cwilso.com/2009/05/18/leaving-las-vegas/">posted</a> on his blog today that he is leaving the IE team in order to focus on the "open web platform." He'll be doing this from the Developer Division at Microsoft and in his role as the chair of the HTML Working Group at the W3C (according to Chris):
 <blockquote>

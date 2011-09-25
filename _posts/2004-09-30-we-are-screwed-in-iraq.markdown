@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-30 22:25:24'
 layout: post
-title: We are screwed in Iraq
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: we-are-screwed-in-iraq
 status: publish
+title: We are screwed in Iraq
+wordpress_id: '249'
+categories:
+- Society
 ---
 <p>This is from <a href="http://www.boingboing.net">BoingBoing</a> Blog:<br>
 <br>

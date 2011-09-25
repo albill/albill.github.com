@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-09 23:15:39'
 layout: post
-title: Democracy in Action
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: democracy-in-action
 status: publish
+title: Democracy in Action
+wordpress_id: '232'
+categories:
+- Humor
 ---
 <p>This is what Democracy looks like!</p>
 <p align="center">

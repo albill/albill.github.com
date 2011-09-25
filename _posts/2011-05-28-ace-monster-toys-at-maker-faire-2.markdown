@@ -1,19 +1,18 @@
---- 
+---
+author: admin
+date: '2011-05-28 11:32:02'
 layout: post
+slug: ace-monster-toys-at-maker-faire-2
+status: publish
 title: Ace Monster Toys at Maker Faire - Follow Up Report
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3847"
-tags: 
+wordpress_id: '3763'
+categories:
+- Hacking
+- Technology
+tags:
 - Ace Monster Toys
 - hackerspaces
-- Hacking
 - maker faire
-- Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5751214125/" title="Untitled by albill, on Flickr"><img src="http://farm3.static.flickr.com/2022/5751214125_ffe0e1fc5d.jpg" width="500" height="375" alt=""></a></p>
 <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> had its first booth at a <a href="http://www.makerfaire.org">Maker Faire</a> last weekend. Technically, we were at the East Bay Mini Maker Faire this last Fall but that was a purely local event.

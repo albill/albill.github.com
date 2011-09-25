@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-19 23:17:59'
 layout: post
+slug: firefox-3-beta-1-is-out
+status: publish
 title: Firefox 3 Beta 1 is out!
-published: true
-meta: 
-  ljID: "3037"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2116'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/firefox-box.jpg" align="right" border="1" hspace="5" vspace="5">I know that by the time you see this, you've probably already heard but the <a href="http://developer.mozilla.org/devnews/index.php/2007/11/19/firefox-3-beta-1-now-available-for-download/">first beta of Firefox 3 is now available</a>. QA just finished signing off and bits have been distributed out to handle downloads. A huge sigh of relief is out and a new milestone has been passed. 
 

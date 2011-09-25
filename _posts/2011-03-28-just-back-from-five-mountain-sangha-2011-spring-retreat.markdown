@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-03-28 14:23:08'
 layout: post
+slug: just-back-from-five-mountain-sangha-2011-spring-retreat
+status: publish
 title: Just back from Five Mountain Sangha 2011 Spring Retreat
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3805"
-tags: 
+wordpress_id: '3647'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5566700895/" title="Five Mountain Sangha by albill, on Flickr"><img src="http://farm6.static.flickr.com/5173/5566700895_253b4b9356.jpg" width="500" height="375" alt="" /></a><br><em>The Five Mountain Sangha Retreat Group</em></p>
 I just returned yesterday evening from the <a href="http://www.fivemountain.org">Five Mountain Sangha</a> 2001 Spring Retreat. The FMS is the organization of Korean Zen within which I am a priest and practitioner. We are a geographically dispersed group, with members on both coasts and several states in between. In order to facilitate together action and the bonds of the order (and our practice), we have at least one short retreat a year that brings as many people as possible together. This year, we met at the <a href="http://www.lasvegaszencenter.com">Zen Center of Las Vegas</a>, run by <a href="http://www.lasvegaszencenter.com/Guiding_Teacher-Las_Vegas_Zen_Center-Great_Bright_Zen_Las_Vegas-Thom_Pastor.html">Rev. Thomas Pastor, JDPSN</a> of the Kwan Um School of Zen. Rev. Pastor is an old and good friend of <a href="http://www.fivemountain.org/teacher.php">Rev. Paul Dochong Lynch</a>, our guiding teacher, and has gone out of his way to be welcoming to us and allowing us to make use of his center. Because Las Vegas is, well, Las Vegas, it is actually very easy for people to get there from all over the country.

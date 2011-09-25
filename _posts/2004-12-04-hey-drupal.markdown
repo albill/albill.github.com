@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-04 23:52:42'
 layout: post
-title: Hey Drupal, !?$@!$#
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: hey-drupal
 status: publish
+title: Hey Drupal, !?$@!$#
+wordpress_id: '309'
+categories:
+- Technology
 ---
 <p>Jesus Fucking Christ, could <a href="http://www.drupal.org">Drupal</a> be 
 MORE of a pain in the ass to upgrade?</p>

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-08-12 13:43:29'
 layout: post
+slug: beijing-olympics
+status: publish
 title: Beijing Olympics
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3358"
-tags: 
+wordpress_id: '2383'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/violetblue/2752730664/"><img src="http://farm4.static.flickr.com/3120/2752730664_64fc47375f.jpg" height="375" width="500" border="1"></a><br><em>Picture courtesy of Violet Blue</em></p>
 I must admit that I've been ignoring the Beijing Olympics completely. Not only am I not inspired much by the gross commercialism which is the modern Olympics but I find the whole idea of China hosting a supposedly universal event to be laughable. The rioting in Tibet earlier this year was just icing on the cake of my disdain. 

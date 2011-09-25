@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2004-11-20 00:31:41'
 layout: post
-title: Long-term meditators self-induce high-amplitude gamma synchrony during mental practice
-published: true
-meta: 
-  _oembed_1973ccb68ced65187f71a5df8bef703a: "{{unknown}}"
-  _oembed_5388b674dbd2764c17d53040d8c086ef: "{{unknown}}"
-  _oembed_a5da4f77b147fbcfe02e493270502a25: "{{unknown}}"
-tags: 
-- Spirituality
-type: post
+slug: long-term-meditators-self-induce-high-amplitude-gamma-synchrony-during-mental-practice
 status: publish
+title: Long-term meditators self-induce high-amplitude gamma synchrony during mental
+  practice
+wordpress_id: '288'
+categories:
+- Spirituality
 ---
 <p>From the
 <a href="http://vortexegg.blogspot.com/2004/11/long-term-meditators-self-induce-high.html">

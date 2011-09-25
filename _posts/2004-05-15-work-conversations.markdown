@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-15 01:00:00'
 layout: post
-title: Work Conversations
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: work-conversations
 status: publish
+title: Work Conversations
+wordpress_id: '109'
+categories:
+- Daily Life
 ---
 We had a morale event at work yesterday where we all went and played Whirleyball for an afternoon and drank a lot of beer.<br /><br />After a few beers, interesting conversations can happen (unlike non-alcohol fueled work events with only a few exceptions). Believe it or not, I'm rather introverted so I often don't have a lot to say to people that I don't know reasonably well about my true thoughts. Being part of the management chain makes this doubly true since every thought that crosses my brain isn't necessarily the best thing to share with my peers or the people that report to us. One must keep up appearances of normality and such for the sake of the Empire. Lay back and think of England and all that.<br /><br />It was kind of amusing when we were sitting around and the topic of parents came up...There is very little in the realm of "appropriate workplace conversation" that can be said about my parents. I'd say that normality skipped a generation except: 
 <ul>

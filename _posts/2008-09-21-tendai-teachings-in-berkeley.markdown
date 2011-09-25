@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2008-09-21 18:56:15'
 layout: post
+slug: tendai-teachings-in-berkeley
+status: publish
 title: Tendai Teachings in Berkeley
-published: true
-meta: 
-  ljID: "3401"
-tags: 
+wordpress_id: '2490'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2864911578/" title="V.K. Keisho Leary Teaching by albill, on Flickr"><img src="http://farm4.static.flickr.com/3139/2864911578_927f2ecbc9.jpg" width="500" height="374" border="1" alt="V.K. Keisho Leary Teaching" /></a><br><em>Rev. Keisho</em></p>
 On September 16, a "local" Tendai priest, Rev. Keisho, came to Berkeley to give a short lecture on Saicho, the founder of Tendai, and Ennin, his successor. This was held at the local Jodo Shinshu Center which is, not coincidentally, also the location of the Institute of Buddhist Studies, where I've done some classwork. 

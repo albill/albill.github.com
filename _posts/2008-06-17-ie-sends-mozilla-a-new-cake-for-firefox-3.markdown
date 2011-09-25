@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-06-17 16:17:08'
 layout: post
+slug: ie-sends-mozilla-a-new-cake-for-firefox-3
+status: publish
 title: IE Sends Mozilla a New Cake for Firefox 3
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3297"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2244'
+categories:
 - Humor
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Sean from Microsoft came by just a few minutes ago to drop off a cake for the Internet Explorer team. As people may recall, the IE team sent Mozilla a cake after Firefox 2 shipped and it seems that they wanted to continue the tradition.
 

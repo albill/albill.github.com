@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-16 13:20:00'
 layout: post
-title: Updates
-published: true
-meta: 
-  ljID: "2496"
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: updates
 status: publish
+title: Updates
+wordpress_id: '1634'
+categories:
+- Daily Life
 ---
 Tonight, R and I will be going to Ted and Brandy's second class on energy work. Fairly normal and basic stuff but it is good to go over these things again and the pair of them are fairly accomplished. I know that I always learn something new, which is nice.
 

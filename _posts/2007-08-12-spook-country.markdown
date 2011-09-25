@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-08-12 20:35:10'
 layout: post
+slug: spook-country
+status: publish
 title: Spook Country
-published: true
-meta: 
-  ljID: "2688"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1772'
+categories:
 - Notable People
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 While I was camping this weekend, I read the entirety of the new William Gibson novel, <a href="http://www.amazon.com/Spook-Country-William-Gibson/dp/0399154302/"><strong>Spook Country</strong></a>. As Cory Doctorow has mentioned, it is set in the far off, futuristic year of 2006. The technologies in it and the paranoia of its world are those of our own. Like <a href="http://www.amazon.com/Pattern-Recognition-William-Gibson/dp/0425198685/"><strong>Pattern Recognition</strong></a>, Gibson gives up the science fiction future for our science fiction <em>present</em>.
 

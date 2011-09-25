@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-04 08:23:40'
 layout: post
-title: Back from my trip
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: back-from-my-trip
 status: publish
+title: Back from my trip
+wordpress_id: '195'
+categories:
+- Buddhism
 ---
 I'm back from my little camping trip and am, apparently, a bit pink. Several  of my co-workers with similar tendencies to pinkitude have commented on it.  Another commented about how I'd finally get a tan and I had to point out that,  no, it will just stay pink. Other than getting freckles, I'm incapable of a  normal tan...The luck of the Irish and all that.
 

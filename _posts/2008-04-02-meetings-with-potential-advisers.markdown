@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-04-02 02:03:19'
 layout: post
-title: Meetings with Potential Advisers
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3207"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+slug: meetings-with-potential-advisers
+status: publish
+title: 'Meetings with Potential Advisers '
+wordpress_id: '2199'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2370500242/" title="Tea Garden Buddha by albill, on Flickr"><img src="http://farm3.static.flickr.com/2170/2370500242_a416f17f1b.jpg" width="375" height="500" border="1" alt="Tea Garden Buddha" /></a></p>
 I went out and had lunch with Dr. Payne of the Institute of Buddhist Studies today. IBS is only about two miles or so from my house so it isn't difficult to get over there when I have a need.

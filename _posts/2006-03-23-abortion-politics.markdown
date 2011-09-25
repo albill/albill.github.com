@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-23 19:57:34'
 layout: post
-title: Abortion Politics
-published: true
-meta: 
-  ljID: "3052"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Society
-type: post
+slug: abortion-politics
 status: publish
+title: Abortion Politics
+wordpress_id: '719'
+categories:
+- Society
 ---
 This was shameslessly stolen via an online friend of mine:
 

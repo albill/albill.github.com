@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-24 15:02:58'
 layout: post
-title: Wyoming - a little slice of heaven
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: wyoming-a-little-slice-of-heaven
 status: publish
+title: Wyoming - a little slice of heaven
+wordpress_id: '1092'
+categories:
+- Daily Life
 ---
 I went dark suddenly because we've been packing up the house to move. We made it back from Portland this weekend on Sunday afternoon. I flew to Wyoming on Monday morning.
 

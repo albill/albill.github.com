@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2007-03-25 19:16:07'
 layout: post
+slug: bruce-sterling-ranting-at-sxsw-2007
+status: publish
 title: Bruce Sterling Ranting at SXSW 2007
-published: true
-meta: 
-  enclosure: |
-    http://audio.sxsw.com/podcast/interactive/panel/2007/SXSW.INT.20070313.BruceSterling.mp3
-    28444528
-    audio/mpeg
-
-  ljID: "2440"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1577'
+categories:
 - Notable People
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 I found this link today through a blogger mentioning that they'd recently listened to Bruce's rant at SXSW this year.
 <h2><a href="http://audio.sxsw.com/podcast/interactive/panel/2007/SXSW.INT.20070313.BruceSterling.mp3">Bruce Sterling's SXSW Rant</a></h2>

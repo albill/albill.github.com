@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-02-18 11:47:56'
 layout: post
+slug: panel-on-a-buddhist-path-for-the-west
+status: publish
 title: Panel on "A Buddhist Path for the West"
-published: true
-meta: 
-  ljID: "3155"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2174'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/dpr2007.jpg" align="right" border="1" hspace="5" vspace="5">I've been exchanging e-mail with Steve Seely, the managing director of the <a href="http://www.nitarthainstitute.org">Nitartha Institute</a>, today. He mentioned that Dzogchen Ponlop Rinpoche and students, Carole Fleming and Tyler Dewar, are doing a panel at <a href="http://www.nalandawest.org">Nalanda West</a> in Seattle tomorrow night, February 19, at 7:00 PM. This is the first of the "Big Topics" panels, which will be a monthly discussion series at Nalanda West. You can find the flyer for it <a href="http://www.nalandawest.org/NW_BigTopics08.pdf">here</a>. The topic for tomorrow is "A Buddhist Path for the West &amp; Spiritual Transmission."
 

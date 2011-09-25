@@ -1,18 +1,17 @@
---- 
+---
+author: admin
+date: '2008-08-07 10:35:11'
 layout: post
+slug: soto-zen-priests-suing-e-sangha
+status: publish
 title: Soto Zen Priests Suing E-sangha
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3350"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2364'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- e-sangha
 ---
 This is a long post. Be warned. :-)
 

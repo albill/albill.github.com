@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-05-24 23:42:09'
 layout: post
-title: Speed Racer
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3270"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: speed-racer
 status: publish
+title: Speed Racer
+wordpress_id: '2228'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2520618336/" title="Speed Racer by albill, on Flickr"><img border="1" src="http://farm3.static.flickr.com/2257/2520618336_5bb1e4e9be.jpg" width="500" height="213" alt="Speed Racer" /></a></p>
 

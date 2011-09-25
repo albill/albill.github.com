@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-01 00:45:00'
 layout: post
-title: House Stuff
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: house-stuff
 status: publish
+title: House Stuff
+wordpress_id: '1402'
+categories:
+- Daily Life
 ---
 So, we had the house inspected by <b>my</b> inspector this Thursday. Nothing too terribly extreme was found. There is dry rot in one section of siding (fairly limited) on a corner of the house caused by a incorrectly hung drainspout. Also, two out of the three front pillars need to be replaced (which are 20+ feet long lengths of 8" X 8" wood) because of water damage and a couple of other things. I&apos;m told that this isn&apos;t too unusual in buying a house or given our damp local climate.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-04 01:35:00'
 layout: post
-title: Trapped on an Island!
-published: true
-meta: 
-  ljID: "2220"
-tags: 
-- Daily Life
-type: post
+slug: trapped-on-an-island
 status: publish
+title: Trapped on an Island!
+wordpress_id: '1340'
+categories:
+- Daily Life
 ---
 Well, we&apos;re in Santorini now (in Thera). We have a room for fairly cheap in the main part of town. We were planning on staying for two nights and then going to Crete a day early to get an extra day there...but it turns out that there is no boat to Crete on Friday or Saturday. We&apos;re here until Sunday unless we go to another island for Saturday night that has service to Crete (perhaps on the same boat).
 

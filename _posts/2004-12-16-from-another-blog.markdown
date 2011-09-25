@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-16 00:12:59'
 layout: post
-title: From another blog...
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: from-another-blog
 status: publish
+title: From another blog...
+wordpress_id: '321'
+categories:
+- Spirituality
 ---
 <DIV>From <EM>Hardcore Zen </EM>by Brad Warner:</DIV>
 <P><EM>

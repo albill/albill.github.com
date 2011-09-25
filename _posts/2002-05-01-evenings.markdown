@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-05-01 04:27:00'
 layout: post
-title: Evenings
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: evenings
 status: publish
+title: Evenings
+wordpress_id: '806'
+categories:
+- Daily Life
 ---
 Well, I met with Ruby Moon  this evening over at the Barca. I'm starting to really like that place. It's got a good atmosphere and decent drinks without being packed to the gills at all times.
 

@@ -1,16 +1,16 @@
---- 
+---
+author: admin
+date: '2002-11-05 03:46:00'
 layout: post
+slug: bzzzzz
+status: publish
 title: Bzzzzz!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1010'
+categories:
 - Academic
 - Books
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 I just spent two hours doing Greek homework. Mr. Sharpy turns out to be very good on Mz. Notecard for copying vocabulary, declension of A-Declension short voweled nouns and A-Declension masculine nounds along with all of the prepositions that I know...
 

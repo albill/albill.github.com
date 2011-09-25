@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2007-02-21 21:55:09'
 layout: post
+slug: the-beard-made-him-do-it
+status: publish
 title: The Beard Made Him Do It!
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "2401"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1551'
+categories:
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 <img hspace="10" src="http://newsimg.bbc.co.uk/media/images/42589000/jpg/_42589511_priest_203_body.jpg" _fcksavedurl="http://newsimg.bbc.co.uk/media/images/42589000/jpg/_42589511_priest_203_body.jpg" align="right" />I guess that I found out what John Michael Greer has been up to lately. (That is humor for the inept...but they have the same beard!)
 <h2><a href="http://news.bbc.co.uk/1/hi/world/europe/6376211.stm" _fcksavedurl="http://news.bbc.co.uk/1/hi/world/europe/6376211.stm">Priest jailed for exorcism death</a></h2>

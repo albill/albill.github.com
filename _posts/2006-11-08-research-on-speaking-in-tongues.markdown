@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-08 14:52:42'
 layout: post
+slug: research-on-speaking-in-tongues
+status: publish
 title: Research on Speaking in Tongues
-published: true
-meta: 
-  ljID: "2282"
-tags: 
+wordpress_id: '1437'
+categories:
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 The New York Times had <a href="http://www.nytimes.com/2006/11/07/health/07brain.html">an article</a> recently on "Speaking in Tongues," which is also known as "Glossalalia."
 

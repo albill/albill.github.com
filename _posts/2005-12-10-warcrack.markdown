@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-10 16:20:03'
 layout: post
-title: WarCrack
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: warcrack
 status: publish
+title: WarCrack
+wordpress_id: '626'
+categories:
+- Daily Life
 ---
 Great. I have over a month off from school and the holidays coming off so work will be lighter than normal. Because of this, I reinstalled World of Warcraft to have some fun.
 

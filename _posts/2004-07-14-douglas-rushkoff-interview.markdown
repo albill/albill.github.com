@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-14 11:40:37'
 layout: post
-title: Douglas Rushkoff Interview
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: douglas-rushkoff-interview
 status: publish
+title: Douglas Rushkoff Interview
+wordpress_id: '176'
+categories:
+- Notable People
 ---
 <p>Related to Grant Morrison by an oblique angle, there is a new Douglas 
 Rushkoff interview up online today as well. I really enjoy his work, I must say.

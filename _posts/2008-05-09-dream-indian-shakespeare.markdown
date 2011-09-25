@@ -1,19 +1,13 @@
---- 
+---
+author: admin
+date: '2008-05-09 00:36:41'
 layout: post
-title: "\"Dream\" - Indian Shakespeare"
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3251"
-  enclosure: |-
-    http://shnsf.com/dynamic/widgets/link_1_3590.mp3
-    5940286
-    audio/mpeg
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: dream-indian-shakespeare
 status: publish
+title: '"Dream" - Indian Shakespeare'
+wordpress_id: '2220'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2478011316/" title="Dream-1 by albill, on Flickr"><img border="1" src="http://farm3.static.flickr.com/2029/2478011316_423178b809_o.png" width="453" height="303" alt="Dream-1" /></a></p>
 R and I went into San Francisco this evening to see "<a href="http://www.dreamonstage.co.uk">Dream</a>" at <a href="http://www.shnsf.com/shows/show.asp?key=18&subkey=704">SHN</a> in the Curran Theatre.  R had been fortunate enough to win tickets to this through BART, of all things.

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-01 18:37:53'
 layout: post
-title: Back from SoCal
-published: true
-meta: 
-  ljID: "2635"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: back-from-socal
 status: publish
+title: Back from SoCal
+wordpress_id: '1736'
+categories:
+- Daily Life
 ---
 R and I just got back from a short trip to Southern California. We went down to Ojai, not far from Ventura, for a family wedding. R's aunt and uncle live there and her cousins that I've seen a bit of the last few years grew up in the area. We flew out Saturday morning relatively early and arrived via Los Angeles.
 

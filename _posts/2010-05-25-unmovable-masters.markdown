@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2010-05-25 17:53:56'
 layout: post
+slug: unmovable-masters
+status: publish
 title: Unmovable Masters
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3634"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3154'
+categories:
 - Buddhism
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 ha ha ha!!  I'm laughing as I have just read this quote from <a href="http://murphyzen.com/one_bird__one_stone__108_american_zen_stories_18827.htm">One Bird, One Stone</a>:
 <blockquote>A senior student who had been practicing with Seung Sahn for many years was walking with his teacher along a hallway. When the master, in response to some item in the conversation, advised his for the umpteenth time, “Only don’t know,” something in the student snapped. Grabbing his teacher and shoving him up against the wall, the student shouted “If I hear you say that one more time I’m going to scream!” Seung Sahn looked at him and nodded. “Very good dharma demonstration!” he said.</blockquote>

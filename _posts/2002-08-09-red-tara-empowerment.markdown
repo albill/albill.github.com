@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-08-09 12:43:00'
 layout: post
+slug: red-tara-empowerment
+status: publish
 title: Red Tara Empowerment
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
+wordpress_id: '906'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/red_tara.gif" align="right" border="1" height="306" hspace="5" vspace="5" width="271" />I received the Red Tara empowerment at Chagdud Gonpa Amrita last night from Lama Tsering.
 

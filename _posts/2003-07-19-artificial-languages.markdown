@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-19 16:32:00'
 layout: post
-title: Artificial Languages
-published: true
-meta: 
-  ljID: "2502"
-tags: 
-- Daily Life
-type: post
+slug: artificial-languages
 status: publish
+title: Artificial Languages
+wordpress_id: '1640'
+categories:
+- Daily Life
 ---
 The topic of artificial languages came up recently in an LJ discussion. Neal Stepheonson had a cipher on the website for his new book, <b>Quicksilver</b>, in John Wilkin&apos;s artificial language from the 1600s. I found an article online about it by Borges.
 

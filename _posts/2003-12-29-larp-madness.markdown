@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-12-29 15:36:00'
 layout: post
+slug: larp-madness
+status: publish
 title: LARP Madness
-published: true
-meta: 
-  _edit_last: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
+wordpress_id: '2102'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 In my younger and slightly geekier years (yes, it is possible), I did Live Action Rolepalying before it was called LARP. This was about 16 years or so ago.
 

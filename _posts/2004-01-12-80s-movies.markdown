@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-12 22:28:00'
 layout: post
-title: 80's movies...
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: 80s-movies
 status: publish
+title: 80's movies...
+wordpress_id: '17'
+categories:
+- Daily Life
 ---
 Tonight, R and I watch <strong>Weird Science</strong> (which she, not I, selected) on the DVD player. Our cable box has been non-functional since last week's snowstorm turned out power off overnight (I think the magic smoke got out) so we had to rent something if we want to do more than read and other projects. Lack of TV isn't a bad thing really...
 

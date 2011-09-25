@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-05 11:35:53'
 layout: post
-title: Return to the Dime Museum
-published: true
-meta: 
-  ljID: "2604"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: return-to-the-dime-museum
 status: publish
+title: Return to the Dime Museum
+wordpress_id: '474'
+categories:
+- Daily Life
 ---
 <img src="http://www.arcanology.com/images/pyramid.jpg" align="right" border="1" height="408" width="300" />On Friday night, R and I went with Denny Sargent and Sophia to see the opening night of <a href="http://www.circuscontraption.com/home.html">Circus Contraption</a>'s new show, <strong>Return to the Dime Museum</strong>. Circus Contraption is a local, one ring circus that was, I believe, originally started as a hobby by a group of people interested in performing about six years ago. We've been going annually for a few years and know one of the performers.
 

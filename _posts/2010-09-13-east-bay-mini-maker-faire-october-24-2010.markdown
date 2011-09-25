@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-13 10:34:21'
 layout: post
+slug: east-bay-mini-maker-faire-october-24-2010
+status: publish
 title: East Bay Mini Maker Faire October 24, 2010
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3688"
-tags: 
+wordpress_id: '3291'
+categories:
 - Daily Life
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/oninnovation/4848971293/" title="Maker Faire Detroit 2010 by OnInnovation, on Flickr"><img src="http://farm5.static.flickr.com/4114/4848971293_46b0a44ebd.jpg" width="500" height="375" alt="Maker Faire Detroit 2010" /></a></p>
 Chris Hecker, here in the East Bay area, wrote about a local Mini Maker Faire. He says:

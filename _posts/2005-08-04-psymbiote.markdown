@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-08-04 11:47:11'
 layout: post
-title: Psymbiote
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: psymbiote
 status: publish
+title: Psymbiote
+wordpress_id: '521'
+categories:
+- Technology
 ---
 <p>Following up my post on the Zen Stone from yesterday. This is an extreme in 
 the opposite direction.</p>

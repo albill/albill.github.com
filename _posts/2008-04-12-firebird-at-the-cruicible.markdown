@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-04-12 00:26:02'
 layout: post
-title: Firebird at the Cruicible
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3212"
-tags: 
-- Daily Life
-type: post
+slug: firebird-at-the-cruicible
 status: publish
+title: Firebird at the Cruicible
+wordpress_id: '2204'
+categories:
+- Daily Life
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2406486917/" title="Firebird"><img src="http://farm3.static.flickr.com/2297/2406486917_711c7681c7.jpg" width="462" height="500" alt="Firebird" /></a></p>
 On Thursday night, R, her mother, and I went to one of the first performances of "<a href="http://www.thecrucible.org/ballet/index.html">Firebird</a>" at the <a href="http://www.thecrucible.org/">Crucible</a> in Oakland. This show is an interpretation of <a href="http://en.wikipedia.org/wiki/The_Firebird">Stravinsky's Firebird</a> done with a combination of fire performances, aerial work, ballet and break dancing. It also included stunt work with a motorcycle and an impressive Pontiac Firebird. 

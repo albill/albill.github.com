@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-10 12:58:19'
 layout: post
-title: Steampunk Treehouse
-published: true
-meta: 
-  ljID: "2616"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: steampunk-treehouse
 status: publish
+title: Steampunk Treehouse
+wordpress_id: '1720'
+categories:
+- Daily Life
 ---
 R and I had a busy day out and about yesterday. After living in the Bay Area for a year, I've finally had a burrito down in the Mission. R picked a place that she went to with a friend a couple of weeks ago that won a bunch of awards. It was definitely one of the best burritos that I've ever had...
 

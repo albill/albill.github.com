@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-12-10 22:18:00'
 layout: post
-title: Hakim Bey Updated on Hermetic.com
-published: true
-meta: 
-  ljID: "2984"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: hakim-bey-updated-on-hermeticcom
 status: publish
+title: Hakim Bey Updated on Hermetic.com
+wordpress_id: '2062'
+categories:
+- Daily Life
 ---
 I added the following to <a href="http://www.hermetic.com">Hermetic.com</a> this evening (per my <a href="http://www.hermetic.com/new.html">What&apos;s New</a> page):
 

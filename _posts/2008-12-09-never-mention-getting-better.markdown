@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-12-09 12:20:08'
 layout: post
-title: Never mention getting better
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3439"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: never-mention-getting-better
 status: publish
+title: Never mention getting better
+wordpress_id: '2575'
+categories:
+- Daily Life
 ---
 I shouldn't have said anything about getting better. I've basically regressed to where I was a week ago. I can't sleep through the night, have a racing heart, and am weak. My doctor is taking it a lot more seriously now since I'm entering the six week or so of this. I'm getting an echocardiogram on Thursday to make sure my heart is fine (though the other tests indicate that it is and that my heart rate and blood pressure are symptoms of the overall problem). I also gave a bunch more blood today for more tests, including a blood culture to make sure that I don't have an infection in my blood, which would explain some symptoms.
 

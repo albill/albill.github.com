@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-23 00:16:00'
 layout: post
+slug: recent-days
+status: publish
 title: Recent Days
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '27'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 I haven't written much of detail recently.
 

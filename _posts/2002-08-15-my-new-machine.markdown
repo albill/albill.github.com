@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-15 18:46:00'
 layout: post
-title: My New Machine
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: my-new-machine
 status: publish
+title: My New Machine
+wordpress_id: '916'
+categories:
+- Technology
 ---
 So, I decided to bite the bullet and build a new computer for myself. I'm cannabalizing my DVD drive and my CD burner from my old one (and my flat screen monitor). This is what I put together. With 512MB of Ram, this came to about $850 from <a href="http://www.newegg.com">newegg.com</a>.
 

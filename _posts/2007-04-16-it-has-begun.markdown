@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-16 02:09:59'
 layout: post
+slug: it-has-begun
+status: publish
 title: It has begun...
-published: true
-meta: 
-  ljID: "2531"
-tags: 
+wordpress_id: '1666'
+categories:
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 In the last four days, I've registered a domain, moved all of my websites (and e-mail) to a new hosting provider, created an <a href="http://www.ourmedia.org/">Ourmedia</a> account, spoken to a couple of people about interviews, and created a new blog site.
 

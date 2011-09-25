@@ -1,19 +1,19 @@
---- 
+---
+author: admin
+date: '2008-09-29 17:51:28'
 layout: post
+slug: noisebridge-hacking-collective-has-a-space
+status: publish
 title: Noisebridge Hacking Collective Has A Space
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3412"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2512'
+categories:
 - Daily Life
 - Hacking
 - Mozilla
 - Society
 - Technology
-type: post
-status: publish
+tags:
+- Hacking
 ---
 <p align="center"><a href="http://www.flickr.com/photos/ioerror/2900128362/"><img src="http://farm4.static.flickr.com/3181/2900128362_90eff2a856.jpg" width="500" height="375" border="1"></p>I've <a href="http://www.arcanology.com/2008/07/05/noisebridge-progress/">blogged before</a> about <a href="https://www.noisebridge.net/index.php/NoiseBridge">Noisebridge</a>, the hacker collective in San Francisco (or the Bay Area as a whole, really) of which I am a member. The group has been meeting once a week for coffee for most of a year now and has been looking for an affordable space for most of that time.
 

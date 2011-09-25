@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-02 23:54:47'
 layout: post
-title: Personal Jesus
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: personal-jesus
 status: publish
+title: Personal Jesus
+wordpress_id: '224'
+categories:
+- Daily Life
 ---
 <p>This evening, a rip of the two tracks from a promo copy of the next <b>
 Marilyn Manson</b> single came into my hands. It&#39;s a cover of <b>Depeche Mode</b>&#39;s 

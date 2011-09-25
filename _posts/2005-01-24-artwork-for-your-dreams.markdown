@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-24 00:25:59'
 layout: post
-title: Artwork for your dreams...
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: artwork-for-your-dreams
 status: publish
+title: Artwork for your dreams...
+wordpress_id: '374'
+categories:
+- Science Fiction
 ---
 <p>An interesting exhibit in Lovecraftian art is at
 <a href="http://www.netherreal.de/gallery/coulthart/coultjs.htm">

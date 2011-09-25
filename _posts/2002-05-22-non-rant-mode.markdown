@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-22 04:38:00'
 layout: post
+slug: non-rant-mode
+status: publish
 title: Non-Rant Mode
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '828'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 Now that I'm done looking like an asshole for the day, I wanted to post in support of  Brandy and her partner Ted. They will be doing the following in Seattle this Thursday:
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-27 01:51:45'
 layout: post
-title: Six Apart Holiday Party
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: six-apart-holiday-party
 status: publish
+title: Six Apart Holiday Party
+wordpress_id: '1534'
+categories:
+- Daily Life
 ---
 R and I went to the holiday party for <a href="http://www.sixapart.com">Six Apart</a> tonight. R works there doing QA for blogging software.
 

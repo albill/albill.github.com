@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-31 01:34:27'
 layout: post
+slug: egyptian-reference-materials-for-the-golden-dawn
+status: publish
 title: Egyptian Reference Materials for the Golden Dawn
-published: true
-meta: 
-  ljID: "2386"
-tags: 
+wordpress_id: '1542'
+categories:
 - Academic
 - Esoteric
-type: post
-status: publish
 ---
 I have been having a difficult time figuring out which texts on Egypt, Egyptian religion or mythology, or Egyptology in general that the founders of the Golden Dawn, Westcott and Mathers, would have had available to them.
 

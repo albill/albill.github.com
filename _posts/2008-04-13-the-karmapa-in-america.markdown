@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-04-13 21:38:22'
 layout: post
+slug: the-karmapa-in-america
+status: publish
 title: The Karmapa in America
-published: true
-meta: 
-  ljID: "3213"
-tags: 
+wordpress_id: '2205'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2411952571/" title="17 Karmapa"><img src="http://farm3.static.flickr.com/2351/2411952571_2b2f7e53c9_o.jpg" width="258" height="311" border="1" hspace="10" vspace="10" align="right" alt="17 Karmapa" /></a> As some may or may not have heard, the <a href="http://www.kagyuoffice.org/karmapa.html">Seventeenth Karmapa</a>, Orgyen Trinley Dorje, is going to be in the United States in a month for a couple of weeks. This visit to the United States is the first time that he has been able to come here to visit or to teach.
 

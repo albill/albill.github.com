@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-24 15:46:05'
 layout: post
+slug: qa-community-and-mozilla
+status: publish
 title: QA Community and Mozilla
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2024'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/qmo_logo.png" alt="QMO Logo" align="right" border="0" />I've been thinking a bit about the Mozilla community and quality assurance (aka "testing") for Firefox and Thunderbird lately. This is an area of the community that is a lot less visible to much of the world but one of the places where the Mozilla community actually shines. I think a lot more could be done though.
 

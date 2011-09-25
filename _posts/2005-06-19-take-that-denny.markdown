@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-19 23:42:13'
 layout: post
-title: Take That, Denny!
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: take-that-denny
 status: publish
+title: Take That, Denny!
+wordpress_id: '488'
+categories:
+- Daily Life
 ---
 <p>My friend Denny was mocking me this evening. It was his wife, Sophia&#39;s, 
 birthday party. R and I went over in late afternoon to attend for a while. I&#39;d 

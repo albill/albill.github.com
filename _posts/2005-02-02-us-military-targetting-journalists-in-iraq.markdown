@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-02 23:36:20'
 layout: post
-title: US Military Targetting Journalists in Iraq?
-published: true
-meta: 
-  _oembed_38cabb7571b24a4968ae1d5b772d932e: "{{unknown}}"
-  _oembed_e162bb7a94fcec2aef4e7a57193be484: "{{unknown}}"
-  _oembed_23ea6723c6f6a56766a7989f8e267484: "{{unknown}}"
-tags: 
-- Society
-type: post
+slug: us-military-targetting-journalists-in-iraq
 status: publish
+title: US Military Targetting Journalists in Iraq?
+wordpress_id: '385'
+categories:
+- Society
 ---
 <p>Holy Shit.</p>
 <p>

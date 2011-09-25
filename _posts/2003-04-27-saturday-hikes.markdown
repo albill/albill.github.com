@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-27 06:23:00'
 layout: post
-title: Saturday Hikes
-published: true
-meta: 
-  ljID: "2240"
-tags: 
-- Daily Life
-type: post
+slug: saturday-hikes
 status: publish
+title: Saturday Hikes
+wordpress_id: '1360'
+categories:
+- Daily Life
 ---
 Madeline came over last night (Friday night) to spend the night here. We have a spare bedroom with a futon here in the house. Her mother filled me with doom and gloom stories about her having problems with sleepovers recently and it being a "stage" that she&apos;s in. I was told that I might have to spend the night sleeping next to her or that she might scream in the middle of the night. Weird crap in my opinion and completely unlike Madeline normally.
 

@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-10 23:25:36'
 layout: post
+slug: stealing-content-or-being-a-bad-blogging-citizen
+status: publish
 title: Stealing Content or Being a Bad Blogging Citizen
-published: true
-meta: 
-  ljID: "2647"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1746'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 Every so often, I get trackbacks and the like from other blogs (or "splogs" for "spam blogs") who steal content from my blog without saying anything to me. They offer no commentary of their own, just copy my posts.
 

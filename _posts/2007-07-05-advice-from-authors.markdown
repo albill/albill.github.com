@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-05 20:57:37'
 layout: post
+slug: advice-from-authors
+status: publish
 title: Advice from Authors
-published: true
-meta: 
-  ljID: "2640"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1741'
+categories:
 - Science Fiction
 - Society
-type: post
-status: publish
 ---
 I ran into this quote today and it seemed quite relevant to some of the issues with our society.
 <blockquote>“If you want to really hurt your parents, and you don’t have the nerve to be gay, the least you can do is go into the arts. I’m not kidding. The arts are no way to make a living. They are a very human way of making life more bearable. Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven’s sake. Sing in the shower. Dance to the radio. Tell stories. Write a poem to a friend, even a lousy poem. Do it as well as you possibly can. You will get an enormous reward. You will have created something.”

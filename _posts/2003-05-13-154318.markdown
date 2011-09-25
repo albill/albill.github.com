@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-13 21:10:00'
 layout: post
-title: "154318"
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: '154318'
 status: publish
+title: '154318'
+wordpress_id: '1374'
+categories:
+- Daily Life
 ---
 <p>			<b>A Spirituality that Transforms</b><p>
 			by Ken Wilber<p>

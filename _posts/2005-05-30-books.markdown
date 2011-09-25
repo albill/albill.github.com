@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-05-30 12:20:35'
 layout: post
-title: Books
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: books
 status: publish
+title: Books
+wordpress_id: '468'
+categories:
+- Science Fiction
 ---
 Yes, I'm posting more today than I have in weeks. It's what a day off when you are deaf in one ear, recovering from travel/vacation, and have no grad school assignments due will do to you. (I did check my Microsoft e-mail today and answered one budget question for the group I am in, of all things.)
 

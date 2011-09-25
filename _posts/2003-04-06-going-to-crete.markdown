@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-06 15:04:00'
 layout: post
-title: Going to Crete
-published: true
-meta: 
-  ljID: "2225"
-tags: 
-- Daily Life
-type: post
+slug: going-to-crete
 status: publish
+title: Going to Crete
+wordpress_id: '1345'
+categories:
+- Daily Life
 ---
 We&apos;re off to Port Athnios in about an hour to head down to our ferry to Crete. That&apos;s about a three hour trip from here.
 

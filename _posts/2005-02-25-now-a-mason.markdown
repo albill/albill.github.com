@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-25 00:08:58'
 layout: post
-title: Now a Mason
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3758"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Spirituality
-type: post
+slug: now-a-mason
 status: publish
+title: Now a Mason
+wordpress_id: '406'
+categories:
+- Spirituality
 ---
  <img src="http://www.openbuddha.com/images/square-compass.gif" align="right" border="2" height="143" hspace="5" width="169" />
 

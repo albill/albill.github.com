@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-11 10:37:20'
 layout: post
-title: Last Day in Florence
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: last-day-in-florence
 status: publish
+title: Last Day in Florence
+wordpress_id: '258'
+categories:
+- Daily Life
 ---
 Today is our last day in Florence. We'll be staying the night in the nice hotel in the converted palazzo not far from the river but we'll be leaving in the morning. 
 

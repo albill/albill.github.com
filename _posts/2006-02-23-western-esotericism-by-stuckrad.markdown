@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-23 01:51:53'
 layout: post
-title: Western Esotericism by Stuckrad
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: western-esotericism-by-stuckrad
 status: publish
+title: Western Esotericism by Stuckrad
+wordpress_id: '693'
+categories:
+- Academic
 ---
 I'm reading Kocku von Stuckrad's <a href="http://www.amazon.com/gp/product/1845530349"><strong>Western Esotericism</strong></a> for both my  independent study (even though I didn't know about it when I made my  bibliography) and for pleasure. It's a well written (and well translated) book  by one of the professors of the Institute for the History of Hermetic Philosophy  at the University of Amsterdam. I wish I could go to Amsterdam to check out the  school, the libraries associated with it, and meet the professors and students.
 

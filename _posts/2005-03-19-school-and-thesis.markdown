@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-03-19 22:53:53'
 layout: post
+slug: school-and-thesis
+status: publish
 title: School and Thesis
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '427'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>Rain, rain, rain. The weather feels almost normal in Seattle again. </p>
 <p>R and I had a relatively lazy day at home. After we got up, she went out to 

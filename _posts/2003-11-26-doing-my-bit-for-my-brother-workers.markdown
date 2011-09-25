@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-26 22:41:00'
 layout: post
-title: Doing my bit for my brother Workers
-published: true
-meta: 
-  ljID: "2930"
-tags: 
-- Daily Life
-type: post
+slug: doing-my-bit-for-my-brother-workers
 status: publish
+title: Doing my bit for my brother Workers
+wordpress_id: '2007'
+categories:
+- Daily Life
 ---
 News about those fuckers in the management of <a href="http://www.powells.com">Powell&apos;s</a>.
 

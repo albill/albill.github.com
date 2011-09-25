@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2010-05-17 10:54:34'
 layout: post
-title: "Cold Mountain: Another Chan Buddhist Film"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3631"
-tags: 
+slug: cold-mountain-another-chan-buddhist-film
+status: publish
+title: 'Cold Mountain: Another Chan Buddhist Film'
+wordpress_id: '3144'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Today I found out about another Buddhist documentary focusing on the Chan Buddhism of China. This is "Cold Mountain: Han Shan" directed by Mike Hazard and Deb Wallwork and it came out last year. 
 

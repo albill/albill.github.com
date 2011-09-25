@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-10-02 15:01:20'
 layout: post
+slug: updated-dissertation-topic-on-contemporary-buddhism
+status: publish
 title: Updated Dissertation Topic on Contemporary Buddhism
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3582"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2862'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3974957919/" title="jedi_squirrel by albill, on Flickr"><img src="http://farm3.static.flickr.com/2508/3974957919_e7970ee4eb_o.jpg" border="1" width="498" height="322" alt="jedi_squirrel" /></a><br><em>An example of Buddhist sectarian conflict</em></div>
 After the conference last week and becoming disheartened, I did some work on coming up with a new dissertation topic in Buddhist Studies. I was encouraged in this by my advisor, who also gave me excellent feedback at multiple points.

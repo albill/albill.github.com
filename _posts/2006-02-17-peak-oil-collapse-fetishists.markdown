@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-17 03:05:00'
 layout: post
-title: Peak Oil Collapse Fetishists
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3757"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: peak-oil-collapse-fetishists
 status: publish
+title: Peak Oil Collapse Fetishists
+wordpress_id: '689'
+categories:
+- Society
 ---
 I just read this piece called "<a href="http://www.karavans.com/a_spiritcollapse.html">Spirituality  of Collapse</a>", which is yet another "What do we do after Peak Oil?" piece. In  some ways, it could be a companion to "<a href="http://www.hubbertpeak.com/whatToDo/DeindustrialAge.htm">The  Coming of Deindustrial Society: A Practical Response</a>" by my old college  buddy and former friend, John Michael Greer.
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-10-08 05:20:00'
 layout: post
+slug: color-me-uncaring
+status: publish
 title: Color me uncaring
-published: true
-meta: 
-  ljID: "2839"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1917'
+categories:
 - Humor
 - Notable People
 - Society
-type: post
-status: publish
 ---
 I'm seeing a lot of people ranting about Arnold being governor and what a catastrophy it is... I'm rather unconvinced. I think he's going to be hamstrung and in over his head but I really doubt if he will mismanage your state any worse than Davis.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-03-03 23:49:00'
 layout: post
+slug: office-space
+status: publish
 title: Office Space
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1293'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 These thoughts occurred to me as I walked by all of the offices in the hallway on my way out of work this evening...
 

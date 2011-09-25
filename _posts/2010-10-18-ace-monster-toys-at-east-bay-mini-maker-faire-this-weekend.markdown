@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2010-10-18 14:43:13'
 layout: post
+slug: ace-monster-toys-at-east-bay-mini-maker-faire-this-weekend
+status: publish
 title: Ace Monster Toys at East Bay Mini Maker Faire this weekend
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3703"
-tags: 
+wordpress_id: '3318'
+categories:
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5094881644/" title="amt-name-logo"><img src="http://farm5.static.flickr.com/4151/5094881644_3e437c62fe.jpg" width="500" height="92" alt="amt-name-logo" border="0" /></a></p>
 

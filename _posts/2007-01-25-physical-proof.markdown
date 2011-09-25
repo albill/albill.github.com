@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-25 00:22:26'
 layout: post
-title: Physical Proof
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: physical-proof
 status: publish
+title: Physical Proof
+wordpress_id: '1531'
+categories:
+- Daily Life
 ---
 The missus got a picture of me at the Tea Garden to go with the pictures that I've been posting of it.
 

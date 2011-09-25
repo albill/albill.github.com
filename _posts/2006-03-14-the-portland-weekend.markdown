@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-03-14 02:58:06'
 layout: post
+slug: the-portland-weekend
+status: publish
 title: The Portland Weekend
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '713'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 R and I had a good time at the Thelemic Symposium this weekend.
 

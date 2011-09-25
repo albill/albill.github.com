@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-16 15:43:00'
 layout: post
+slug: news-of-the-day-from-the-coruscant-news-service
+status: publish
 title: News of the Day from the Coruscant News Service
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '823'
+categories:
 - Humor
 - Science Fiction
-type: post
-status: publish
 ---
 CORUSCANT -- Presiding over a memorial service commemorating the victims of the attack on the Death Star, the Emperor declared that while recent victories over the Rebel Alliance were "encouraging, the War on Terror is not over yet."
 

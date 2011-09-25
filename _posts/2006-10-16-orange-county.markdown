@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-10-16 23:59:39'
 layout: post
-title: Orange County
-published: true
-meta: 
-  ljID: "2250"
-tags: 
-- Daily Life
-type: post
+slug: orange-county
 status: publish
+title: Orange County
+wordpress_id: '1407'
+categories:
+- Daily Life
 ---
 If the Bay Area seems weird to this Seattle boy from time to time, anytime I head south of here, it gets a lot worse. Brown, brown, brown! Sometimes it seems as if all of California is brown and dead looking. (R disagrees but she is from here so what can you expect?)
 

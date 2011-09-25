@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-12 05:17:00'
 layout: post
-title: The Naassene Psalm
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: the-naassene-psalm
 status: publish
+title: The Naassene Psalm
+wordpress_id: '1047'
+categories:
+- Spirituality
 ---
 The Law of Universal Genesis
 was the firstborn nous; the second Chaos

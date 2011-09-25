@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-04-19 18:36:44'
 layout: post
+slug: help-for-aitken-roshi
+status: publish
 title: Help for Aitken Roshi
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3516"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2748'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3457146021/" title="Robert_Baker_Aitken_and_Anne_Hopkins_Aitken"><img src="http://farm4.static.flickr.com/3635/3457146021_b2dd9e77db_m.jpg" align="right" hspace="10" width="207" border="1" height="240" alt="Robert_Baker_Aitken_and_Anne_Hopkins_Aitken" /></a> I know others have mentioned this but I don't think it can be said too many times,
 

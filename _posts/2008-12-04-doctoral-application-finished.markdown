@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-12-04 22:50:40'
 layout: post
+slug: doctoral-application-finished
+status: publish
 title: Doctoral Application Finished
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3436"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2566'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/1447024452/"><img src="http://farm2.static.flickr.com/1418/1447024452_b3fbb7c7fc.jpg" width="500" height="375" alt="Statue on Mt. Hiei" /></a></p>
 I did the final work on my statement of purpose for my doctoral application to the <a href="http://www.gtu.edu">Graduate Theological Union</a> this evening. With that done, my GRE scores and letters of recommendation received, I finalized my application and paid my fees. At this point, other than dropping a second check in the mail for UC, Berkeley (who jointly reviews PhD applicants with GTU), I am finished with my application.

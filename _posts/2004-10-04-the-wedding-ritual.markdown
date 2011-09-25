@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-04 01:16:17'
 layout: post
-title: The Wedding Ritual
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: the-wedding-ritual
 status: publish
+title: The Wedding Ritual
+wordpress_id: '251'
+categories:
+- Daily Life
 ---
 
 <h1 style="text-align: center" align="center"> <font face="Calligrapher">Al &amp; Rebecca's Wedding Ceremony</font></h1>

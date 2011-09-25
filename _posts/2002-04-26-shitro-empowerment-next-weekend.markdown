@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-26 15:50:00'
 layout: post
+slug: shitro-empowerment-next-weekend
+status: publish
 title: Shitro Empowerment next weekend
-published: true
-meta: 
-  _edit_last: "1"
-tags: 
+wordpress_id: '801'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This is what I'm doing next Sunday...
 

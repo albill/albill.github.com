@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-03 04:59:00'
 layout: post
-title: No Good Plan Survives Contact with the Enemy
-published: true
-meta: 
-  ljID: "2219"
-tags: 
-- Daily Life
-type: post
+slug: no-good-plan-survives-contact-with-the-enemy
 status: publish
+title: No Good Plan Survives Contact with the Enemy
+wordpress_id: '1339'
+categories:
+- Daily Life
 ---
 The enemy in this instance is the Greek ferry system and the boats. 
 

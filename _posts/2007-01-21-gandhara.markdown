@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-21 01:22:14'
 layout: post
+slug: gandhara
+status: publish
 title: Gandhara
-published: true
-meta: 
-  ljID: "2372"
-tags: 
+wordpress_id: '1527'
+categories:
 - Buddhism
 - Society
-type: post
-status: publish
 ---
 One of the surprises of the visit to the museum today was the images of the Buddha and of bodhisattvas from <a href="http://en.wikipedia.org/wiki/Gandhara">Gandhara</a>.
 

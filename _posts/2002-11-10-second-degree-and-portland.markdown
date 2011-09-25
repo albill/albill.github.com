@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-11-10 22:34:00'
 layout: post
+slug: second-degree-and-portland
+status: publish
 title: Second Degree and Portland
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1015'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I are just back in the last few hours from our whirlwind tour of Portland, Oregon (again).
 

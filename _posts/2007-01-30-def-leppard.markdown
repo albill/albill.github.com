@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-30 01:03:42'
 layout: post
-title: Def Leppard
-published: true
-meta: 
-  ljID: "2385"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: def-leppard
 status: publish
+title: Def Leppard
+wordpress_id: '1541'
+categories:
+- Daily Life
 ---
 I must say that Def Leppard's <em>Rock of Ages</em> does <strong>NOT</strong> need more cowbell.
 

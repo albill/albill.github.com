@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-09-27 02:11:26'
 layout: post
-title: Sukhothai
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: sukhothai
 status: publish
+title: Sukhothai
+wordpress_id: '564'
+categories:
+- Daily Life
 ---
 I had this long entry that I had written up and the whole system just lost it. I'm pretty annoyed.
 

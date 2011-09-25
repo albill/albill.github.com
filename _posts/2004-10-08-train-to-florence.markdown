@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-10-08 09:11:11'
 layout: post
-title: Train to Florence
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: train-to-florence
 status: publish
+title: Train to Florence
+wordpress_id: '255'
+categories:
+- Daily Life
 ---
 This morning (it's about 6:20 PM local time on Friday), R and I got up and had the hotel breakfast again. Lots of bread products here. I'm glad, in a sense, that I'm not doing Atkins anymore. In any case, the bread here is good and they even have cornflakes. I love the coffee, of course...mmmm....
 

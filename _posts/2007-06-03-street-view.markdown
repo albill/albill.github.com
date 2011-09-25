@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-03 11:19:46'
 layout: post
-title: Street View
-published: true
-meta: 
-  ljID: "2607"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Technology
-type: post
+slug: street-view
 status: publish
+title: Street View
+wordpress_id: '1714'
+categories:
+- Technology
 ---
 Unlike some, I'm not terribly concerned about Google's new "street view" feature for Google Maps. Of course, they didn't even drive their van in front of my house.
 

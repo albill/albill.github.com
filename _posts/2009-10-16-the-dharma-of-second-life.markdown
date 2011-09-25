@@ -1,21 +1,15 @@
---- 
+---
+author: admin
+date: '2009-10-16 22:24:40'
 layout: post
+slug: the-dharma-of-second-life
+status: publish
 title: The Dharma of Second Life
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3588"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2881'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4015508029/" title="Five Mountain Zendo - Interior by albill, on Flickr"><img src="http://farm3.static.flickr.com/2537/4015508029_9609cf105f.jpg" width="500" height="400" alt="Five Mountain Zendo - Interior" /></a></div>
 In the last week, I have spent a bit of time in <a href="http://secondlife.com/">Second Life</a>. For those who have been blissfully unaware, Second Life is a virtual world simulator. Think World of Warcraft but not as shiny and polished and, for the most part, not based around the idea of a game. People do have game areas in it but it is largely a creative chat medium.

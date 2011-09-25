@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2005-12-31 14:23:29'
 layout: post
+slug: viridarium-umbris
+status: publish
 title: Viridarium Umbris
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '653'
+categories:
 - Books
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I'm in luck. I thought that I had missed out on getting <strong>Viridarium Umbris</strong> from Schulke because I hadn't preordered it a while back. It turns out that Fields Books in San Francisco is the distributor of the book for the west coast. I paid a slightly higher price but a copy of it is on its way to me today.
 

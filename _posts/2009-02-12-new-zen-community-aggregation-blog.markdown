@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-02-12 15:43:24'
 layout: post
+slug: new-zen-community-aggregation-blog
+status: publish
 title: New Zen Community Aggregation Blog
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3474"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2679'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 I know that I just posted about the new Zen online forums yesterday but I was inspired to do some online work over the last 24 hours.
 

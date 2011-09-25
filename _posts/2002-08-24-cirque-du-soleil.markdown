@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-24 04:33:00'
 layout: post
-title: Cirque Du Soleil
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: cirque-du-soleil
 status: publish
+title: Cirque Du Soleil
+wordpress_id: '924'
+categories:
+- Daily Life
 ---
 R and I went to Cirque Du Soleil this evening (well, yesterday now but I haven&apos;t gone to bed yet). We wound up getting there about an hour early because I had planned for traffic and got to hang out at the expensive beer garden for a while. I have a feeling that they make as much on the concession stand as on anything else. ;-)
 

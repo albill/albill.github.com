@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-08 15:47:00'
 layout: post
-title: My Kung Fu beats your Phowa! Fight me!
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: my-kung-fu-beats-your-phowa-fight-me
 status: publish
+title: My Kung Fu beats your Phowa! Fight me!
+wordpress_id: '137'
+categories:
+- Buddhism
 ---
 This seems a bit...odd...why is it appealing in a way though?
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-06-28 04:23:00'
 layout: post
-title: Houses and Painting
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: houses-and-painting
 status: publish
+title: Houses and Painting
+wordpress_id: '864'
+categories:
+- Daily Life
 ---
 I've got the luxury of two days off from work this week for free. Microsoft has a rather large campus (is there a company with larger?) and I'm on a secondary campus. They're moving my entire group (60+ people) back onto main campus this week so we get Thursday and Friday off to keep us out of their hair while they move all of our machines and boxed up stuff. I can't complain about a three day work week. Next week is one as well because of the fourth of july and then I'm going to California for a week the following week on Thursday for the recreation of the Rites of Eleusis that I'm attending.
 

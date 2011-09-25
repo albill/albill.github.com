@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-11 14:17:54'
 layout: post
-title: A Comment on the Democratic Leadership
-published: true
-meta: 
-  ljID: "2617"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: a-comment-on-the-democratic-leadership
 status: publish
+title: A Comment on the Democratic Leadership
+wordpress_id: '1721'
+categories:
+- Society
 ---
 I can't say that I disagree with this but, of course, I never actually believed that the Democrats actually would have the will to make a difference.
 

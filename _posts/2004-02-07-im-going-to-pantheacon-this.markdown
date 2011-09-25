@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-02-07 22:32:00'
 layout: post
+slug: im-going-to-pantheacon-this
+status: publish
 title: I'm going to PantheaCon this
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '43'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I'm going to <a href="http://www.pantheacon.org">PantheaCon</a> this coming weekend from Friday the 13th through Monday the 16th. This is a longstanding (more than a decade) pagan convention. I attended in 2002 and had a great experience. My mother is going to be presenting her presentation on the Egyptian goddess, Nuit, that she did at <a href="http://www.notocon.org">NotoCon</a> (the Ordo Templi Orientis convention) this year that she also came to Seattle to present to the <a href="http://www.speakeasy.org/~bwilliam/sps.html">Seattle Pagan Scholars</a>. Since I've seen it twice already, I'm not required to attend.
 <table width="765" cellspacing="0" cellpadding="0" border="1">

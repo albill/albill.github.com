@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-04 00:18:46'
 layout: post
-title: New Bookish Features
-published: true
-meta: {}
-
-tags: 
-- Books
-type: post
+slug: new-bookish-features
 status: publish
+title: New Bookish Features
+wordpress_id: '159'
+categories:
+- Books
 ---
 I've added some of the MT book-related plug-ins to the main page now. Unfortunately, none of them seem to truncate Amazon titles when you query on them. I was going to have a portion of my large wish list for Amazon listed but the title field for some entries was huge and mashed up my page formatting.
 

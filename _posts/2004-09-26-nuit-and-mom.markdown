@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-26 02:25:27'
 layout: post
-title: Nuit and Mom
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: nuit-and-mom
 status: publish
+title: Nuit and Mom
+wordpress_id: '244'
+categories:
+- Spirituality
 ---
 I see that my mother's article on Nuit for <b>The Scarlet Letter</b> is available online now.
 

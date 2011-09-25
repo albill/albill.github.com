@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2003-09-25 20:55:00'
 layout: post
+slug: saaaan-fraaaanciiiiiscoooo
+status: publish
 title: Saaaan Fraaaanciiiiiscoooo!!!
-published: true
-meta: 
-  ljID: "2819"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1896'
+categories:
 - Daily Life
 - Esoteric
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 R and I are just off of Haight in San Francisco now. We flew in uneventfully after getting up at God-awful-early and are staying at the Red Victorian Bed and Breakfast on Haight tonight. I always love coming here and never seem to spend enough time down here. If it wasn't so damn expensive (and if I didn't have a child and career in Seattle), I'd move here.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-05-25 17:03:00'
 layout: post
+slug: saturday
+status: publish
 title: Saturday
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1392'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Ah, the joys of the three day weekend are not terribly sublime...
 

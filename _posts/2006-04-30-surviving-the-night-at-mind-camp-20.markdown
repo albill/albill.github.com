@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-30 12:43:45'
 layout: post
+slug: surviving-the-night-at-mind-camp-20
+status: publish
 title: Surviving the Night at Mind Camp 2.0
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '759'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 I survived the night.
 

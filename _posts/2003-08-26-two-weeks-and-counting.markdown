@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-26 04:13:00'
 layout: post
-title: Two Weeks and Counting
-published: true
-meta: 
-  ljID: "2792"
-tags: 
-- Daily Life
-type: post
+slug: two-weeks-and-counting
 status: publish
+title: Two Weeks and Counting
+wordpress_id: '1868'
+categories:
+- Daily Life
 ---
 In two weeks, I fly to Minneapolis to take the next step with the Astrum Sophia. I&apos;m pretty excited about that and looking forward to seeing a lot of people that I haven&apos;t seen since <b>last</b> September.
 

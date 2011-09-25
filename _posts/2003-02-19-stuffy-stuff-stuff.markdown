@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-19 04:16:00'
 layout: post
-title: Stuffy Stuff Stuff
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: stuffy-stuff-stuff
 status: publish
+title: Stuffy Stuff Stuff
+wordpress_id: '1279'
+categories:
+- Daily Life
 ---
 Well, today felt like Monday to me until I hit Latin.
 

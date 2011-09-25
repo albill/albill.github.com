@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-24 01:49:10'
 layout: post
-title: My Pictures are online
-published: true
-meta: 
-  ljID: "2438"
-tags: 
-- Daily Life
-type: post
+slug: my-pictures-are-online
 status: publish
+title: My Pictures are online
+wordpress_id: '1575'
+categories:
+- Daily Life
 ---
 This is a reminder that I put a lot of pictures up on my <a href="http://www.flickr.com/photos/albill/">Flickr</a> account.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-25 20:40:39'
 layout: post
-title: Saturday Night in Portland
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: saturday-night-in-portland
 status: publish
+title: Saturday Night in Portland
+wordpress_id: '495'
+categories:
+- Daily Life
 ---
 I'm sitting in Powell's in Portland drinking a latte and using their free  wifi. Powell's is about 50 yards from my hotel so it seems to be a good place to  hang out.
 

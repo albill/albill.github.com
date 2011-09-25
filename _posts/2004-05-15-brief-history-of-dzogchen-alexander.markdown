@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-15 01:52:00'
 layout: post
-title: Brief History of Dzogchen Alexander
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: brief-history-of-dzogchen-alexander
 status: publish
+title: Brief History of Dzogchen Alexander
+wordpress_id: '110'
+categories:
+- Buddhism
 ---
 
 <h2 align="center">Brief History of Dzogchen</h2>

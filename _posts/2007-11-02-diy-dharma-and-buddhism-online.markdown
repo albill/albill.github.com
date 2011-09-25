@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-02 01:25:02'
 layout: post
+slug: diy-dharma-and-buddhism-online
+status: publish
 title: D.I.Y. Dharma and Buddhism Online
-published: true
-meta: 
-  ljID: "2956"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2034'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 It is late in the evening (or early morning) for me but I wanted to give a shout out the <a href="http://diydharma.org">D.I.Y. Dharma</a> folks.  This is an ad-hoc sangha of sorts up in Vancouver, British Columbia. This is a regular sitting group that seems to cross the lines of the various Buddhist schools and lineages. They also seem to be open to queer, punk, and generally "out there" types of people. Both kinds of diversity expressed there are things that I admire. Both diversity of lineages and a diversity of individuals are things that I feel Buddhism needs to embrace in the 21st century in North America if it is to both be worthwhile but also reach the people that need it the Dharma the most.
 

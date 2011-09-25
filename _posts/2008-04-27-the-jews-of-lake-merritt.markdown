@@ -1,19 +1,18 @@
---- 
+---
+author: admin
+date: '2008-04-27 02:42:45'
 layout: post
+slug: the-jews-of-lake-merritt
+status: publish
 title: The Jews of Lake Merritt
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3224"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2211'
+categories:
 - Daily Life
+- Spirituality
+tags:
 - Jewish
 - Passover
 - Seder
-- Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2444492773/" title="DSCF3385.JPG by albill, on Flickr"><img src="http://farm3.static.flickr.com/2337/2444492773_99c4e24c12.jpg" width="375" height="500" border="1" alt="DSCF3385.JPG" /></a><br><em>the table is prepared for seder<br>(instead of a plate)</em></p>
 R and I were invited to celebrate the final night of <a href="http://en.wikipedia.org/wiki/Passover">Passover</a> with friends today at a <a href="http://en.wikipedia.org/wiki/Passover_Seder">seder</a>. Our friend, Jonathan, has been orchestrating passover with a friend of his, Alysse, reliably for eight years now. They both mentioned today that the first time they celebrated together was in 1994...

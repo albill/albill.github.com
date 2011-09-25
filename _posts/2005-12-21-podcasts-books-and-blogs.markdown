@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2005-12-21 00:25:54'
 layout: post
+slug: podcasts-books-and-blogs
+status: publish
 title: Podcasts, Books, and Blogs...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '644'
+categories:
 - Daily Life
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 One of the things that my wife got me for Yule (aka the Solstice, aka  Christmakwanzanukah) is Stephen Mitchell's new rendition (not translation) of <strong> <a href="http://www.amazon.com/gp/product/074326164X">Gilgamesh</a></strong>. I've  had this recommended to me a number of times and I'm quite looking forward to  reading it.
 

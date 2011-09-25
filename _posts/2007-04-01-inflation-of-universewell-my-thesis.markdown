@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-01 22:36:05'
 layout: post
-title: Inflation of Universe...well, my thesis...
-published: true
-meta: 
-  ljID: "2448"
-tags: 
-- Academic
-type: post
+slug: inflation-of-universewell-my-thesis
 status: publish
+title: Inflation of Universe...well, my thesis...
+wordpress_id: '1583'
+categories:
+- Academic
 ---
 I've been trying to finish the third chapter of my thesis. This chapter focuses on the history and then ritual structure of the Hermetic Order of the Golden Dawn.
 

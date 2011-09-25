@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-27 13:18:00'
 layout: post
-title: Taking 'er down...
-published: true
-meta: 
-  ljID: "2487"
-tags: 
-- Daily Life
-type: post
+slug: taking-er-down
 status: publish
+title: Taking 'er down...
+wordpress_id: '1624'
+categories:
+- Daily Life
 ---
 The computer comes apart into many small pieces in a few minutes. I have the work laptop with the nda-necessary-to-even-look-at-it build of Longhorn on it but I may or may not to have time to turn it on. I&apos;m leaving the wireless running here over the weekened because the phone and DSL are on through Monday and we&apos;ll be cleaning her.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-26 00:03:00'
 layout: post
-title: Daddy's Little Girl
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: daddys-little-girl
 status: publish
+title: Daddy's Little Girl
+wordpress_id: '1176'
+categories:
+- Daily Life
 ---
 I just picked up Madeline, my daughter, at the Oakland Airport. This was her first trip by herself on a plane.
 

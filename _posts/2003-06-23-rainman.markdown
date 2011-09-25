@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-23 19:42:00'
 layout: post
-title: Rainman
-published: true
-meta: 
-  ljID: "2480"
-tags: 
-- Daily Life
-type: post
+slug: rainman
 status: publish
+title: Rainman
+wordpress_id: '1617'
+categories:
+- Daily Life
 ---
 <b>Savant for a Day</b>
 

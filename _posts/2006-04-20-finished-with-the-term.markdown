@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-04-20 23:51:41'
 layout: post
+slug: finished-with-the-term
+status: publish
 title: Finished with the Term
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '747'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I finished the last paper for this term today. This combined with getting my papers for my independent study back last night (all 'A' grades, naturally) means that I am finished with this semester as soon as I mail the paper in. This will be my own copy to be returned graded. I'm e-mailing the one to fulfill the professor's requirements tomorrow.
 

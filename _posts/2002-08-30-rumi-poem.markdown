@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-08-30 03:44:00'
 layout: post
-title: Rumi Poem
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: rumi-poem
 status: publish
+title: Rumi Poem
+wordpress_id: '930'
+categories:
+- Spirituality
 ---
 I posted this to  earlier but I thought I'd repeat it here. No peanut gallery commentary though.
 <blockquote><strong>The Guest House</strong>

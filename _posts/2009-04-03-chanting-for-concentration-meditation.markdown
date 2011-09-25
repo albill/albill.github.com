@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-04-03 15:14:57'
 layout: post
+slug: chanting-for-concentration-meditation
+status: publish
 title: Chanting for Concentration Meditation
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3508"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2740'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Last night, R and I attended Rev. Keisho's continuing class on Shikan meditation. I missed last week while I was on retreat but last night was the "practice" night.
 

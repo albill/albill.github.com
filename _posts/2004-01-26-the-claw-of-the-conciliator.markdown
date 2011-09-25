@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-26 12:46:00'
 layout: post
-title: The Claw of the Conciliator
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: the-claw-of-the-conciliator
 status: publish
+title: The Claw of the Conciliator
+wordpress_id: '32'
+categories:
+- Science Fiction
 ---
 I finished the <strong>Claw of the Conciliator</strong> by Gene Wolfe last  night. That's the second of his <strong>Book of the New Son</strong> series (of  four). After I read these four, I'm going to read <strong>The Urth of the New  Sun</strong>, then the four <strong>Books of the Long Sun</strong> followed by  the three <strong>Books of the Short Sun</strong>.
 

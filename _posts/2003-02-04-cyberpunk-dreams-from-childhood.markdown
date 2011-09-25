@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-02-04 00:58:00'
 layout: post
+slug: cyberpunk-dreams-from-childhood
+status: publish
 title: Cyberpunk Dreams from Childhood
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1264'
+categories:
 - Notable People
 - Science Fiction
-type: post
-status: publish
 ---
 <img width="192" vspace="10" hspace="10" height="144" border="1" align="right" src="http://www.arcanology.com/images/wgibson-3.JPG" />I saw William Freakin' Gibson today! <strong>Woot!!!</strong>
 

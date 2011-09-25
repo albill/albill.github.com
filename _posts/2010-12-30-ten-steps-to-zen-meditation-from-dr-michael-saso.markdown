@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-12-30 16:49:16'
 layout: post
+slug: ten-steps-to-zen-meditation-from-dr-michael-saso
+status: publish
 title: Ten Steps to Zen Meditation from Dr. Michael Saso
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3726"
-tags: 
+wordpress_id: '3386'
+categories:
 - Books
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I'm going to "steal" from another blog here, which I generally avoid doing, in order to draw attention to it and what it has to say. Dr. Michael Saso has posted a synopsis version of the ten steps in shamatha and vipassana practice according to Zhi Yi, the famous ancestor (what my lineage of practice calls the "patriarchs") of Tendai Buddhism.
 

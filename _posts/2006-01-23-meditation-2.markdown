@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-23 01:37:27'
 layout: post
-title: Meditation
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: meditation-2
 status: publish
+title: Meditation
+wordpress_id: '672'
+categories:
+- Spirituality
 ---
 A brief overview of Shamatha and Vipassana meditation (among others)...
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-01-23 11:39:00'
 layout: post
+slug: not-the-future
+status: publish
 title: Not the Future
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '28'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 <strong>Not the future we expected</strong>
 By John Kay

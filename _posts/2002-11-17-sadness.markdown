@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-11-17 22:10:00'
 layout: post
+slug: sadness
+status: publish
 title: Sadness...
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '1027'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <img width="174" vspace="10" hspace="10" height="236" border="1" align="right" src="http://www.cmc.net/~amrita/chagdud.jpg" />The head of the Tibetan Buddhist group that I've felt the most affinity for, <a href="http://www.chagdud.org/">Chagdud Rinpoche</a>, has died in the last 24 hours...
 

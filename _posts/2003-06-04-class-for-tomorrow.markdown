@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-04 04:54:00'
 layout: post
-title: Class for Tomorrow
-published: true
-meta: 
-  ljID: "2452"
-tags: 
-- Daily Life
-type: post
+slug: class-for-tomorrow
 status: publish
+title: Class for Tomorrow
+wordpress_id: '1589'
+categories:
+- Daily Life
 ---
 I&apos;ll see brandy there!
 

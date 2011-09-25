@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-01-14 00:08:10'
 layout: post
-title: The Economics of Gangs and Urban Poor
-published: true
-meta: 
-  ljID: "3125"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Society
-type: post
+slug: the-economics-of-gangs-and-urban-poor
 status: publish
+title: The Economics of Gangs and Urban Poor
+wordpress_id: '2157'
+categories:
+- Society
 ---
 <a href="http://www.flickr.com/photos/albill/2192174618/" title="gangcover by albill, on Flickr"><img src="http://farm3.static.flickr.com/2006/2192174618_1184665a2e_o.jpg" width="200" height="307" align="right" border="1" hspace="5" vspace="5" alt="gangcover" /></a>NPR has a story that they broadcasted on Dr. Sudhir Venkatesh this last Saturday for his new book, <b><a href="http://www.amazon.com/Gang-Leader-Day-Sociologist-Streets/dp/1594201501/">Gang Leader for a Day</a></b>. You can <a href="http://www.npr.org/templates/story/story.php?storyId=18003654">listen to it online</a>. Most of it is an interview with Dr. Venkatesh and it is quite interesting to listen to if you have the time.
 

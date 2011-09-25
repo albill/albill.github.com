@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-26 22:36:59'
 layout: post
-title: Strange Things are afoot at the Circle K
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: strange-things-are-afoot-at-the-circle-k
 status: publish
+title: Strange Things are afoot at the Circle K
+wordpress_id: '215'
+categories:
+- Daily Life
 ---
 R just left on the plane today to go visit family and friends in the Bay Area. One of her childhood friends is getting married so she took off to attend.
 

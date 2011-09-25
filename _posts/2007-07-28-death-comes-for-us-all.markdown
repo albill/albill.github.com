@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-07-28 01:30:29'
 layout: post
+slug: death-comes-for-us-all
+status: publish
 title: Death Comes For Us All
-published: true
-meta: 
-  ljID: "2668"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '1762'
+categories:
 - Science Fiction
 - Spirituality
-type: post
-status: publish
 ---
 I just finished reading Richard Morgan's new novel, <strong>Thirteen</strong>. As with all of Morgan's work, I enjoyed it immensely though it was quite violent in places. All of Morgan's work is but a sense of outrage at the injustices of the world comes through.
 

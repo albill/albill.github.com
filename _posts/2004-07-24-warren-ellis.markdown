@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-24 16:03:45'
 layout: post
-title: Warren Ellis
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: warren-ellis
 status: publish
+title: Warren Ellis
+wordpress_id: '189'
+categories:
+- Notable People
 ---
 Sweet. Warren Ellis wrote me back within ten minutes when I e-mailed him and asked him if I can call him "corporate shill-boy" now... He announced today that in addition to writing <strong>Ultimate Fantastic Four</strong> for Marvel, he's going to be doing <strong>Iron Man</strong>. 
 

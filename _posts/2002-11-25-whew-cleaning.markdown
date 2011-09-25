@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-11-25 05:10:00'
 layout: post
+slug: whew-cleaning
+status: publish
 title: Whew! Cleaning...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1034'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 This is a kind of cheese sandwich entry...
 

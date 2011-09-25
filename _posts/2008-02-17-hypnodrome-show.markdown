@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2008-02-17 01:09:27'
 layout: post
-title: Hypnodrome Show
-published: true
-meta: 
-  ljID: "3154"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: hypnodrome-show
 status: publish
+title: Hypnodrome Show
+wordpress_id: '2173'
+categories:
+- Daily Life
 ---
 This evening, R and I went to San Francisco to see the new show by the Thrillpeddlers at the Hypnodrome. (I'd give the url to their site but it is giving blank pages at the moment...).
 

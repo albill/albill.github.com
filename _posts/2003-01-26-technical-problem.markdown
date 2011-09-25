@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-26 19:14:00'
 layout: post
+slug: technical-problem
+status: publish
 title: Technical Problem
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1259'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 Here's a fun situation. Does anyone know of an easy solution to this?
 

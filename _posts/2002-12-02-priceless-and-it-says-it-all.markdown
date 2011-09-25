@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-02 18:15:00'
 layout: post
+slug: priceless-and-it-says-it-all
+status: publish
 title: Priceless and it says it all
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1037'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 Kissinger? <strong>Jayzus Kee-Raist!!!</strong> What, do they think we're idiots (yes, rhetorical...)?
 

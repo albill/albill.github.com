@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-19 14:15:08'
 layout: post
+slug: internet-explorer-8-to-pass-the-acid2-test
+status: publish
 title: Internet Explorer 8 to Pass the Acid2 Test?
-published: true
-meta: 
-  ljID: "3084"
-  enclosure: |-
-    http://mschnlnine.vo.llnwd.net/d1/ch9/0/IE8ACID2_ch9.mp3
-    15447980
-    audio/mpeg
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:56:"http://mschnlnine.vo.llnwd.net/d1/ch9/0/IE8ACID2_ch9.mp3";s:5:"title";s:31:"MP3 of Dean and Chris Interview";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"15447980";s:8:"duration";s:5:"32:37";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '2141'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2122831315/" title="Acid2_reference by albill, on Flickr"><img src="http://farm3.static.flickr.com/2346/2122831315_7518bea67d_o.png" alt="Acid2_reference" align="right" border="0" height="168" hspace="5" vspace="5" width="168" /></a>Over on <a href="http://channel9.msdn.com/">Channel 9</a>, an <a href="http://channel9.msdn.com/ShowPost.aspx?PostID=367207#367207">interview</a> with Dean Hachamovitch and Chris Wilson just went up. The IE team apparently passed an internal milestone this last Friday in their work on IE8. Apparently, one of the outgrowths of the work is that IE8 will pass the <a href="http://www.webstandards.org/action/acid2/">Acid2 Browser Test</a> for the first time.
 

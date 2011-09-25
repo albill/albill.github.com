@@ -1,15 +1,12 @@
---- 
+---
+author: admin
+date: '2007-06-13 13:31:48'
 layout: post
-title: First Day
-published: true
-meta: 
-  ljID: "2716"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-  _utw_tags_0: no tags
-tags: 
-- Mozilla
-type: post
+slug: first-day
 status: publish
+title: First Day
+wordpress_id: '1799'
+categories:
+- Mozilla
 ---
 Tomorrow, June 14, is my first day on the Mozilla QA team. I expect it to be a little crazy during the next few weeks. I'm looking forward to working with people both inside and outside the company though.

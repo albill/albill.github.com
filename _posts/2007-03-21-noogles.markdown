@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-03-21 14:48:20'
 layout: post
+slug: noogles
+status: publish
 title: Noogles
-published: true
-meta: 
-  ljID: "2433"
-tags: 
+wordpress_id: '1571'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 We had dinner with our friend Sean the Drakemonger last night. Sean quit Apple a bit over a month ago after many years of working for them remote from Seattle. Google up in Redmond gave him a job but mandated that he come down to the Bay Area for orientation.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-01-28 01:20:31'
 layout: post
+slug: the-end-of-tibet
+status: publish
 title: The End of Tibet
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1537'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Rolling Stone has a <a href="http://www.rollingstone.com/news/story/13247913/the_end_of_tibet">very long article</a> on Tibet on their website called, "The End of Tibet."
 

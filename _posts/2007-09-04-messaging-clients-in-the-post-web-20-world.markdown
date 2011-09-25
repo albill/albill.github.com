@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-04 23:25:33'
 layout: post
+slug: messaging-clients-in-the-post-web-20-world
+status: publish
 title: Messaging Clients in the Post-Web 2.0 World
-published: true
-meta: 
-  ljID: "2729"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '1813'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <a href="http://weblogs.mozillazine.org/asa/">Asa Dotzler</a> and I were discussing messaging and message clients last week for a bit. The conversation was about the possibilities around messaging in general and what is wrong with the current situation. For those that don't know or don't pay attention, it has been said in a lot of media and by various pundits that kids these days (you know how it is) don't use e-mail the way that us older farts do. They use IM instead and consider e-mail to be slow or less useful.
 

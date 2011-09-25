@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-10 03:41:00'
 layout: post
-title: Time
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: time
 status: publish
+title: Time
+wordpress_id: '1980'
+categories:
+- Daily Life
 ---
 I find myself making less entries these days. It is an issue with time.
 

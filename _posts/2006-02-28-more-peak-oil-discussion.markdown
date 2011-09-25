@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-02-28 00:35:04'
 layout: post
-title: More Peak Oil Discussion
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: more-peak-oil-discussion
 status: publish
+title: More Peak Oil Discussion
+wordpress_id: '697'
+categories:
+- Society
 ---
 Three articles by Michael Ventura of the Austin Chronicle on the effects of Peak Oil. The scenarios he outlines are pretty close to my thinking:
 <ul>

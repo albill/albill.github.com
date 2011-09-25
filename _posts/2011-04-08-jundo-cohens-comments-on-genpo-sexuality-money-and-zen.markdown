@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-04-08 21:51:18'
 layout: post
-title: Jundo Cohen's Comments on Genpo, Sexuality, Money, and Zen
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3812"
-tags: 
-- Buddhism
-- genpo
-- Humor
-- sex scandal
-- Spirituality
-- zen
-type: post
+slug: jundo-cohens-comments-on-genpo-sexuality-money-and-zen
 status: publish
+title: Jundo Cohen's Comments on Genpo, Sexuality, Money, and Zen
+wordpress_id: '3679'
+categories:
+- Buddhism
+- Humor
+- Spirituality
+tags:
+- genpo
+- sex scandal
+- zen
 ---
 Jundo Cohen of <a href="http://www.treeleaf.org/">Treeleaf Zendo</a> offers his amazing, insightful, and <em>hilarious</em> commentary on Genpo Merzel, sexuality, money, and Zen in a video he posted on April Fool's Day, 2011. 
 

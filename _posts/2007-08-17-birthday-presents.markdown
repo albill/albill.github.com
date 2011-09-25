@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-17 15:34:22'
 layout: post
+slug: birthday-presents
+status: publish
 title: Birthday Presents
-published: true
-meta: 
-  ljID: "2698"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '1782'
+categories:
 - Books
 - Daily Life
-type: post
-status: publish
 ---
 My momma loves me. She sent me some books for my birthday (which is on this Sunday).
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-16 04:31:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo V
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: seven-sermons-to-the-dead-sermo-v
 status: publish
+title: Seven Sermons to the Dead, Sermo V
+wordpress_id: '1025'
+categories:
+- Spirituality
 ---
 <font size="+1"><strong>Sermo V</strong></font>
 The dead mocked and cried: Teach us, fool, of the church and holy communion.

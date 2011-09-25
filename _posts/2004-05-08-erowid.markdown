@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-05-08 23:12:00'
 layout: post
-title: Erowid
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: erowid
 status: publish
+title: Erowid
+wordpress_id: '100'
+categories:
+- Society
 ---
 An interesting article in the LA Weekly about Erowid. I've had quite a few friends that were regular contributors to it:
 

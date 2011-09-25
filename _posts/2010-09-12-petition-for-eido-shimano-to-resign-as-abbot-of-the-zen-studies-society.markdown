@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-12 10:35:17'
 layout: post
+slug: petition-for-eido-shimano-to-resign-as-abbot-of-the-zen-studies-society
+status: publish
 title: Petition for Eido Shimano to Resign as Abbot of the Zen Studies Society
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3686"
-tags: 
+wordpress_id: '3289'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 Rev. Jiro Andy Afable, Eido Shimano's second Dharma heir, has <a href="http://genkaku-again.blogspot.com/2010/02/eido-tai-shimano.html?showComment=1284306703343#c2347272488310285628">posted</a> a petition for Eido Shimano to resign as the abbot of the Zen Studies Society and to step down from their board.
 

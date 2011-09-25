@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-05 22:25:01'
 layout: post
-title: Trataka
-published: true
-meta: 
-  ljID: "3096"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Spirituality
-type: post
+slug: trataka
 status: publish
+title: Trataka
+wordpress_id: '618'
+categories:
+- Spirituality
 ---
 I found this at <a href="http://www.yogamag.net/archives/1991/3may91/tratak.shtml">http://www.yogamag.net/archives/1991/3may91/tratak.shtml</a>.
 

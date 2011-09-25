@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-10-02 07:03:17'
 layout: post
-title: Monkeys
-published: true
-meta: 
-  ljID: "2884"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: monkeys
 status: publish
+title: Monkeys
+wordpress_id: '1961'
+categories:
+- Daily Life
 ---
 We visited the <a href="http://www.flickr.com/photos/albill/sets/72157602237086745/">Iwatayama Monkey Park</a> today.
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1471585705/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1124/1471585705_33e2938617.jpg" alt="R, Al, and Monkey" height="375" width="500" /></a></p>

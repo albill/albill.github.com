@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-01-07 17:34:00'
 layout: post
-title: Snow Madness
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: snow-madness
 status: publish
+title: Snow Madness
+wordpress_id: '11'
+categories:
+- Daily Life
 ---
 As most people watching the weather know, we had our "once every few years" snowstorm in Seattle yesterday. Things got covered completely and almost no one went to work.
 

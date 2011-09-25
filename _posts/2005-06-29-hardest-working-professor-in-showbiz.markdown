@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-06-29 01:14:36'
 layout: post
+slug: hardest-working-professor-in-showbiz
+status: publish
 title: Hardest Working Professor in Showbiz
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '498'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 My Literature professor advertises himself as the "hardest working professor  in showbiz" in his short bio that he sent to us. I am forced to disagree with  that assessment now. My World Religion professor must take that title. My  religion prof requires that we physically send him copies of our papers for  grading. He sends a copy back with his markup, which is usually quite  interesting. I assume he does this, based partially on what he told me, because  he isn't super computer friendly (being near retirement age) and because he  hates reading papers on the screen (which I sympathize with).
 

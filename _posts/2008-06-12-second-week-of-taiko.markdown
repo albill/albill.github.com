@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2008-06-12 22:39:00'
 layout: post
-title: Second Week of Taiko
-published: true
-meta: 
-  ljID: "3288"
-tags: 
-- Daily Life
-type: post
+slug: second-week-of-taiko
 status: publish
+title: Second Week of Taiko
+wordpress_id: '2238'
+categories:
+- Daily Life
 ---
 <p align="center"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/onbA7RWZ4T4&hl=en"></param><embed src="http://www.youtube.com/v/onbA7RWZ4T4&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object></p>
 R and I just finished our second class at <a href="http://www.etaiko.org">Emeryville Taiko</a>, our local Taiko dojo.

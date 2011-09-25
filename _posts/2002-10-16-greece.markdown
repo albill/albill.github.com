@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-10-16 13:51:00'
 layout: post
-title: Greece
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: greece
 status: publish
+title: Greece
+wordpress_id: '980'
+categories:
+- Daily Life
 ---
 R and I are planning a trip to Greece for early next year. I always thought I'd go to Asia first but with my beginning Ancient Greek and my renewed interest in going to Grad School in areas relating to Hellenic religion and such, my priorities have shifted a bit. R has been wanting to go to Greece for a while now and has a friend who works for the United Nations stationed there somewhere.
 

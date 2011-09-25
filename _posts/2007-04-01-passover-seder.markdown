@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-01 01:01:40'
 layout: post
+slug: passover-seder
+status: publish
 title: Passover Seder
-published: true
-meta: 
-  ljID: "2446"
-tags: 
+wordpress_id: '1582'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Tonight R and I went to a <a href="http://en.wikipedia.org/wiki/Passover_Seder">Seder</a> (סֵדֶר) to celebrate <a href="http://en.wikipedia.org/wiki/Passover">Passover</a> (פֶּסַח) that we were invited to by my friend <a href="http://miniver.blogspot.com/">Jonathan</a>. This was hosted in the home of a couple who are friends of his and who have apparently been hosting it for years. This was an open seder with many people of a number of faiths (or non-faiths) present. I'm not sure that the <a href="http://en.wikipedia.org/wiki/Goyim">goyim</a> didn't outnumber the Jews present but it was an interesting and festive gathering, not to mention respectful of the faith.
 

@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-24 19:18:47'
 layout: post
+slug: talk-on-the-shamatha-project-by-b-alan-wallace
+status: publish
 title: Talk on the Shamatha Project by B. Alan Wallace
-published: true
-meta: 
-  ljID: "3105"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: a:1:{i:0;a:10:{s:3:"URI";s:102:"http://www.archive.org/download/B_Alan_Wallace_Shamatha_Project_Talk/The_Shamatha_Project_Talk_vbr.mp3";s:5:"title";s:62:"The Shamatha Project - Unlocking the Power of the focused Mind";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"92042295";s:8:"duration";s:7:"1:32:50";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}}
-tags: 
+wordpress_id: '2148'
+categories:
 - Academic
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2134403758/" title="Shamatha_Project by albill, on Flickr"><img src="http://farm3.static.flickr.com/2350/2134403758_b2f66e4dbb.jpg" alt="Shamatha_Project" height="375" width="500" /></a></p>
 B. Alan Wallace did a <a href="http://www.sbinstitute.com/events_view.php?id=106">talk this last Wednesday</a> in Santa Barbara on the Shamatha Project, its history, and some of its initial results, now that the first cycle of it has concluded. Wallace is a well known Tibetan Buddhist author and translator who is the head of the <a href="http://www.sbinstitute.com">Santa Barbara Institute for Consciousness Studies</a>.

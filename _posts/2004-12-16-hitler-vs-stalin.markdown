@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-16 15:36:07'
 layout: post
-title: Hitler vs. Stalin
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: hitler-vs-stalin
 status: publish
+title: Hitler vs. Stalin
+wordpress_id: '323'
+categories:
+- Science Fiction
 ---
 <p><a href="http://zulutango.org:82/stalin-hitler/1.html">http://zulutango.org:82/stalin-hitl<wbr>er/1.html</a>
 <p>Freaky stuff!!!</p>

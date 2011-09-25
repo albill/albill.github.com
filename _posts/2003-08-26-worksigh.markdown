@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-26 04:10:00'
 layout: post
-title: Work...sigh...
-published: true
-meta: 
-  ljID: "2791"
-tags: 
-- Daily Life
-type: post
+slug: worksigh
 status: publish
+title: Work...sigh...
+wordpress_id: '1867'
+categories:
+- Daily Life
 ---
 Wow, people are <b>really</b> going apeshit at work over the Blaster virus.
 

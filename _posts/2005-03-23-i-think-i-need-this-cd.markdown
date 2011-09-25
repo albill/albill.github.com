@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-23 22:22:04'
 layout: post
-title: I think I need this CD
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Humor
-type: post
+slug: i-think-i-need-this-cd
 status: publish
+title: I think I need this CD
+wordpress_id: '432'
+categories:
+- Humor
 ---
 <a href="http://store.yahoo.com/wishingfish1/revengecd.html">http://store.yahoo.com/wishingfish1/revengecd.html</a>
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2002-12-22 19:05:00'
 layout: post
+slug: im-dancin-like-a-monkey
+status: publish
 title: I'm Dancin' Like a Monkey!
-published: true
-meta: 
-  no_lj: "1"
-tags: 
+wordpress_id: '1058'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 So,  R is in North Carolina for a week and I have two weeks off from work! Woo hoo!
 

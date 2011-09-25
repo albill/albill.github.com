@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-04-14 16:14:45'
 layout: post
+slug: new-host-for-blog
+status: publish
 title: New Host for Blog
-published: true
-meta: 
-  ljID: "2530"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1665'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 If you're seeing this, then everything has updated to my new internet provider, <a href="http://www.site5.com">site5.com</a>, without too many issues. (We won't get into what I had to do to get the entire MySQL database to exist properly on the new site).
 

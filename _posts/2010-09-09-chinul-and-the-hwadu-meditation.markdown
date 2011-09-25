@@ -1,20 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-09 12:37:20'
 layout: post
+slug: chinul-and-the-hwadu-meditation
+status: publish
 title: Chinul and the Hwadu Meditation
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3679"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3263'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4974301729/" title="Chinul by albill, on Flickr"><img src="http://farm5.static.flickr.com/4150/4974301729_3885951339_m.jpg" width="135" hspace="10" align="right" height="240" alt="Chinul" /></a><em>This was originally written as a short paper for a seminary class on <a href="http://en.wikipedia.org/wiki/Chinul">Chinul</a> and Korean Sôn at the <a href="http://www.five-mountain.org/">Five Mountain Seminary</a>. I thought people might appreciate some of the content though it is a bit long for a blog post. Hwadu is part of my own practice within my overall work with kong-ans, which I tend to avoid discussing here (as with most aspects of my personal practice).</em>
 

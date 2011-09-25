@@ -1,12 +1,12 @@
---- 
+---
+author: admin
+date: '2005-09-22 23:32:31'
 layout: post
-title: Thailand
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: thailand
 status: publish
+title: Thailand
+wordpress_id: '562'
+categories:
+- Daily Life
 ---
 <p>We leave for Thailand in one hour and twenty minutes.</p><p>See you October 7!&nbsp;</p>

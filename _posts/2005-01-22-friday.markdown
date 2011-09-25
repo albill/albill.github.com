@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-22 12:21:09'
 layout: post
-title: Friday
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: friday
 status: publish
+title: Friday
+wordpress_id: '372'
+categories:
+- Daily Life
 ---
 <p>R and I went to our friend Brandy Williams&#39; (<a href="http://www.brandywilliams.org/">http://www.brandywilliams.org/</a>) 
 book release party last night for her new book. This was on Capitol Hill in 

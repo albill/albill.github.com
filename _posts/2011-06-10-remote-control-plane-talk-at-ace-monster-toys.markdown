@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-06-10 21:12:52'
 layout: post
+slug: remote-control-plane-talk-at-ace-monster-toys
+status: publish
 title: Remote Control Plane Talk at Ace Monster Toys
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3850"
-tags: 
+wordpress_id: '3771'
+categories:
+- Hacking
+- Technology
+tags:
 - ace monter toys
 - diydrones
-- Hacking
 - talk
-- Technology
 - uav
-type: post
-status: publish
 ---
 <p style="text-align: center;"><a title="P1010972 by albill, on Flickr" href="http://www.flickr.com/photos/albill/5817380580/"><img src="http://farm4.static.flickr.com/3565/5817380580_3dd1c526a7.jpg" alt="P1010972" height="375" width="500"></a><br><em>Aaron shows one of the planes he built</em></p> 
 

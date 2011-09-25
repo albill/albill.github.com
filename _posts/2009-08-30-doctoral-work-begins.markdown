@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2009-08-30 21:42:48'
 layout: post
+slug: doctoral-work-begins
+status: publish
 title: Doctoral work begins...
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3578"
-tags: 
+wordpress_id: '2850'
+categories:
 - Academic
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 This week I had my first class in my doctoral program, which managed to actually come before my doctoral orientation. As part of the doctoral program at GTU, we are allowed to take classes at UC, Berkeley (aka "Cal"). These can be graduate seminars but people also take advantage of undergraduate classes, such as foreign language work.
 

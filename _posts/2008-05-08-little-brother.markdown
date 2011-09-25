@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-05-08 02:14:10'
 layout: post
+slug: little-brother
+status: publish
 title: Little Brother
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3249"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2219'
+categories:
 - Books
 - Science Fiction
 - Society
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2474983767/" title="little-brother-cover by albill, on Flickr"><img hspace="10" vspace="10" border="1" align="right" src="http://farm4.static.flickr.com/3142/2474983767_52e32fd83a_o.jpg" width="192" height="289" alt="little-brother-cover" /></a> I've just spent the last several hours finishing Cory Doctorow's <strong><a href="http://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765319853">Little Brother</a></strong> instead of working on the term paper that I should be writing. This is his young adult novel about a group of kids that take on the Department of Homeland Security after a terrorist attack in San Francisco. Immediately after the attack, these kids are rounded up by DHS (hoods over heads in the backs of vans) for being in the wrong place at the wrong time. Days later, they are released and warned never to speak of it but one of the kids isn't let go. He is simply disappeared or an unperson.
 

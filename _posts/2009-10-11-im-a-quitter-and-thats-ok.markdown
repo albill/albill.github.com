@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2009-10-11 10:40:33'
 layout: post
+slug: im-a-quitter-and-thats-ok
+status: publish
 title: I'm a quitter and that's ok
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3587"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2877'
+categories:
 - Academic
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4001132561/" title="im-a-quitter"><img src="http://farm3.static.flickr.com/2486/4001132561_3ba5ff69cf_o.jpg" width="450" height="320" alt="im-a-quitter" /></a></div>I wrote the following on my blog on Tuesday and then took it down as I was unsure if I wanted it to be up. (Of course, it went out on all of my RSS feeds so it didn't really matter...)
 <blockquote>I’ve had misgivings about my PhD work since before I started. More than a few people have questioned why I am doing it. Not that it isn’t interesting to do and such but more along the lines of “This is six or so years of very hard work. What are you really going to get out of it?” I’ve given various answers to this question but I am seriously reconsidering it today.

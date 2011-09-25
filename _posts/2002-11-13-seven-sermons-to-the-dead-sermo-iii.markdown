@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-13 18:29:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo III
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: seven-sermons-to-the-dead-sermo-iii
 status: publish
+title: Seven Sermons to the Dead, Sermo III
+wordpress_id: '1019'
+categories:
+- Spirituality
 ---
 Continuing the series... (yes, I'm doing one a day...)
 

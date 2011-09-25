@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-29 23:15:04'
 layout: post
-title: Wicca Wicca Woo
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: wicca-wicca-woo
 status: publish
+title: Wicca Wicca Woo
+wordpress_id: '220'
+categories:
+- Spirituality
 ---
 A little over a month to go until the wedding and R has pointed out how much remains to be done. Most of the big things are figured out but little things (like details on decoration and schedule) need to be done. Frankly, I'll be glad when it is over. It's a lot of work and much of it is really, in the end, for our families, not so much for us.
 

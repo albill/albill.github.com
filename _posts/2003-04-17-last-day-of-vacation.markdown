@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-04-17 03:25:00'
 layout: post
-title: Last Day of Vacation
-published: true
-meta: 
-  ljID: "2234"
-tags: 
-- Daily Life
-type: post
+slug: last-day-of-vacation
 status: publish
+title: Last Day of Vacation
+wordpress_id: '1354'
+categories:
+- Daily Life
 ---
 Today was the last day of my vacation. This was my "jet lag recovery" day. It turns out that I&apos;m not too lagged overall, which is good.
 

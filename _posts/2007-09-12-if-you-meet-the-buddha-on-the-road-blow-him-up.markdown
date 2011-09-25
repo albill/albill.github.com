@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-09-12 18:43:02'
 layout: post
+slug: if-you-meet-the-buddha-on-the-road-blow-him-up
+status: publish
 title: If you meet the Buddha on the road... Blow him up?
-published: true
-meta: 
-  ljID: "2739"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1821'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/swat_buddha.jpg" title="Swat Buddha" alt="Swat Buddha" align="right" height="249" width="203" />The <a href="http://news.bbc.co.uk/2/hi/south_asia/6991058.stm">BBC is reporting</a> that Islamic militants in Pakistan have attacked another ancient (and rather large) statue of the Buddha. As with the Taliban attacks, which successfully destroyed other ancient Buddhist statues, this attack was carried out using explosives.
 

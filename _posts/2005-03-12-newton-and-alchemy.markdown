@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-12 19:02:56'
 layout: post
-title: Newton and Alchemy
-published: true
-meta: 
-  _oembed_00d47b6d169a9750d8fb18568528f696: "{{unknown}}"
-  _oembed_9c0df7cc48792817c936af8c14c0abea: "{{unknown}}"
-  _oembed_51530886c8dea9a2812911ff0dbc8364: "{{unknown}}"
-  no_lj: "1"
-tags: 
-- Notable People
-type: post
+slug: newton-and-alchemy
 status: publish
+title: Newton and Alchemy
+wordpress_id: '420'
+categories:
+- Notable People
 ---
  <img src="http://www.arcanology.com/images/WilliamNewman3.gif" alt="The purple alloy of copper and antimony." align="right" border="1" height="162" width="243" />This is a pretty cool site:
 <a href="http://www.indiana.edu/~college/WilliamNewmanProject.shtml">

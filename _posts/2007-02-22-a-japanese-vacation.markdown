@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-02-22 20:31:46'
 layout: post
-title: A Japanese Vacation
-published: true
-meta: 
-  ljID: "2403"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: a-japanese-vacation
 status: publish
+title: A Japanese Vacation
+wordpress_id: '1553'
+categories:
+- Daily Life
 ---
 My wife and I are planning out our next vacation, at least loosely. This probably won't occur until sometime in Fall but we try to take a trip together every year.
 

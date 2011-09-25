@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-03-02 14:53:00'
 layout: post
-title: Occult Wikipedia
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: occult-wikipedia
 status: publish
+title: Occult Wikipedia
+wordpress_id: '55'
+categories:
+- Daily Life
 ---
 It looks like someone beat me to doing this though content looks a little slim:
 

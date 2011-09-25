@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-13 03:03:15'
 layout: post
-title: Holiday Party
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: holiday-party
 status: publish
+title: Holiday Party
+wordpress_id: '632'
+categories:
+- Daily Life
 ---
 <p>My wife cannot come to my work's holiday party this year. It sounds like a nice event though, dress up, entertainment, alcohol...so I still wanted ago but I can't go on my own. That's just not done.</p>
 <p>So, I invited Rubylou, who is one of my oldest and best friends as well as being one of my last *something-or-rathers* before my wife and I started dating. She's just come back from a Catholic contemplative three day retreat but hasn't had a lot of time out otherwise. She had her second child a few months ago and the first is a toddler so she has her hands full a lot.  (Or maybe she's secretly out all of the time, prowling the city as a dark, brooding defender of justice...)</p>

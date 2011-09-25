@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2004-02-29 00:04:00'
 layout: post
+slug: spending-time-at-the-state-penn
+status: publish
 title: Spending Time at the State Penn...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '51'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
  
 

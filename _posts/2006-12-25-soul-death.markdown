@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-25 02:47:41'
 layout: post
-title: Soul Death
-published: true
-meta: 
-  ljID: "2337"
-tags: 
-- Notable People
-type: post
+slug: soul-death
 status: publish
+title: Soul Death
+wordpress_id: '1491'
+categories:
+- Notable People
 ---
 Merry Christmas, James Brown is Dead.
 

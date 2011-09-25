@@ -1,24 +1,22 @@
---- 
+---
+author: admin
+date: '2011-03-13 19:19:23'
 layout: post
-title: Book Scan Wizard and the Internet Archive team up to form a massive book scanning robot!
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3784"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Ace Monster Toys
+slug: book-scan-wizard-and-the-internet-archive-team-up-to-form-a-massive-book-scanning-robot
+status: publish
+title: Book Scan Wizard and the Internet Archive team up to form a massive book scanning
+  robot!
+wordpress_id: '3480'
+categories:
 - Books
-- bookscanner
-- ebooks
 - Hacking
-- Internet Archive
 - Society
 - Technology
-type: post
-status: publish
+tags:
+- Ace Monster Toys
+- bookscanner
+- ebooks
+- Internet Archive
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5524983866/" title="Book Scan Wizard Internet Archive Upload Interface by albill, on Flickr"><img src="http://farm6.static.flickr.com/5178/5524983866_b7e84b6074.jpg" width="494" height="500" alt="Book Scan Wizard Internet Archive Upload Interface" /></a></p>
 

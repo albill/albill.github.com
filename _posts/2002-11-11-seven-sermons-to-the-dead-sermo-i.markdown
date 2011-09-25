@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-11-11 06:08:00'
 layout: post
-title: Seven Sermons to the Dead, Sermo I
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Spirituality
-type: post
+slug: seven-sermons-to-the-dead-sermo-i
 status: publish
+title: Seven Sermons to the Dead, Sermo I
+wordpress_id: '1017'
+categories:
+- Spirituality
 ---
 As many of you may be aware, Carl Jung "discovered" a series of Gnostic texts, the <strong>Seven Sermons to the Dead</strong> or <strong><em>Septem Sermones ad Mortuos</em></strong>. I recently found them online and I felt that I might reproduce them here as they are interesting and I hadn't read them before.
 

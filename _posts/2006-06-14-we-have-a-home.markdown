@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-06-14 23:10:59'
 layout: post
-title: We have a home!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: we-have-a-home
 status: publish
+title: We have a home!
+wordpress_id: '1110'
+categories:
+- Daily Life
 ---
 I've been busy with my new job and my first paper of the term this week (a bad combination). I was feeling down that we hadn't found a home yet but the second one we've applied for worked out today. It isn't perfect as the neighborhood could be better but it is pretty good.
 

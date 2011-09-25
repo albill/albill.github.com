@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2002-12-24 20:31:00'
 layout: post
-title: Christmas Eve
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: christmas-eve
 status: publish
+title: Christmas Eve
+wordpress_id: '1062'
+categories:
+- Daily Life
 ---
 Well, shee-it, John and I just spoke on the phone. He's on his way to Bellingham (city to the North near border) to visit his family. I thought he wasn't leaving town. When he comes back, he's going to be picking up C at the airport tomorrow so I'm sure they'll be spending time together...
 

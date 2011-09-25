@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2011-04-10 21:12:17'
 layout: post
+slug: original-steampunk-revisited-a-review-of-jeters-infernal-devices
+status: publish
 title: Original steampunk revisited, a review of Jeter's "Infernal Devices"
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3814"
-tags: 
+wordpress_id: '3684'
+categories:
 - Books
 - Science Fiction
 - Technology
-type: post
-status: publish
 ---
 <img src="http://farm6.static.flickr.com/5141/5608189451_3b93093041_m.jpg" align="right" hspace="10" vspace="10">This last week, I read the reissue of <a href="http://en.wikipedia.org/wiki/K._W._Jeter">K. W. Jeter's</a> classic steampunk novel, Infernal Devices. This is being released in the next month by Angry Robot and I managed to score a review copy from them. Jeter hasn't written much in the last decade. I'm not sure what he's been up to and his <a href="http://www.kwjeter.com/biopage.html">bio page</a> doesn't help... The bulk of his work was during the 80's into the early 90's. For those unfamiliar with his work, he was pretty influential in his heyday, considered by some to be amongst the cyberpunk authors. I fondly remember reading "Farewell Horizontal" and "The Glass Hammer" when I was a teenager. Jeter has the claim to fame of actually having coined the term, "steampunk," in a 1987 letter as a kind of a joke given the attention that cyberpunk was getting at the time. Infernal Devices was originally published that same year and is definitely an example of the ur-steampunk novel.
 

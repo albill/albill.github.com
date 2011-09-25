@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-04 18:11:21'
 layout: post
+slug: berkeley-thai-buddhist-temple-and-vegetarianism
+status: publish
 title: Berkeley Thai Buddhist Temple and Vegetarianism
-published: true
-meta: 
-  ljID: "2958"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2036'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 R and I went to Wat Mongkolratanaram in Berkeley today. This is generally know as the "Thai Buddhist Temple" in Berkeley, not by its proper name (amongst non-Thai). Every week, for years and years, they have a Sunday brunch. From what I've gathered, many local Thai businesses donate food for this to the temple and the proceeds from the sale of the food go to the temple for funds.<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1860073997/" title="Photo Sharing">
 <img src="http://farm3.static.flickr.com/2006/1860073997_4338e4e90d.jpg" alt="IMG_1980.JPG" height="375" width="500" /></a>

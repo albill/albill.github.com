@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-16 15:20:52'
 layout: post
+slug: chinese-suppression-in-tibet-continues
+status: publish
 title: Chinese Suppression in Tibet Continues
-published: true
-meta: 
-  _wp_old_slug: chinese-crackdown-on-tibet-continues
-  ljID: "3188"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2187'
+categories:
 - Buddhism
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2334726369/" title="tibet-cctv-1 by albill, on Flickr"><img border="1" src="http://farm4.static.flickr.com/3015/2334726369_d2fe124b46_o.jpg" width="450" height="293" alt="tibet-cctv-1" /></a></p>
 I'm not even go to post most of the current details of the situation in Tibet right now. The are everywhere for those paying attention. 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-08-18 18:01:53'
 layout: post
-title: Final Grade for Final Class
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: final-grade-for-final-class
 status: publish
+title: Final Grade for Final Class
+wordpress_id: '1167'
+categories:
+- Academic
 ---
 I have received my last paper back for my last normal class in my Master's program. I only have the one credit thesis prep class left (whenever they let me take it). I received a 4.0 for my last class, which gives me a 4.0 grade point average for my 24 credits of graduate work over the last 1 1/2 years.
 

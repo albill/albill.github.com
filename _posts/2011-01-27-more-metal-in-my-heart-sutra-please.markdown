@@ -1,17 +1,14 @@
---- 
+---
+author: admin
+date: '2011-01-27 11:01:04'
 layout: post
+slug: more-metal-in-my-heart-sutra-please
+status: publish
 title: More Metal in my Heart Sutra, Please
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3743"
-tags: 
+wordpress_id: '3420'
+categories:
 - Buddhism
 - Humor
-type: post
-status: publish
 ---
 A friend of mine sent this to me today. It is a metal version of the Heart Sutra and is so amazingly epic that I decided that I couldn't just share it as a tweet on my <a href="http://twitter.com/openbuddha">twitter account</a>.
 

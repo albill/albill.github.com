@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-06-14 23:49:23'
 layout: post
-title: A Thought Occurs...
-published: true
-meta: 
-  ljID: "2623"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Academic
-type: post
+slug: a-thought-occurs
 status: publish
+title: A Thought Occurs...
+wordpress_id: '1726'
+categories:
+- Academic
 ---
 Perhaps I don't need this super long fifth chapter which summarizes the view of the soul in the Western philosophical and religious traditions. I have spent several chapters before that defining Western Esotericism and going over its content, going over the history of the Golden Dawn, and then discussing its structure and initiation rituals (as well as how they cause it to fit within the overall context of Western esotericism).
 

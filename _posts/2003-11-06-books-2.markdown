@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-06 05:01:00'
 layout: post
-title: Books
-published: true
-meta: 
-  ljID: "2902"
-tags: 
-- Daily Life
-type: post
+slug: books-2
 status: publish
+title: Books
+wordpress_id: '1979'
+categories:
+- Daily Life
 ---
 I found a copy of <b>Plato&apos;s Cosmology</b> by Francis Cornford this evening. This is an entire book published in 1935 on the <b>Timaeus</b> of Plato and understanding and decoding all of the symbology and cosmology within it. An essential text for your Neoplatonic magician!
 

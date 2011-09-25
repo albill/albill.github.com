@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-01-22 17:31:00'
 layout: post
-title: Life
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: life-2
 status: publish
+title: Life
+wordpress_id: '1256'
+categories:
+- Daily Life
 ---
 I haven't written a lot lately for the most part. Life has been pretty much the same ol' same ol'.
 

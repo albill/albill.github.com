@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-23 21:25:41'
 layout: post
-title: A Buddhist Wedding Ceremony
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: a-buddhist-wedding-ceremony
 status: publish
+title: A Buddhist Wedding Ceremony
+wordpress_id: '213'
+categories:
+- Buddhism
 ---
 I found this ceremony online while looking for different wedding rituals.
 <h1>A Buddhist Wedding Ceremony</h1>

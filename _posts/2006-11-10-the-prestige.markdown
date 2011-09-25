@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-10 00:10:07'
 layout: post
-title: The Prestige
-published: true
-meta: 
-  ljID: "2284"
-tags: 
-- Daily Life
-type: post
+slug: the-prestige
 status: publish
+title: The Prestige
+wordpress_id: '1439'
+categories:
+- Daily Life
 ---
 R and I went and saw <strong>The Prestige</strong> this evening with some of my coworkers. This was a fairly enjoyable movie. I liked the performances by the actors and seeing David Bowie playing Tesla was amusing. All in all, a good job. I cannot say that I did not see a large portion of the ending ahead of time but it was a good story and a good movie.
 

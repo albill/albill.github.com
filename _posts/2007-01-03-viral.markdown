@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-03 19:18:42'
 layout: post
-title: Viral
-published: true
-meta: 
-  ljID: "2354"
-tags: 
-- Daily Life
-type: post
+slug: viral
 status: publish
+title: Viral
+wordpress_id: '1508'
+categories:
+- Daily Life
 ---
 I think I saw the doctor with the least developed bedside manner today. It's atrophied completely away.
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-22 04:16:00'
 layout: post
-title: My Cheese
-published: true
-meta: 
-  ljID: "2786"
-tags: 
-- Daily Life
-type: post
+slug: my-cheese
 status: publish
+title: My Cheese
+wordpress_id: '1862'
+categories:
+- Daily Life
 ---
 My boss has made me read <a href="http://www.whomovedmycheese.com/">Who Moved My Cheese?</a> He has this thing for management and business books and tries to get us to read things. The funny thing is, as...cheesy...as this particular book is, it does have some decent advice about impermanence and change. I just wish it wasn&apos;t couched in such stupid business-ese.
 

@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-06-17 04:56:20'
 layout: post
+slug: the-pull-to-the-dharma
+status: publish
 title: The Pull to the Dharma
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1115'
+categories:
 - Buddhism
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Many of my friends are not Buddhists. In fact, I think that it is safe to say that I only have two friends, Nathan and Jason, who are Buddhists.
 

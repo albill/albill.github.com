@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-07 17:48:28'
 layout: post
+slug: my-friend-john-is-a-freak
+status: publish
 title: My Friend John is a Freak
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '680'
+categories:
 - Daily Life
 - Humor
-type: post
-status: publish
 ---
 We're getting fire drill and floor captains on every floor today at work. My friend, <a href="http://oreb.blogspot.com/">John</a>, volunteered to be the poster child for volunteering for it.
 

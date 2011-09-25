@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-18 23:29:25'
 layout: post
-title: McNeil Island Today
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3326"
-tags: 
-- Esoteric
-type: post
+slug: mcneil-island-today
 status: publish
+title: McNeil Island Today
+wordpress_id: '326'
+categories:
+- Esoteric
 ---
 Today was my day to go down to McNeil Island and work with the Wiccan inmates there. Normally, we do this on the fourth Saturday of the month but, with that being Christmas this year, it seemed that it wouldn't work out. The group technically meets in the "Multifaith Center" or some similar name but all of the staff call it the "Chapel" and it has a ginormous cross outside of it and the main area is very obviously a church. We use a large discussion room generally and do ritual work outdoors, which means we're literally under the towering cross while invoking pagan gods. Needless to say, the guys bitch about this but there isn't much to be done at this point.
 

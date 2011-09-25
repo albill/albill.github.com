@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2006-01-29 13:04:05'
 layout: post
-title: "\"Whoa!\" Moment"
-published: true
-meta: {}
-
-tags: 
+slug: whoa-moment
+status: publish
+title: '"Whoa!" Moment'
+wordpress_id: '676'
+categories:
 - Daily Life
 - Notable People
 - Society
-type: post
-status: publish
 ---
 If you have been following Pacific Northwest news, there has been an ongoing story about a group of ELF/ALF activists that called themselves "The Family" that have been arrested since December. Portland's Indymedia site has a copy of their indictment from the 20th of this month. There is an article about them in the New York Times today.
 

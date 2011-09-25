@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2009-03-30 10:26:17'
 layout: post
+slug: call-me-jigen-or-ordination-for-dummies
+status: publish
 title: Call me "Jigen" or Ordination for Dummies
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3503"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2730'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/3397892952/" title="P1010611 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3462/3397892952_7d364f50fe.jpg" width="500" height="473" alt="P1010611" /></a><br><em>Preparing to Receive the Precepts</em></div>
 

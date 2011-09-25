@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-10-27 11:25:40'
 layout: post
+slug: sip-based-voip-problems-in-leopard
+status: publish
 title: SIP-based VOIP Problems in Leopard
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2027'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 I mentioned yesterday that I was having problems with SIP-based VOIP yesterday with my Leopard installation. It turns out that the problem that I'm having with the Gizmo Project seem to be a problem specific to the SIP protocol. Other SIP applications, such as SightSpeed and Eyebeam, do not work but, as I noticed last night, Skype works fine.
 

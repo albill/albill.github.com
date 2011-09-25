@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-12-24 14:20:37'
 layout: post
+slug: shit-that-pisses-me-off
+status: publish
 title: Shit that pisses me off!
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '648'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 People wonder sometimes why I've gone from being a fairly Libertarian fellow with anarchist sympathies to being a full-on government hating pinko most of the time.
 

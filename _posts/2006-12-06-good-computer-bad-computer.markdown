@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-12-06 00:30:45'
 layout: post
+slug: good-computer-bad-computer
+status: publish
 title: Good Computer, Bad Computer
-published: true
-meta: 
-  ljID: "2319"
-tags: 
+wordpress_id: '1472'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 My new computer equipment was delivered to me at work today. Since it is easier to put computers together while surrounded by other computers (for debugging, etc), I stayed late to work on it.
 

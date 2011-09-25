@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-05-20 15:46:00'
 layout: post
-title: The Matrix
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: the-matrix
 status: publish
+title: The Matrix
+wordpress_id: '1385'
+categories:
+- Science Fiction
 ---
 So, R and I went to see the Matrix Reloaded last night. She hadn't seen it yet and I wanted to see it again.
 

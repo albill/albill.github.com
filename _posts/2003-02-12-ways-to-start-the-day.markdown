@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-12 13:09:00'
 layout: post
-title: Ways to Start the Day
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: ways-to-start-the-day
 status: publish
+title: Ways to Start the Day
+wordpress_id: '1275'
+categories:
+- Daily Life
 ---
 R gets up half an hour or so before me usually. She volunteers in the mornings a few days a week and generally goes to work a little earlier.
 

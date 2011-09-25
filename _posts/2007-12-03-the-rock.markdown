@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-12-03 15:23:22'
 layout: post
-title: The Rock!
-published: true
-meta: 
-  ljID: "3059"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: the-rock
 status: publish
+title: The Rock!
+wordpress_id: '2126'
+categories:
+- Daily Life
 ---
 
 <p align="center"><a href="http://www.flickr.com/photos/albill/2082429249/" title="DSCF2327.JPG by albill, on Flickr"><img src="http://farm3.static.flickr.com/2278/2082429249_7f1e24932c.jpg" alt="DSCF2327.JPG" height="375" width="500" /></a></p>

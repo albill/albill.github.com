@@ -1,16 +1,13 @@
---- 
+---
+author: admin
+date: '2007-05-17 01:41:44'
 layout: post
-title: Cory Doctorow and Rudy Rucker Podcast from SF in SF
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "2579"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  _podPressMedia: a:3:{i:0;a:10:{s:3:"URI";s:103:"http://www.archive.org/download/SFinSF_Cory_Doctorow_and_Rudy_Rucker/SFinSF_1_Cory_Doctorow_256_vbr.mp3";s:5:"title";s:21:"Cory Doctorow Reading";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"36768876";s:8:"duration";s:12:"DETECTING...";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:3:"rss";s:2:"on";s:4:"atom";s:2:"on";}i:1;a:9:{s:3:"URI";s:101:"http://www.archive.org/download/SFinSF_Cory_Doctorow_and_Rudy_Rucker/SFinSF_2_Rudy_Rucker_256_vbr.mp3";s:5:"title";s:19:"Rudy Rucker Reading";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"39440941";s:8:"duration";s:7:"UNKNOWN";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:4:"atom";s:2:"on";}i:2;a:9:{s:3:"URI";s:109:"http://www.archive.org/download/SFinSF_Cory_Doctorow_and_Rudy_Rucker/SFinSF_3_Q-A_Doctorow_Rucker_256_vbr.mp3";s:5:"title";s:53:"Q&A with Cory Doctorow, Rudy Rucker, and Terry Bisson";s:4:"type";s:9:"audio_mp3";s:4:"size";s:8:"51682564";s:8:"duration";s:0:"";s:12:"previewImage";s:81:"http://www.arcanology.com/wp-content/plugins/podpress//images/vpreview_center.png";s:10:"dimensionW";s:3:"320";s:10:"dimensionH";s:3:"240";s:4:"atom";s:2:"on";}}
-tags: 
-- Daily Life
-type: post
+slug: cory-doctorow-and-rudy-rucker-podcast
 status: publish
+title: Cory Doctorow and Rudy Rucker Podcast from SF in SF
+wordpress_id: '1702'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/501726126/"><img src="http://farm1.static.flickr.com/215/501726126_2b9df05062_m.jpg" alt="Cory and Rudy Speaking" align="right" border="1" height="180" hspace="5" width="240" /></a>As I mentioned yesterday, I attended the <a href="http://www.sfinsf.org/">SF in SF</a> gathering in San Francisco this evening. (Well, it is almost 1:30 AM but you know what I mean...).
 

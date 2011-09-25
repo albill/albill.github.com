@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-30 02:34:11'
 layout: post
-title: Questions that the Night asks of me
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: questions-that-the-nights-asks-of-me
 status: publish
+title: Questions that the Night asks of me
+wordpress_id: '651'
+categories:
+- Spirituality
 ---
 Which is more frightening, the confirmed zealot or the desperate but desiring unbeliever?
 

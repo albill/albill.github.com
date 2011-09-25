@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-07 22:54:39'
 layout: post
-title: A Review of Cherie Priest's "Dreadnought" or A Rather Pleasant Train Ride Across the American Landscape With Friends
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3669"
-tags: 
+slug: a-review-of-cherie-priests-dreadnought-or-a-rather-pleasant-train-ride-across-the-american-landscape-with-friends
+status: publish
+title: A Review of Cherie Priest's "Dreadnought" or A Rather Pleasant Train Ride Across
+  the American Landscape With Friends
+wordpress_id: '3231'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4970268302/" title="Dreadnought by albill, on Flickr"><img src="http://farm5.static.flickr.com/4149/4970268302_1d60a8ca5c_m.jpg" align="right" hspace="10"width="161" height="240" alt="Dreadnought" /></a> A month and a half ago or so, I managed to get an advanced reader's copy of Cherie Priest's upcoming steampunk novel, <a href="http://www.amazon.com/Dreadnought-Cherie-Priest/dp/0765325780"><strong>Dreadnought</strong></a>, through questionable means. This novel is a sequel of sorts to her previous, <a href="http://www.amazon.com/Boneshaker-Sci-Fi-Essential-Books/dp/0765318415/"><strong>Boneshaker</strong></a>. It effectively picks up where <strong>Boneshaker</strong> ends but there are only a few direct connections between the two books. Both books are part of Priest's "<a href="http://theclockworkcentury.com/">Clockwork Century</a>" setting, which also includes the short novel, <a href="http://www.subterraneanpress.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=SP&Product_Code=priest03"><strong>Clementine</strong></a>, just recently released. (There is also a short story, <a href="http://subterraneanpress.com/index.php/magazine/fall-2008/fiction-tanglefoot-a-story-of-the-clockwork-century-by-cherie-priest/"><strong>Tanglefoot</strong></a> set there as well.)
 

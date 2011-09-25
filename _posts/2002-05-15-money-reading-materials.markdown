@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-05-15 23:13:00'
 layout: post
+slug: money-reading-materials
+status: publish
 title: Money & Reading Materials
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '820'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 Well, I got paid today, which is good because I had $11 in my account when it happened. This has gotten to be appalling to me. I make a buttload of money (without getting into specifics) as a Test Lead at Microsoft. I have three full-time employees, two contractors and an intern working for me this summer (plus another contractor who is done after this week). So, I have something approaching a professional job for real money and <em><strong>I'm always running out of money,</strong></em> I've been treading water there for at least the last six months and it really irritates me.
 

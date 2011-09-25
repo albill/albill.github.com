@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-12-04 01:13:00'
 layout: post
+slug: prison-3
+status: publish
 title: Prison
-published: true
-meta: 
-  ljID: "2976"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '2054'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 So I'm kind of fucked in the Prison Ministry department right now. With Monk out of town for the better part of a couple of months, I can't really get easy access to the inmates until I undergo volunteer training in January. I can't attend anything at the prison unassisted until I'm officially a volunteer and trained. 
 

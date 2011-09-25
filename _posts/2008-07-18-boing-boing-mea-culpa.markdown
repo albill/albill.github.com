@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-18 14:40:36'
 layout: post
+slug: boing-boing-mea-culpa
+status: publish
 title: Boing Boing Mea Culpa
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3330"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2294'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <p align="center"><img src="http://www.arcanology.com/images/unpublished.gif" height="72" width="371" border="0" alt="Unpublished courtesy of Violet Blue" /></p>Xeni Jardin just <a href="http://www.boingboing.net/2008/07/18/lessons-learned.html">posted her mea culpa</a> to the Boing Boing readers today for the screwup around the deleted Violet Blue-related posts the other week:
 <blockquote>Some of our community here at Boing Boing, and elsewhere around the web, viewed the post takedown as a violation of an unwritten rule of blog etiquette. Many more were frustrated with us for taking so long to respond, and being vague when we finally did. You, our readers, were angry because we weren't communicating with you.

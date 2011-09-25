@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-14 23:04:12'
 layout: post
-title: A Hymn
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: a-hymn
 status: publish
+title: A Hymn
+wordpress_id: '512'
+categories:
+- Spirituality
 ---
 <h2 align="center"><i><a href="http://www.hermetic.com/texts/hermetica/hermes13.html">Corpus Hermeticum XIII, 17 - 29</a></i></h2>
 <p align="center">… Tat requests of Hermes to relay the hymn he heard while<br>in the Ogdoad by the Powers praising God.</p>

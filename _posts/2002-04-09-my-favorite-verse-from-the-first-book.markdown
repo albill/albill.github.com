@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-09 03:59:00'
 layout: post
+slug: my-favorite-verse-from-the-first-book
+status: publish
 title: My Favorite Verse from the First Book
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '780'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Today is the first day of the unveiling of the Book of the Law.
 

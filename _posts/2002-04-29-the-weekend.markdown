@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2002-04-29 05:13:00'
 layout: post
+slug: the-weekend
+status: publish
 title: The Weekend
-published: true
-meta: 
-  _edit_last: "1"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-  no_lj: "1"
-tags: 
+wordpress_id: '803'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/tara-img4.gif" align="right" height="218" hspace="5" vspace="5" width="143" />This weekend I attended the Green Tara empowerment that I mentioned recently with  given by Her Eminence Dagmo Kusho Jamyang Sakya. This was a very interesting experience for me and I went into it without a lot of expectations. I know that Green Tara is one of the most common empowerments given to people and that her practices are fairly simple for the most part. I was quite impressed by Her Eminence. She's a lay practitioner, the wife of the the head of the Sakya Monastery in Seattle, and she is quite humble about her background and experience, downplaying it extensively. It's clear that she has a real and strong connection to Tara and her teachings and practices. She's been encouraged and empowered to teach by those who would normally be considered "higher" than her. She teaches at the <a href="http://www.taraling.com">Tara-Ling Center</a> in Los Angeles and apparantly goes down there quite often to do so. You can read about Her Eminence <a href="http://www.taraling.com/Dagmola.html">here</a>. She's quite the real deal and it was apparant from what I received this Saturday.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-09 00:57:11'
 layout: post
-title: A Platonic Hymn to the Creator
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: a-platonic-hymn-to-the-creator
 status: publish
+title: A Platonic Hymn to the Creator
+wordpress_id: '569'
+categories:
+- Spirituality
 ---
 
 <h2>A Latin Hymn to the Creator Ascribed to Plato</h2>

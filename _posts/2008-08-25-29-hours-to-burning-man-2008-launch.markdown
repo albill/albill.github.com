@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2008-08-25 23:30:43'
 layout: post
-title: 29 Hours to Burning Man 2008 Launch
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3369"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: 29-hours-to-burning-man-2008-launch
 status: publish
+title: 29 Hours to Burning Man 2008 Launch
+wordpress_id: '2411'
+categories:
+- Daily Life
 ---
 <a href="http://www.flickr.com/photos/albill/2798665686/" title="Burning Man 2008 Poster by albill, on Flickr"><img align="right" border="1" hspace="10" src="http://farm4.static.flickr.com/3150/2798665686_9c7b7a8235.jpg" width="284" height="500" alt="Burning Man 2008 Poster" /></a> In roughly 29 hours (that's around 4:30 AM Wednesday), R and I will be leaving for Burning Man. 
 

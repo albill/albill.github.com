@@ -1,17 +1,17 @@
---- 
+---
+author: admin
+date: '2008-01-15 23:04:17'
 layout: post
+slug: new-bay-area-hacking-space-forming-now
+status: publish
 title: New Bay Area Hacking Space Forming Now
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3127"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2158'
+categories:
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
+tags:
+- Hacking
 ---
 <a href="https://www.noisebridge.net/index.php/Main_Page"><img src="http://www.arcanology.com/images/NB-logo-red-black-med.gif" alt="Noisebridge Logo" align="right" border="0" height="131" hspace="5" vspace="5" width="131" /></a>This evening I attended one of the preliminary meetings for <a href="https://www.noisebridge.net/">Noise Bridge</a> in San Francisco. I had heard that efforts were underway to create some sort of hacking space/den/lab in the Bay Area but I thought that they were only going on in a very preliminary way. While talking to <a href="http://ioerror.livejournal.com/">Jacob Appelbaum</a> on <a href="http://tor.eff.org">Tor</a> matters recently, he mentioned that the efforts were a bit further along and that meetings had been happening a couple of times a month recently to create a space.
 

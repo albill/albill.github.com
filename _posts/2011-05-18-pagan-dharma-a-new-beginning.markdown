@@ -1,20 +1,19 @@
---- 
+---
+author: admin
+date: '2011-05-18 23:50:01'
 layout: post
-title: Pagan Dharma - A New Beginning
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3840"
-tags: 
-- blog
-- Buddhism
-- pagan dharma
-- Spirituality
-- spirituality
-- Technology
-type: post
+slug: pagan-dharma-a-new-beginning
 status: publish
+title: Pagan Dharma - A New Beginning
+wordpress_id: '3755'
+categories:
+- Buddhism
+- Spirituality
+- Technology
+tags:
+- blog
+- pagan dharma
+- spirituality
 ---
 Earlier today, at the encouragement of my friend, Catherine, and a few others, I set up <a href="http://www.pagandharma.org">Pagan Dharma</a> at pagandharma.org. I also set up a <a href="http://twitter.com/pagandharma">twitter</a> account for the site to be used for announcing postings.
 

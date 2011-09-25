@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-07-13 00:22:14'
 layout: post
-title: Aikido
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: aikido
 status: publish
+title: Aikido
+wordpress_id: '1133'
+categories:
+- Daily Life
 ---
 I promised myself and my Buddhist teacher that I would do something physically focused over the next year. I need to get myself out from behind a computer and off of a cushion in order to get my body moving. Part of this will be fulfilled by joining the cheap gym across the street from work but I'm looking at martial arts again as well.
 

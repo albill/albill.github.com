@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-08-17 05:50:00'
 layout: post
-title: Last Couple of Days...
-published: true
-meta: 
-  ljID: "2777"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: last-couple-of-days
 status: publish
+title: Last Couple of Days...
+wordpress_id: '1853'
+categories:
+- Daily Life
 ---
 So, my work situation is getting better. There is a reorg happening at any time soon. Normally, reorgs aren&apos;t a good thing as it can completely upset the dynamic of work structures but, in this case, it will be good. My boss has been filling in for his normal role as test manager for our work on the Windows Shell but also as a virtual test manager for the overall efforts that my team (and many others) are involved in. (Sorry to not be specific here...) As soon as this reorg happens, the second part will be his only job. He really has been doing the work of two people and since it directly affects my work, it impacts me as well.
 

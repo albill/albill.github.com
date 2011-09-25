@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-09-11 16:16:46'
 layout: post
-title: Tantra
-published: true
-meta: 
-  _oembed_a5ae685bc340634131652e7fde22474f: "{{unknown}}"
-  _oembed_154d0368c8a8aecb2ffb0761f3877c9b: "{{unknown}}"
-  _oembed_1cf1b47705b6b1f49ab356d87f449ebf: "{{unknown}}"
-tags: 
-- Buddhism
-type: post
+slug: tantra
 status: publish
+title: Tantra
+wordpress_id: '551'
+categories:
+- Buddhism
 ---
 This was posted at
 <a href="http://www.garethswebsite.net/2005/09/further-questioning-of-new-kadampa.html">

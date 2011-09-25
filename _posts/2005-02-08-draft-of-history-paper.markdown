@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-02-08 00:14:10'
 layout: post
+slug: draft-of-history-paper
+status: publish
 title: Draft of History Paper
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '390'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I just finished what I&#39;ve marked as &quot;Draft 5&quot; of my History 501 paper. After 
 my frustration with the Philosophy 505 paper experiences (and I regret turning 

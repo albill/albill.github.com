@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2007-05-05 00:25:36'
 layout: post
+slug: the-precepts
+status: publish
 title: The Precepts
-published: true
-meta: 
-  ljID: "2559"
-tags: 
+wordpress_id: '1686'
+categories:
 - Buddhism
 - Daily Life
-type: post
-status: publish
 ---
 I seem to be condemned to lock horns with Zen priests concerning the precepts and the following of them. First, it was Brad "Hardcore Zen" Warner. Now it is another priest, who I will do the courtesy of not naming as there is no point to it. Unlike Brad, he seems to have a core of civility but, still, I don't understand the way people interpret the precepts.
 

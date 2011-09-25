@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2007-04-24 18:15:08'
 layout: post
+slug: ultracultural-imperalism
+status: publish
 title: Ultracultural Imperalism
-published: true
-meta: 
-  ljID: "2543"
-tags: 
+wordpress_id: '1676'
+categories:
 - Humor
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 In response to <a href="http://www.arcanology.com/?p=1673">my previous post</a> about Ultraculture and its issues with Voudon and Buddhism, my nath and magician friends, Aion 131 and Sophia, gave their response in the form of clothing on Saturday morning:
 

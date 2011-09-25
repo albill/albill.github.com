@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-12-14 02:16:45'
 layout: post
+slug: western-esotericism-and-the-net
+status: publish
 title: Western Esotericism and the Net
-published: true
-meta: 
-  ljID: "3077"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2136'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/rosecross.gif" alt="Rose Cross" align="right" border="1" height="193" hspace="5" vspace="5" width="150" />"<a href="http://www.esoteric.msu.edu/Hanegraaff.html">Western Esotericism</a>" as a field of study continues to develop within the halls of Academia. Last year, I attended the second International Conference on Esotericism at the University of California, Davis. This was organized by the <a href="http://www.aseweb.org/">Association for the Study of Esotericism</a> (ASE), of which I am a member as well. The ASE has the official mission "to promote excellence in scholarship and teaching in the study of esotericism and mysticism. This is to be accomplished through conferences and meetings, publications, programs, and membership services" and is an academic organization primarily filled with the few professors teaching in this area, at least part of the time, and graduate students working on degrees focusing on some aspect of Western Esotericism.
 

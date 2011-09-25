@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-03-10 02:00:50'
 layout: post
-title: Metal Arts
-published: true
-meta: 
-  ljID: "2410"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: metal-arts
 status: publish
+title: Metal Arts
+wordpress_id: '1557'
+categories:
+- Daily Life
 ---
 I've just signed up for two classes at <a href="http://www.thecrucible.org/"><strong>The Crucible</strong></a> here in Oakland. They are a local arts organization that focus on fire-related arts and skills. I don't know all of the details of their founding but it is basically a group of Burners that decided to get more involved with the local community and create a space to support cool art and teaching people new skills.
 

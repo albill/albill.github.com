@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-02-07 01:20:00'
 layout: post
-title: Myers-Briggs
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: myers-briggs
 status: publish
+title: Myers-Briggs
+wordpress_id: '42'
+categories:
+- Daily Life
 ---
 While I'm not going to take the current Myers-Briggs personality type quiz that is going around (I actually looked at it for other reasons this week and think is isn't a good test), as part of my management retreat, the group of us were given the MB test, coached for a day with trained people on what the results were and given a bunch of written materials around it and the management of different personality types (and their issues).
 

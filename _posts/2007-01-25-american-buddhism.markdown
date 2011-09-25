@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-25 01:19:10'
 layout: post
-title: American Buddhism
-published: true
-meta: {}
-
-tags: 
-- Buddhism
-type: post
+slug: american-buddhism
 status: publish
+title: American Buddhism
+wordpress_id: '1532'
+categories:
+- Buddhism
 ---
 One of the issues that seems to be gaining ground, at least as a point of discussion, within Buddhist circles is the question of the relationship of Buddhism to Americans and American culture. This is a question that centers on a number of points:
 <ol>

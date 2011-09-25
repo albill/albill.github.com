@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-21 00:47:35'
 layout: post
-title: Geekery
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: geekery
 status: publish
+title: Geekery
+wordpress_id: '451'
+categories:
+- Technology
 ---
 Is it bad that I think this kicks ass more than the Yezidi post? I am such a fucking geek sometimes. I guess I can keep my card.
 

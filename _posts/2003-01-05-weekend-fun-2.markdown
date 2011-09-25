@@ -1,15 +1,15 @@
---- 
+---
+author: admin
+date: '2003-01-05 04:59:00'
 layout: post
+slug: weekend-fun-2
+status: publish
 title: Weekend Fun
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1230'
+categories:
 - Books
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I'm reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/189035001X/"><em>In the Dark Places of Wisdom</em></a> by Kingsley and <a href="http://www.amazon.com/exec/obidos/ASIN/0385498721/"><em>Survivor</em></a> by Palahniuk (author of <em>Fight Club</em>) this weekend. There's a double-feature for you. This may qualify as Kingsley's "nut job" book but it is interesting.
 

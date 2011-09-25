@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-04-06 05:18:00'
 layout: post
+slug: rough-draft-of-the-elemental-mass-of-the-church-of-the-cadmon
+status: publish
 title: Rough Draft of the Elemental Mass of the Church of the Cadmon
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '779'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 Lesa and I wrote this a number of years ago. It was a work in progress for a long, long time and, to this day, I still feel that it is missing some key elements along with quite a bit of polish. It is pretty defunct as a project now though.
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-08-28 15:16:16'
 layout: post
-title: Burning at Burning Man
-published: true
-meta: 
-  ljID: "2710"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Society
-type: post
+slug: burning-at-burning-man
 status: publish
+title: Burning at Burning Man
+wordpress_id: '1792'
+categories:
+- Society
 ---
 As a number of people have heard, there was arson last night at Burning Man. Around 3:00 AM, the Man sculpture was lit on fire. Fire crews came from the surrounding area and eventually put the Man out.
 <p align="center"><a href="http://www.flickr.com/photos/focalintent/1257577734/in/set-72157601716712592/"><img src="http://farm2.static.flickr.com/1121/1257577734_478d7e4fcb_d.jpg" alt="Burning Man Blaze" /></a></p>

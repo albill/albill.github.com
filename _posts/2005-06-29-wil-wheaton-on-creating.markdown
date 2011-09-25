@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-29 00:10:15'
 layout: post
-title: Wil Wheaton on Creating
-published: true
-meta: {}
-
-tags: 
-- Notable People
-type: post
+slug: wil-wheaton-on-creating
 status: publish
+title: Wil Wheaton on Creating
+wordpress_id: '497'
+categories:
+- Notable People
 ---
 <p><a href="http://www.wilwheaton.net/">Will Wheaton</a> responds to fan questions on <a href="http://www.slashdot.org">Slashdot</a> today. One answer from him stood out in particular as well said so I wanted to share it:</p>
 <blockquote><h2>How to be a &quot;real&quot; actor/writer/speaker/artist?</h2>

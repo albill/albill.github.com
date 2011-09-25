@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-09 12:08:59'
 layout: post
+slug: brandon-sanderson-and-the-creative-commons
+status: publish
 title: Brandon Sanderson and the Creative Commons
-published: true
-meta: 
-  _wp_old_slug: brandson-sanderson-and-the-creative-commons
-  ljID: "3070"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2132'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 Brandon Sanderson is a fantasy writer who lives Provo, Utah and teaches at Brigham Young University (BYU). He is the author of several novels including "<strong><a href="http://www.amazon.com/Elantris-Brandon-Sanderson/dp/0765350378/">Elantris</a></strong>" and "<strong><a href="http://www.amazon.com/Final-Empire-Mistborn-Book/dp/0765350386">The Final Empire</a></strong>". The latter is part of the "Mistborn" trilogy that he's writing and which is two thirds published at this point.
 

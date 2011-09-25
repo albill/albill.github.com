@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2003-12-27 14:04:00'
 layout: post
+slug: movies
+status: publish
 title: Movies
-published: true
-meta: 
-  ljID: "3016"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '2096'
+categories:
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 Thanks to <lj user="nemo49"> for this one...</lj>
 

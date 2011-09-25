@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-09-08 21:34:52'
 layout: post
-title: Real Underground Cinema
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: real-underground-cinema
 status: publish
+title: Real Underground Cinema
+wordpress_id: '228'
+categories:
+- Daily Life
 ---
 <strong>In a secret Paris cavern, the real underground cinema</strong>
 

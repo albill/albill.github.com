@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-03-14 22:19:00'
 layout: post
-title: Hypnosis for Pain Control
-published: true
-meta: {}
-
-tags: 
-- Technology
-type: post
+slug: hypnosis-for-pain-control
 status: publish
+title: Hypnosis for Pain Control
+wordpress_id: '424'
+categories:
+- Technology
 ---
 <p><a href="http://www.uiowa.edu/~ournews/2005/march/031405hypnosis.html">
 http://www.uiowa.edu/%7Eournews/2005/march/031405hypnosis.html</a> </p>

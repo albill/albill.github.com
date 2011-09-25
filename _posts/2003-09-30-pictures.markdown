@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2003-09-30 22:31:00'
 layout: post
-title: Pictures...
-published: true
-meta: 
-  ljID: "2825"
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Daily Life
-type: post
+slug: pictures
 status: publish
+title: Pictures...
+wordpress_id: '1902'
+categories:
+- Daily Life
 ---
 For those that wonder what I look like outside of clown makeup...
 <center><img src="http://www.arcanology.com/images/albill-ship.jpg" border="1" height="240" hspace="10" vspace="10" width="320" /></center>

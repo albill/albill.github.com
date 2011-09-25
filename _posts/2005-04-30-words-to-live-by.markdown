@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-04-30 01:46:43'
 layout: post
-title: Words to Live By
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: words-to-live-by
 status: publish
+title: Words to Live By
+wordpress_id: '456'
+categories:
+- Spirituality
 ---
 <blockquote>Do not believe in what you have heard.
 

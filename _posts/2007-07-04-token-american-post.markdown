@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-07-04 11:38:29'
 layout: post
-title: Token American Post
-published: true
-meta: 
-  ljID: "2639"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Society
-type: post
+slug: token-american-post
 status: publish
+title: Token American Post
+wordpress_id: '1740'
+categories:
+- Society
 ---
 It is kind of funny because while I don't often try to say things political in my blog and I am also very much at a distance from American culture, I do believe in a lot of the Enlightenment values that informed the founding of our nation.
 

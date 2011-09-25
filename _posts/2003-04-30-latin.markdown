@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-04-30 04:02:00'
 layout: post
+slug: latin
+status: publish
 title: Latin
-published: true
-meta: 
-  ljID: "2244"
-tags: 
+wordpress_id: '1364'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 On a plus note, I feel mostly caught up on my Latin. I still don't have the various pronouns completely memorized but I'm not floundering.
 

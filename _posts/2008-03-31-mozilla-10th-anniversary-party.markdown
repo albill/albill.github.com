@@ -1,24 +1,23 @@
---- 
+---
+author: admin
+date: '2008-03-31 23:16:23'
 layout: post
+slug: mozilla-10th-anniversary-party
+status: publish
 title: Mozilla 10th Anniversary Party
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3206"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2196'
+categories:
 - Daily Life
 - Esoteric
 - Humor
 - Mozilla
-- mozilla party
 - Notable People
 - Science Fiction
 - Society
 - Spirituality
 - Technology
-type: post
-status: publish
+tags:
+- mozilla party
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2379520018/" title="IMG_2400.JPG by albill, on Flickr"><img src="http://farm3.static.flickr.com/2224/2379520018_636b711a00.jpg" width="500" height="375" alt="IMG_2400.JPG" /></a>We have cake!</p>
 Tonight, R and I attended the 10th Anniversary Part for Mozilla at the <a href="http://www.111minnagallery.com/">111 Minna Gallery</a> in San Francisco. 

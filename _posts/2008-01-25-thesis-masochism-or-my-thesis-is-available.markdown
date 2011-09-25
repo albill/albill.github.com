@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-01-25 15:44:09'
 layout: post
+slug: thesis-masochism-or-my-thesis-is-available
+status: publish
 title: Thesis Masochism or "My Thesis is available..."
-published: true
-meta: 
-  ljID: "3133"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2163'
+categories:
 - Academic
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 It is with only a minor feeling of dread that I make this announcement: For the few that have an interest in my Master's thesis, I've made a book form of it available on lulu.com.
 <p align="center"><a href="http://www.flickr.com/photos/albill/2219762370/" title="Thesis Book Cover by albill, on Flickr"><img src="http://farm3.static.flickr.com/2217/2219762370_c08a0a2cf1_o.png" width="328" height="525" alt="Thesis Book Cover" /></a></p>

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-21 23:30:24'
 layout: post
-title: Too much of a geek
-published: true
-meta: 
-  ljID: "2330"
-tags: 
-- Science Fiction
-type: post
+slug: too-much-of-a-geek
 status: publish
+title: Too much of a geek
+wordpress_id: '1484'
+categories:
+- Science Fiction
 ---
 I'm reading <strong>Geodesica: Descent</strong> by Sean Williams ("with Shane Dix!") right now. I finished <strong>Geodesica: Ascent</strong> the other day.
 

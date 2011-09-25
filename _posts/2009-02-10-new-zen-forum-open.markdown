@@ -1,20 +1,18 @@
---- 
+---
+author: admin
+date: '2009-02-10 22:24:21'
 layout: post
+slug: new-zen-forum-open
+status: publish
 title: New Zen Forum Open
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  ljID: "3472"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2667'
+categories:
 - Buddhism
-- e-sangha
 - Spirituality
 - Technology
+tags:
+- e-sangha
 - zen
-type: post
-status: publish
 ---
 As was <a href="http://www.arcanology.com/2009/01/24/rev-nonins-statement-on-his-banning-from-e-sangha/">mentioned recently</a>, Rev. Nonin, a well known Zen teacher, was banned from the E-Sangha web forum recently for not meeting whatever unspecified doctrinal muster is required to have an account on the that site.
 

@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-07-05 16:52:53'
 layout: post
+slug: a-visit-to-seattle-hackerspaces
+status: publish
 title: A Visit to Seattle Hackerspaces
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3648"
-tags: 
+wordpress_id: '3195'
+categories:
 - Hacking
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/4764259029/" title="IMG_0100 by albill, on Flickr"><img src="http://farm5.static.flickr.com/4139/4764259029_d31f2ff2ef.jpg" width="375" height="500" alt="IMG_0100"></a></div>
 

@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2009-07-17 22:20:15'
 layout: post
+slug: unconferences-for-buddhist-studies-or-religious-studies
+status: publish
 title: Unconferences for Buddhist Studies (or Religious Studies)?
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  aktt_tweeted: "1"
-  ljID: "3561"
-tags: 
+wordpress_id: '2836'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 Once again, while working out, I did the untoward and started thinking. It's amazing what quiet time will do for you. (Meditation doesn't count since you're purposefully not letting your mind wool-gather and wander.)
 

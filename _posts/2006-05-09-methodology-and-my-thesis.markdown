@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-09 02:57:33'
 layout: post
-title: Methodology and my Thesis
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: methodology-and-my-thesis
 status: publish
+title: Methodology and my Thesis
+wordpress_id: '769'
+categories:
+- Academic
 ---
 Much of my current thinking around my academic work is thinking about methodology. This is something about which not a lot was said before I entered graduate school. I was vaguely aware that methodology was often the source of contentious issues but not  aware of, it seems.
 

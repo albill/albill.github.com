@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2004-02-18 00:01:00'
 layout: post
+slug: pantheacon-laundry-list
+status: publish
 title: PantheaCon Laundry List
-published: true
-meta: 
-  ljID: "2430"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '46'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I attended PantheaCon (<a href="http://www.pantheacon.com">http://www.pantheacon.com</a>) this last weekend from Friday through mid-day Monday. PantheaCon is really a convention for the various spiritual fringe groups of neopaganism drawing largely from the Bay Area, in my opinion. Though people do attend from all over, I would guess that more than half of the people there are relatively local to the convention.
 

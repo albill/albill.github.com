@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-30 10:03:28'
 layout: post
+slug: meditation-and-neuroscience
+status: publish
 title: Meditation and Neuroscience
-published: true
-meta: 
-  ljID: "2312"
-tags: 
+wordpress_id: '1465'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This was sent out on an e-mail list that I am on with other meditators. This is an article published in July, 2006 on recent research.
 <blockquote>

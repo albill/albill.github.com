@@ -1,20 +1,14 @@
---- 
+---
+author: admin
+date: '2009-10-22 11:24:57'
 layout: post
+slug: sexual-controversies-and-zen-buddhism
+status: publish
 title: Sexual Controversies and Zen Buddhism
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3589"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: "0"
-  ljxp_comments: "0"
-tags: 
+wordpress_id: '2891'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 Controversies around sex and Buddhism, mostly focusing on Buddhist teachers, are not new. There are a number of infamous cases within the Vajrayana community, such as those of Chogyam Trungpa and his successor, whose sexual hijinks are rather infamous at this point. There is also the famous case of Richard Baker and the San Francisco Zen Center, which came to crisis point in 1983 and left him ousted out of the Zen center that he founded.
 

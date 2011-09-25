@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-16 10:22:19'
 layout: post
+slug: thesis-proposal-approved
+status: publish
 title: Thesis Proposal Approved
-published: true
-meta: 
-  ljID: "2292"
-tags: 
+wordpress_id: '1447'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 I spoke to my thesis mentor this morning. I had sent him a revised thesis proposal a bit over a week ago based on his earlier feedback. From our conversation today, he does not require any further changes. He'll turn in a grade for the one credit proposal "class" that structures doing this work.
 

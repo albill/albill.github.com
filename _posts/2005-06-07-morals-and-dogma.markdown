@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2005-06-07 22:58:36'
 layout: post
-title: Morals and Dogma
-published: true
-meta: 
-  _oembed_57ca26c578e4cd352f91243185e069b3: "{{unknown}}"
-  _oembed_3d541be52972812e6ccc994ab88b3f73: "{{unknown}}"
-  _oembed_dbdbcf1a071d4158d5234113533bcea1: "{{unknown}}"
-tags: 
-- Spirituality
-type: post
+slug: morals-and-dogma
 status: publish
+title: Morals and Dogma
+wordpress_id: '478'
+categories:
+- Spirituality
 ---
 <p>After doing some sitting meditation downstairs last night, I was going 
 through some of my ritual things that were in the same overall space. (When I 

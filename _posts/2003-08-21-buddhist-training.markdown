@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-08-21 22:38:00'
 layout: post
+slug: buddhist-training
+status: publish
 title: Buddhist Training
-published: true
-meta: 
-  ljID: "2785"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1861'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 So, I attended the first of the montly Lojong classes at <a href="http://www.pemakilaya.org">Pema Kilya</a> on Monday night. A bunch of the students are getting together on a monthly basis to listen to recordings of some of the teachings earlier this year by Kilung Rinpoche and discuss readings on Lojong from a variety of texts. We're mainly going to use Trungpa's book on the topic.
 

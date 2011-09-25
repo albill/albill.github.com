@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2006-05-14 15:38:28'
 layout: post
-title: Sand Mandalas
-published: true
-meta: 
-  ljID: "2613"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Buddhism
-type: post
+slug: sand-mandalas-2
 status: publish
+title: Sand Mandalas
+wordpress_id: '1082'
+categories:
+- Buddhism
 ---
 The Asia Society has a series of pictures taken from above of Tibetan monks constructing a sand mandala. If you've never seen close up pictures of one of these, they are <a href="http://www.artnetwork.com/Mandala/gallery.html">quite beautiful</a>.
 

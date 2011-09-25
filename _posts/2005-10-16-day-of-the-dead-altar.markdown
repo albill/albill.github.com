@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-10-16 11:06:32'
 layout: post
-title: Day of the Dead Altar
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: day-of-the-dead-altar
 status: publish
+title: Day of the Dead Altar
+wordpress_id: '578'
+categories:
+- Spirituality
 ---
 <p>R and I put up our altar for the Day of the Dead today with my daughter,  Madeline. We do this every year before Halloween to honor those that have died,  especially those that we know.</p> <p>Here are some pictures from it:</p> <p align="center"><a href="http://www.zhangzhung.net/pics/2005-dod-1.jpg"><img width="515" height="319" border="1" src="http://www.zhangzhung.net/pics/2005-dod-1.jpg" /></a></p> <p>The rest are in the extended entry and as links there if they are cropped.</p>
 <!--more-->

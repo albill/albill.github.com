@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-11-26 00:06:00'
 layout: post
-title: The Matrix
-published: true
-meta: 
-  ljID: "2929"
-tags: 
-- Daily Life
-type: post
+slug: the-matrix-2
 status: publish
+title: The Matrix
+wordpress_id: '2006'
+categories:
+- Daily Life
 ---
 I found this at <a href="http://coolmel.typepad.com/iblog/2003/11/what_is_the_mat.html">http://coolmel.typepad.com/iblog/2003/11/what_is_the_mat.html</a>
 <p>It is an attempt to figure out the entire Matrix series. It is long and fool of spoilers. <lj-cut text="read at your own risk..."></p>

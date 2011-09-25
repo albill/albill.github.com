@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-10 14:26:57'
 layout: post
-title: Katrina
-published: true
-meta: 
-  ljID: "2286"
-tags: 
-- Society
-type: post
+slug: katrina
 status: publish
+title: Katrina
+wordpress_id: '1441'
+categories:
+- Society
 ---
 It is amazing how little people talk about Katrina and its aftereffects (or the city of New Orleans) over a year after the fact.
 

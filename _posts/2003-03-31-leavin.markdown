@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-31 17:52:00'
 layout: post
-title: Leavin'
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: leavin
 status: publish
+title: Leavin'
+wordpress_id: '1332'
+categories:
+- Daily Life
 ---
 The airport shuttle will be here within the hour.
 

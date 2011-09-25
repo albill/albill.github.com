@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2008-05-21 00:49:20'
 layout: post
+slug: 21-pages-of-term-paper-written
+status: publish
 title: 21 Pages of Term Paper Written
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3264"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2225'
+categories:
 - Academic
 - Buddhism
-type: post
-status: publish
 ---
 I have 21 pages of my term paper written for my class at the <a href="http://www.shin-ibs.edu">Institute of Buddhist Studies</a> on <strong>Esoteric Buddhism</strong>. It is a 20 to 25 page paper but that's fairly rough.
 

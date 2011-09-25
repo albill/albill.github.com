@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-02-19 05:44:00'
 layout: post
-title: The Art of Shen-Ku
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Books
-type: post
+slug: the-art-of-shen-ku
 status: publish
+title: The Art of Shen-Ku
+wordpress_id: '1280'
+categories:
+- Books
 ---
 <div align="center"><a href="http://www.flickr.com/photos/albill/2159914449/" title="shen-ku by albill, on Flickr"><img src="http://farm3.static.flickr.com/2292/2159914449_a67d62fb1f.jpg" width="332" height="500" alt="shen-ku" /></a></div>
 

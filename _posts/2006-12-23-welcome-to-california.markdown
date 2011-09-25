@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-12-23 10:49:26'
 layout: post
-title: Welcome to California
-published: true
-meta: 
-  ljID: "2335"
-tags: 
-- Daily Life
-type: post
+slug: welcome-to-california
 status: publish
+title: Welcome to California
+wordpress_id: '1489'
+categories:
+- Daily Life
 ---
 This is becoming tiresome.
 

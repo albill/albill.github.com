@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-08 00:19:30'
 layout: post
+slug: can-buddhism-become-american
+status: publish
 title: Can Buddhism become American?
-published: true
-meta: 
-  ljID: "2965"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
+wordpress_id: '2042'
+categories:
 - Buddhism
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 I want to ask a question here and that is, "Can Buddhism become American?"
 

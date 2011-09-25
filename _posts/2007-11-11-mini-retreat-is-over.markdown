@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-11 20:26:43'
 layout: post
+slug: mini-retreat-is-over
+status: publish
 title: Mini-retreat is over
-published: true
-meta: 
-  ljID: "2968"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2045'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 The mini-retreat, aka Shambhala Level II Training, is over. We managed to survive it even through the illness we were both carrying. I did have a bit less fun after lunch when I forgot to take my medication and got a blazing headache but it worked out well later on.
 

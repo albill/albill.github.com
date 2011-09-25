@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-02-18 17:01:35'
 layout: post
-title: Pantheacon 2005 - Day 1
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Esoteric
-type: post
+slug: pantheacon-2005-day-1
 status: publish
+title: Pantheacon 2005 - Day 1
+wordpress_id: '402'
+categories:
+- Esoteric
 ---
 I got up at seven-something this morning, put lots of food and water out for the pets and headed down to the airport for my flight to San Jose (which was at 11:20). I checked in around 9:30 AM and noticed that instead of a seat number, I now had "See attendent for seating." I bought this ticket about a month ago.
 

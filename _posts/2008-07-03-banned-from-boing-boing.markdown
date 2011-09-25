@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2008-07-03 12:24:33'
 layout: post
+slug: banned-from-boing-boing
+status: publish
 title: Banned from Boing Boing?
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3311"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2256'
+categories:
 - Notable People
 - Society
 - Technology
-type: post
-status: publish
 ---
 <em>This was posted here yesterday. I took it down after a few hours because I wasn't sure the the proper intent was behind it and that it simply didn't add fuel to the fire. After receiving a couple of e-mails about it from people who saw it (here or on feeds) and then saw it was gone, I'm going to put it back up with this note. It is important to note that I have been quite a fan of Boing Boing over time and have generally believed that they were doing all of the "right" things when it came to blogging and documenting the state of things on the net, especially the battles over copyright and the like. That is part of what has been this whole issue so much of a lightning rod for people, including me. We thought that Boing Boing was better than this sort of thing and feel a bit let down.</em>
 

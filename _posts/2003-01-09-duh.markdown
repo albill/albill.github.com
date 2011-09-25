@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2003-01-09 03:48:00'
 layout: post
+slug: duh
+status: publish
 title: Duh...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1233'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 So, my new <strong>Latin</strong> class is Tuesdays and Thursdays from 7:40 to 9:10 PM. This is actually a much better time for me since I was having to duck out of work an hour early two days a week and then make up time otherwise with the old class... So, I showed up on Tuesday, walked to the blackboard in the school's office to see which room my class was in and the blackboard was empty... There were staff talking at the main desk right by it so I walked over and asked where my class was...
 

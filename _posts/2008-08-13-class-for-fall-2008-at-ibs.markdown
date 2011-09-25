@@ -1,18 +1,16 @@
---- 
+---
+author: admin
+date: '2008-08-13 02:22:43'
 layout: post
+slug: class-for-fall-2008-at-ibs
+status: publish
 title: Class for Fall 2008 at IBS
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3359"
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '2386'
+categories:
 - Academic
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I stopped by the Institute of Buddhist Studies during lunch today (it is only about a mile and a half from my house). I went in to register for another class. As people may recall, I took a graduate level class there on Esoteric Buddhism, focusing heavily on Japan, this last Spring. I am not currently enrolled in a degree program there but I am looking at being in one in a year so it is good to get some of the classes out of the way that I might otherwise take then (and I might even learn something!). It isn't cheap though, that's for sure. I definitely have to look on it as investing in my future as classes cost a lot.
 

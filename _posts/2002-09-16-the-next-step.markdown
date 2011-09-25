@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-16 21:15:00'
 layout: post
+slug: the-next-step
+status: publish
 title: The Next Step...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '952'
+categories:
 - Society
 - Technology
-type: post
-status: publish
 ---
 <strong>Humanity, New and Improved</strong>
 

@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-04-18 10:56:35'
 layout: post
-title: Fire Art of Burning Man
-published: true
-meta: 
-  ljID: "2535"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Daily Life
-type: post
+slug: fire-art-of-burning-man
 status: publish
+title: Fire Art of Burning Man
+wordpress_id: '1670'
+categories:
+- Daily Life
 ---
 Leonardo Online, a publication of MIT, has an article on the "<a href="http://leonardo.info/gallery/burningman_fire/burningman.html">Fire Art of Burning Man</a>" up now. I recognize a number of the items there and almost all of them are amazing.
 

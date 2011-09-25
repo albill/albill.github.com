@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-01-13 23:58:34'
 layout: post
-title: Update on Operation Papertrail
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: update-on-operation-papertrail
 status: publish
+title: Update on Operation Papertrail
+wordpress_id: '665'
+categories:
+- Daily Life
 ---
 R and I are at a hotel in Denver. Let me tell you, Denver is not a place I  plan to visit again. It is easy to get around as the streets are in a grid but  it is all brown and pretty ugly. I wouldn't want to live here.
 

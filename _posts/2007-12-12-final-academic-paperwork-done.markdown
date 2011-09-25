@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-12-12 00:06:46'
 layout: post
-title: Final Academic Paperwork Done
-published: true
-meta: 
-  ljID: "3073"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
-- Academic
-type: post
+slug: final-academic-paperwork-done
 status: publish
+title: Final Academic Paperwork Done
+wordpress_id: '2134'
+categories:
+- Academic
 ---
 I sent in all of the forms for depositing my thesis with the appropriate parties today. This is the last paperwork I needed to complete for my program.
 

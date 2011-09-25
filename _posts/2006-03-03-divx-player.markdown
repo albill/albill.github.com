@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-03-03 03:40:06'
 layout: post
-title: DivX Player
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: divx-player
 status: publish
+title: DivX Player
+wordpress_id: '698'
+categories:
+- Technology
 ---
 If anyone is looking for a DivX player like the one I found in Bangkok, I  found two on ebay while looking at Buddhist statues. These are exactly the same  as mine which means that they play any DivX or Xvid files placed on them  directly onto your television.
 <ul>

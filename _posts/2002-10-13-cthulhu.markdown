@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2002-10-13 16:50:00'
 layout: post
-title: Cthulhu
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: cthulhu
 status: publish
+title: Cthulhu
+wordpress_id: '976'
+categories:
+- Science Fiction
 ---
 So, R and I trooped down to Scarecrow Video last night and rented "<a href="http://us.imdb.com/Title?0264508">Dagon</a>" on DVD. Woo hoo. Lovecraft!!
 

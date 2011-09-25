@@ -1,16 +1,14 @@
---- 
+---
+author: admin
+date: '2009-01-21 12:46:45'
 layout: post
+slug: learning-go
+status: publish
 title: Learning Go
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3461"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2632'
+categories:
 - Daily Life
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/3215396007/" title="goban"><img src="http://farm4.static.flickr.com/3411/3215396007_a7e9125cd2_m.jpg" align="right" width="229" height="240" alt="goban" /></a>I've been working on learning to play Go during this last week. Quite a few of my friends are players, including several who met through the local club in Seattle for it. For some reason, I've never learned to play over the years even though I've been exposed to it here and there. I've been a Chess player since I was a child, even being in the Chess Club in my middle school in Utah. I'm not a terribly great player of Chess but I manage to play well enough for sitting down with people and having a game.
 

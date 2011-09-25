@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-14 13:02:08'
 layout: post
-title: Ipod...dying...
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Technology
-type: post
+slug: ipoddying
 status: publish
+title: Ipod...dying...
+wordpress_id: '739'
+categories:
+- Technology
 ---
 I replaced my battery on my Ipod a couple of months ago. Well, I think that there is something wrong with the electrical on my Ipod besides the battery. I took it on my trip to the Bay Area the other day. I probably used it for a total of four or five hours the whole time. The other night, after I was back, I listened to it for about 20 minutes and it suddenly died. As it *poof*, sound dies, disiplay turns off. Hitting the buttons did nothing, not even an attempt to bring up the Apple logo and reboot.
 

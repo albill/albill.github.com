@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-07-12 00:05:57'
 layout: post
+slug: burning-man-2006
+status: publish
 title: Burning Man 2006
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1131'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I am going to Burning Man this year. It has been five years since I last went. Wow.
 

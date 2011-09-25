@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-03-14 12:48:15'
 layout: post
+slug: chinese-crackdown-on-tibetan-protests
+status: publish
 title: Chinese Crackdown on Tibetan Protests
-published: true
-meta: 
-  ljID: "3185"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2186'
+categories:
 - Buddhism
 - Society
-type: post
-status: publish
 ---
 <p align="center"><a href="http://www.flickr.com/photos/albill/2333851970/" title="Jokhand Temple and Fire by albill, on Flickr"><img src="http://farm3.static.flickr.com/2148/2333851970_94d260b46f_o.jpg" border="1" width="375" height="450" alt="Jokhand Temple and Fire" /><br></a><strong>Fire and Debris in Barkhor Square in front<br>of the 1400-year-old Jokhand Temple (Reuters)</strong></p>
 The crackdown in Tibet by the Chinese government on the protests occurring there has been all over the news in the last few days. These protests have been occurring to mark the anniversary of the 1959 uprising in Tibet, which forced the Dalai Lama to flee to India on the basis of the Chinese response. They have been ongoing and, seemingly, escalating since they began on Wednesday. 

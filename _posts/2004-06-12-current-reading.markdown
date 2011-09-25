@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-06-12 15:15:00'
 layout: post
-title: Current Reading
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Books
-type: post
+slug: current-reading
 status: publish
+title: Current Reading
+wordpress_id: '140'
+categories:
+- Books
 ---
 I just finished <strong><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765301938/">House of Reeds</a></strong> this morning, which I had received from the library after reading its precursor a couple of weeks ago. It was entertaining but nowhere near as complete as the first novel. I was about 3/4 of the way through the book when I realized that a lot of things either weren't going to happen or weren't going to be tied up in this book. There is a third book on the way, of course.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2008-02-19 01:37:41'
 layout: post
+slug: woohoo-mozillas-mailco-is-now-mozilla-messaging
+status: publish
 title: Woohoo! Mozilla's "MailCo" is now "Mozilla Messaging"!
-published: true
-meta: 
-  ljID: "3157"
-tags: 
+wordpress_id: '2175'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 <img src="http://www.arcanology.com/images/tb-logo.png" border="0" align="right" alt="Thunderbird">It was announced a number of months back that the Mozilla Corporation would be spinning off Thunderbird development into a new company. This company was code-named "MailCo" at the time. You can read posts about this by Mitchell Baker on her blog <a href="http://blog.lizardwrangler.com/2007/09/17/mozillas-new-focus-on-thunderbird-and-internet-communications/">here</a>, <a href="http://blog.lizardwrangler.com/2007/10/08/thunderbird-process-of-change-part-1/">here</a>, and <a href="http://blog.lizardwrangler.com/2007/10/08/thunderbird-proces-of-change-part-2/">here</a> for background on why MailCo was formed and its importance.
 

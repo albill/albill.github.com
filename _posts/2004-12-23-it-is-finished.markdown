@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-23 11:07:39'
 layout: post
-title: It is Finished
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: it-is-finished
 status: publish
+title: It is Finished
+wordpress_id: '337'
+categories:
+- Daily Life
 ---
 I took Freya to the vet. They gave her a sedative while I held her. When she was relaxed, they took her away for the IV to stop her heart. I didn't need to watch that. She was sweet at the end.
 

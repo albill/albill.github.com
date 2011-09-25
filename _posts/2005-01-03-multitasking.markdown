@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-01-03 14:46:56'
 layout: post
-title: Multitasking
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: multitasking
 status: publish
+title: Multitasking
+wordpress_id: '351'
+categories:
+- Society
 ---
 <p>An article out of the Seattle area about Multitasking and how we don&#39;t do it 
 very well. It also looks at the costs of it on people... Interesting reading.</p>

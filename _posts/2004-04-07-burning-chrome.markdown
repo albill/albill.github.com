@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-04-07 00:28:00'
 layout: post
-title: Burning Chrome
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: burning-chrome
 status: publish
+title: Burning Chrome
+wordpress_id: '83'
+categories:
+- Science Fiction
 ---
 <img src="http://burningcity.com/Chrome_Web_Images/Chrome_poster.jpg" border="1" align="right">They made a play out of <b>Burning Chrome</b> a few years back and it seems to have worked out well. Weird.
 

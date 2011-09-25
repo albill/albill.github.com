@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-06 23:11:17'
 layout: post
-title: Pagan Store Burned Down in Pacific Northwest
-published: true
-meta: 
-  ljID: "2279"
-tags: 
-- Esoteric
-type: post
+slug: pagan-store-burned-down-in-pacific-northwest
 status: publish
+title: Pagan Store Burned Down in Pacific Northwest
+wordpress_id: '1433'
+categories:
+- Esoteric
 ---
 The local pagan bookstore in Everett, Washington burned down recently. It is suspected that it may be arson.
 

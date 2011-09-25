@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2006-11-01 08:37:10'
 layout: post
-title: Panchos!
-published: true
-meta: 
-  ljID: "2275"
-tags: 
-- Daily Life
-type: post
+slug: panchos
 status: publish
+title: Panchos!
+wordpress_id: '1430'
+categories:
+- Daily Life
 ---
 R and I went to Pancho Villa's Restaurant last night. This is a kitschy place that I had read about. All of the waiters are dressed up as Pancho Villa and the place has an pseudo-old Mexicana decor. Lots of pictures on the walls from the 19th century (or early 20th century films about Pancho Villa). Good ambiance.
 

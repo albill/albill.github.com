@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-02 16:56:55'
 layout: post
-title: Apple Drops the Ball (surprise!)
-published: true
-meta: 
-  ljID: "2350"
-tags: 
-- Technology
-type: post
+slug: apple-drops-the-ball-surprise
 status: publish
+title: Apple Drops the Ball (surprise!)
+wordpress_id: '1504'
+categories:
+- Technology
 ---
 I got my Macbook back from Apple last night. This is the one that has destroyed (physically broken) a hard drive once every three months since I got it six months ago (that's twice, folks).
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-14 18:26:01'
 layout: post
-title: Open Source Golden Dawn in the news
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Spirituality
-type: post
+slug: open-source-golden-dawn-in-the-news
 status: publish
+title: Open Source Golden Dawn in the news
+wordpress_id: '284'
+categories:
+- Spirituality
 ---
 My friends at the Open Source Order of the Golden Dawn seem to be getting blog press today. Sam Webster, who did my wedding, is their founder.
 

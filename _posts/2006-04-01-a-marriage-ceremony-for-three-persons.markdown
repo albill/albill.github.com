@@ -1,15 +1,13 @@
---- 
+---
+author: admin
+date: '2006-04-01 01:57:26'
 layout: post
-title: A Marriage Ceremony for Three Persons
-published: true
-meta: 
-  ljID: "2745"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  ljxp_privacy: friends
-tags: 
-- Spirituality
-type: post
+slug: a-marriage-ceremony-for-three-persons
 status: publish
+title: A Marriage Ceremony for Three Persons
+wordpress_id: '723'
+categories:
+- Spirituality
 ---
 This is the marriage ceremony that I performed last Sunday. I am the "Celebrant" in this though I was copied down as "Buddhist Priest" on the marriage certificate by Rubylou. Rubylou and J are women. Drake is a man. Drake and J have been acquaintances and then friends of mine for about five years or so. Rubylou is one of my oldest friends at this point. She and I worked together in a bookstore in 1993 and 1994 and dated for a while about five or so years after that. She's a Christian of a more gnostic sort and attends a variety of places for services (between Catholicism and more open churches) along with retreats. Drake identifies as Catholic but has been involved in a Zendo off and on. I'm not sure about Jeliza's spiritual beliefs.
 

@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2004-06-07 23:26:00'
 layout: post
+slug: apple-users
+status: publish
 title: Apple Users...
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '136'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 I have <lj user="hotcrab"> to thank for this bit...
 

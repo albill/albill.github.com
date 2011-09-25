@@ -1,20 +1,16 @@
---- 
+---
+author: admin
+date: '2009-03-30 09:37:35'
 layout: post
+slug: how-not-to-begin-your-zen-retreat
+status: publish
 title: How not to begin your Zen retreat
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3501"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2726'
+categories:
 - Buddhism
 - Daily Life
 - Humor
 - Spirituality
-type: post
-status: publish
 ---
 Do not prepare for your Zen retreat, just before filling up the car with gear, by watching the first five minutes of this video:
 

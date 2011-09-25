@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-04 03:35:00'
 layout: post
-title: Grad School
-published: true
-meta: 
-  ljID: "2451"
-tags: 
-- Daily Life
-type: post
+slug: grad-school
 status: publish
+title: Grad School
+wordpress_id: '1588'
+categories:
+- Daily Life
 ---
 So, as some of you may remember, I&apos;ve been looking at going to Grad School but have to leave the nice paying job and now getting a house and soon getting married kind of get in the way of that (not to mention the lack of jobs for academics).
 

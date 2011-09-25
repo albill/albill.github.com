@@ -1,17 +1,15 @@
---- 
+---
+author: admin
+date: '2003-08-11 17:19:00'
 layout: post
+slug: notocon-overview
+status: publish
 title: Notocon Overview
-published: true
-meta: 
-  ljID: "2764"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1840'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 So R and I drove down to Notocon after leaving work in the mid-afternoon on Friday. We arrived, checked into the hotel and I managed to snag our badges right when registration for the con was closing, which is good since there was a dinner that evening. Apparantly, there was a note about my mother looking for me that was left as a joke but which people didn't read in the hurry to register me... ;-)Right after we got in, there was an opening BBQ outside for the event. R and I found my mother, her "husband," and various friends and greeted people. After we got food, I found out that the people at our table were from the lovely Knights Templar Oasis (KTO) in Boston. A number of these are people that I read quite often on LJ. I recognized <lj user="astarte93"> by her hair, of course. The BBQ was a lot of fun and the food was great.</lj>
 

@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-31 00:09:00'
 layout: post
-title: Notocon
-published: true
-meta: 
-  ljID: "2512"
-tags: 
-- Daily Life
-type: post
+slug: notocon
 status: publish
+title: Notocon
+wordpress_id: '1650'
+categories:
+- Daily Life
 ---
 Just over a week to <a href="http://www.notocon.org">Notocon</a>. 
 

@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-05-18 11:21:26'
 layout: post
+slug: cthulhu-vs-buddha
+status: publish
 title: Cthulhu vs. Buddha
-published: true
-meta: 
-  ljID: "2582"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1704'
+categories:
 - Buddhism
 - Daily Life
 - Science Fiction
-type: post
-status: publish
 ---
 I had a realization this morning that the <a href="http://en.wikipedia.org/wiki/Cthulhu_Mythos">Cthulhu Mythos</a> and Buddhism contain an opposite view of the cosmos from each other. Now, one can argue that the mythos is a literary (*ahem*) creation while Buddhism is a religion or philosophy deriving from a historical figure and his followers but that doesn't affect their respective views of the universe.
 

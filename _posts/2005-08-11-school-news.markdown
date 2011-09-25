@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2005-08-11 23:36:12'
 layout: post
+slug: school-news
+status: publish
 title: School News
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '524'
+categories:
 - Academic
 - Daily Life
-type: post
-status: publish
 ---
 <p>I received my copy of my final <b>World Religions</b> paper yesterday. I must 
 say that it, literally, looked like it had been inside that UPS package from the 

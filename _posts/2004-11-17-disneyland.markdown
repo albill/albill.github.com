@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-17 22:56:01'
 layout: post
-title: Disneyland
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: disneyland
 status: publish
+title: Disneyland
+wordpress_id: '287'
+categories:
+- Daily Life
 ---
 I'm on my second night in Los Angeles right now. I'm staying at the Disneyland Hotel while attending the Star West conference here. Star West is a QA conference and I'm down here with my boss and another coworker.
 

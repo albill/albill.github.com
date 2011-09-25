@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2002-09-06 03:11:00'
 layout: post
+slug: a-teaching-on-kurukulla-by-john-reynolds
+status: publish
 title: A Teaching on Kurukulla by John Reynolds
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-  no_lj: "1"
-tags: 
+wordpress_id: '939'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 From <a href="http://www.angelfire.com/vt/vajranatha/kurukulla.html">http://www.angelfire.com/vt/vajranatha/kurukulla.html</a>, a teaching by John Reynolds aka Vajranatha:
 <p align="center"><img src="http://www.arcanology.com/images/Kurukulla1.jpg" border="1" height="326" vspace="10" width="231" /></p>

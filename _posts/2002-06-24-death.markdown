@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-06-24 13:58:00'
 layout: post
+slug: death
+status: publish
 title: Death
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '859'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 My friend <a href="http://w3.one.net/~browe/">Ben Rowe</a> is dead. He died this last Thursday (6/20) from complications due to the chemo he was getting to treat his lung cancer. I received an e-mail from a family member telling me while I was out this weekend. Ben and I hadn't spoken a lot during the last two years. He'd been sick for much of it and hadn't been on the net much. He and I only met in the flesh once, about four or five years ago, when he came to town to visit another mutual friend but he and I had known each other from the old pagan/occult BBS networks back around 1990 or so. I'd known him for most of my adult life.
 

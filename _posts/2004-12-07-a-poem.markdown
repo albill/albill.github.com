@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-12-07 21:04:06'
 layout: post
-title: A Poem
-published: true
-meta: {}
-
-tags: 
-- Society
-type: post
+slug: a-poem
 status: publish
+title: A Poem
+wordpress_id: '314'
+categories:
+- Society
 ---
 William Gibson posted this in his blog: 
 <p>

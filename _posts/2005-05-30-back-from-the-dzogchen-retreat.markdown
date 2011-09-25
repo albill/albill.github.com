@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-05-30 11:00:59'
 layout: post
-title: Back from the Dzogchen Retreat
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: back-from-the-dzogchen-retreat
 status: publish
+title: Back from the Dzogchen Retreat
+wordpress_id: '466'
+categories:
+- Buddhism
 ---
 I just got back from the Dzogchen retreat that I was attending with Younge Khachab Rinpoche in Madison this last week. The last couple of days were very busy with a focus on Trekchod and Thogyal teachings. Most of the retreat was drawing from the Khandro Nyingtik, the "Heartdrop of the Dakinis" cycle of texts.
 

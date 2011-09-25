@@ -1,18 +1,14 @@
---- 
+---
+author: admin
+date: '2006-03-31 16:40:42'
 layout: post
+slug: podcasts-and-buddhism
+status: publish
 title: Podcasts and Buddhism
-published: true
-meta: 
-  enclosure: |
-    http://www.unfetteredmind.com/resources/audio/podcast/GDP%2001a.mp3
-    14392376
-    audio/mpeg
-
-tags: 
+wordpress_id: '722'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I need to get a car radio that plays mp3s. The common way that I listen to  podcasts is to download them in iTunes (because it is easier that way), burn  them to an audio CD (if they are less than 80 minutes) and then listen to them  in my car. This is kind of a pain in the ass. Leaving aside how long it takes me  to prep, it makes me use a few writable CD's a week and causes waste. One of my  coworkers bought a cheap stereo that simply plays mp3 files from a flash drive.  I'm considering doing the same since I have a 2 gig flash drive.
 

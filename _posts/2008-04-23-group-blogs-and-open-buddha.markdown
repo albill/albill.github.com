@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2008-04-23 01:40:07'
 layout: post
+slug: group-blogs-and-open-buddha
+status: publish
 title: Creating a Group Blog and Open Buddha
-published: true
-meta: 
-  ljID: "3221"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2209'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/2436267790/" title="Japanese Arhat by albill, on Flickr"><img src="http://farm3.static.flickr.com/2416/2436267790_15a7f07a1b_o.jpg" hspace="10" vspace="10" border="1" align="right" width="255" height="544" alt="Japanese Arhat" /></a> At this point, I am pretty willing to admit that <a href="http://www.openbuddha.com">Open Buddha</a> is a failure as a web forum or community site. I've had it up for over five months now and it just hasn't gelled. To really get a web forum going, you need a critical mass of interested parties and it just hasn't really happened. Part of it is undoubtably my own fault but it really is not easy to build a community from scratch.
 

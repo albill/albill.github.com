@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-11-12 14:25:08'
 layout: post
-title: The New York Times askes whether success will spoil Firefox
-published: true
-meta: 
-  no_lj: "1"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+slug: the-new-york-times-askes-whether-success-will-spoil-firefox
+status: publish
+title: 'The New York Times askes whether success will spoil Firefox '
+wordpress_id: '2046'
+categories:
 - Mozilla
 - Technology
-type: post
-status: publish
 ---
 Today in the New York Times, there is an article titled, "<a href="http://www.nytimes.com/2007/11/12/technology/12link.html">Will Success, or All That Money From Google, Spoil Firefox?</a>"
 

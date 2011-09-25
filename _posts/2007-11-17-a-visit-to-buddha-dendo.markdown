@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2007-11-17 21:21:34'
 layout: post
+slug: a-visit-to-buddha-dendo
+status: publish
 title: A Visit to Buddha Dendo
-published: true
-meta: 
-  ljID: "3034"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2114'
+categories:
 - Buddhism
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I went out to <a href="http://www.buddhadendo.org">Buddha Dendo</a> today, which is also known as the "California Tendai Monastery." This <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=18935+Ford+Flat+Rd+Middletown,+CA+95461&amp;sll=38.513788,-108.237305&amp;sspn=26.386725,42.539063&amp;ie=UTF8&amp;ll=38.785034,-122.717285&amp;spn=0.00644,0.010386&amp;z=17&amp;iwloc=addr&amp;om=1">site</a> is near Middletown, California and is about an hour north of the Napa Valley along a fairly winding two land state road. Buddha Dendo is 160 acres of land on Cobb Mountain at about 2500 feet. It is run by a Tendai priest, Keisho, as a hermitage for himself and a place for others to come to in order to participate in Tendai Buddhist ascetic practices.
 

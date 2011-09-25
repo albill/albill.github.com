@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-03-26 02:57:00'
 layout: post
-title: Going to Greece
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: going-to-greece
 status: publish
+title: Going to Greece
+wordpress_id: '1325'
+categories:
+- Daily Life
 ---
 R and I have figured out the details of our trip to Greece this evening...
 It is a pretty whirlwhind tour with only two weeks.

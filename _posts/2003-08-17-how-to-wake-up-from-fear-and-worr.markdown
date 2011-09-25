@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2003-08-17 05:56:00'
 layout: post
+slug: how-to-wake-up-from-fear-and-worr
+status: publish
 title: How to Wake Up from Fear and Worr
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-  no_lj: "1"
-tags: 
+wordpress_id: '1854'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 This is from Kilung Rinpoche, who is the Seattle area Buddhist teacher that I started working with a few months ago. He's a Nyingma lama who lives in Seattle for part of the year. This was given in November of 2001 on the two month anniversary of the 9/11 attacks.
 <hr width="50%" /><strong>How to Wake Up from Fear and Worry

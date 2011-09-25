@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-05-15 04:17:27'
 layout: post
+slug: the-five-precepts
+status: publish
 title: The Five Precepts
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}
-tags: 
+wordpress_id: '1085'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 When I undergo Jukai within the Tendai tradition in July, I will take a vow to follow the five precepts. This is something that I take very seriously and have been reflecting on recently.
 

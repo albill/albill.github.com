@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-09-04 19:23:04'
 layout: post
+slug: back-from-burning-man-2006
+status: publish
 title: Back from Burning Man 2006
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '1182'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 I made it back from Burning Man 2006 last night about midnight.
 

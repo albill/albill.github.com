@@ -1,20 +1,16 @@
---- 
+---
+author: admin
+date: '2010-05-30 15:45:25'
 layout: post
+slug: ace-monster-toys-a-hackerspace-in-formation
+status: publish
 title: Ace Monster Toys - a Hackerspace in Formation
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3639"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3157'
+categories:
 - Hacking
 - Mozilla
 - Society
 - Technology
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/albill/4653688665/" title="Ace Monster Toys Prototype Logo"><img src="http://farm5.static.flickr.com/4015/4653688665_f67c67b2d3_o.jpg" border="1" align="right" hspace="5" vspace="5" width="238" height="240" alt="Ace Monster Toys Prototype Logo" /></a>It is about time that I posted something that isn't entirely Buddhist related. I did update the description of this blog to "Open Source Buddhism, Technology, and Geekery" recently. I've been posting mostly about Buddhism for quite a while given my focus on "open source" Buddhist efforts but I am a geek that works professionally in Internet technology and I do have non-Buddhist interests!
 

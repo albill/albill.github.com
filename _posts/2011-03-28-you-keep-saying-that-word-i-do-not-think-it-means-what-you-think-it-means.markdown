@@ -1,19 +1,15 @@
---- 
+---
+author: admin
+date: '2011-03-28 11:44:43'
 layout: post
+slug: you-keep-saying-that-word-i-do-not-think-it-means-what-you-think-it-means
+status: publish
 title: You keep saying that word. I do not think it means what you think it means.
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _edit_last: "1"
-  aktt_tweeted: "1"
-  ljID: "3799"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '3627'
+categories:
 - Buddhism
 - Notable People
 - Spirituality
-type: post
-status: publish
 ---
 I was going to write a nice post about the three day retreat from which I just returned with my sangha. Instead, I'm writing, once again, about current Zen scandals. It is the gift that keeps on giving.
 

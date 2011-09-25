@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-01 00:13:27'
 layout: post
-title: Dee's Daughter of Fortitude
-published: true
-meta: {}
-
-tags: 
-- Spirituality
-type: post
+slug: dees-daughter-of-fortitude
 status: publish
+title: Dee's Daughter of Fortitude
+wordpress_id: '158'
+categories:
+- Spirituality
 ---
 <p>Received by Sir Edward Kelley with Dr. John Dee in 1595 as a communication from the spirits.</p>
 <p>Transcribed from Cotton Appendix XLVI, Division XII, &quot;Actio Tertio Trebonae 

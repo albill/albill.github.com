@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-07-29 18:10:19'
 layout: post
-title: Thailand!
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: thailand
 status: publish
+title: Thailand!
+wordpress_id: '518'
+categories:
+- Daily Life
 ---
 R and I are going to be going to Thailand at the end of September. This is in celebration of our first anniversary as a married couple. We had been planning on going to New Orleans but I wasn't feeling jazzed about it. We had been talking about going to Thailand off and on since last year.
 

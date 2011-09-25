@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2006-02-02 01:56:42'
 layout: post
+slug: vajrakilaya-retreat-and-thangka
+status: publish
 title: Vajrakilaya Retreat and Thangka
-published: true
-meta: 
-  ljID: "2741"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '679'
+categories:
 - Buddhism
 - Spirituality
-type: post
-status: publish
 ---
 I'm attending a weekend Vajrakilaya retreat with a local Nyingma center the weekend after this next. I've been looking forward to this for a while and it should be an all day and early evening affair on both days (starting on Friday night, actually). I'll have an online brother (an acquaintance but a friend of friends) coming down from Canada for this. I offered to let him crash at my place.
 

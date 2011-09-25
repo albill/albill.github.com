@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-11-13 00:50:00'
 layout: post
+slug: little-mothers-and-books
+status: publish
 title: Little Mothers and Books
-published: true
-meta: 
-  ljID: "2288"
-tags: 
+wordpress_id: '1443'
+categories:
 - Books
 - Science Fiction
-type: post
-status: publish
 ---
 I finished two novels this weekend that I had languishing in the wings. One I had started before my vacation and the other while away. Generally, when I travel, I try to take mostly books that I can give away or otherwise toss in order to lighten my load. I also take unstarted books in order not to carry paper that I've mostly read. Weird, I know.
 Before we left, I had started David Louis Edelman's <a href="http://www.amazon.com/Infoquake-Trilogy-David-Louis-Edelman/dp/1591024420/"><strong>Infoquake</strong></a>.  I was about two-thirds of the way through it when we left so I did not bring it. On the trip, I read a couple of novels but had not quite finished Greg Bear's <a href="http://www.amazon.com/Vitals-Greg-Bear/dp/0345423348/"><strong>Vitals</strong></a>, which had been recommended to me by my friend, Duane, who runs the science fiction section of the University of Washington Bookstore.

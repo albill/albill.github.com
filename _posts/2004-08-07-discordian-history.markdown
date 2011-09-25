@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-07 18:55:47'
 layout: post
-title: Discordian History
-published: true
-meta: {}
-
-tags: 
-- Esoteric
-type: post
+slug: discordian-history
 status: publish
+title: Discordian History
+wordpress_id: '199'
+categories:
+- Esoteric
 ---
 <a href="http://www.reason.com/0408/cr.bd.historia.shtml">http://www.reason.com/0408/cr.bd.historia.shtml</a>
 

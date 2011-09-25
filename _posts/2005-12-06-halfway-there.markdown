@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2005-12-06 01:33:43'
 layout: post
-title: Halfway There!
-published: true
-meta: {}
-
-tags: 
-- Academic
-type: post
+slug: halfway-there
 status: publish
+title: Halfway There!
+wordpress_id: '620'
+categories:
+- Academic
 ---
 I just turned in my final paper for my "Para-Rational Perspectives" class in my program. With this paper and term over, I have completed 15 semester credits towards my Master's degree. My program is a 30 credit program with six of them being done via my thesis.
 

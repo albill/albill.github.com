@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-11-10 16:31:30'
 layout: post
-title: Liberals return to work
-published: true
-meta: {}
-
-tags: 
-- Humor
-type: post
+slug: liberals-return-to-work
 status: publish
+title: Liberals return to work
+wordpress_id: '283'
+categories:
+- Humor
 ---
 From The Onion:
 

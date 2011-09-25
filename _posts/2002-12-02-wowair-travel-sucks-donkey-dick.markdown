@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-12-02 18:35:00'
 layout: post
+slug: wowair-travel-sucks-donkey-dick
+status: publish
 title: Wow...air travel sucks donkey dick
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1038'
+categories:
 - Daily Life
 - Spirituality
-type: post
-status: publish
 ---
 So, R and I got back from her folks' place at 11:00 pm last night via that cattlecar of the sky, the Boeing airplane. I don't blame Boeing though, I blame airlines. It wouldn't have been so bad if the security measures at our wonderful airports didn't require coming over two hours early to guarantee making your flight and if our flight hadn't left almost an hour late because of some dumbass' inability to go "hmmm...we have X gates and X+25 planes coming in... perhaps this could be a problem...." I'm convinced that the airlines and greyhound are in competition for the shittiest travel experience and it's a toss up right now. At least the airlines compress the misery into only a few hours (until I go to Greece).
 

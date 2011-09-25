@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2006-04-22 03:39:03'
 layout: post
+slug: pleiades
+status: publish
 title: Pleiades
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '751'
+categories:
 - Daily Life
 - Notable People
-type: post
-status: publish
 ---
 <img height="264" alt="Pleiades 2" src="http://static.flickr.com/28/100101206_ec9abd7a1c_o.jpg" width="352" border="1" />
 

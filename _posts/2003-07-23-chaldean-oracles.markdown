@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-23 02:19:00'
 layout: post
-title: Chaldean Oracles
-published: true
-meta: 
-  ljID: "2507"
-tags: 
-- Daily Life
-type: post
+slug: chaldean-oracles
 status: publish
+title: Chaldean Oracles
+wordpress_id: '1645'
+categories:
+- Daily Life
 ---
 One finds the weirdest things online. I just found a fairly decent introductory site on Hermetic magic and related topics. What is it for? People playing the game <b>Ars Magica</b>. Go figure.
 

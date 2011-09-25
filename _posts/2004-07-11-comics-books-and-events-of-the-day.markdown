@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-11 01:22:15'
 layout: post
-title: Comics, Books and Events of the Day
-published: true
-meta: 
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: comics-books-and-events-of-the-day
 status: publish
+title: Comics, Books and Events of the Day
+wordpress_id: '170'
+categories:
+- Daily Life
 ---
 <p>I'm getting a little reading in this weekend. On Friday, I started and finished <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0765304368/">Down and Out in the Magic Kingdom</a></b> by Cory Doctorow. I hadn't actually gotten around to reading more than the first chapter before but it is a short work and I read it cover to cover in a few hours. I read his<b> Eastern Standard Tribe</b> from a reviewer's copy before it came out, strangely enough.</p><p>Later last night, I started reading Charles Stross' <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/1930846258/">The Atrocity Archives</a></b>, which is his Cthulhu meets Computer Geeks meets Spry Thrillers book. I'm only about 50 pages into that though. I read <b>Singularity Sky</b> a month or two ago and I've been waiting for my copy of <b><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0441011594/">Iron Sunrise</a></b> (its sequel) to arrive. I should have just bought it at the U Bookstore today. I made the mistake of ordering it from Amazon the day it was released (it said &quot;usually ships in 24 hours&quot;), on Wednesday, and I'm still waiting for it to ship. The fucks. Never trust <a href="http://www.google.com/search?hl=en&ie=UTF-8&q=Jim+Bezos&btnG=Google+Search">Jim Bezos</a> to ship you anything on time. This happened the last time I pre-ordered something as well. All of my friends had it and were reading it while I was sitting around waiting for my book...</p><p>In any case, Doctorow and Stross are both of a breed: computer geeks who have turned into science fiction writers. There's probably a few more out there that I'm not thinking of (oh, yeah, Ken Schroeder). It's interesting to read fiction loaded with geek in-jokes, slashdot-type references, and technical terminology that is actually correct or mostly so. We'll see how well it dates in 20 years though. Neither goes completely overboard with it in my opinion but I'm definitely the target demographic.</p>
 <hr width="50%">

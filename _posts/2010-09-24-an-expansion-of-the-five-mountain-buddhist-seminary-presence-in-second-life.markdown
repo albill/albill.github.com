@@ -1,18 +1,15 @@
---- 
+---
+author: admin
+date: '2010-09-24 21:11:24'
 layout: post
+slug: an-expansion-of-the-five-mountain-buddhist-seminary-presence-in-second-life
+status: publish
 title: An Expansion of the Five Mountain Buddhist Seminary Presence in Second Life
-published: true
-meta: 
-  aktt_notify_twitter: "yes"
-  _wp_old_slug: ""
-  aktt_tweeted: "1"
-  ljID: "3696"
-tags: 
+wordpress_id: '3313'
+categories:
 - Buddhism
 - Spirituality
 - Technology
-type: post
-status: publish
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5021316933/" title="Five Mountain Seminary Sim - 1 by albill, on Flickr"><img src="http://farm5.static.flickr.com/4084/5021316933_87c2681420.jpg" width="500" height="313" alt="Five Mountain Seminary Sim - 1" /></a></p>
 The <a href="http://www.fivemountain.org/">Five Mountain Sangha</a> has been running a distance-based non-denominational Buddhist seminary for a few years now, the <a href="http://www.five-mountain.org">Five Mountain Buddhist Seminary</a>. This was originally created in order to educate our own priests and sangha members (I am an ordained priest within the Five Mountain Order). This was necessary because we do not have a single primary physical center of activity. Our presiding teacher, Rev. Paul Dōch’ŏng Lynch, resides in Southern California. Another of our senior priests (not me) resides in the Bay Area. We have another priest and center in Cincinnati, Ohio. In addition to this, we have members in New England and Texas as well. To accommodate such a physically separated group, we have set up retreats where we gather but also have embraced the use of Internet technologies, such as Skype, Second Life, and e-mail lists for information sharing, training, and student/teacher interaction. 

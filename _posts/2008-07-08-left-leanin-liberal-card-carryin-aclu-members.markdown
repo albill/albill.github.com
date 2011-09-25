@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2008-07-08 01:50:20'
 layout: post
+slug: left-leanin-liberal-card-carryin-aclu-members
+status: publish
 title: Left-leanin' Liberal Card Carryin' ACLU Members
-published: true
-meta: 
-  ljID: "3315"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '2261'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 They've finally done it. Government behavior has gotten so bad on things like this whole "Warrantless Wiretapping" mess that I broke down and joined the <a href="http://www.aclu.org">American Civil Liberties Union</a> (ACLU). While R has been a member for quite some time, I had never joined for a variety of minor reasons. I've been a member of the <a href="http://www.eff.org">Electronic Frontier Foundation</a> (EFF) for a while. The EFF is rather near and dear to my heart since it is focused on tech-related causes and I remember the incidents that caused it to be born (in fact, I was actually a member of the infamous Steve Jackson Games BBS, Illuminati Online, that was raided by the government, back in the day). I've met EFF leaders, heard them speak, and agree with most of what they are about.
 

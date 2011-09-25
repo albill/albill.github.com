@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-07-26 00:21:42'
 layout: post
-title: A Dzogchen Song
-published: true
-meta: 
-  no_lj: "1"
-tags: 
-- Buddhism
-type: post
+slug: a-dzogchen-song
 status: publish
+title: A Dzogchen Song
+wordpress_id: '192'
+categories:
+- Buddhism
 ---
 <h2 align="center">The Spontaneous Song of the Innate</h2>
 		<h3 align="center">The Supplication of Calling the Master from Afar</h3>

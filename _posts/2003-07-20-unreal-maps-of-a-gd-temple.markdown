@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2003-07-20 16:49:00'
 layout: post
-title: Unreal Maps of a GD Temple
-published: true
-meta: 
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-  no_lj: "1"
-tags: 
-- Daily Life
-type: post
+slug: unreal-maps-of-a-gd-temple
 status: publish
+title: Unreal Maps of a GD Temple
+wordpress_id: '1641'
+categories:
+- Daily Life
 ---
 This was on an e-mail list that I'm on but I found it interesting enough to link to. A fellow that I know made Unreal Tounament maps of a Golden Dawn temple and the Vault of the Adepti.
 

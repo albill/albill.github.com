@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2005-12-24 03:51:52'
 layout: post
+slug: merry-yule
+status: publish
 title: Merry Yule!
-published: true
-meta: 
-  ljID: "2593"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '647'
+categories:
 - Daily Life
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 R and I just got back from celebrating Yule with our friends, the Sargents.  Denny and Rebecca live fairly close to us and are the couple with the yurt in a  wooded area of their back yard. We've been celebrating full moons with them for  the last year or so and they hold a yule ritual and celebration at their place  every year. I've gone to this for a while. Denny has written a couple of popular  books on either global ritualism or western occult work. Rebecca, under her  writing name, has written a series of books for the "girlfriend witch" market  (as she calls it). They are both wonderful people and good friends.
 

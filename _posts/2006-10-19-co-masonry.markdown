@@ -1,16 +1,15 @@
---- 
+---
+author: admin
+date: '2006-10-19 21:20:52'
 layout: post
+slug: co-masonry
+status: publish
 title: Co-masonry?
-published: true
-meta: 
-  ljID: "2258"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1415'
+categories:
 - Daily Life
 - Society
 - Spirituality
-type: post
-status: publish
 ---
 A month ago, I had dinner in San Francisco with the master of the Santa Cruz co-masonic lodge and her husband (also a member). I was feeling out what they are doing and trying to get a sense of co-masonry. I've now gone through the traditional three "blue lodge" degrees in masonry (almost a year ago now) and have been considering whether to continue in it or not. I enjoy the ritual and the principles of Freemasonry but it is clearly dying. I'm not sure if I want to fight that uphill battle, especially when the existing masons, largely senior citizens, often want to fight any of the changes that would change masonry tooth and nail.
 

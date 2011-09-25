@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-08-04 11:36:07'
 layout: post
+slug: dont-fuck-with-defcon
+status: publish
 title: Don't Fuck with Defcon
-published: true
-meta: 
-  ljID: "2679"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
+wordpress_id: '1768'
+categories:
 - Humor
 - Technology
-type: post
-status: publish
 ---
 Two of the things that people should learn when dealing with hackers that show up to events like <a href="http://www.defcon.org/">Defcon</a> are:
 <ol>

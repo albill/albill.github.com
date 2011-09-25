@@ -1,17 +1,16 @@
---- 
+---
+author: admin
+date: '2008-03-17 19:58:38'
 layout: post
-title: E-sangha Drama Continues
-published: true
-meta: 
-  _edit_last: "1"
-  ljID: "3190"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}
-tags: 
-- Buddhism
-- e-sangha
-- Spirituality
-type: post
+slug: e-sangha-drama-continues
 status: publish
+title: E-sangha Drama Continues
+wordpress_id: '2188'
+categories:
+- Buddhism
+- Spirituality
+tags:
+- e-sangha
 ---
 <a href="http://www.flickr.com/photos/albill/2297873580/" title="Suushi_Mikoshi-nyudo by albill, on Flickr"><img border="1" align="right" src="http://farm4.static.flickr.com/3216/2297873580_7a2f593a26_m.jpg" width="240" height="214" hspace="10" vspace="10" alt="Suushi_Mikoshi-nyudo" /></a> Without a doubt, the entries on this blog that get the most traffic and comments over time are the ones to do with <a href="http://www.lioncity.net/buddhism/">E-sangha</a>. This is without any specific intention on my part but it seems to be where a lot of people arrive here. It may have something to do with the fact that if you search on "E-sangha" on Google, blog posts here are the sixth and seventh entries on the first page. 
 

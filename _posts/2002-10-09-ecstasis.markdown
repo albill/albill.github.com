@@ -1,14 +1,14 @@
---- 
+---
+author: admin
+date: '2002-10-09 19:49:00'
 layout: post
+slug: ecstasis
+status: publish
 title: Ecstasis
-published: true
-meta: {}
-
-tags: 
+wordpress_id: '973'
+categories:
 - Esoteric
 - Spirituality
-type: post
-status: publish
 ---
 I found this over on <a href="http://www.shadowplayzine.com">http://www.shadowplayzine.com</a> last week. There's quite a bit of goodness there. It's an article about the assumption of the Godform from a pagan perspective really. It's an interesting piece.
 <h3>ECSTASIS</h3>

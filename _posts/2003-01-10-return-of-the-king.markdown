@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-01-10 02:42:00'
 layout: post
-title: Return of the King...
-published: true
-meta: {}
-
-tags: 
-- Science Fiction
-type: post
+slug: return-of-the-king
 status: publish
+title: Return of the King...
+wordpress_id: '1236'
+categories:
+- Science Fiction
 ---
 ...will have a new character.
 

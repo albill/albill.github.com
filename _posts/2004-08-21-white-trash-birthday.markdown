@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2004-08-21 21:10:23'
 layout: post
-title: White Trash Birthday
-published: true
-meta: {}
-
-tags: 
-- Daily Life
-type: post
+slug: white-trash-birthday
 status: publish
+title: White Trash Birthday
+wordpress_id: '208'
+categories:
+- Daily Life
 ---
 <p>R and I just got back from Ashley&#39;s &quot;White Trash&quot; birthday party. The whole 
 party was themed along white trash lines. Many wife beaters, house coats, gimme 

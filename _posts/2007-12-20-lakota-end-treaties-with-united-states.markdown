@@ -1,15 +1,14 @@
---- 
+---
+author: admin
+date: '2007-12-20 12:41:12'
 layout: post
+slug: lakota-end-treaties-with-united-states
+status: publish
 title: Lakota End Treaties with United States
-published: true
-meta: 
-  ljID: "3086"
-  _podPressPostSpecific: a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}
-tags: 
+wordpress_id: '2142'
+categories:
 - Daily Life
 - Society
-type: post
-status: publish
 ---
 This is the odd news of the day. You can  <a href="http://rawstory.com/news/2007/Descendants_of_Sitting_Bull_Crazy_Horse_1220.html">read the full story</a> but the <a href="http://en.wikipedia.org/wiki/Lakota_people">Lakota people</a> have decided to end their treaties (generally not signed willingly) with the United States.
 <blockquote>The Lakota Indians, who gave the world legendary warriors Sitting Bull and Crazy Horse, have withdrawn from treaties with the United States, leaders said Wednesday.

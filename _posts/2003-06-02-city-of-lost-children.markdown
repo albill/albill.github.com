@@ -1,13 +1,13 @@
---- 
+---
+author: admin
+date: '2003-06-02 03:40:00'
 layout: post
-title: City of Lost Children
-published: true
-meta: 
-  ljID: "2450"
-tags: 
-- Daily Life
-type: post
+slug: city-of-lost-children
 status: publish
+title: City of Lost Children
+wordpress_id: '1587'
+categories:
+- Daily Life
 ---
 R and I watched <b>The City of Lost Children</b> tonight on the Tivo. We&apos;d both only seen it once before and it has been quite a while. It seems a fairly unique movie and I&apos;m surprised in ways. It&apos;s like a French Tim Burton movie or something. It was fun to watch though.
 

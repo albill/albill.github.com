@@ -1,14 +1,13 @@
---- 
+---
+author: admin
+date: '2007-01-21 18:06:47'
 layout: post
-title: Japanese Tea Garden
-published: true
-meta: 
-  ljID: "2373"
-  _podPressPostSpecific: s:269:"a:6:{s:15:\"itunes:subtitle\";s:15:\"##PostExcerpt##\";s:14:\"itunes:summary\";s:15:\"##PostExcerpt##\";s:15:\"itunes:keywords\";s:17:\"##WordPressCats##\";s:13:\"itunes:author\";s:10:\"##Global##\";s:15:\"itunes:explicit\";s:2:\"No\";s:12:\"itunes:block\";s:2:\"No\";}";
-tags: 
-- Daily Life
-type: post
+slug: japanese-tea-garden
 status: publish
+title: Japanese Tea Garden
+wordpress_id: '1528'
+categories:
+- Daily Life
 ---
 Along with visiting the Asian Art Museum yesterday, R and I also went to Golden Gate Park to visit the Japanese Tea Garden there. R had never been there even though she grew up in the area and I'd been wanting to visit it since we moved here.
 
