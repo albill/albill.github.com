@@ -1423,7 +1423,7 @@ Rev. 2a: Sep 2005: Minor corrections, thanks to yukan@daolao.ru. (in  progress) 
 
 <a name="preface">
 
-<h3>PREFACE</h3>
+## PREFACE
 
 </a>
 
@@ -1445,7 +1445,7 @@ Daisetz Teitaro  Suzuki
 
 <a name="introduction">
 
-<h3>INTRODUCTION</h3>
+## INTRODUCTION
 
 </a>
 
@@ -1771,7 +1771,7 @@ A special index to the Sutra is being prepared and will be issued  before long a
 
 <a name="chap1">
 
-<h3>[CHAPTER ONE]</h3>
+## [CHAPTER ONE]
 
 </a>
 
@@ -1969,7 +1969,7 @@ The First Chapter Called "Ravana Asking for Instruction."<sup>1</sup>
 
 <a name="chap2">
 
-<h3>[CHAPTER TWO]</h3>
+## [CHAPTER TWO]
 
 </a> <a name="I">
 
@@ -3291,7 +3291,7 @@ Here Ends the Second Chapter, [Known as] the "Collection of All the  Dharmas," T
 
 <a name="chap3">
 
-<h3>[CHAPTER THREE]</h3>
+## [CHAPTER THREE]
 
 </a> <a name="LVII">
 
@@ -4141,7 +4141,7 @@ Here Ends the Third Chapter, "On Impermanency," in the <em>Lankavatara-Mahayana-
 
 <a name="chap4">
 
-<h3>[CHAPTER FOUR]</h3>
+## [CHAPTER FOUR]
 
 </a> <a name="LXXX">
 
@@ -4195,7 +4195,7 @@ The Fourth Chapter, "On Intuitive Understanding."
 
 <a name="chap5">
 
-<h3>[CHAPTER FIVE]</h3>
+## [CHAPTER FIVE]
 
 </a> <a name="LXXXI">
 
@@ -4225,7 +4225,7 @@ Here Ends the Fifth Chapter, "On the Deduction of the Permanency and  Impermanen
 
 <a name="chap6">
 
-<h3>[CHAPTER SIX]</h3>
+## [CHAPTER SIX]
 
 </a> <a name="LXXXII">
 
@@ -4419,7 +4419,7 @@ Here Ends the Sixth Chapter "On Momentariness."
 
 <a name="chap7">
 
-<h3>[CHAPTER SEVEN]</h3>
+## [CHAPTER SEVEN]
 
 </a> <a name="LXXXIX">
 
@@ -4463,7 +4463,7 @@ Here Ends the Seventh Chapter, "On Transformation."
 
 <a name="chap8">
 
-<h3>[CHAPTER EIGHT]</h3>
+## [CHAPTER EIGHT]
 
 </a>
 
@@ -4581,7 +4581,7 @@ Here Ends the Eighth Chapter, "On Meat-eating," from the <em>Lankavatara,</em> t
 
 <a name="chap9">
 
-<h3>[CHAPTER NINE]<sup>1</sup></h3>
+## [CHAPTER NINE]<sup>1</sup>
 
 </a>
 
@@ -4605,7 +4605,7 @@ Here Ends the Ninth Chapter Called "Dharani" in the <em>Lankavatara</em>.
 
 <a name="sagathakam">
 
-<h3>[SAGATHAKAM]<sup>1</sup></h3>
+## [SAGATHAKAM]<sup>1</sup>
 
 </a>
 

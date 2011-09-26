@@ -210,7 +210,7 @@ A collection of 100 koans, originally compiled in the 12th century by Wanshi Sho
 99. <a href="#99">Unmon's Bowl And Pail</a></TD></TR></TABLE></p>
 
 
-###<a name="01"></a>Case 1: The World-Honored One [1]### Ascends to the Rostrum [2]
+###<a name="01"></a>Case 1: The World-Honored One <sup>1</sup>### Ascends to the Rostrum <sup>2</sup>
 
 One day, the World-Honored One ascended to the rostrum. Manjusri struck the
 
@@ -222,11 +222,11 @@ table with the gavel and said,
 
 Thereupon, the World-Honored One descended from the rostrum.
 
-[1]: i.e. the Buddha.
+<sup>1</sup>: i.e. the Buddha.
 
-[2]: see case 92 of Hekiganroku.
+<sup>2</sup>: see case 92 of Hekiganroku.
 
-###<a name="02"></a>Case 2: Bodhidharma's "Vast and Void" [1]
+###<a name="02"></a>Case 2: Bodhidharma's "Vast and Void" <sup>1</sup>
 
 Emperor Bu of Ryo asked Great Master Bodhidharma,
 
@@ -250,7 +250,7 @@ Finally, Bodhidharma crossed the Yangtse River and came to the Shorin Temple.
 
 There he sat for nine years, facing the wall.
 
-[1]: see case 1 of Hekiganroku.
+<sup>1</sup>: see case 1 of Hekiganroku.
 
 ###<a name="03"></a>Case 3: The Indian King Invites the Patriarch
 
@@ -262,13 +262,13 @@ for a meal. The king asked,
 
 The patriarch said,
 
-  "The poor way [1] does not stay in the world of subject when breathing in,
+  "The poor way <sup>1</sup> does not stay in the world of subject when breathing in,
 
    and has nothing to do with the world of objects when breathing out. I am
 
    always reciting the suchness-sutra in millions and millions of volumes."
 
-[1]: i.e., "I."
+<sup>1</sup>: i.e., "I."
 
 ###<a name="04"></a>Case 4: The World-Honored One Points to the Ground
 
@@ -278,13 +278,13 @@ ground with his hand and said,
 
   "This place is good for building a temple."
 
-Indra [1] took a stalk of grass and stuck it in the ground and said,
+Indra <sup>1</sup> took a stalk of grass and stuck it in the ground and said,
 
   "The temple has been built."
 
 The World-Honored One smiled.
 
-[1]: Exactly: Sakra Devendra. The lord god of the Trayastrimasa Heaven.
+<sup>1</sup>: Exactly: Sakra Devendra. The lord god of the Trayastrimasa Heaven.
 
 ###<a name="05"></a>Case 5: Seigen's "Price of Rice"
 
@@ -296,7 +296,7 @@ Seigen said,
 
   "What is the price of rice in Roryo?" 
 
-###<a name="06"></a>Case 6: Master Ba's "White and Black" [1]
+###<a name="06"></a>Case 6: Master Ba's "White and Black" <sup>1</sup>
 
 A monk asked Great Master Ba,
 
@@ -330,7 +330,7 @@ The monk told Great Master Ba about it. Great Master said,
 
    "Chizo's head is white, Kai's head is black."
 
-[1]: see case 73 of Hekiganroku.
+<sup>1</sup>: see case 73 of Hekiganroku.
 
 ###<a name="07"></a>
 
@@ -354,15 +354,15 @@ temple steward followed him and asked,
 
 Yakusan said,
 
-  "For sutras, there are sutra specialists; for sastras [1], there are
+  "For sutras, there are sutra specialists; for sastras <sup>1</sup>, there are
 
-   sastra specialists. Why do you have doubts about this old monk [2] ?"
+   sastra specialists. Why do you have doubts about this old monk <sup>2</sup> ?"
 
-[1]: Books on Buddhist doctrines, written by ancient Buddhist philosophers.
+<sup>1</sup>: Books on Buddhist doctrines, written by ancient Buddhist philosophers.
 
-[2]: i.e. Yakusan.
+<sup>2</sup>: i.e. Yakusan.
 
-###<a name="08"></a>Case 8: Hyakujo and the Fox [1]
+###<a name="08"></a>Case 8: Hyakujo and the Fox <sup>1</sup>
 
 Whenever Master Hyakujo delivered a sermon, an old man was always there
 
@@ -390,9 +390,9 @@ Hyakujo said,
 
 Upon hearing this, the old man became greatly enlightened.
 
-[1]: see case 2 of Mumonkan.
+<sup>1</sup>: see case 2 of Mumonkan.
 
-###<a name="09"></a>Case 9: Nansen Kills a Cat [1]
+###<a name="09"></a>Case 9: Nansen Kills a Cat <sup>1</sup>
 
 Once the monks of the eastern and western Zen halls in Nansen's temple were
 
@@ -408,9 +408,9 @@ them upon his head and went away. Nansen said,
 
   "If you had been there, I could have spared the cat."
 
-[1]: see case 14 of Mumonkan and cases 63 and 64 of Hekiganroku.
+<sup>1</sup>: see case 14 of Mumonkan and cases 63 and 64 of Hekiganroku.
 
-###<a name="10"></a>Case 10: An Old Woman near Taizan [1]
+###<a name="10"></a>Case 10: An Old Woman near Taizan <sup>1</sup>
 
 There was an old woman on the way to Taizan. Whenever a monk asked her how to
 
@@ -428,7 +428,7 @@ and said,
 
   "I have seen through the old woman for you."
 
-[1]: see case 31 of Mumonkan.
+<sup>1</sup>: see case 31 of Mumonkan.
 
 ###<a name="11"></a>Case 11: Unmon's "Two Diseases"
 
@@ -494,7 +494,7 @@ When Rinzai was about to die, he entrusted Sansho with his Dharma and said,
 
   "After my passing, do not destroy my treasury of the Eye of the true
 
-   Dharma [1]."
+   Dharma <sup>1</sup>."
 
 Sansho said,
 
@@ -510,7 +510,7 @@ Sansho instantly shouted his Kaatz. Rinzai said,
 
    destroyed by this blind donkey?"
 
-[1]: Originally: shobogenzo.
+<sup>1</sup>: Originally: shobogenzo.
 
 ###<a name="14"></a>Case 14: Attendant Kaku Offers Tea
 
@@ -558,7 +558,7 @@ chest. Isan said,
 
 Kyozan took up his hoe and left immediately.
 
-###<a name="16"></a>Case 16: Mayoku Shook the Ring-Staff [1]
+###<a name="16"></a>Case 16: Mayoku Shook the Ring-Staff <sup>1</sup>
 
 Mayoku, with his ring-staff in hand, came to Shokei. He circled Shokei's dais
 
@@ -584,7 +584,7 @@ Nansen said,
 
    but a whirling of the wind. In the end, it will perish."
 
-[1]: see case 31 of Hekiganroku.
+<sup>1</sup>: see case 31 of Hekiganroku.
 
 ###<a name="17"></a>Case 17: Hogen's "Hairsbreadth"
 
@@ -592,7 +592,7 @@ Hogen asked Shuzanshu,
 
   "'If there is only a hairsbreadth of difference, it is the distance between
 
-   heaven and earth.'[1] How do you understand that?"
+   heaven and earth.'<sup>1</sup> How do you understand that?"
 
 Shuzanshu said,
 
@@ -616,11 +616,11 @@ Hogen said,
 
 Shuzanshu made a deep bow.
 
-[1]: Cited from the Shinjinmei (A Hymn of Sincere Mind), a work by the Third
+<sup>1</sup>: Cited from the Shinjinmei (A Hymn of Sincere Mind), a work by the Third
 
      Patriarch Sosan. See also Miscellaneous Koans 21-2.
 
-###<a name="18"></a>Case 18: Joshu's Dog [1]
+###<a name="18"></a>Case 18: Joshu's Dog <sup>1</sup>
 
 A monk asked Joshu,
 
@@ -628,7 +628,7 @@ A monk asked Joshu,
 
 Joshu said,
 
-  "It has" [U].
+  "It has" <sup>U</sup>.
 
 The monk said,
 
@@ -644,21 +644,21 @@ Another monk asked,
 
 Joshu said,
 
-  "It has not" [Mu].
+  "It has not" <sup>Mu</sup>.
 
 The monk said,
 
-  "All living beings have buddha-nature [2]. Why doesn't the dog have any?"
+  "All living beings have buddha-nature <sup>2</sup>. Why doesn't the dog have any?"
 
 Joshu said,
 
   "Because it is in its karma-consciousness."
 
-[1]: see case 1 of Mumonkan: the Shoyoroku case presents a fuller text of
+<sup>1</sup>: see case 1 of Mumonkan: the Shoyoroku case presents a fuller text of
 
      the dialogue.
 
-[2]: Quotation from the Nirvana Sutra 7, 25.
+<sup>2</sup>: Quotation from the Nirvana Sutra 7, 25.
 
 ###<a name="19"></a>Case 19: Unmon's "Mt. Sumeru"
 
@@ -668,9 +668,9 @@ A monk asked Unmon,
 
 Unmon said,
 
-  "Mt. Sumeru. [1]"
+  "Mt. Sumeru. <sup>1</sup>"
 
-[1]: The highest and most massive mountain in the world according to the
+<sup>1</sup>: The highest and most massive mountain in the world according to the
 
      Indian cosmology.
 
@@ -678,11 +678,11 @@ Unmon said,
 
 Jizo asked Hogen,
 
-  "Where are you going, senior monk? [1]"
+  "Where are you going, senior monk? <sup>1</sup>"
 
 Hogen said,
 
-  "I am on pilgrimage [2], following the wind."
+  "I am on pilgrimage <sup>2</sup>, following the wind."
 
 Jizo said,
 
@@ -698,11 +698,11 @@ Jizo said,
 
 Hogen suddenly attained great enlightenment.
 
-[1]: "Senior monk" (joza) is an honorific for a monk who has practiced more
+<sup>1</sup>: "Senior monk" (joza) is an honorific for a monk who has practiced more
 
      than 10 years.
 
-[2]: Originally: angya.
+<sup>2</sup>: Originally: angya.
 
 ###<a name="21"></a>Case 21: Ungan Sweeps the Ground
 
@@ -762,23 +762,23 @@ of this, Nansen said,
 
   "I usually tell my people to realize what has existed before the kalpa of
 
-   emptiness [1], or to understand what has been before Buddhas appeared in
+   emptiness <sup>1</sup>, or to understand what has been before Buddhas appeared in
 
    the world. Still, I haven't acknowledged one disciple or even a half. If
 
-   he continues that way, he will go on even until the year of the donkey [2]."
+   he continues that way, he will go on even until the year of the donkey <sup>2</sup>."
 
-[1]: One of the "four kalpas" or periods of cosmic changes: the kalpa of
+<sup>1</sup>: One of the "four kalpas" or periods of cosmic changes: the kalpa of
 
      creation, the kalpa of existence, the kalpa of destruction, and the kalpa
 
      of emptiness.
 
-[2]: Since there is no "year of the donkey" in the Chinese zodiac, the
+<sup>2</sup>: Since there is no "year of the donkey" in the Chinese zodiac, the
 
      expression "until the year of donkey" means endlessly.
 
-###<a name="24"></a>Case 24: Seppo's "Look at the Snake" [1]
+###<a name="24"></a>Case 24: Seppo's "Look at the Snake" <sup>1</sup>
 
 Seppo, instructing the assembly, said,
 
@@ -794,7 +794,7 @@ Chokei said,
 
 A monk told this to Gensha, who said,
 
-  "Only Elder Brother Ryo [2] could say something like that. However,
+  "Only Elder Brother Ryo <sup>2</sup> could say something like that. However,
 
    I wouldn't talk like that."
 
@@ -808,11 +808,11 @@ Gensha replied,
 
 Unmon threw his staff in front of Seppo and acted frightened.
 
-[1]: see case 22 of Hekiganroku.
+<sup>1</sup>: see case 22 of Hekiganroku.
 
-[2]: i.e. Chokei.
+<sup>2</sup>: i.e. Chokei.
 
-###<a name="25"></a>Case 25: Enkan's "Rhinoceros Fan" [1]
+###<a name="25"></a>Case 25: Enkan's "Rhinoceros Fan" <sup>1</sup>
 
 One day, Enkan called to his attendant,
 
@@ -828,37 +828,37 @@ Enkan said,
 
 The attendant gave no answer.
 
-Shifuku drew a circle and wrote the ideograph "ox [2]" in it.
+Shifuku drew a circle and wrote the ideograph "ox <sup>2</sup>" in it.
 
-[1]: see case 91 of Hekiganroku.
+<sup>1</sup>: see case 91 of Hekiganroku.
 
-[2]:  The Chinese character for "ox" (gyu) is one of the two characters for
+<sup>2</sup>:  The Chinese character for "ox" (gyu) is one of the two characters for
 
      "rhinoceros" (saigyu = sai + gyu).
 
 ###<a name="26"></a>Case 26: Kyozan Points to Snow
 
-Kyozan pointed to the snow lion [1] and said,
+Kyozan pointed to the snow lion <sup>1</sup> and said,
 
-  "Is there any [2] that goes beyond this color?"
+  "Is there any <sup>2</sup> that goes beyond this color?"
 
-Unmon said [3],
+Unmon said <sup>3</sup>,
 
   "I would have pushed it over for him at once."
 
-Setcho said [4],
+Setcho said <sup>4</sup>,
 
   "He only knows how to push it over, but he doesn't know how to help it up."
 
-[1]: Probably a lion made of snow or a stone lion covered with snow.
+<sup>1</sup>: Probably a lion made of snow or a stone lion covered with snow.
 
-[2]: I.e., "anyone" or "anything."
+<sup>2</sup>: I.e., "anyone" or "anything."
 
-[3]: I.e., later.
+<sup>3</sup>: I.e., later.
 
-[4]: I.e., hearing of this.
+<sup>4</sup>: I.e., hearing of this.
 
-###<a name="27"></a>Case 27: Hogen Points to the Bamboo Blinds [1]
+###<a name="27"></a>Case 27: Hogen Points to the Bamboo Blinds <sup>1</sup>
 
 Hogen pointed to the bamboo blinds with his hand. At that moment, two monks
 
@@ -868,7 +868,7 @@ Hogen said,
 
   "One has gained, one has lost."
 
-[1]: see case 26 of Mumonkan.
+<sup>1</sup>: see case 26 of Mumonkan.
 
 ###<a name="28"></a>Case 28: Gokoku's "Three Disgraces"
 
@@ -890,37 +890,37 @@ Gokoku said,
 
 The monk asked,
 
-  "At the time of the Esho Persecution [1], where did the good Guardian
+  "At the time of the Esho Persecution <sup>1</sup>, where did the good Guardian
 
-   Deities [2] of the Dharma go?"
+   Deities <sup>2</sup> of the Dharma go?"
 
 Gokoku said,
 
   "It is a disgrace for the two of them on both sides of the temple gate."
 
-[1]: Buddhism was suppressed by order of Emperor Bu (about 840).
+<sup>1</sup>: Buddhism was suppressed by order of Emperor Bu (about 840).
 
-[2]: Nio-figures representing the two Deva kings on each side of the main gate
+<sup>2</sup>: Nio-figures representing the two Deva kings on each side of the main gate
 
      of a Buddhist temple. They are considered to be protectors of the Dharma.
 
-###<a name="29"></a>Case 29: Fuketsu's "Iron Ox" [1]
+###<a name="29"></a>Case 29: Fuketsu's "Iron Ox" <sup>1</sup>
 
 When he was staying at the government office of the Province Ei, Fuketsu
 
-entered the hall [to preach] and said,
+entered the hall <sup>to preach</sup> and said,
 
-  "The heart seal [stamp] of the patriarch resembles the activity of the iron
+  "The heart seal <sup>stamp</sup> of the patriarch resembles the activity of the iron
 
-   ox. When it goes away, the [impression of the] seal remains; when it stays
+   ox. When it goes away, the <sup>impression of the</sup> seal remains; when it stays
 
-   there, the [impression of the] seal is brought to naught. If it neither
+   there, the <sup>impression of the</sup> seal is brought to naught. If it neither
 
-   goes away nor stays, would it be right to give a seal [of approval] or not?"
+   goes away nor stays, would it be right to give a seal <sup>of approval</sup> or not?"
 
 Then Elder Rohi came up and said,
 
-  "I have the activities of the iron ox. [However,] I ask you, Master, not to
+  "I have the activities of the iron ox. <sup>However,</sup> I ask you, Master, not to
 
    give me the seal."
 
@@ -964,13 +964,13 @@ The Magistrate said,
 
 Fuketsu descended from the rostrum.
 
-[1]: see case 38 of Hekiganroku.
+<sup>1</sup>: see case 38 of Hekiganroku.
 
-###<a name="30"></a>Case 30: Daizui's "Kalpa Fire" [1]
+###<a name="30"></a>Case 30: Daizui's "Kalpa Fire" <sup>1</sup>
 
 A monk asked Daizui,
 
-  "When the great kalpa fire bursts out, the whole universe [2] will be
+  "When the great kalpa fire bursts out, the whole universe <sup>2</sup> will be
 
    destroyed. I wonder if IT will also be destroyed or not."
 
@@ -980,7 +980,7 @@ Daizui said,
 
 The monk said,
 
-  "If so, will IT be gone with the other [3]?"
+  "If so, will IT be gone with the other <sup>3</sup>?"
 
 Daizui said,
 
@@ -1004,15 +1004,15 @@ Ryusai said,
 
   "Because it is the same as the whole universe."
 
-[1]: see case 29 of Hekiganroku: The Shoyoroku case has an additional part
+<sup>1</sup>: see case 29 of Hekiganroku: The Shoyoroku case has an additional part
 
      with Ryusai.
 
-[2]: Literally: "a billion worlds."
+<sup>2</sup>: Literally: "a billion worlds."
 
-[3]: The word "the other" means "the universe."
+<sup>3</sup>: The word "the other" means "the universe."
 
-###<a name="31"></a>Case 31: Unmon's "Pillar" [1]
+###<a name="31"></a>Case 31: Unmon's "Pillar" <sup>1</sup>
 
 Unmon, instructing the assembly, said,
 
@@ -1024,7 +1024,7 @@ The assembly was silent. He said on their behalf,
 
   "Clouds gather over the South Mountain; rain falls on the North Mountain."
 
-[1]: see case 83 Hekiganroku.
+<sup>1</sup>: see case 83 Hekiganroku.
 
 ###<a name="32"></a>Case 32: Kyozan's Mind and Objective World
 
@@ -1046,7 +1046,7 @@ The monk said,
 
 Kyozan said,
 
-  "That which thinks is the mind [1]. That which is thought about is the
+  "That which thinks is the mind <sup>1</sup>. That which is thought about is the
 
    objective world. Within that are mountains, rivers and the great earth,
 
@@ -1076,9 +1076,9 @@ Kyozan said,
 
    on clothes, from now on you see by yourself."
 
-[1]: Originally: kokoro.
+<sup>1</sup>: Originally: kokoro.
 
-###<a name="33"></a>Case 33: Sansho's "Golden Scales" [1]
+###<a name="33"></a>Case 33: Sansho's "Golden Scales" <sup>1</sup>
 
 Sansho asked Seppo,
 
@@ -1098,9 +1098,9 @@ Seppo said,
 
   "The old monk is just too busy with temple affairs."
 
-[1]: see case 49 of Hekiganroku.
+<sup>1</sup>: see case 49 of Hekiganroku.
 
-###<a name="34"></a>Case 34: Fuketsu's "Speck of Dust" [1]
+###<a name="34"></a>Case 34: Fuketsu's "Speck of Dust" <sup>1</sup>
 
 Fuketsu, giving instruction, said,
 
@@ -1112,7 +1112,7 @@ Setcho held up his staff and said,
 
   "Is there anyone who lives and dies with this?"
 
-[1]: see case 61 Hekiganroku.
+<sup>1</sup>: see case 61 Hekiganroku.
 
 ###<a name="35"></a>Case 35: Rakuho's Obeisance
 
@@ -1128,7 +1128,7 @@ Rakuho said,
 
 Kassan said,
 
-  "Before my eyes there is no you, and here there is no old monk [1]."
+  "Before my eyes there is no you, and here there is no old monk <sup>1</sup>."
 
 Rakuho shouted,
 
@@ -1146,9 +1146,9 @@ Kassan said,
 
 Rakuho said nothing. Kassan hit him. With this, Rakuho started to obey Kassan.
 
-[1]: I.e., "I."
+<sup>1</sup>: I.e., "I."
 
-###<a name="36"></a>Case 36: Master Ba Is Ill [1]
+###<a name="36"></a>Case 36: Master Ba Is Ill <sup>1</sup>
 
 Great Master Ba was seriously ill. The temple steward asked him,
 
@@ -1158,7 +1158,7 @@ Great Master said,
 
   "Sun-faced Buddha, Moon-faced Buddha."
 
-[1]: see case 3 of Hekiganroku.
+<sup>1</sup>: see case 3 of Hekiganroku.
 
 ###<a name="37"></a>Case 37: Isan's "Karma-Consciousness"
 
@@ -1190,7 +1190,7 @@ Rinzai instructed his assembly and said,
 
   "There is one true person of no rank, always coming out and going in
 
-   through the gates of your face [1]. Beginners who have not yet witnessed
+   through the gates of your face <sup>1</sup>. Beginners who have not yet witnessed
 
    that, look! look!"
 
@@ -1204,9 +1204,9 @@ Rinzai pushed him away and said,
 
   "The true person of no rank -- what a shit-stick you are!"
 
-[1]: I.e., sense organs such as eyes, nose, ears, tongue, etc.
+<sup>1</sup>: I.e., sense organs such as eyes, nose, ears, tongue, etc.
 
-###<a name="39"></a>Case 39: Joshu's "Wash Your Bowls" [1]
+###<a name="39"></a>Case 39: Joshu's "Wash Your Bowls" <sup>1</sup>
 
 A monk asked Joshu,
 
@@ -1226,13 +1226,13 @@ Joshu said,
 
   "Then wash your bowls."
 
-[1]: see case 7 of Mumonkan.
+<sup>1</sup>: see case 7 of Mumonkan.
 
 ###<a name="40"></a>Case 40: Unmon's "White and Black"
 
 Unmon asked Kempo,
 
-  "May I ask for your answer [1]?"
+  "May I ask for your answer <sup>1</sup>?"
 
 Kempo said,
 
@@ -1248,13 +1248,13 @@ Kempo said,
 
 Unmon said,
 
-  "I thought I was Marquis White, but I find that here is Marquise Black [2]."
+  "I thought I was Marquis White, but I find that here is Marquise Black <sup>2</sup>."
 
-[1]: A literal translation. It is possible to understand the word simply as
+<sup>1</sup>: A literal translation. It is possible to understand the word simply as
 
      "instruction."
 
-[2]: Marquis White and Marquise Black are noted thieves in Chinese folklore.
+<sup>2</sup>: Marquis White and Marquise Black are noted thieves in Chinese folklore.
 
      Marquise Black, a female thief, seems to have been the cleverer of the two.
 
@@ -1272,7 +1272,7 @@ The head monk said,
 
   "The green mountain always lifts up its legs; you don't need to carry a
 
-   lantern in the daylight." [1]
+   lantern in the daylight." <sup>1</sup>
 
 Rakuho said,
 
@@ -1296,13 +1296,13 @@ Rakuho said,
 
 Genjo said,
 
-  "I feel just like an attendant who has nothing to respond to his master." [2]
+  "I feel just like an attendant who has nothing to respond to his master." <sup>2</sup>
 
 That evening, Rakuho called Genjo to him and said,
 
   "Your response today had something quite reasonable. You have to realize
 
-   what our late master [3] said,
+   what our late master <sup>3</sup> said,
 
      'There are no dharmas before the eyes,
 
@@ -1332,7 +1332,7 @@ Rakuho uttered a kaatz and said,
 
   "Miserable, miserable!"
 
-[Another] monk asked,
+<sup>Another</sup> monk asked,
 
   "What would you like to say, Master?"
 
@@ -1340,15 +1340,15 @@ Rakuho said,
 
   "The boat of compassion is not rowed over pure waves. It's been wasted
 
-   labor releasing wooden geese down the precipitous strait [4]."
+   labor releasing wooden geese down the precipitous strait <sup>4</sup>."
 
-[1]: Most probably a saying formed by Rakuho himself.
+<sup>1</sup>: Most probably a saying formed by Rakuho himself.
 
-[2]: Apparently an idiomatic expression meaning, "I can't describe it in words."
+<sup>2</sup>: Apparently an idiomatic expression meaning, "I can't describe it in words."
 
-[3]: Rinzai or Kassan.
+<sup>3</sup>: Rinzai or Kassan.
 
-[4]: It was a custom that the boat rushing down the stream through a gorge
+<sup>4</sup>: It was a custom that the boat rushing down the stream through a gorge
 
      released pieces of wood ahead as a warning so that a possible crash with
 
@@ -1360,7 +1360,7 @@ Rakuho said,
 
 A monk asked National Teacher Chu of Nanyo,
 
-  "What is the essential body [1] of Vairocana Buddha [2]?"
+  "What is the essential body <sup>1</sup> of Vairocana Buddha <sup>2</sup>?"
 
 National Teacher said,
 
@@ -1378,9 +1378,9 @@ National Teacher said,
 
   "The old Buddha is long gone."
 
-[1]: The so-called "Dharma-body" or dharmakaya.
+<sup>1</sup>: The so-called "Dharma-body" or dharmakaya.
 
-[2]: The principal Buddha.
+<sup>2</sup>: The principal Buddha.
 
 ###<a name="43"></a>Case 43: Razan's "Appearing and Disappearing"
 
@@ -1402,7 +1402,7 @@ A monk asked Master Ho of Koyo,
 
 Master Ho said,
 
-  "Suparnin [1], the king of birds, absorbs the entire universe. Who can
+  "Suparnin <sup>1</sup>, the king of birds, absorbs the entire universe. Who can
 
    stick his head within him?"
 
@@ -1414,7 +1414,7 @@ Ho said,
 
   "It is like a falcon catching a pigeon. If you don't realize it, you will
 
-   learn the truth through the 'inspection before the balcony.' [2]"
+   learn the truth through the 'inspection before the balcony.' <sup>2</sup>"
 
 The monk said,
 
@@ -1422,13 +1422,13 @@ The monk said,
 
 Ho said,
 
-  "You black tortoise under the Sumeru altar. [3] Don't wait to be struck on
+  "You black tortoise under the Sumeru altar. <sup>3</sup> Don't wait to be struck on
 
    the forehead again and get hurt."
 
-[1]: A giant bird that eats even dragons.
+<sup>1</sup>: A giant bird that eats even dragons.
 
-[2]: A reference to a story in which Heigenkun Chosho, the brother of the king
+<sup>2</sup>: A reference to a story in which Heigenkun Chosho, the brother of the king
 
      of Cho and a wealthy landlord with 3,000 dependents, built a grand palace
 
@@ -1450,7 +1450,7 @@ Ho said,
 
      an allusion to the fact that you can never hide away the real truth.
 
-[3]: A reference to one of the four carved figures, representing black
+<sup>3</sup>: A reference to one of the four carved figures, representing black
 
      tortoises, underneath the Sumeru altar (with the Buddha statue). It is
 
@@ -1458,7 +1458,7 @@ Ho said,
 
 ###<a name="45"></a>Case 45: Four Phrases from the Engaku Sutra
 
-The Engaku [1] Sutra says:
+The Engaku <sup>1</sup> Sutra says:
 
   "At all times, you do not raise the delusive mind.
 
@@ -1468,7 +1468,7 @@ The Engaku [1] Sutra says:
 
    Where there is no understanding, you do not distinguish the truth."
 
-[1]: "Engaku" means the perfect awakening of Buddha.
+<sup>1</sup>: "Engaku" means the perfect awakening of Buddha.
 
 ###<a name="46"></a>Case 46: Tokusan's "Study Accomplished"
 
@@ -1476,15 +1476,15 @@ Great Master Tokusan Emmyo instructed his assembly and said,
 
   "If you have exhausted to the end, you will realize right away that all
 
-   buddhas in the three worlds have stuck their mouths to the wall [1].
+   buddhas in the three worlds have stuck their mouths to the wall <sup>1</sup>.
 
    Yet there is still one person ¡© he is giving a great laugh. If you can
 
    recognize that person, you have accomplished your study."
 
-[1]: I.e., they are unable to open their mouths.
+<sup>1</sup>: I.e., they are unable to open their mouths.
 
-###<a name="47"></a>Case 47: Joshu's "Oak Tree in the Garden" [1]
+###<a name="47"></a>Case 47: Joshu's "Oak Tree in the Garden" <sup>1</sup>
 
 A monk asked Joshu,
 
@@ -1494,9 +1494,9 @@ Joshu said,
 
   "The oak tree there in the garden."
 
-[1]: see case 37 of Mumonkan.
+<sup>1</sup>: see case 37 of Mumonkan.
 
-###<a name="48"></a>Case 48: Vimalakirti's "Not-Two" [1]
+###<a name="48"></a>Case 48: Vimalakirti's "Not-Two" <sup>1</sup>
 
 Vimalakirti asked Manjusri,
 
@@ -1522,13 +1522,13 @@ Then Manjusri asked Vimalakirti,
 
 Vimalakirti remained silent.
 
-[1]: see case 84 of Hekiganroku.
+<sup>1</sup>: see case 84 of Hekiganroku.
 
 ###<a name="49"></a>Case 49: Tozan and the Memorial Service
 
 When Tozan held a memorial service for Ungan before his portrait, he mentioned
 
-the episode with the portrait [1]. A monk came forward and asked,
+the episode with the portrait <sup>1</sup>. A monk came forward and asked,
 
   "When Ungan said, 'Just this!' what did that mean?"
 
@@ -1546,7 +1546,7 @@ Tozan said,
 
    it is, how did he dare say like that?"
 
-[1]: Tozan was still a young monk under Ungan. One day, when he was leaving his
+<sup>1</sup>: Tozan was still a young monk under Ungan. One day, when he was leaving his
 
      master, he asked Ungan, "After your passing, if I am asked by someone
 
@@ -1554,7 +1554,7 @@ Tozan said,
 
      a while and then said, "Just this."
 
-###<a name="50"></a>Case 50: Seppo's "What Is This?" [1]
+###<a name="50"></a>Case 50: Seppo's "What Is This?" <sup>1</sup>
 
 When Seppo was living in a hermitage, two monks came to pay their respects.
 
@@ -1620,7 +1620,7 @@ Ganto said,
 
    stem. If you want to know the last word, it is just this."
 
-[1]: see case 51 of Hekiganroku.
+<sup>1</sup>: see case 51 of Hekiganroku.
 
 ###<a name="51"></a>Case 51: Hogen's "Boat or Land"
 
@@ -1650,7 +1650,7 @@ Sozan asked Elder Toku,
 
   "'The true Dharma-body of Buddha is like the empty sky. It manifests its
 
-   form corresponding to things -- just like the moon on the water.' [1]
+   form corresponding to things -- just like the moon on the water.' <sup>1</sup>
 
    How do you explain the principle of this corresponding?"
 
@@ -1670,15 +1670,15 @@ Sozan said,
 
   "It is like a well looking at a donkey."
 
-[1]: A quotation from a sutra.
+<sup>1</sup>: A quotation from a sutra.
 
-###<a name="53"></a>Case 53: Obaku's "Drinkers" [1]
+###<a name="53"></a>Case 53: Obaku's "Drinkers" <sup>1</sup>
 
 Obaku instructed the assembly and said,
 
   "You are all drinkers of lees. If you continue to go on your Way like this,
 
-   where will the 'Today' [2] be? Do you know that in this great empire of
+   where will the 'Today' <sup>2</sup> be? Do you know that in this great empire of
 
    Tang there is no Zen master?"
 
@@ -1692,11 +1692,11 @@ Obaku said,
 
   "I don't say that there is no Zen; I only say that there is no master."
 
-[1]: see case 11 of Hekiganroku.
+<sup>1</sup>: see case 11 of Hekiganroku.
 
-[2]: The world of nirvana.
+<sup>2</sup>: The world of nirvana.
 
-###<a name="54"></a>Case 54: Ungan's "Great Mercy" [1]
+###<a name="54"></a>Case 54: Ungan's "Great Mercy" <sup>1</sup>
 
 Ungan asked Dogo,
 
@@ -1734,9 +1734,9 @@ Dogo said,
 
   "The entire body is hands and eyes."
 
-[1]: see case 89 of Hekiganroku.
+<sup>1</sup>: see case 89 of Hekiganroku.
 
-###<a name="55"></a>Case 55: Seppo in Charge of Cooking [1]
+###<a name="55"></a>Case 55: Seppo in Charge of Cooking <sup>1</sup>
 
 Seppo came to Tokusan and became in charge of cooking food. One day, the lunch
 
@@ -1766,11 +1766,11 @@ usual. Ganto, rubbing his hands together, laughed and said,
 
    From now on he'll be subject to no one on earth."
 
-[1]: see case 13 of Mumonkan.
+<sup>1</sup>: see case 13 of Mumonkan.
 
 ###<a name="56"></a>Case 56: Misshi and the White Rabbit
 
-When Uncle Misshi [1] and Tozan were walking together, they saw a white rabbit
+When Uncle Misshi <sup>1</sup> and Tozan were walking together, they saw a white rabbit
 
 run by in front of them. Misshi said,
 
@@ -1782,7 +1782,7 @@ Tozan said,
 
 Misshi said,
 
-  "It is just like a person in white clothes [2] being venerated as a prime
+  "It is just like a person in white clothes <sup>2</sup> being venerated as a prime
 
    minister."
 
@@ -1800,11 +1800,11 @@ Tozan said,
 
   "A noble of an ancient house is temporarily fallen into poverty."
 
-[1]: Somitsu Zenji, uncle to Tozan Zenji. "Misshi" literally means "Master
+<sup>1</sup>: Somitsu Zenji, uncle to Tozan Zenji. "Misshi" literally means "Master
 
      Mitsu."
 
-[2]: I.e., a commoner, or a person without any social status.
+<sup>2</sup>: I.e., a commoner, or a person without any social status.
 
 ###<a name="57"></a>Case 57: Gon'yo's One "Thing"
 
@@ -1824,7 +1824,7 @@ Joshu said,
 
   "If so, carry it around with you."
 
-###<a name="58"></a>Case 58: "Getting Despised" in the Diamond Sutra [1]
+###<a name="58"></a>Case 58: "Getting Despised" in the Diamond Sutra <sup>1</sup>
 
 The Diamond Sutra says,
 
@@ -1834,7 +1834,7 @@ The Diamond Sutra says,
 
    because you are despised by the people of this world."
 
-[1]: see case 97 of Hekiganroku.
+<sup>1</sup>: see case 97 of Hekiganroku.
 
 ###<a name="59"></a>Case 59: Seirin's "Deadly Snake"
 
@@ -1888,15 +1888,15 @@ Seirin clapped his hands and said,
 
   "This fellow is equally poisonous."
 
-###<a name="60"></a>Case 60: Tetsuma, the Cow [1]
+###<a name="60"></a>Case 60: Tetsuma, the Cow <sup>1</sup>
 
-Ryu Tetsuma [2] came to Isan. Isan said,
+Ryu Tetsuma <sup>2</sup> came to Isan. Isan said,
 
   "Old Cow, you have come!"
 
 Tetsuma said,
 
-  "Tomorrow there will be a great feast at Mt. Tai [3]. Will you go there,
+  "Tomorrow there will be a great feast at Mt. Tai <sup>3</sup>. Will you go there,
 
    Master?"
 
@@ -1904,17 +1904,17 @@ Isan lay down and stretched himself out.
 
 Tetsuma left immediately.
 
-[1]: see case 24 of Hekiganroku.
+<sup>1</sup>: see case 24 of Hekiganroku.
 
-[2]: A famous Zen person, once a student of Isan. Her name means "Ryu, the
+<sup>2</sup>: A famous Zen person, once a student of Isan. Her name means "Ryu, the
 
      iron grindstone."
 
-[3]: More exactly: Mt. Gotai, which is far away in the northern part of
+<sup>3</sup>: More exactly: Mt. Gotai, which is far away in the northern part of
 
      the country.
 
-###<a name="61"></a>Case 61: Kempo's "One Line" [1]
+###<a name="61"></a>Case 61: Kempo's "One Line" <sup>1</sup>
 
 A monk asked Master Kempo in all earnestness,
 
@@ -1934,7 +1934,7 @@ The monk told Unmon about this and asked him. Unmon said,
 
    with a stick, it rains torrents as though a tray of water is overturned."
 
-[1]: see case 48 of Mumonkan.
+<sup>1</sup>: see case 48 of Mumonkan.
 
 ###<a name="62"></a>Case 62: Beiko's "Enlightenment"
 
@@ -1950,7 +1950,7 @@ Kyozan said,
 
 The monk went back to Beiko and told him about it. Beiko deeply agreed.
 
-###<a name="63"></a>Case 63: Joshu Asks about "Death" [1]
+###<a name="63"></a>Case 63: Joshu Asks about "Death" <sup>1</sup>
 
 Joshu asked Tosu,
 
@@ -1960,11 +1960,11 @@ Tosu said,
 
   "I don't allow walking about in the night. Come in the daylight."
 
-[1]: see case 41 of Hekiganroku.
+<sup>1</sup>: see case 41 of Hekiganroku.
 
 ###<a name="64"></a>Case 64: Shisho's "Succession"
 
-Head Monk Shisho [1] asked Hogen,
+Head Monk Shisho <sup>1</sup> asked Hogen,
 
   "You have opened a zendo, Master. But who did you succeed to?"
 
@@ -1974,7 +1974,7 @@ Hogen said,
 
 Shisho said,
 
-  "You have gone a great deal against your late master Chokei." [2]
+  "You have gone a great deal against your late master Chokei." <sup>2</sup>
 
 Hogen said,
 
@@ -2012,13 +2012,13 @@ All the disciples on the right and the left side said,
 
 Hogen said,
 
-  "The one body manifests itself in myriad phenomena, Nii [3]!"
+  "The one body manifests itself in myriad phenomena, Nii <sup>3</sup>!"
 
-[1]: Shisho was a disciple of Master Chokei.
+<sup>1</sup>: Shisho was a disciple of Master Chokei.
 
-[2]: Hogen once practiced under Master Chokei.
+<sup>2</sup>: Hogen once practiced under Master Chokei.
 
-[3]: A word used to point something out.
+<sup>3</sup>: A word used to point something out.
 
 ###<a name="65"></a>Case 65: Shuzan's "Bride"
 
@@ -2028,9 +2028,9 @@ A monk asked Shuzan,
 
 Shuzan said,
 
-  "When a bride rides the donkey, her mother-in-law leads it by the bridle. [1]"
+  "When a bride rides the donkey, her mother-in-law leads it by the bridle. <sup>1</sup>"
 
-[1]: This is how the mother-in-law introduces the bride to the village people.
+<sup>1</sup>: This is how the mother-in-law introduces the bride to the village people.
 
 ###<a name="66"></a>Case 66: Kyuho's "Head and Tail"
 
@@ -2094,7 +2094,7 @@ Kassan said,
 
   "You must brandish your sword. If you do not brandish your sword, the
 
-   fisherman dwells in a nest of reeds [1]."
+   fisherman dwells in a nest of reeds <sup>1</sup>."
 
 The monk mentioned this to Sekiso and asked him,
 
@@ -2106,31 +2106,31 @@ Sekiso said,
 
 The monk reported this to Kassan. Kassan ascended the rostrum and said,
 
-  "As for the facilities in the garden [2], the old monk [3] is superior to
+  "As for the facilities in the garden <sup>2</sup>, the old monk <sup>3</sup> is superior to
 
    Sekiso, but for deep discourse expounding the true principle he is one
 
    hundred steps ahead of me."
 
-[1]: That is, unable to catch a single fish.
+<sup>1</sup>: That is, unable to catch a single fish.
 
-[2]: Better teaching methods.
+<sup>2</sup>: Better teaching methods.
 
-[3]: I.e., "I."
+<sup>3</sup>: I.e., "I."
 
 ###<a name="69"></a>Case 69: Nansen's "Cats and Oxen"
 
 Nansen instructed the assembly and said,
 
-  "All the buddhas of the three worlds [1] do not know that there is.
+  "All the buddhas of the three worlds <sup>1</sup> do not know that there is.
 
    Only the cats and Oxen know that there is."
 
-[1]: The past, present and future.
+<sup>1</sup>: The past, present and future.
 
 ###<a name="70"></a>Case 70: Shinsan Asks about Nature
 
-Master Shinsan asked Master Shuzan [1],
+Master Shinsan asked Master Shuzan <sup>1</sup>,
 
   "After you have clearly known the unborn nature of life, why are you still
 
@@ -2140,7 +2140,7 @@ Shuzan said,
 
   "The bamboo shoot necessarily becomes a bamboo. But is it possible to make
 
-   a bamboo rope [2] already out of a bamboo shoot? [3]"
+   a bamboo rope <sup>2</sup> already out of a bamboo shoot? <sup>3</sup>"
 
 Shinsan said,
 
@@ -2156,21 +2156,21 @@ Shinsan said,
 
 Shuzan made a deep bow.
 
-[1]: The two masters were Dharma brothers.
+<sup>1</sup>: The two masters were Dharma brothers.
 
-[2]: A rope made out of thin bamboo tops.
+<sup>2</sup>: A rope made out of thin bamboo tops.
 
-[3]: That is, I am still "a bamboo shoot"; you cannot make "a bamboo rope" out
+<sup>3</sup>: That is, I am still "a bamboo shoot"; you cannot make "a bamboo rope" out
 
      of me.
 
-###<a name="71"></a>Case 71: Suigan's "Eyebrows" [1]
+###<a name="71"></a>Case 71: Suigan's "Eyebrows" <sup>1</sup>
 
-Towards the end of summer [2], Suigan instructed the assembly, saying,
+Towards the end of summer <sup>2</sup>, Suigan instructed the assembly, saying,
 
   "All summer I've preached to you, my brothers. Look here, are Suigan's
 
-   eyebrows still there? [3]"
+   eyebrows still there? <sup>3</sup>"
 
 Hofuku said,
 
@@ -2182,23 +2182,23 @@ Chokei said,
 
 Unmon said,
 
-  "Barrier [4]!"
+  "Barrier <sup>4</sup>!"
 
-[1]: see case 8 of Hekiganroku.
+<sup>1</sup>: see case 8 of Hekiganroku.
 
-[2]: Summer-sesshin for 3 months.
+<sup>2</sup>: Summer-sesshin for 3 months.
 
-[3]: According to the popular belief a great criminal should lose his eyebrows
+<sup>3</sup>: According to the popular belief a great criminal should lose his eyebrows
 
      as a sign of his coming punishment in hell.
 
-[4]: Literally kan means "barrier" (cf. Mumonkan). In those days this Chinese
+<sup>4</sup>: Literally kan means "barrier" (cf. Mumonkan). In those days this Chinese
 
      word colloquially meant also, "Watch out!" or "There!"
 
 ###<a name="72"></a>Case 72: Chuyu's "Monkey"
 
-Kyozan [1] asked Chuyu,
+Kyozan <sup>1</sup> asked Chuyu,
 
   "What does buddha-nature mean?"
 
@@ -2220,13 +2220,13 @@ Chuyu descended from his Zen seat, grasped Kyozan and said,
 
   "O monkey, monkey, there you are!"
 
-[1]: At this time Kyozan was about 13 years old.
+<sup>1</sup>: At this time Kyozan was about 13 years old.
 
 ###<a name="73"></a>Case 73: Sozan's Filial Fulfillment
 
 A monk asked Sozan,
 
-  "When one leaves off his mourning clothes [1], how about that?"
+  "When one leaves off his mourning clothes <sup>1</sup>, how about that?"
 
 Sozan said,
 
@@ -2240,7 +2240,7 @@ Sozan said,
 
   "Sozan loves to get drunk."
 
-[1]: In Japanese: Reii. The mourning closes that one wore when one of the
+<sup>1</sup>: In Japanese: Reii. The mourning closes that one wore when one of the
 
      parents was dead. Here it is symbolically used to designate the clothes
 
@@ -2264,7 +2264,7 @@ Hogen said,
 
 ###<a name="75"></a>Case 75: Zuigan's "Everlasting Principle"
 
-Zuigan [1] asked Ganto,
+Zuigan <sup>1</sup> asked Ganto,
 
   "What is the intrinsic, everlasting principle?"
 
@@ -2284,13 +2284,13 @@ Zuigan thought for a moment. Ganto said,
 
   "If you acknowledge it, you are not yet free from the roots and their
 
-   dust [2]. If you do not acknowledge it, you are immersed in endless birth
+   dust <sup>2</sup>. If you do not acknowledge it, you are immersed in endless birth
 
    and death."
 
-[1]: At the time of this dialogue Zuigan was still a young boy.
+<sup>1</sup>: At the time of this dialogue Zuigan was still a young boy.
 
-[2]: The "roots" means "six roots" of sense organs: eye, ear, nose, tongue,
+<sup>2</sup>: The "roots" means "six roots" of sense organs: eye, ear, nose, tongue,
 
      body, consciousness. "Dust", more exactly "six dust particles," means the
 
@@ -2334,15 +2334,15 @@ The monk immediately turned around once clockwise and said,
 
   "What letter is this?"
 
-Kyozan drew the ideograph for "10" [ + ] in the earth. The monk turned
+Kyozan drew the ideograph for "10" <sup> + </sup> in the earth. The monk turned
 
 himself around once counter-clockwise and said,
 
   "What letter is that?"
 
-Kyozan modified the sign" + " into a swastika [1]. The monk drew a circle in
+Kyozan modified the sign" + " into a swastika <sup>1</sup>. The monk drew a circle in
 
-the air and lifted his two palms like Asura [2] vigorously holding the sun
+the air and lifted his two palms like Asura <sup>2</sup> vigorously holding the sun
 
 and moon and said,
 
@@ -2350,17 +2350,17 @@ and moon and said,
 
 Kyozan immediately drew a circle enclosing the swastika. The monk at once
 
-represented the vigor of a Rucika [3]. Kyozan said,
+represented the vigor of a Rucika <sup>3</sup>. Kyozan said,
 
   "Good, good. Keep it with care."
 
-[1]: Manji in Japanese; a symbol of Buddhism.
+<sup>1</sup>: Manji in Japanese; a symbol of Buddhism.
 
-[2]: Originally a Hindu deity, here one of the eight supernatural protectors
+<sup>2</sup>: Originally a Hindu deity, here one of the eight supernatural protectors
 
      of Buddhist Way.
 
-[3]: The buddha Rucika wailed at his fate at first because he was the last of
+<sup>3</sup>: The buddha Rucika wailed at his fate at first because he was the last of
 
      the thousand buddhas in this cosmic period. But then he made up his mind
 
@@ -2370,7 +2370,7 @@ represented the vigor of a Rucika [3]. Kyozan said,
 
      temples in Japan (named Nio).
 
-###<a name="78"></a>Case 78: Unmon's "Rice Cake" [1]
+###<a name="78"></a>Case 78: Unmon's "Rice Cake" <sup>1</sup>
 
 A monk asked Unmon,
 
@@ -2380,11 +2380,11 @@ A monk asked Unmon,
 
 Unmon said,
 
-  "Poor rice cake [2]."
+  "Poor rice cake <sup>2</sup>."
 
-[1]: see case 77 of Hekiganroku.
+<sup>1</sup>: see case 77 of Hekiganroku.
 
-[2]: In Japanese: kobyo. Cheap and unrefined cake.
+<sup>2</sup>: In Japanese: kobyo. Cheap and unrefined cake.
 
 ###<a name="79"></a>Case 79: Chosa Takes a Step
 
@@ -2408,7 +2408,7 @@ The monk returned and told Chosa about this. Chosa said,
 
    hundred-foot pole. The worlds of the ten directions will be his complete
 
-   body." [1]
+   body." <sup>1</sup>
 
 The monk said,
 
@@ -2416,7 +2416,7 @@ The monk said,
 
 Sa said,
 
-  "Mountains of Ro; water of Rei [2]."
+  "Mountains of Ro; water of Rei <sup>2</sup>."
 
 The monk said,
 
@@ -2426,11 +2426,11 @@ Sa said,
 
   "Four seas and five lakes are all under the imperial reign."
 
-[1]: see case 46 of Mumonkan.
+<sup>1</sup>: see case 46 of Mumonkan.
 
-[2]: Ro and Rei are the names of Provinces in the old China.
+<sup>2</sup>: Ro and Rei are the names of Provinces in the old China.
 
-###<a name="80"></a>Case 80: Suibi and the Chin Rest [1]
+###<a name="80"></a>Case 80: Suibi and the Chin Rest <sup>1</sup>
 
 Ryuge asked Suibi,
 
@@ -2438,7 +2438,7 @@ Ryuge asked Suibi,
 
 Suibi said,
 
-  "Bring me a chin rest [2]."
+  "Bring me a chin rest <sup>2</sup>."
 
 Ryuge brought one and gave it to him. Suibi took it and hit him.
 
@@ -2474,11 +2474,11 @@ Ryuge said,
 
    Patriarch's coming from the west."
 
-[1]: similar to case 20 of Hekiganroku. However, the third paragraph, is
+<sup>1</sup>: similar to case 20 of Hekiganroku. However, the third paragraph, is
 
      peculiar to the Shoyoroku.
 
-[2]: Literally: "Zen board." A narrow board used so as to let one sleep in
+<sup>2</sup>: Literally: "Zen board." A narrow board used so as to let one sleep in
 
      the sitting posture.
 
@@ -2526,7 +2526,7 @@ Dogo said,
 
 Isan said,
 
-  "The one who is not ill isn't that you, dear Chi [1]?"
+  "The one who is not ill isn't that you, dear Chi <sup>1</sup>?"
 
 Dogo said,
 
@@ -2538,23 +2538,23 @@ Isan said,
 
   "Even if I could say it, it would have no connection with that matter."
 
-[1]: Dogo's full name was Dogo Enchi. "Chi" is short for Enchi.
+<sup>1</sup>: Dogo's full name was Dogo Enchi. "Chi" is short for Enchi.
 
-###<a name="84"></a>Case 84: Gutei's One Finger [1]
+###<a name="84"></a>Case 84: Gutei's One Finger <sup>1</sup>
 
 Whatever he was asked, Master Gutei simply stuck up one finger.
 
-[1]: see case 3 of Mumonkan and case 19 of Hekiganroku.
+<sup>1</sup>: see case 3 of Mumonkan and case 19 of Hekiganroku.
 
-###<a name="85"></a>Case 85: The National Teacher's Gravestone [1]
+###<a name="85"></a>Case 85: The National Teacher's Gravestone <sup>1</sup>
 
-Emperor Shukuso [2] asked Chu, the national teacher,
+Emperor Shukuso <sup>2</sup> asked Chu, the national teacher,
 
-  "What would you wish me to do after a hundred years [3]?"
+  "What would you wish me to do after a hundred years <sup>3</sup>?"
 
 The national teacher said,
 
-  "Make a seamless gravestone [4] for this old monk."
+  "Make a seamless gravestone <sup>4</sup> for this old monk."
 
 The emperor said,
 
@@ -2586,15 +2586,15 @@ Tangen responded:
 
    In the crystal palace there is no one who knows."
 
-[1]]: see case 18 of Hekiganroku.
+<sup>1</sup></sup>: see case 18 of Hekiganroku.
 
-[2]: Historically speaking it was Emperor Daiso the oldest son and successor
+<sup>2</sup>: Historically speaking it was Emperor Daiso the oldest son and successor
 
      of Shukuso.
 
-[3]: After your death.
+<sup>3</sup>: After your death.
 
-[4]: An egg-formed gravestone which is made out of a single piece of stone.
+<sup>4</sup>: An egg-formed gravestone which is made out of a single piece of stone.
 
      It was often made for deceased monks.
 
@@ -2676,7 +2676,7 @@ Upon hearing this, Sozan gained realization. Then he said,
 
   "From the beginning, there was a sword behind Isan's laughter."
 
-###<a name="88"></a>Case 88: "Non-Seeing" in the Ryogon Sutra [1]
+###<a name="88"></a>Case 88: "Non-Seeing" in the Ryogon Sutra <sup>1</sup>
 
 The Ryogon Sutra says,
 
@@ -2688,7 +2688,7 @@ The Ryogon Sutra says,
 
    thing. Why is it not your self?"
 
-[1]: see case 94 of Hekiganroku.
+<sup>1</sup>: see case 94 of Hekiganroku.
 
 ###<a name="89"></a>Case 89: Tozan's "Place of No Grass"
 
@@ -2714,7 +2714,7 @@ Taiyo said,
 
    everywhere."
 
-###<a name="90"></a>Case 90: Kyozan Speaks Out [1]
+###<a name="90"></a>Case 90: Kyozan Speaks Out <sup>1</sup>
 
 Master Kyozan went to Maitreya's abode in a dream and was led to the second
 
@@ -2728,9 +2728,9 @@ Kyozan stood up, struck the stand with the gavel, and said,
 
    hundred negations. I dare speak this!"
 
-[1]: see case 25 of Mumonkan.
+<sup>1</sup>: see case 25 of Mumonkan.
 
-###<a name="91"></a>Case 91: Nansen and the Peonies [1]
+###<a name="91"></a>Case 91: Nansen and the Peonies <sup>1</sup>
 
 Minister Rikuko said to Nansen,
 
@@ -2742,37 +2742,37 @@ Minister Rikuko said to Nansen,
 
 Nansen pointed at the peonies in the garden and said,
 
-  "Minister, people of our time [2] see these flowers as in a dream."
+  "Minister, people of our time <sup>2</sup> see these flowers as in a dream."
 
-[1]: see case 40 of Hekiganroku, which has a slightly different wording.
+<sup>1</sup>: see case 40 of Hekiganroku, which has a slightly different wording.
 
-[2]: I.e. "you".
+<sup>2</sup>: I.e. "you".
 
-###<a name="92"></a>Case 92: Unmon's "One Treasure" [1]
+###<a name="92"></a>Case 92: Unmon's "One Treasure" <sup>1</sup>
 
 Unmon said,
 
   "'Within heaven and earth, in the midst of the universe, there is one
 
-   treasure hidden in a body.' [2] You take up the lantern and go to the
+   treasure hidden in a body.' <sup>2</sup> You take up the lantern and go to the
 
    Buddha Hall; you take the temple gate and put it on the lantern."
 
-[1]: see case 62 of Hekiganroku.
+<sup>1</sup>: see case 62 of Hekiganroku.
 
-[2]: A sentence from the Hozoron by Monk Jo (?-414).
+<sup>2</sup>: A sentence from the Hozoron by Monk Jo (?-414).
 
 ###<a name="93"></a>Case 93: Roso Does Not Understand
 
-Roso [1] asked Nansen,
+Roso <sup>1</sup> asked Nansen,
 
-  "'People do not recognize the Mani[2]-jewel. I picked it up myself in the
+  "'People do not recognize the Mani<sup>2</sup>-jewel. I picked it up myself in the
 
-   Tathagata treasury.' [3] What is this treasury?"
+   Tathagata treasury.' <sup>3</sup> What is this treasury?"
 
 Nansen said,
 
-  "Old Master O [4] exchanges questions and answers with you. That's it."
+  "Old Master O <sup>4</sup> exchanges questions and answers with you. That's it."
 
 Shiso said,
 
@@ -2798,19 +2798,19 @@ Nansen said,
 
   "Get out. You don't understand my words."
 
-[1]: Mistakenly the original text renders "Roso" (Nansen's elder brother in
+<sup>1</sup>: Mistakenly the original text renders "Roso" (Nansen's elder brother in
 
      Dharma); in reality it should be "Shiso" (Nansen's student), as Nansen's
 
      question indicates.
 
-[2]: "Mani" in Sanskrit means "perfect freedom" ¡© another name for Buddha
+<sup>2</sup>: "Mani" in Sanskrit means "perfect freedom" ¡© another name for Buddha
 
      nature.
 
-[3]: A quote from the famous Shodoka by Yoka Daishi.
+<sup>3</sup>: A quote from the famous Shodoka by Yoka Daishi.
 
-[4]: Nansen himself.
+<sup>4</sup>: Nansen himself.
 
 ###<a name="94"></a>Case 94: Tozan Unwell
 
@@ -2864,7 +2864,7 @@ The manager shouted,
 
   "Kaatz!"
 
-Rinzai immediately struck him. Later, the cook monk [1] came to Rinzai, who
+Rinzai immediately struck him. Later, the cook monk <sup>1</sup> came to Rinzai, who
 
 told him about this incident. The monk said,
 
@@ -2876,7 +2876,7 @@ Rinzai said,
 
 The monk made a deep bow. Rinzai struck him likewise.
 
-[1]: I.e. "tenzo", a monk who prepares meals.
+<sup>1</sup>: I.e. "tenzo", a monk who prepares meals.
 
 ###<a name="96"></a>Case 96: Kyuho Does Not Acknowledge
 
@@ -2898,15 +2898,15 @@ So he asked the head monk,
 
        Have been totally extinguished;
 
-      [Have become a cool land of desolation;] [1]
+      <sup>Have become a cool land of desolation;</sup> <sup>1</sup>
 
        Have had only one awareness for ten thousand years;
 
        Have become cold ashes and a withered tree;
 
-      [Have become a fragrant censer in an ancient shrine;]
+      <sup>Have become a fragrant censer in an ancient shrine;</sup>
 
-       Have become a vertical stripe [2] of white silk.'
+       Have become a vertical stripe <sup>2</sup> of white silk.'
 
    Tell me, what sort of matter did he clarify with this?"
 
@@ -2936,19 +2936,19 @@ caressed his back and said,
 
    dream of our late master's spirit." 
 
-[1]: The original text contains five out of the famous "seven Perfecta"
+<sup>1</sup>: The original text contains five out of the famous "seven Perfecta"
 
      (shichikyo) of Sekiso. For your reference, the lacking two lines are
 
-     shown in [ ].
+     shown in <sup> </sup>.
 
-[2]: The image of a waterfall.
+<sup>2</sup>: The image of a waterfall.
 
 ###<a name="97"></a>Case 97: Emperor Doko's Helmet Hood
 
 Emperor Doko spoke to Koke saying,
 
-  "I have attained the treasure of the Central Plain [1]. However, no one can
+  "I have attained the treasure of the Central Plain <sup>1</sup>. However, no one can
 
    set a price on it."
 
@@ -2960,13 +2960,13 @@ The emperor pulled the straps of his helmet hood with both hands. Koke said,
 
   "Who can dare to set a price on the emperor's treasure!"
 
-[1]: The entire land of China.
+<sup>1</sup>: The entire land of China.
 
 ###<a name="98"></a>Case 98: Tozan's "Intimate with It"
 
 A monk asked Tozan,
 
-  "Among the three bodies [of Buddha] [1], what body does not degenerate
+  "Among the three bodies <sup>of Buddha</sup> <sup>1</sup>, what body does not degenerate
 
    into numbers?"
 
@@ -2974,25 +2974,25 @@ Tozan said,
 
   "I am always most intimate with it."
 
-[1]: They are: (1) hosshin, Dharmakaya or Dharma-bodya,
+<sup>1</sup>: They are: (1) hosshin, Dharmakaya or Dharma-bodya,
 
                (2) hojin, Sambhogakaya or the body of reward,
 
                (3) ojin or keshin, Nirmanakaya or the accommodated body.
 
-###<a name="99"></a>Case 99: Unmon's "Bowl and Pail" [1]
+###<a name="99"></a>Case 99: Unmon's "Bowl and Pail" <sup>1</sup>
 
 A monk asked Unmon,
 
-  "What is the dust-dust samadhi [2] ?"
+  "What is the dust-dust samadhi <sup>2</sup> ?"
 
 Unmon said,
 
   "Rice in the bowl, water in the pail." 
 
-[1]: see case 50 of Hekiganroku.
+<sup>1</sup>: see case 50 of Hekiganroku.
 
-[2]: The word "dust" comes from the expression "six dust particles," which
+<sup>2</sup>: The word "dust" comes from the expression "six dust particles," which
 
      means the same thing as the "six objects" (cf. note to Case 75).
 

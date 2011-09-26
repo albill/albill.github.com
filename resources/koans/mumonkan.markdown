@@ -9,12 +9,12 @@ From <a href="http://en.wikipedia.org/wiki/The_Gateless_Gate">Wikipedia</a>:
 
 > The Gateless Gate (無門關, Mandarin. Wúménguān, Japanese. 無門関, Mumonkan) is a collection of 48 Chan (Zen) koans compiled in the early 13th century by the Chinese Zen master Wumen Hui-k'ai (無門慧開)(1183-1260) (Japanese: Mumon Ekai). Wumen's preface indicates that the volume was published in 1228. Each koan is accompanied by a commentary and verse by Wumen. A classic edition includes a 49th case composed by Anwan (pen name for Cheng Ch'ing-Chih) in 1246. Wu-liang Tsung-shou also supplemented the volume with a verse of four stanzas composed in 1230 about the three checkpoints of Zen master Huanglong. These three checkpoints of Huanglong should not be confused with Doushuai's Three Checkpoints found in Case 47.
 
-<b>Mumonkan - Case 1: Joshu's Dog</b> [1]
+### Mumonkan - Case 1: Joshu's Dog <sup>1</sup>
 
 A monk asked Joshu, a Chinese Zen master:
   "Has a dog Buddha-nature or not?"
 Joshu answered:
-  "Mu." [2]
+  "Mu." <sup>2</sup>
 
 Mumon's comments:
 To realize Zen one has to pass through the barrier of the patriachs.
@@ -54,11 +54,11 @@ attainment will be as a candle burning and illuminating the whole universe.
     If you say yes or no,
     You lose your own Buddha-nature.
 <i>
-[1]: see case 18 of Shoyoroku.
-[2]: Mu is the negative symbol in Chinese, meaning `No-thing' or `Nay'.</i>
+<sup>1</sup>: see case 18 of Shoyoroku.
+<sup>2</sup>: Mu is the negative symbol in Chinese, meaning `No-thing' or `Nay'.</i>
 
 
-<b>Mumonkan - Case 2: Hyakujo's Fox</b>
+### Mumonkan - Case 2: Hyakujo's Fox
 
 Once when Hyakujo delivered some Zen lectures an old man attended them,
 unseen by the monks. At the end of each talk when the monks left so did he.
@@ -123,7 +123,7 @@ To understand clearly one has to have just one eye.
     Both are a grievous error.
 
 
-<b>Mumonkan - Case 3: Gutei's Finger</b>
+### Mumonkan - Case 3: Gutei's Finger
 
 Gutei raised his finger whenever he was asked a question about Zen. A boy
 attendant began to imitate him in this way. When anyone asked the boy what
@@ -153,7 +153,7 @@ he will annihilate Gutei, the boy and the clinger all together.
     Old Gutei is a poor imitator. 
 
 
-<b>Mumonkan - Case 4: A Beardless Foreigner</b>
+### Mumonkan - Case 4: A Beardless Foreigner
 
 Wakun complained when he saw a picture of the bearded Bodhidharma:
   `Why hasn't that fellow a beard?' 
@@ -171,7 +171,7 @@ But if you say you met him, you never saw him at all.
    What an absurd question!
 
 
-<b>Mumonkan - Case 5: Kyogen Mounts the Tree</b>
+### Mumonkan - Case 5: Kyogen Mounts the Tree
 
 Kyogen said:
   "Zen is like a man hanging in a tree by his teeth over a precipice. His
@@ -195,7 +195,7 @@ Maitreya, the future Buddha.
     And lets their tears stream from their dead eyes.
 
 
-<b>Mumonkan - Case 6: Buddha Twirls a Flower</b>
+### Mumonkan - Case 6: Buddha Twirls a Flower
 
 When Buddha was in Grdhrakuta mountain he turned a flower in his fingers and
 held in before his listeners. Every one was silent. Only Maha-Kashapa smiled
@@ -224,14 +224,14 @@ of Maha-Kashapa?
     No one is heaven or earth can surpass
     Maha-Kashapa's wrinkled face.
 
-[other traduction of Mumon's poem:
+<sup>other traduction of Mumon's poem:
     At the turning of a flower,
     The snake (his disguise) shows his tail.
     Maha-Kashapa smiles,
-    Every monk does not know what to do. ]
+    Every monk does not know what to do. </sup>
 
 
-<b>Mumonkan - Case 7: Joshu Washes the Bowl</b>
+### Mumonkan - Case 7: Joshu Washes the Bowl
 
 A monk told Joshu:
   "I have just entered the monastery. Please teach me."
@@ -256,11 +256,11 @@ pitcher.
     He could have cooked his rice much sooner.
 
 
-<b>Mumonkan - Case 8: Keichu's Wheel</b>
+### Mumonkan - Case 8: Keichu's Wheel
 
 Getsuan said to this students:
   "Keichu, the first wheel-maker of China, made two wheels of fifty spokes
-   each. Now, suppose you removed the nave [hub] uniting the spokes. What
+   each. Now, suppose you removed the nave <sup>hub</sup> uniting the spokes. What
    would become of the wheel? And had Keichu done this could he be called
    the master wheel-maker?"
 
@@ -276,7 +276,7 @@ and his mind like a flash of lightning.
     South, north, east and west.
 
 
-<b>Mumonkan - Case 9: A Buddha Before History</b>
+### Mumonkan - Case 9: A Buddha Before History
 
 A monk asked Seijo:
   "I understand that Daitsu Chisho Buddha who lived before recorded history
@@ -302,7 +302,7 @@ understand he is an ignorant.
     The man is free. Then he desires no praising.
 
 
-<b>Mumonkan - Case 10: Seizei Alone and Poor</b>
+### Mumonkan - Case 10: Seizei Alone and Poor
 
 A monk named Seizei asked of Sozan:
   "Seizei is alone and poor. Will you give him support?"
@@ -326,7 +326,7 @@ whom to deal. Even so, I want to ask: At what point did Seizei drink wine?
     Yet wishes to rival the wealthiest.
 
 
-<b>Mumonkan - Case 11: Joshu Examines a Monk in Meditation</b>
+### Mumonkan - Case 11: Joshu Examines a Monk in Meditation
 
 Joshu went to a place were a monk had retired to meditate and asked him:
   "What is, is what?"
@@ -355,14 +355,14 @@ If anyone thinks that the one's insight exceeds the other's, he has no eyes.
     Is the sword that saves the man.
 
 
-<b>Mumonkan - Case 12: Zuigan Calls His Own Master</b>
+### Mumonkan - Case 12: Zuigan Calls His Own Master
 
 Zuigan called out to himself every day:
   "Master."
 Then he answered himself:
   "Yes, sir."
 And after that he added:
-  "Become sober." [ Awake. ]
+  "Become sober." <sup> Awake. </sup>
 Again he answered:
   "Yes, sir."
 He continued:
@@ -383,10 +383,10 @@ Zuigan, he will make himself fox-like.
     Some Zen students do not realize the true man in a mask
     Because they recognize ego-soul.
     Ego-soul is the seed of birth and death,
-    And foolish people call it the true man.    [ true man = true self ]
+    And foolish people call it the true man.    <sup> true man = true self </sup>
 
 
-<b>Mumonkan - Case 13: Tokusan Holds His Bowl</b>
+### Mumonkan - Case 13: Tokusan Holds His Bowl
 
 Tokusan went to the dining room from the meditation hall holding his bowl.
 Seppo was on duty cooking. When he met Tokusan he said: 
@@ -399,7 +399,7 @@ Seppo told Ganto about this. Ganto said:
 
 Tokusan heard of this remark and asked Ganto to come to him. "I have heard,"
 he said, "you are not approving my Zen." Ganto admitted this indirectly
-[ Ganto whispered to Tokusan what he meant. ] Tokusan said nothing.
+<sup> Ganto whispered to Tokusan what he meant. </sup> Tokusan said nothing.
 
 The next day Tokusan delivered an entirely different kind of lecture to the
 monks. Ganto laughed and clapped his hands, saying: "I see our old man
@@ -417,11 +417,11 @@ even dream it. After all, they are dummies.
     Are they not the same?
 
 
-<b>Mumonkan - Case 14: Nansen Cuts the Cat in Two</b>
+### Mumonkan - Case 14: Nansen Cuts the Cat in Two
 
 Nansen saw the monks of the eastern and western halls fighting over a cat.
 He seized the cat and told the monks:
-  "If any of you say a good word [a word of Zen], you can save the cat."
+  "If any of you say a good word <sup>a word of Zen</sup>, you can save the cat."
 
 No one answered. So Nansen boldly cut the cat in two pieces.
 
@@ -435,7 +435,7 @@ Nansen said:
 Mumon's Comment:
 
 Why did Joshu put his sandals on his head? If anyone answers this question
-[with one word], he will understand exactly how Nansen enforced the edict.
+<sup>with one word</sup>, he will understand exactly how Nansen enforced the edict.
 If not, he should watch his own head.
 
     Had Joshu been there,
@@ -445,7 +445,7 @@ If not, he should watch his own head.
 
 
 
-<b>Mumonkan - Case 15: Tozan's Three Blows</b>
+### Mumonkan - Case 15: Tozan's Three Blows
 
 Tozan went to Ummon. Ummon asked him where he had come from.
 Tozan said:
@@ -485,10 +485,10 @@ food as Tozan.
 The Lion teaches His deluded son these instructions --
 To jump forward you should turn your body over as early as possible,
 For no reason I mention again that which is at the head,
-The fore arrow [wound] is lighter and the back arrow [wound] is deep.
+The fore arrow <sup>wound</sup> is lighter and the back arrow <sup>wound</sup> is deep.
 
 
-<b>Mumonkan - Case 16: Bells and Robes</b>
+### Mumonkan - Case 16: Bells and Robes
 
 Ummon asked:
   "The world is such a wide world, why do you answer a bell and
@@ -512,7 +512,7 @@ understand. To understand intimately one should see sound.
     And when they understand they are strangers.
 
 
-<b>Mumonkan - Case 17: The Three Calls of the Emperor's Teacher</b>
+### Mumonkan - Case 17: The Three Calls of the Emperor's Teacher
 
 Chu, called Kokushi, the teacher of the emperor, called to his attendant:
   "Oshin."
@@ -551,14 +551,14 @@ Now I want to ask you: Which one should apologize?
    If you try to hold up the gate and door of a falling house,
    You also will be in trouble.
 
-[other traduction:
+<sup>other traduction:
    When prison canga is iron and has no hole,
    (Chu's) followers have neither peace nor rest.
    When you intend to uphold the teaching of Zen,
-   You must climb a mountain of swords with bare feet. ]
+   You must climb a mountain of swords with bare feet. </sup>
 
 
-<b>Mumonkan - Case 18: Tozan's Three Pounds</b>
+### Mumonkan - Case 18: Tozan's Three Pounds
 
 A monk asked Tozan when he was weighing some flax:
   "What is Buddha?"
@@ -577,7 +577,7 @@ inside. However, I want to ask you: Do you see the real Tozan?
     Lives in the right and wrong region.
 
 
-<b>Mumonkan - Case 19: Everyday Life is the Path</b>
+### Mumonkan - Case 19: Everyday Life is the Path
 
 Joshu asked Nansen:
   "What is the path?"
@@ -590,10 +590,10 @@ Nansen said:
 Joshu asked:
   "If I do not study, how can I know it is the path?"
 Nansen said:
-  "The path does not belong to the perception world [knowledge], neither does
+  "The path does not belong to the perception world <sup>knowledge</sup>, neither does
    it belong to the non-perception world. Cognition is a delusion and
-   noncognition is senseless. [Knowledge is illusion and non knowledge is
-   beyond discrimination.] If you want to reach the true path beyond doubt,
+   noncognition is senseless. <sup>Knowledge is illusion and non knowledge is
+   beyond discrimination.</sup> If you want to reach the true path beyond doubt,
    place yourself in the same freedom as sky. You name it neither good nor
    not-good."
 At these words Joshu was enlightened. 
@@ -611,11 +611,11 @@ years of study.
    Any season is a good season for you.
 
 
-<b>Mumonkan - Case 20: The Enlightened Man</b>
+### Mumonkan - Case 20: The Enlightened Man
 
 Shogen asked:
   "Why does the enlightened man not stand on his feet and explain
-   himself [stand up for Zen]?"
+   himself <sup>stand up for Zen</sup>?"
 And he also said:
   "It is not necessary for speech to come from the tongue."
 
@@ -624,21 +624,21 @@ Mumon's Comment:
 
 Shogen spoke plainly enough, but how many will understand? If anyone
 comprehends, he should come to my place and test out my big stick. Why,
-look here, to test [know] real gold you must see it through fire.
+look here, to test <sup>know</sup> real gold you must see it through fire.
 
    If the feet of enlightenment moved, the great ocean would overflow;
    If that head bowed, it would look down upon the heavens.
    Such a body has no place to rest....
    Let another continue this poem.
 
-[other traduction:
+<sup>other traduction:
    Raising my foot I turn upside down the Scented Ocean,
    Bowing my head I look down on the Four Dhyana Heavens.
    Such a body of full strength has no place to rest,
-   Please finish this verse yourself! ]
+   Please finish this verse yourself! </sup>
 
 
-<b>Mumonkan - Case 21: Dried Dung</b>
+### Mumonkan - Case 21: Dried Dung
 
 A monk asked Ummon:
   "What is Buddha?"
@@ -659,7 +659,7 @@ just as useless.
     You have missed seeing.
 
 
-<b>Mumonkan - Case 22: Kashapa's Preaching Sign</b>
+### Mumonkan - Case 22: Kashapa's Preaching Sign
 
 Ananda asked Kashapa:
   "Buddha gave you the golden-woven robe of successorship.
@@ -684,7 +684,7 @@ Buddhas, he will not attain enlightenment.
    This spring does not belong to the ordinary season.
 
 
-<b>Mumonkan - Case 23: Eno's good and not-good</b>
+### Mumonkan - Case 23: Eno's good and not-good
 
 When he became emancipated Eno (the sixth patriach) received from the fifth
 patriach the bowl and robe given from the Buddha to his successors, generation
@@ -728,7 +728,7 @@ mouth, let him eat.
    When the world is destroyed, it will no be destroyed.
 
 
-<b>Mumonkan - Case 24: Without Words, Without Silence</b>
+### Mumonkan - Case 24: Without Words, Without Silence
 
 A monk asked Fuketsu:
   "Without speaking, without silence, how can you express the truth?"
@@ -752,7 +752,7 @@ your own Zen.
     Even his listeners would have been embarassed.
 
 
-<b>Mumonkan - Case 25: Preaching from the Third Seat</b>
+### Mumonkan - Case 25: Preaching from the Third Seat
 
 In a dream Kyozen went to Maitreya's Pure Land. He recognized himself seated
 in the third seat in the abode of Maitreya. Someone announced:
@@ -760,8 +760,8 @@ in the third seat in the abode of Maitreya. Someone announced:
 
 Kyozen arose and, hitting the gavel, said:
   "The truth of Mahayana teaching is transcendent, above words and thought.
-   Do you understand?" ["The truth of Mahayana is beyond any verbal
-   expression! Listen, listen! "]
+   Do you understand?" <sup>"The truth of Mahayana is beyond any verbal
+   expression! Listen, listen! "</sup>
 
 
 Mumon's Comment:
@@ -778,7 +778,7 @@ truth.
    He intended to deceive the whole crowd.
 
 
-<b>Mumonkan - Case 26: Two Monks Rolls Up the Screen</b>
+### Mumonkan - Case 26: Two Monks Rolls Up the Screen
 
 Hogen of Seiryo monastery was about to lecture before dinner when he noticed
 that the bamboo screen lowered for meditation had not been rolled up. He
@@ -799,7 +799,7 @@ However, I am not discussing gain and loss.
    And to retire from every wind.
 
 
-<b>Mumonkan - Case 27: It is Not Mind, It is Not Buddha, It is Not Things</b>
+### Mumonkan - Case 27: It is Not Mind, It is Not Buddha, It is Not Things
 
 A monk asked Nansen:
   "Is there a teaching no master ever preached before?"
@@ -822,7 +822,7 @@ Old Nansen gave away his treasure-words. He must have been greatly upset.
 
 
 
-<b>Mumonkan - Case 28: Blow Out the Candle</b>
+### Mumonkan - Case 28: Blow Out the Candle
 
 Tokusan was studying Zen under Ryutan. One night he came to Ryutan and asked
 many questions. The teacher said:
@@ -882,7 +882,7 @@ an unnecessary comedy.
    But he was blind after all.
 
 
-<b>Mumonkan - Case 29: Not the Wind, Not the Flag</b>
+### Mumonkan - Case 29: Not the Wind, Not the Flag
 
 Two monks were arguing about a flag. One said:
   "The flag is moving."
@@ -904,7 +904,7 @@ bargain.
    The same understanding.
    When the mouth opens
 
-<b>Mumonkan - Case 30: This Mind is Buddha</b>
+### Mumonkan - Case 30: This Mind is Buddha
 
 Daibai asked Baso:
   "What is Buddha?"
@@ -929,7 +929,7 @@ saying the word Buddha, and he will close his ears and flee after hearing
    Is like hiding loot in one's pocket and declaring oneself innocent.
 
 
-<b>Mumonkan - Case 31: Joshu Investigates</b>
+### Mumonkan - Case 31: Joshu Investigates
 
 A travelling monk asked an old woman the road to Taizan, a popular temple
 supposed to give wisdom to the one who worships there. The old woman said:
@@ -958,7 +958,7 @@ woman?
    The answer is a stick in the soft mud.
 
 
-<b>Mumonkan - Case 32: A Philosopher Asks Buddha</b>
+### Mumonkan - Case 32: A Philosopher Asks Buddha
 
 A philosopher asked Buddha:
   "Without words, without the wordless, will you you tell me truth?"
@@ -983,7 +983,7 @@ between disciples and outsiders?
    Walk over the cliffs with hands free.
 
 
-<b>Mumonkan - Case 33: Neither Mind nor Buddha</b>
+### Mumonkan - Case 33: Neither Mind nor Buddha
 
 A monk asked Baso,
   "What is the Buddha?"
@@ -1000,7 +1000,7 @@ If anyone understands what Baso said, he has mastered Zen.
    and never tell him the rest. 
 
 
-<b>Mumonkan - Case 34: Nansen's no way</b>
+### Mumonkan - Case 34: Nansen's no way
 
 Nansen said,
   "Mind is not Buddha. Knowledge is not the Way."
@@ -1018,7 +1018,7 @@ others. However, few appreciate their indebtedness to him.
    how few have faith in him and his words. 
 
 
-<b>Mumonkan - Case 35: Two souls</b>
+### Mumonkan - Case 35: Two souls
 
 Goso asked a monk,
   "Sei, the Chinese girl, who was separated from her soul. Which was
@@ -1040,7 +1040,7 @@ that I did not warn you.
    Is it one, or is it two? 
 
 
-<b>Mumonkan - Case 36: Goso's no words, no silence</b>
+### Mumonkan - Case 36: Goso's no words, no silence
 
 Goso said, 
   "When you meet a Man of the Way on the road, greet him not with
@@ -1057,7 +1057,7 @@ answer properly yet, then you must do your best to watch out everything.
    Then he will understand you at once. 
 
 
-<b>Mumonkan - Case 37: Joshu's oak tree in the garden</b>
+### Mumonkan - Case 37: Joshu's oak tree in the garden
 
 A monk asked Joshu,
   "With what intention did Bodhidharma come to China?"
@@ -1076,7 +1076,7 @@ and no Maitreya Buddha after you.
    He who adheres to phrases is deluded.
 
 
-<b>Mumonkan - Case 38: Goso's buffalo</b>
+### Mumonkan - Case 38: Goso's buffalo
 
 Goso asked,
   "A water buffalo goes out of his 'enclosure.' The head, the horns,
@@ -1096,7 +1096,7 @@ and awake yourself.
    that is a strange thing indeed!
 
 
-<b>Mumonkan - Case 39: Ummon and trap into words</b>
+### Mumonkan - Case 39: Ummon and trap into words
 
 As soon as a monk stated,
   "The radiance of the Buddha quietly and restlessly illuminates the
@@ -1123,7 +1123,7 @@ leader of humans and Devas. If not, you cannot even save yourself.
    His life is already lost. 
 
 
-<b>Mumonkan - Case 40: Kicking the drinking water jar</b>
+### Mumonkan - Case 40: Kicking the drinking water jar
 
 During his stay under Master Hyakujo, Isan was a cooking monk. As Master
 Hyakujo wished to send a monk to found the new monastery called the Great
@@ -1156,7 +1156,7 @@ and put himself in steel cuffs (of the founder of the monastery).
 
 
 
-<b>Mumonkan - Case 41: Bodhidharma's peace of mind</b>
+### Mumonkan - Case 41: Bodhidharma's peace of mind
 
 Bodhidharma sat facing the stone wall. The Second Patriarch of Chinese C'han
 (Zen), Suika, stood long in the thick snow. Finally, he severed his own arm
@@ -1184,7 +1184,7 @@ by cutting off his own arm. Alas, he was a fool indeed.
    Is Boddhidharma, you indeed!
 
 
-<b>Mumonkan - Case 42: A woman comes out of meditation</b>
+### Mumonkan - Case 42: A woman comes out of meditation
 
 The wisest Bodhisattva Manjusuri, who is supposed to be next in order to
 Shakyamuni Buddha, found that the Buddha's gathering was adjourned and each was
@@ -1226,7 +1226,7 @@ attachment."
     Even the failure is artistic indeed.
 
 
-<b>Mumonkan - Case 43: Shuzan's bamboo spatula</b>
+### Mumonkan - Case 43: Shuzan's bamboo spatula
 
 Master Shuzan held out his bamboo spatula and asked,
   "If you call this a bamboo spatula, you give umbrage (to the principle
@@ -1246,7 +1246,7 @@ not do, and no word will be of any use either. Quickly say, quickly say!"
    Even Buddha and Patriarchs would beg for their lives. 
 
 
-<b>Mumonkan - Case 44: Basho's Staff</b>
+### Mumonkan - Case 44: Basho's Staff
 
 Master Basho said to his disciples,
   "If you have the staff, I will give it to you.
@@ -1266,7 +1266,7 @@ staff, then you will go right into hell like an arrow.
    It will propagate the true teaching. 
 
 
-<b>Mumonkan - Case 45: Who is he?</b>
+### Mumonkan - Case 45: Who is he?
 
 To Tozan, Master Hoen the Fifth Patriarch said,
   "Shakyamuni and Maitreya Boddhisattva, both are His slaves.
@@ -1285,7 +1285,7 @@ father who he is.
     Do not try to know some other person's business.
 
 
-<b>Mumonkan - Case 46: Proceed beyond the top of the 100 foot high pole</b>
+### Mumonkan - Case 46: Proceed beyond the top of the 100 foot high pole
 
 Master Sekiso said,
   "You are at the top of the 100 foot high pole. How will you make a
@@ -1311,7 +1311,7 @@ the 100 foot pole? Know thyself!
    One will be in absolute freedom (unattached from the eyes).
 
 
-<b>Mumonkan - Case 47: Tosotsu's Three Barriers</b>
+### Mumonkan - Case 47: Tosotsu's Three Barriers
 
 Master Tosotsu, setting up the three barriers, always tried the pursuer of
 the Way:
@@ -1341,7 +1341,7 @@ chewing them well, one will never starve.
     At this very moment, one can see through the one who sees through.
 
 
-<b>Mumonkan - Case 48: The One Road of Kempo</b>
+### Mumonkan - Case 48: The One Road of Kempo
 
 A student monk asked Master Kempo,
   "I understand that all Buddha of the whole universe enter the one road
@@ -1371,7 +1371,7 @@ however, even Kempo and Mumon did not know where this one road really is.
          the origin of the road lies away ahead of their foresight.
 
 
-<b>Mumonkan - Case 49: The Epilogue by Mumon</b>
+### Mumonkan - Case 49: The Epilogue by Mumon
 
 The words and the actions left by Buddha and the patriarchs in these forty-eight
 Koans are as precise as laws and judgements, and therein nothing superfluous is

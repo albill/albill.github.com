@@ -12,9 +12,9 @@ From Wikipedia:
 > The book includes Yuanwu's annotations and commentary on Xuedou Zhongxian's (雪竇重顯 980 – 1052) collection 100 Verses on Old Cases 《頌古百則》 — a compilation of 100 koans. Xuedou selected 82 of these from the Jingde Chuandeng Lu 《景德傳燈錄》 (Jingde era Record of the Transmission of the Lamp), with the remainder selected from the Yunmen Guanglu 《雲門廣録》 (Extensive Record of Yunmen Wenyan (864 – 949).
 > Yuanwu's successor, Dahui Zonggao (大慧宗杲 1089 – 1163). wrote many letters to lay students teaching the practice of concentrating on koans during meditation. But Dahui did not explain and analyze koans. Oral tradition holds that Dahui noticed students engaged in too much intellectual discourse on koans, and then burned the wooden blocks used to print the Bìyán Lù.
 
-<strong>Hekiganroku - Case 1: Bodhidharma's "Clear and Void"</strong>
+### Hekiganroku - Case 1: Bodhidharma's "Clear and Void"
 
-Emperor Bu of Ryo [1] asked Great Master Bodhidharma,
+Emperor Bu of Ryo <sup>1</sup> asked Great Master Bodhidharma,
 
   "What is the highest meaning of the holy reality?"
 
@@ -31,8 +31,6 @@ Bodhidharma said,
   "I don't know."
 
 The emperor did not match him.
-
-
 
 Finally, Bodhidharma crossed the Yangtse River and came to the kingdom of Gi.
 
@@ -56,25 +54,18 @@ back. Shiko said,
 
    all the people in the land were to go after him, he would not return."
 
+<sup>1</sup> Emperor Bu reigned over the land of Ryo between 502-509
 
 
-[1]: Emperor Bu reigned over the land of Ryo between 502-509
-
-
-
-
-
-<strong>Hekiganroku - Case 2: Joshu's "Supreme Way"</strong>
-
-
+### Hekiganroku - Case 2: Joshu's "Supreme Way"
 
 Joshu, instructing the assembly, said, 
 
-  "The supreme Way is not difficult; it simply dislikes choosing [1]. But even
+  "The supreme Way is not difficult; it simply dislikes choosing <sup>1</sup>. But even
 
    if a word is uttered, it is already an action of 'choosing' or of adhering
 
-   to 'clarity'. This old monk [2] doesn't dwell in clarity. Do you monks want
+   to 'clarity'. This old monk <sup>2</sup> doesn't dwell in clarity. Do you monks want
 
    to keep a firm hold on 'clarity' or not?"
 
@@ -96,9 +87,7 @@ Joshu said,
 
   "You have already asked amply. Bow and withdraw."
 
-
-
-[1]: Cf. the beginning of the Shinjinmei (Believing in the Mind; Poem composed
+<sup>1</sup> Cf. the beginning of the Shinjinmei (Believing in the Mind; Poem composed
 
      by the third Patriarch Sosan):
 
@@ -112,15 +101,10 @@ Joshu said,
 
            
 
-[2]: "this old monk" i.e. "I"
+<sup>2</sup> "this old monk" i.e. "I"
 
 
-
-
-
-<strong>Hekiganroku - Cas 3: Master Ba Is Ill</strong>
-
-
+### Hekiganroku - Cas 3: Master Ba Is Ill
 
 Great Master Ba was seriously ill. The chief priest of the temple asked him,
 
@@ -128,21 +112,14 @@ Great Master Ba was seriously ill. The chief priest of the temple asked him,
 
 Great Master said,
 
-  "Sun-face Buddha, Moon-face Buddha" [1].
+  "Sun-face Buddha, Moon-face Buddha" <sup>1</sup>.
 
-
-
-[1]: The "Sun-face Buddha" is a buddha, who is said to have a life of
+<sup>1</sup> The "Sun-face Buddha" is a buddha, who is said to have a life of
 
      1800 years, while the "Moon-face Buddha" lives only 24 hours.
 
 
-
-
-
-<strong>Case 4: Tokusan with His Bundle</strong>
-
-
+### Case 4: Tokusan with His Bundle
 
 Tokusan arrived at Isan. Carrying his bundle under his arm, he stepped into
 
@@ -150,9 +127,7 @@ the Dharma hall. He walked across it from east to west and from west to east.
 
 Looking around he said, "None, none!" and went out.
 
-(Setcho [1] commented: "Seen through!")
-
-
+(Setcho <sup>1</sup> commented: "Seen through!")
 
 But when he got to the entrance gate, Tokusan said, "Still, I shouldn't be so
 
@@ -165,8 +140,6 @@ his place, Tokusan held up his sitting cloth in a ceremonial manner and said,
 "Kaatz!" Then he flourished his sleeves and went out.
 
 (Setcho commented: "Seen through!")
-
-
 
 Turning his back on the Dharma hall, Tokusan put on his straw sandals and left.
 
@@ -182,21 +155,12 @@ the patriarchs."
 
 (Setcho commented: "Piling up frost on top of snow.")
 
+<sup>1</sup> Setcho Zenji is the compiler of the Hekiganroku.
+
+<sup>2</sup> In Japanese: hossu i.e. a stick with a flexible whisk on top
 
 
-[1]: Setcho Zenji is the compiler of the Hekiganroku.
-
-[2]: In Japanese: hossu i.e. a stick with a flexible whisk on top
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 5: Seppo's "Grain of Rice"</strong>
-
-
+### Hekiganroku - Case 5: Seppo's "Grain of Rice"
 
 Seppo, teaching the assembly, said,
 
@@ -207,14 +171,7 @@ Seppo, teaching the assembly, said,
    don't recognize it any more. Beat the drum, call everyone to look for it!"
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 6: Unmon's "Good Day"</strong>
-
-
+### Hekiganroku - Case 6: Unmon's "Good Day"
 
 Unmon, giving instruction, said,
 
@@ -227,34 +184,20 @@ Unmon himself answered in the monks' stead,
   "Every day is a good day." 
 
 
-
-
-
-
-
-<strong>Case 7: Echo Asks about Buddha</strong>
-
-
+### Case 7: Echo Asks about Buddha
 
 A monk asked Hogen, "I, Echo, ask you, Master. What is Buddha?" 
 
 Hogen said, "You are Echo." 
 
 
+### Case 8: Suigan's "Eyebrows"
 
-
-
-
-
-<strong>Case 8: Suigan's "Eyebrows"</strong>
-
-
-
-Towards the end of summer [1], Suigan instructed the assembly, saying,
+Towards the end of summer <sup>1</sup>, Suigan instructed the assembly, saying,
 
   "All summer I've preached to you, my brothers. Look here, are Suigan's
 
-   eyebrows still there? [2]"
+   eyebrows still there? <sup>2</sup>"
 
 Hofuku said,
 
@@ -266,53 +209,35 @@ Chokei said,
 
 Unmon said,
 
-  "Kan!" [3]
+  "Kan!" <sup>3</sup>
 
+<sup>1</sup> Summer-sesshin for 3 months.
 
-
-[1]: Summer-sesshin for 3 months.
-
-[2]: According to the popular belief a great criminal should lose his eyebrows
+<sup>2</sup> According to the popular belief a great criminal should lose his eyebrows
 
      as a sign of his coming punishment in hell.
 
-[3]: Literally kan means "barrier" (cf. Mumonkan). In those days this Chinese
+<sup>3</sup> Literally kan means "barrier" (cf. Mumonkan). In those days this Chinese
 
      word colloquially meant also, "Watch out!" or "There!"
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 9: Joshu's Four Gates</strong>
-
-
+### Hekiganroku - Case 9: Joshu's Four Gates
 
 A monk asked Joshu,
 
-  "What is Joshu?" [1]
+  "What is Joshu?" <sup>1</sup>
 
 Joshu said,
 
   "East gate, west gate, south gate, north gate." 
 
-
-
-[1]: The name of the Zen Master Joshu is taken from the city "Joshu", near
+<sup>1</sup> The name of the Zen Master Joshu is taken from the city "Joshu", near
 
      which he taught.
 
 
-
-
-
-
-
-<strong>Case 10: Bokushu's "Idiot"</strong>
-
-
+### Case 10: Bokushu's "Idiot"
 
 Bokushu asked a monk, "Where have you come from?"
 
@@ -329,20 +254,13 @@ The monk was silent.
 Bokushu hit him saying, "You idiot!"
 
 
-
-
-
-
-
-<strong>Case 11: Obaku's "Drinkers of Lees"</strong>
-
-
+### Case 11: Obaku's "Drinkers of Lees"
 
 Obaku, instructing the assembly, said,
 
   "You are all drinkers of lees. If you continue to go on your Way like this,
 
-   where will the 'Today' [The world of nirvana] be? Do you know that in
+   where will the 'Today' <sup>The world of nirvana</sup> be? Do you know that in
 
    this great empire of Tang there is no Zen master?"
 
@@ -357,14 +275,7 @@ Obaku said,
   "I don't say that there is no Zen; I only say that there is no master."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 12: Tozan's "Three Pounds of hemp" </strong>[1]
-
-
+### Hekiganroku - Case 12: Tozan's "Three Pounds of hemp" <sup>1</sup>
 
 A monk asked Tozan,
 
@@ -372,41 +283,23 @@ A monk asked Tozan,
 
 Tozan said,
 
-  "Three pounds of hemp." [2]
+  "Three pounds of hemp." <sup>2</sup>
+
+<sup>1</sup> cf. case 18 of the Mumonkan
+
+<sup>2</sup> In Japanese: masagin
 
 
-
-[1]: cf. case 18 of the Mumonkan
-
-[2]: In Japanese: masagin
-
-
-
-
-
-
-
-<strong>Case 13: Haryo's "Silver Bowl" </strong>[1]
-
-
+### Case 13: Haryo's "Silver Bowl" <sup>1</sup>
 
 A monk asked Haryo, "What is the Deva Sect?"
 
 Haryo said, "Heaping up snow in a silver bowl." 
 
+<sup>1</sup> Cf. Case 22/a in the Miscellaneous Koans.
 
 
-[1]: Cf. Case 22/a in the Miscellaneous Koans.
-
-
-
-
-
-
-
-<strong>Case 14: Unmon's "Preaching Fittingly"</strong>
-
-
+### Case 14: Unmon's "Preaching Fittingly"
 
 A monk asked Unmon,
 
@@ -414,17 +307,10 @@ A monk asked Unmon,
 
 Unmon said,
 
-  "Preaching one thing." [In Japanese: Tai-issetsu.]
+  "Preaching one thing." <sup>In Japanese: Tai-issetsu.</sup>
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 15: Unmon's "Preaching in the Reverse"</strong>
-
-
+### Hekiganroku - Case 15: Unmon's "Preaching in the Reverse"
 
 A monk asked Unmon,
 
@@ -432,21 +318,12 @@ A monk asked Unmon,
 
 Unmon said,
 
-  "Preaching in the reverse." [1]
+  "Preaching in the reverse." <sup>1</sup>
+
+<sup>1</sup> In Japanese: Toissetsu
 
 
-
-[1]: In Japanese: Toissetsu
-
-
-
-
-
-
-
-<strong>Case 16: Kyosei and "Picking and Pecking"</strong>
-
-
+### Case 16: Kyosei and "Picking and Pecking"
 
 A monk asked Kyosei, 
 
@@ -461,14 +338,7 @@ The monk said, "If I were not alive, people would all laugh."
 Kyosei said, "You fool in the weeds!"
 
 
-
-
-
-
-
-<strong>Case 17: Kyorin's "Sitting for a Long Time"</strong>
-
-
+### Case 17: Kyorin's "Sitting for a Long Time"
 
 A monk asked Kyorin, 
 
@@ -479,22 +349,15 @@ Kyorin said,
   "I am tired from sitting for a long time."
 
 
+### Hekiganroku - Case 18: The National Teacher's Gravestone
 
+Emperor Shukuso <sup>1</sup> asked Chu, the national teacher,
 
-
-
-
-<strong>Hekiganroku - Case 18: The National Teacher's Gravestone</strong>
-
-
-
-Emperor Shukuso [1] asked Chu, the national teacher,
-
-  "What would you wish me to do after a hundred years ?" [2]
+  "What would you wish me to do after a hundred years ?" <sup>2</sup>
 
 The national teacher said,
 
-  "Make a seamless gravestone [3] for this old monk." 
+  "Make a seamless gravestone <sup>3</sup> for this old monk." 
 
 The emperor said,
 
@@ -513,8 +376,6 @@ The national teacher said,
   "I have a Dharma successor, my disciple Tangen, who is well versed with
 
    this matter. Let him come to you and ask him about it."
-
-
 
 After the national teacher passed away, the emperor called Tangen and asked
 
@@ -537,44 +398,25 @@ him about the meaning of this. Tangen responded:
       (Setcho commented, "The speech is finished.")"
 
 
-
-
-
-[1] historically speaking it was Emperor Daiso the oldest son and successor
+<sup>1</sup> historically speaking it was Emperor Daiso the oldest son and successor
 
     of Shukuso.
 
-[2] after your death
+<sup>2</sup> after your death
 
-[3] an egg-formed gravestone which is made out of a single piece of stone.
+<sup>3</sup> an egg-formed gravestone which is made out of a single piece of stone.
 
     It was often made for deceased monks.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 19: Gutei's One Finger </strong>[1]
-
-
+### Hekiganroku - Case 19: Gutei's One Finger <sup>1</sup>
 
 Whatever he was asked about Buddhism, Master Gutei simply stuck up one finger.
 
+<sup>1</sup> see case 3 of the Mumonkan
 
 
-[1]: see case 3 of the Mumonkan
-
-
-
-
-
-
-
-<strong>Case 20: Suibi and the Chin Rest</strong>
-
-
+### Case 20: Suibi and the Chin Rest
 
 Ryuge asked Suibi,
 
@@ -592,8 +434,6 @@ Ryuge said,
 
    Patriarch's coming from the west."
 
-
-
 Ryuge also asked Rinzai,
 
   "What is the meaning of the Patriarch's coming from the west?"
@@ -608,21 +448,12 @@ Ryuge got one and gave it to Rinzai. Rinzai took it and hit him. Ryuge said,
 
    Patriarch's coming from the west."
 
-
-
-[1] Literally: "Zen board" i.e. a narrow board used so as to let one sleep in
+<sup>1</sup> Literally: "Zen board" i.e. a narrow board used so as to let one sleep in
 
     the sitting posture.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 21: Chimon's "Lotus"</strong>
-
-
+### Hekiganroku - Case 21: Chimon's "Lotus"
 
 A monk asked Chimon,
 
@@ -646,9 +477,7 @@ Chimon replied,
 
   
 
-<strong>Hekiganroku - Case 22: Seppo's "Poisonous Snake" </strong>[1]
-
-
+### Hekiganroku - Case 22: Seppo's "Poisonous Snake" <sup>1</sup>
 
 Seppo, instructing the assembly, said,
 
@@ -664,7 +493,7 @@ Chokei said,
 
 A monk told this to Gensha, who said,
 
-  "Only Elder Brother Ryo [2] could say something like that. However,
+  "Only Elder Brother Ryo <sup>2</sup> could say something like that. However,
 
    I wouldn't talk like that."
 
@@ -678,33 +507,22 @@ Gensha replied,
 
 Unmon threw his staff in front of Seppo and acted frightened.
 
+<sup>1</sup> see case 24 of Shoyoroku.
+
+<sup>2</sup> i.e. Chokei
 
 
-[1]: see case 24 of Shoyoroku.
-
-[2]: i.e. Chokei
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 23: Hofuku and Chokei Go on a Picnic</strong>
-
-
+### Hekiganroku - Case 23: Hofuku and Chokei Go on a Picnic
 
 Once Hofuku and Chokei went out on a picnic in the hills.
 
 Hofuku, pointing with a finger, said,
 
-  "Right here is the summit of Myo Peak." [1]
+  "Right here is the summit of Myo Peak." <sup>1</sup>
 
 Chokei said,
 
   "Exactly. But, it's regrettable." 
-
-
 
   (Setcho commented saying,
 
@@ -716,67 +534,46 @@ Chokei said,
 
       be none like him, only that there will be very few.")
 
-
-
 Later, they reported to Kyosei about it. Kyosei said,
 
-  "If it weren't for the Reverend Son [2], you would see only skeletons in
+  "If it weren't for the Reverend Son <sup>2</sup>, you would see only skeletons in
 
    the field."
 
 
+<sup>1</sup> Literally: "the Peak of Wonder."
+
+<sup>2</sup> Namely Chokei.
 
 
+### Hekiganroku - Case 24: Tetsuma, the Cow
 
-[1] Literally: "the Peak of Wonder."
-
-[2] Namely Chokei.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 24: Tetsuma, the Cow</strong>
-
-
-
-Ryu Tetsuma [1] came to Isan. Isan said,
+Ryu Tetsuma <sup>1</sup> came to Isan. Isan said,
 
   "Old Cow, you have come!"
 
 Tetsuma said,
 
-  "Tomorrow there will be a great feast at Mt Tai [2].
+  "Tomorrow there will be a great feast at Mt Tai <sup>2</sup>.
 
    Will you go there, Master?"
 
 Isan lay down and stretched himself out. Tetsuma left immediately. 
 
-
-
-[1] A famous Zen person, once a student of Isan. Her name means "Ryu, the
+<sup>1</sup> A famous Zen person, once a student of Isan. Her name means "Ryu, the
 
     iron grindstone."
 
-[2] More exactly: Mt. Gotai, which is far away in the northern part of
+<sup>2</sup> More exactly: Mt. Gotai, which is far away in the northern part of
 
     the country.
 
 
+### Case 25: The Hermit of Lotus Peak
 
+The hermit of Lotus Peak <sup>1</sup> took up his staff and showed it to the assembly,
 
-
-
-
-<strong>Case 25: The Hermit of Lotus Peak</strong>
-
-
-
-The hermit of Lotus Peak [1] took up his staff and showed it to the assembly,
-
-saying, "When the old ones [2] reached this point, why didn't they dare
+saying, "When the old ones <sup>2</sup> reached this point, why didn't they dare
 
 to remain here?" The assembly was silent. He himself answered in their stead,
 
@@ -788,23 +585,14 @@ their place, saying, "With my staff across my shoulders, and, paying other
 
 people no heed, I go straight into the thousand and ten thousand peaks."
 
-
-
-[1] Originally "Rengeho." His real name was Sho, a Dharma grandson of
+<sup>1</sup> Originally "Rengeho." His real name was Sho, a Dharma grandson of
 
     Unmon Zenji
 
-[2] The great Zen personages of old.
+<sup>2</sup> The great Zen personages of old.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 26: Hyakujo on Daiyu Peak</strong>
-
-
+### Hekiganroku - Case 26: Hyakujo on Daiyu Peak
 
 A monk asked Hyakujo, 
 
@@ -812,23 +600,14 @@ A monk asked Hyakujo,
 
 Hyakujo said,
 
-  "Sitting alone on Daiyu [1] Peak!"
+  "Sitting alone on Daiyu <sup>1</sup> Peak!"
 
 The monk made a deep bow. Hyakujo thereupon hit him.
 
+<sup>1</sup> The name of the mountain, where Hyakujo's monastery was located.
 
 
-[1] The name of the mountain, where Hyakujo's monastery was located.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 27: Unmon's "Complete exposure"</strong>
-
-
+### Hekiganroku - Case 27: Unmon's "Complete exposure"
 
 A monk asked Unmon,
 
@@ -836,21 +615,12 @@ A monk asked Unmon,
 
 Unmon answered,
 
-  "Complete exposure of the golden wind. [1]"
+  "Complete exposure of the golden wind. <sup>1</sup>"
+
+<sup>1</sup> The autumn wind was also called "golden wind".
 
 
-
-[1] The autumn wind was also called "golden wind".
-
-
-
-
-
-
-
-<strong>Case 28: Nansen's "Dharma That Has Never Been Preached"</strong>
-
-
+### Case 28: Nansen's "Dharma That Has Never Been Preached"
 
 Nansen went to see Master Hyakujo Nehan.
 
@@ -895,18 +665,11 @@ Hyakujo said,
    "I have already preached to you fully."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 29: Daizui and the "Kalpa Fire"</strong>
-
-
+### Hekiganroku - Case 29: Daizui and the "Kalpa Fire"
 
 A monk asked Daizui,
 
-  "When the great kalpa fire is inflamed, the whole universe [1] will be
+  "When the great kalpa fire is inflamed, the whole universe <sup>1</sup> will be
 
    destroyed. I wonder if 'that' will also be destroyed or not."
 
@@ -916,53 +679,35 @@ Daizui said,
 
 The monk said,
 
-  "If so, will 'that' be gone with the other?" [2]
+  "If so, will 'that' be gone with the other?" <sup>2</sup>
 
 Daizui said,
 
   "Gone with the other."
 
+<sup>1</sup> Literally: "a billion worlds"
+
+<sup>2</sup> The word "the other" means "the universe."
 
 
-[1] Literally: "a billion worlds"
-
-[2] The word "the other" means "the universe."
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 30: Joshu's "Giant Radishes"</strong>
-
-
+### Hekiganroku - Case 30: Joshu's "Giant Radishes"
 
 A monk asked Joshu, 
 
-  "I've heard that you personally met Nansen [1]. Is it true or not?"
+  "I've heard that you personally met Nansen <sup>1</sup>. Is it true or not?"
 
 Joshu replied,
 
-  "The province of Chin [2] produces giant radishes." 
+  "The province of Chin <sup>2</sup> produces giant radishes." 
 
+<sup>1</sup> I.e., "... that you were a student of Nansen."
 
-
-[1] I.e., "... that you were a student of Nansen."
-
-[2] The province of Chin was famous for producing great radishes. Joshu's
+<sup>2</sup> The province of Chin was famous for producing great radishes. Joshu's
 
     monastery was also located in that area.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 31: Mayoku Circles Around the Master's Dais</strong>
-
-
+### Hekiganroku - Case 31: Mayoku Circles Around the Master's Dais
 
 Mayoku, with his ring-staff in hand, came to Shokei.
 
@@ -972,15 +717,11 @@ stood there bolt upright.
 
 Shokei said, "Right, right!"  (Setcho comments, "Wrong!") 
 
-
-
 Mayoku then came to Nansen. He circled Nansen's dais three times, shook
 
 the ring-staff and stood there bolt upright.
 
 Nansen said, "Not right, not right!"  (Setcho comments, "Wrong!") 
-
-
 
 Then, Mayoku said, "Master Shokei said, 'Right, right!' Why, Master, do you
 
@@ -988,23 +729,14 @@ say, 'Not right, not right!'?"
 
 Nansen said, "With Shokei it is right, but with you it is not right. 
 
-This is nothing but a whirling of the wind [1]. In the end, it will perish." 
+This is nothing but a whirling of the wind <sup>1</sup>. In the end, it will perish." 
 
-
-
-[1]: one of the four elements in Chinese physics (earth, air, fire, wind),
+<sup>1</sup> one of the four elements in Chinese physics (earth, air, fire, wind),
 
   wind is the element of movement.
 
 
-
-
-
-
-
-<strong>Case 32: Jo and the "Essence of Buddhism"</strong>
-
-
+### Case 32: Jo and the "Essence of Buddhism"
 
 A senior monk Jo asked Rinzai, "What is the essence of Buddhism?"
 
@@ -1017,14 +749,7 @@ A monk standing nearby said, "Senior monk Jo! Why don't you make a deep bow?"
 As he made a deep bow, Jo suddenly attained a great enlightenment.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 33: Chinso Has One Eye</strong>
-
-
+### Hekiganroku - Case 33: Chinso Has One Eye
 
 National Secretary Chinso went to see Shifuku. When Shifuku saw him coming, he
 
@@ -1039,14 +764,7 @@ Thereupon Shifuku closed the door of his room.
    (Setcho said, "Chinso has but one eye.")
 
 
-
-
-
-
-
-<strong>Case 34: Kyozan's "Not Wandering"</strong>
-
-
+### Case 34: Kyozan's "Not Wandering"
 
 Kyozan asked a monk,
 
@@ -1054,11 +772,11 @@ Kyozan asked a monk,
 
 The monk said, 
 
-   "From Mount Ro." [1]
+   "From Mount Ro." <sup>1</sup>
 
 Kyozan said, 
 
-   "Have you been to the Goroho Peak?" [2]
+   "Have you been to the Goroho Peak?" <sup>2</sup>
 
 The monk said,
 
@@ -1073,26 +791,16 @@ Unmon said,
    "Because of too much compassion these words have fallen into grasses."
 
 
-
-
-
-[1]: One of the most beautiful and most famous mountains in the southern part
+<sup>1</sup> One of the most beautiful and most famous mountains in the southern part
 
      of China with many Zen monasteries.
 
-[2]: The Goroho Peak, translated as "Five Elder" Peak, is the most noted peak
+<sup>2</sup> The Goroho Peak, translated as "Five Elder" Peak, is the most noted peak
 
      of Mt. Ro.
 
 
-
-
-
-
-
-<strong>Case 35: Manjusri's "Three Three"</strong>
-
-
+### Case 35: Manjusri's "Three Three"
 
 Manjusri asked Mujaku,
 
@@ -1100,7 +808,7 @@ Manjusri asked Mujaku,
 
 Mujaku answered,
 
-   "From the south." [1] 
+   "From the south." <sup>1</sup> 
 
 Manjusri said,
 
@@ -1139,22 +847,12 @@ Manjusri said,
    "Three three before, three three behind."
 
 
-
-
-
-[1]: The South of China, namely the region of Konan.
-
+<sup>1</sup> The South of China, namely the region of Konan.
 
 
 
 
-
-
-
-
-<strong>Hekiganroku - Case 36: Chosa Goes Picnicking</strong>
-
-
+### Hekiganroku - Case 36: Chosa Goes Picnicking
 
 One day, Chosa went for a walk in the mountains.
 
@@ -1184,63 +882,41 @@ Chosa said,
 
    "It's better than the autumn dew dropping on the lotus flower."
 
-
-
 (Setcho commented, "I am grateful for that answer.")
 
 
+### Case 37: Banzan's "Not One Thing in the Three Worlds"
 
-
-
-
-
-<strong>Case 37: Banzan's "Not One Thing in the Three Worlds"</strong>
-
-
-
-Banzan, giving instruction, said, "In the Three Worlds [1], there is not one
+Banzan, giving instruction, said, "In the Three Worlds <sup>1</sup>, there is not one
 
 thing. Where should one seek the mind?" 
 
-
-
-[1]: The World of desires, the World of materials, and the World of 
+<sup>1</sup> The World of desires, the World of materials, and the World of 
 
      non-materials.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 38: Fuketsu's "Heart Seal"</strong>
-
-
+### Hekiganroku - Case 38: Fuketsu's "Heart Seal"
 
 When he was staying at the government office of the Province Ei, Fuketsu
 
-entered the hall [to preach] and said,
+entered the hall <sup>to preach</sup> and said,
 
-  "The heart seal [1] [stamp] of the patriarch [2] resembles the activity
+  "The heart seal <sup>1</sup> <sup>stamp</sup> of the patriarch <sup>2</sup> resembles the activity
 
-   of the iron ox [3]. When it goes away, the [impression of the] seal
+   of the iron ox <sup>3</sup>. When it goes away, the <sup>impression of the</sup> seal
 
-   remains; when it stays there, the [impression of the] seal is brought to
+   remains; when it stays there, the <sup>impression of the</sup> seal is brought to
 
    naught. If it neither goes away nor stays, would it be right to give a
 
-   seal [of approval] or not?"
-
-
+   seal <sup>of approval</sup> or not?"
 
 Then Elder Rohi came up and said,
 
-  "I have the activities of the iron ox. [However,] I ask you, Master,
+  "I have the activities of the iron ox. <sup>However,</sup> I ask you, Master,
 
    not to give me the seal."
-
-
 
 Fuketsu said,
 
@@ -1248,11 +924,7 @@ Fuketsu said,
 
    alas, now I find instead a frog wriggling about in the mud."
 
-
-
 Rohi stood there considering.
-
-
 
 Fuketsu shouted
 
@@ -1262,33 +934,21 @@ and said,
 
   "Why don't you say anything else, Elder?"
 
-
-
 Rohi was perplexed.
-
-
 
 Fuketsu hit him with his whisk and said,
 
   "Do you remember what you said? Say something, I'll check it for you."
 
-
-
 Rohi tried to say something. Fuketsu hit him again with his whisk.
-
-
 
 The Magistrate said,
 
   "Buddha's law and the King's law are of the same nature."
 
-
-
 Fuketsu said,
 
   "What principle do you see in them?"
-
-
 
 The Magistrate said,
 
@@ -1296,41 +956,29 @@ The Magistrate said,
 
    you are inviting disorder."
 
-
-
 Fuketsu descended from the rostrum.
 
 
+<sup>1</sup> The form of the heart-mind.
 
+<sup>2</sup> Bodhidharma.
 
-
-[1]: The form of the heart-mind.
-
-[2]: Bodhidharma.
-
-[3]: An "iron ox" is a massive construction which lay at the bottom of the
+<sup>3</sup> An "iron ox" is a massive construction which lay at the bottom of the
 
      Yellow River. It stood against the great stream and protected the area
 
      from flood.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 39: Unmon's "Garden Fence"</strong>
-
-
+### Hekiganroku - Case 39: Unmon's "Garden Fence"
 
 A monk asked Unmon,
 
-  "What is the Pure Dharma-body [1]?"
+  "What is the Pure Dharma-body <sup>1</sup>?"
 
 Unmon said,
 
-  "Flower fence" [2].
+  "Flower fence" <sup>2</sup>.
 
 The monk said,
 
@@ -1340,23 +988,14 @@ Unmon said,
 
   "A golden-haired lion." 
 
-
-
-[1]: The body of the ultimate Truth (Jap. hoshin, sk. dharmakaya) or one of the
+<sup>1</sup> The body of the ultimate Truth (Jap. hoshin, sk. dharmakaya) or one of the
 
      three bodies of Buddha.
 
-[2]: In Japanese: Kayakuran. It actually was a flower fence around a restroom.
+<sup>2</sup> In Japanese: Kayakuran. It actually was a flower fence around a restroom.
 
 
-
-
-
-
-
-<strong>Case 40: Nansen and the Flower</strong>
-
-
+### Case 40: Nansen and the Flower
 
 Minister Rikuko talked with Nansen.
 
@@ -1366,27 +1005,15 @@ Rikuko said,
 
    same root; all things and I are one single body.' How wonderful this is!"
 
-
-
 Nansen pointed at the flowers in the garden, called to Rikuko and said,
 
-   "People of our time [1] see these flowers as in a dream."
+   "People of our time <sup>1</sup> see these flowers as in a dream."
 
 
+<sup>1</sup> I.e. "you."
 
 
-
-[1]: I.e. "you."
-
-
-
-
-
-
-
-<strong>Case 41: Joshu's "Great Death"</strong>
-
-
+### Case 41: Joshu's "Great Death"
 
 Joshu asked Tosu,
 
@@ -1397,16 +1024,9 @@ Tosu said,
    "I don't allow walking about in the night. Come in the daylight."
 
 
+### Hekiganroku - Case 42: Ho Koji's "Beautiful Snow"
 
-
-
-
-
-<strong>Hekiganroku - Case 42: Ho Koji's "Beautiful Snow"</strong>
-
-
-
-Ho Koji [1] was leaving Yakusan. The latter ordered ten of his Zen students
+Ho Koji <sup>1</sup> was leaving Yakusan. The latter ordered ten of his Zen students
 
 to see Koji off at the temple gate. Koji pointed to the falling snow in the
 
@@ -1424,7 +1044,7 @@ Koji gave him a slap. Zen said,
 
 Koji said, 
 
-  "If you name yourself Zen student in such a condition, Old En [2] will
+  "If you name yourself Zen student in such a condition, Old En <sup>2</sup> will
 
    never release you!"
 
@@ -1438,31 +1058,19 @@ Koji slapped him again and said,
 
    your mouth, but you are just like a dumb man."
 
-
-
 (Setcho added his comment, "At the first words, I immediately would have
 
  made a snowball and threw it against him.") 
 
 
+<sup>1</sup> Koji is an honorific for a lay practitioner of Buddhism.
 
-
-
-[1]: Koji is an honorific for a lay practitioner of Buddhism.
-
-[2]: Usually named Emma-Daio (the King of hell Emma). He is supposed to be the
+<sup>2</sup> Usually named Emma-Daio (the King of hell Emma). He is supposed to be the
 
      fearful judge at the entrance of the realm of the dead.
 
 
-
-
-
-
-
-<strong>Case 43: Tozan's "Cold and Heat"</strong>
-
-
+### Case 43: Tozan's "Cold and Heat"
 
 A monk asked Tozan, 
 
@@ -1481,20 +1089,13 @@ Tozan said,
    "When it is cold, the cold kills you; when it is hot, the heat kills you." 
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 44: Kasan's "Beat the Drum"</strong>
-
-
+### Hekiganroku - Case 44: Kasan's "Beat the Drum"
 
 Kasan, giving instruction, said,
 
   "Practicing and learning -- it is called 'hearing' (mon);
 
-   completing learning -- it is called 'being next [to the fact]' (rin).
+   completing learning -- it is called 'being next <sup>to the fact</sup>' (rin).
 
    When you have passed through these two, it is called 'true passing'
 
@@ -1518,9 +1119,9 @@ Kasan said,
 
 He asked again,
 
-  "I do not ask about the sentence, 'Mind itself is Buddha.'[1]
+  "I do not ask about the sentence, 'Mind itself is Buddha.'<sup>1</sup>
 
-   [But] What does 'Neither Mind nor Buddha'[2] mean?"
+   <sup>But</sup> What does 'Neither Mind nor Buddha'<sup>2</sup> mean?"
 
 Kasan said,
 
@@ -1534,25 +1135,16 @@ Kasan said,
 
   "Beat the drum!"
 
+<sup>1</sup> Cf. Case 30 in the Mumonkan.
+
+<sup>2</sup> Cf. Case 33 in the Mumonkan.
 
 
-[1]: Cf. Case 30 in the Mumonkan.
-
-[2]: Cf. Case 33 in the Mumonkan.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 45: Joshu's "Cloth Robe"</strong>
-
-
+### Hekiganroku - Case 45: Joshu's "Cloth Robe"
 
 A monk asked Joshu,
 
-  "The ten thousand Dharmas [1] come down to one.
+  "The ten thousand Dharmas <sup>1</sup> come down to one.
 
    What does the one come down to?"
 
@@ -1562,21 +1154,12 @@ Joshu said,
 
    It weighed seven pounds."
 
-
-
-[1]: The word "Dharma" means here "phenomenon". "Ten thousand Dharmas" means,
+<sup>1</sup> The word "Dharma" means here "phenomenon". "Ten thousand Dharmas" means,
 
      therefore, "all things that exist in the world of phenomena".
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 46: Kyosei and the Raindrops</strong>
-
-
+### Hekiganroku - Case 46: Kyosei and the Raindrops
 
 Kyosei asked a monk,
 
@@ -1590,7 +1173,7 @@ Kyosei said,
 
   "People live in a topsy-turvy world. They lose themselves in delusion about
 
-   themselves and only pursue [outside] objects."
+   themselves and only pursue <sup>outside</sup> objects."
 
 The monk said,
 
@@ -1608,37 +1191,28 @@ The monk said,
 
 Kyosei said,
 
-  "To break through [into the world of Essence] may be easy. But to express
+  "To break through <sup>into the world of Essence</sup> may be easy. But to express
 
    fully the bare substance is difficult."
 
 
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 47: Unmon's "Six"</strong>
-
-
+### Hekiganroku - Case 47: Unmon's "Six"
 
 A monk asked Unmon,
 
-  "What is the Dharma-body [1]?"
+  "What is the Dharma-body <sup>1</sup>?"
 
 Unmon said,
 
-  "The six [2] can't grasp it."
+  "The six <sup>2</sup> can't grasp it."
 
-
-
-[1]: (same note as Case 39) The body of the ultimate Truth (Jap. hoshin, sk.
+<sup>1</sup> (same note as Case 39) The body of the ultimate Truth (Jap. hoshin, sk.
 
      dharmakaya) or one of the three bodies of Buddha.
 
-[2]: The "Six" means "six roots" (eye, ear, nose, tongue, body, consciousness),
+<sup>2</sup> The "Six" means "six roots" (eye, ear, nose, tongue, body, consciousness),
 
      "six objects" (color, voice, odor, taste, touch, phenomenon), and/or
 
@@ -1647,26 +1221,19 @@ Unmon said,
      any other "six"-ness.
 
 
+### CASE 48: Tea at Shokei Temple
 
+Minister Ô <sup>1</sup> visited Shokei Temple, where he offered tea. The senior monk
 
+Ro took up the kettle to serve Myosho <sup>2</sup>. But Ro overturned the kettle
 
-
-
-<strong>CASE 48: Tea at Shokei Temple</strong>
-
-
-
-Minister Ô [1] visited Shokei Temple, where he offered tea. The senior monk
-
-Ro took up the kettle to serve Myosho [2]. But Ro overturned the kettle
-
-[over the tea hearth]. The minister saw this and asked the senior monk, 
+<sup>over the tea hearth</sup>. The minister saw this and asked the senior monk, 
 
    "What is there under the tea hearth?"
 
 Ro said,
 
-   "Deities holding up the hearth [3]."
+   "Deities holding up the hearth <sup>3</sup>."
 
 The minister said, 
 
@@ -1680,13 +1247,11 @@ Ro said,
 
 The minister flourished his sleeves and went out.
 
-
-
 Myosho said,
 
    "Elder Ro, you have eaten plenty of rice in Shokei Temple, and yet
 
-    you are simply a [useless] stump in the field."
+    you are simply a <sup>useless</sup> stump in the field."
 
 Ro said,
 
@@ -1694,35 +1259,23 @@ Ro said,
 
 Myosho said,
 
-   "These non-human beings [4] wreaked havoc."
-
-
+   "These non-human beings <sup>4</sup> wreaked havoc."
 
 (Setcho said, "At that moment I would have kicked over the tea hearth.")
 
 
+<sup>1</sup> Minister Ô was a patron of Shokei Temple.
 
-
-
-[1]: Minister Ô was a patron of Shokei Temple.
-
-[2]: Myosho was senior to Ro. He was the abbot of the neighboring temple
+<sup>2</sup> Myosho was senior to Ro. He was the abbot of the neighboring temple
 
      and was apparently invited to the tea too.
 
-[3]: The legs of the tea hearth were shaped like demi-gods.
+<sup>3</sup> The legs of the tea hearth were shaped like demi-gods.
 
-[4]: I.e., the "deities who hold up the hearth".
-
-
+<sup>4</sup> I.e., the "deities who hold up the hearth".
 
 
-
-
-
-<strong>Hekiganroku - Case 49: Sansho's "Net"</strong>
-
-
+### Hekiganroku - Case 49: Sansho's "Net"
 
 Sansho asked Seppo,
 
@@ -1740,45 +1293,27 @@ Sansho said,
 
 Seppo said,
 
-   "The old monk[1] is just too busy with temple affairs."
+   "The old monk<sup>1</sup> is just too busy with temple affairs."
+
+<sup>1</sup> I.e., "I"
 
 
-
-[1]: I.e., "I"
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 50: Unmon and the "Dust-Dust Samadhi"</strong>
-
-
+### Hekiganroku - Case 50: Unmon and the "Dust-Dust Samadhi"
 
 A monk asked Unmon, 
 
-  "What is the dust-dust samadhi [1] ?"
+  "What is the dust-dust samadhi <sup>1</sup> ?"
 
 Unmon said,
 
   "Rice in the bowl, water in the pail." 
 
-
-
-[1]: The word "dust" comes from the expression "six dust particles", which
+<sup>1</sup> The word "dust" comes from the expression "six dust particles", which
 
      means the same thing as the "six objects" (cf. note to Case 47).
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 51: Seppo's "What Is This?"</strong>
-
-
+### Hekiganroku - Case 51: Seppo's "What Is This?"
 
 When Seppo was living in a hermitage, two monks came to pay their respects.
 
@@ -1794,15 +1329,13 @@ The monks also said,
 
 Seppo hung his head and retired into his hermitage.
 
-
-
 Later, the monks came to Ganto. He asked them, 
 
   "Where have you come from?"
 
 The monks said,
 
-  "From Reinan [1]."
+  "From Reinan <sup>1</sup>."
 
 Ganto said,
 
@@ -1830,8 +1363,6 @@ Ganto said,
 
    If I had told it to him, no one under heaven could do anything against him."
 
-
-
 At the end of the summer practice period the monks came back to this
 
 conversation and asked him about its meaning. Ganto said,
@@ -1844,29 +1375,20 @@ The monk said,
 
 Ganto said,
 
-  "Seppo was born on the same stem as I [2], but he will not die on the same
+  "Seppo was born on the same stem as I <sup>2</sup>, but he will not die on the same
 
    stem. If you want to know the last word, it is just this."
 
+<sup>1</sup> A region in the south, where Seppo was living at that time.
+
+<sup>2</sup> Seppo and Ganto were both students of Tokusan; cf. Case 13 in the Mumonkan.
 
 
-[1]: A region in the south, where Seppo was living at that time.
-
-[2]: Seppo and Ganto were both students of Tokusan; cf. Case 13 in the Mumonkan.
-
-
-
-
-
-
-
-<strong>Case 52: Joshu's Stone Bridge</strong>
-
-
+### Case 52: Joshu's Stone Bridge
 
 A monk asked Joshu, 
 
-   "For a long time, the stone bridge of Joshu [1] has echoed in my ears.
+   "For a long time, the stone bridge of Joshu <sup>1</sup> has echoed in my ears.
 
     But now that I've come here, I just see a log bridge."
 
@@ -1882,21 +1404,12 @@ Joshu said,
 
    "It lets donkeys cross, it lets horses cross."
 
-
-
-[1]: (same note as case 9) The name of the Zen Master Joshu is taken from the
+<sup>1</sup> (same note as case 9) The name of the Zen Master Joshu is taken from the
 
      city "Joshu", near which he taught.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 53: Hyakujo and the Wild Ducks</strong>
-
-
+### Hekiganroku - Case 53: Hyakujo and the Wild Ducks
 
 When Great Master Ba was walking with Hyakujo, he saw wild ducks flying by.
 
@@ -1923,14 +1436,7 @@ The Great Master said,
   "Why flew away?"
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 54: Unmon Stretches His Arms</strong>
-
-
+### Hekiganroku - Case 54: Unmon Stretches His Arms
 
 Unmon asked a monk,
 
@@ -1955,14 +1461,7 @@ Unmon then stretched out his own arms. The monk remained silent.
 Then Unmon hit him.
 
 
-
-
-
-
-
-<strong>Case 55: Dogo's Condolence Visit</strong>
-
-
+### Case 55: Dogo's Condolence Visit
 
 Dogo and Zengen came to a house to express condolences. Zengen tapped on the
 
@@ -1982,8 +1481,6 @@ Dogo said,
 
    "I won't say, I won't say."
 
-
-
 On the way back Zengen said,
 
    "Master, please say it to me right away. If you don't, I shall hit you."
@@ -1993,8 +1490,6 @@ Dogo said,
    "If you want to hit me, you can hit me. But I will never say."
 
 Thereupon Zengen hit him.
-
-
 
 Some time later Dogo passed away. Zengen went to Sekiso and told him what
 
@@ -2011,8 +1506,6 @@ Sekiso said,
    "I won't say, I won't say."
 
 With these words, Zengen came suddenly to an insight.
-
-
 
 One day, Zengen took a hoe and walked in the Dharma-hall from east to west and
 
@@ -2036,23 +1529,14 @@ Zengen said,
 
    "That was very good for me in order to gain power."
 
-Taigen Fu [1] said,
+Taigen Fu <sup>1</sup> said,
 
    "The sacred bones of the late master are still there."
 
+<sup>1</sup> He stood in the Dharma line of Seppo.
 
 
-[1]: He stood in the Dharma line of Seppo.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 56: Kinzan and the "Arrow"</strong>
-
-
+### Hekiganroku - Case 56: Kinzan and the "Arrow"
 
 A Zen devotee named Ryo asked Kinzan, 
 
@@ -2089,14 +1573,7 @@ Ryo hesitated. Kinzan hit him seven times with a stick and said,
   "I will allow this fellow to keep puzzling for thirty years."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 57: Joshu and the "Bumpkin"</strong>
-
-
+### Hekiganroku - Case 57: Joshu and the "Bumpkin"
 
 A monk asked Joshu,
 
@@ -2121,20 +1598,13 @@ Joshu said,
 The monk remained silent.
 
 
-
-
-
-
-
-<strong>Case 58: Joshu and the "Pitfall"</strong>
-
-
+### Case 58: Joshu and the "Pitfall"
 
 A monk asked Joshu, 
 
    "'The supreme Way is not difficult; it simply dislikes choosing.' Isn't
 
-   that the pitfall of the people of our time [1]?" 
+   that the pitfall of the people of our time <sup>1</sup>?" 
 
 Joshu said,
 
@@ -2142,19 +1612,10 @@ Joshu said,
 
    I still can't give an answer to it."
 
+<sup>1</sup> (same note as Case 40) I.e. "you."
 
 
-[1]: (same note as Case 40) I.e. "you."
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 59: Joshu's "Supreme Way"</strong>
-
-
+### Hekiganroku - Case 59: Joshu's "Supreme Way"
 
 A monk asked Joshu,
 
@@ -2176,21 +1637,12 @@ Joshu said,
 
   "It's only: 'The supreme way is not difficult; it simply dislikes
 
-   choosing.'" [1]
+   choosing.'" <sup>1</sup>
+
+<sup>1</sup> Cf. Case 2.
 
 
-
-[1]: Cf. Case 2.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 60: Unmon's Staff</strong>
-
-
+### Hekiganroku - Case 60: Unmon's Staff
 
 Unmon showed his staff to the assembly and said,
 
@@ -2199,14 +1651,7 @@ Unmon showed his staff to the assembly and said,
    the earth. Where do mountains, rivers and the great earth come from?" 
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 61: Fuketsu's "House and Nation"</strong>
-
-
+### Hekiganroku - Case 61: Fuketsu's "House and Nation"
 
 Fuketsu, giving instruction, said, 
 
@@ -2214,43 +1659,25 @@ Fuketsu, giving instruction, said,
 
    does not raise a speck of dust, they perish."
 
-
-
 (Setcho held up his staff and said,
 
    "Is there anyone who lives and dies with this?")
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 62: Unmon's "One Treasure"</strong>
-
-
+### Hekiganroku - Case 62: Unmon's "One Treasure"
 
 Unmon, instructing the assembly, said, 
 
   "'Within heaven and earth, in the midst of the universe, there is one
 
-   treasure hidden in a body.' [1] You take up the lantern and go to the
+   treasure hidden in a body.' <sup>1</sup> You take up the lantern and go to the
 
    Buddha Hall; you take the temple gate and put it on the lantern."
 
+<sup>1</sup> A sentence from the Hozoron by Monk Jo (?-414).
 
 
-[1]: A sentence from the Hozoron by Monk Jo (?-414).
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 63: Nansen Kills a Cat </strong>[1]
-
-
+### Hekiganroku - Case 63: Nansen Kills a Cat <sup>1</sup>
 
 Once the monks of the eastern and western Zen halls in Nansen's temple were
 
@@ -2260,41 +1687,23 @@ quarrelling about a cat. As he saw this, Nansen held up the cat and said,
 
 No one could answer. Nansen cut the cat in two.
 
+<sup>1</sup> Cf. Case 14 in the Mumonkan.
 
 
-[1]: Cf. Case 14 in the Mumonkan.
+### Hekiganroku - Case 64: Joshu and the Sandals <sup>1</sup>
 
-
-
-
-
-
-
-<strong>Hekiganroku - Case 64: Joshu and the Sandals </strong>[1]
-
-
-
-Nansen told Joshu what had happened [2], and asked him for his view. Joshu
+Nansen told Joshu what had happened <sup>2</sup>, and asked him for his view. Joshu
 
 thereupon took his sandals, put them upon his head and went away. Nansen said,
 
    "If you had been there, I could have spared the cat."
 
+<sup>1</sup> Cf. case 14 in the Mumonkan.
+
+<sup>2</sup> Cf. case 63.
 
 
-[1] Cf. case 14 in the Mumonkan.
-
-[2] Cf. case 63.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 65: A Non-Buddhist Questions Buddha </strong>[1]
-
-
+### Hekiganroku - Case 65: A Non-Buddhist Questions Buddha <sup>1</sup>
 
 A non-Buddhist asked Buddha,
 
@@ -2316,19 +1725,10 @@ Buddha said,
 
   "He is like a fine horse that runs even at the shadow of a whip."
 
+<sup>1</sup> Cf. case 32 in the Mumonkan.
 
 
-[1]: Cf. case 32 in the Mumonkan.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 66: Ganto and the "Sword"</strong>
-
-
+### Hekiganroku - Case 66: Ganto and the "Sword"
 
 Ganto asked a monk,
 
@@ -2336,11 +1736,11 @@ Ganto asked a monk,
 
 The monk said, 
 
-  "From Saikyo [1]."
+  "From Saikyo <sup>1</sup>."
 
 Ganto said, 
 
-  "After Koso [2] was gone, did you get his sword?"
+  "After Koso <sup>2</sup> was gone, did you get his sword?"
 
 The monk said,
 
@@ -2355,8 +1755,6 @@ The monk said,
   "The Master's head has already fallen."
 
 Ganto laughed loudly.
-
-
 
 Later, the monk came to Seppo. Seppo asked,
 
@@ -2374,31 +1772,22 @@ The monk told him what had happened. Seppo gave him thirty blows with his
 
 stick and drove him away.
 
+<sup>1</sup> The western capital of the Tang Dynasty.
 
-
-[1] The western capital of the Tang Dynasty.
-
-[2] A rebel who -- according to a legend -- received a sword from heaven on
+<sup>2</sup> A rebel who -- according to a legend -- received a sword from heaven on
 
     which it was inscribed, "Heaven gives Koso this sword." He conquered
 
     Saikyo in 880, but was killed four years later.
 
 
+### Case 67: Fu Daishi Expounds the Sutra
 
-
-
-
-
-<strong>Case 67: Fu Daishi Expounds the Sutra</strong>
-
-
-
-The emperor Bu of Ryo [1] invited Fu Daishi [2] and asked him to lecture
+The emperor Bu of Ryo <sup>1</sup> invited Fu Daishi <sup>2</sup> and asked him to lecture
 
 on the Diamond Sutra. Daishi thereupon mounted the rostrum, struck the
 
-lectern once and descended. The emperor Bu was astounded. Shiko [3] asked him,
+lectern once and descended. The emperor Bu was astounded. Shiko <sup>3</sup> asked him,
 
    "Did Your Majesty understand it?"
 
@@ -2410,25 +1799,16 @@ Shiko said,
 
    "Daishi has already finished his Sutra lecture."
 
-
-
-[1]: (Same note as case 1) Emperor Bu reigned over the land of Ryo
+<sup>1</sup> (Same note as case 1) Emperor Bu reigned over the land of Ryo
 
      between 502-509.
 
-[2]: "Daishi" means Bodhisattva
+<sup>2</sup> "Daishi" means Bodhisattva
 
-[3]: Cf. case 1
-
-
+<sup>3</sup> Cf. case 1
 
 
-
-
-
-<strong>Hekiganroku - Case 68: Kyozan and "Your Name"</strong>
-
-
+### Hekiganroku - Case 68: Kyozan and "Your Name"
 
 Kyozan asked Sansho,
 
@@ -2436,7 +1816,7 @@ Kyozan asked Sansho,
 
 Sansho said,
 
-  "Ejaku. [1]"
+  "Ejaku. <sup>1</sup>"
 
 Kyozan said,
 
@@ -2444,25 +1824,16 @@ Kyozan said,
 
 Sansho said,
 
-  "My name is Enen. [2]" 
+  "My name is Enen. <sup>2</sup>" 
 
 Kyozan laughed loudly.
 
+<sup>1</sup> The complete name of Kyozan is "Kyozan Ejaku".
+
+<sup>2</sup> The complete name of Sansho is Sansho Enen.
 
 
-[1] The complete name of Kyozan is "Kyozan Ejaku".
-
-[2] The complete name of Sansho is Sansho Enen.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 69: Nansen Draws a Circle</strong>
-
-
+### Hekiganroku - Case 69: Nansen Draws a Circle
 
 Nansen, Kisu and Mayoku set out together to pay their respects to the National
 
@@ -2470,7 +1841,7 @@ Teacher Chu. On their way Nansen drew a circle on the ground and said,
 
   "If you can say something, then let's go farther."
 
-Kisu seated himself [1] in the circle. Mayoku made an informal bow. Nansen
+Kisu seated himself <sup>1</sup> in the circle. Mayoku made an informal bow. Nansen
 
 said,
 
@@ -2480,19 +1851,10 @@ Kisu said,
 
   "What is this all about?"
 
+<sup>1</sup> I.e., in Zazen posture.
 
 
-[1]: I.e., in Zazen posture.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 70: Isan's "Speak, Master"</strong>
-
-
+### Hekiganroku - Case 70: Isan's "Speak, Master"
 
 Isan, Goho and Ungan were all attending upon Hyakujo. Hyakujo asked Isan,
 
@@ -2507,18 +1869,11 @@ Hyakujo said,
   "I might as well speak to you, but then, I would lose my Dharma descendants."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 71: Goho's "Close!"</strong>
-
-
+### Hekiganroku - Case 71: Goho's "Close!"
 
 Hyakujo said to Goho,
 
-  "How does one speak with one's lips and throat closed?" [1]
+  "How does one speak with one's lips and throat closed?" <sup>1</sup>
 
 Goho said,
 
@@ -2526,29 +1881,20 @@ Goho said,
 
 Hyakujo said,
 
-  "Where there is no one, I will shade my eyes with my hand [2] and look
+  "Where there is no one, I will shade my eyes with my hand <sup>2</sup> and look
 
    up to you respectfully."
 
+<sup>1</sup> Cf case 70.
+
+<sup>2</sup> A gesture expressing admiration.
 
 
-[1]: Cf case 70.
-
-[2]: A gesture expressing admiration.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 72: Ungan's "Can You?"</strong>
-
-
+### Hekiganroku - Case 72: Ungan's "Can You?"
 
 Hyakujo said to Ungan,
 
-  "How does one speak with one's lips and throat closed?" [1]
+  "How does one speak with one's lips and throat closed?" <sup>1</sup>
 
 Ungan said,
 
@@ -2558,23 +1904,14 @@ Hyakujo said,
 
   "Now I will lose my Dharma descendants." 
 
+<sup>1</sup> cf cases 70 and 71
 
 
-[1]: cf cases 70 and 71
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 73: Ba and "One Hundred Negations" </strong>[1]
-
-
+### Hekiganroku - Case 73: Ba and "One Hundred Negations" <sup>1</sup>
 
 A monk asked Great Master Ba,
 
-  "Apart from the Four Phrases, beyond one hundred Negations [2], please
+  "Apart from the Four Phrases, beyond one hundred Negations <sup>2</sup>, please
 
    tell me directly, Master, the meaning of Bodhidharma's coming from
 
@@ -2604,21 +1941,12 @@ The monk told Great Master Ba about it. Great Master said,
 
   "Chizo's head is white, Kai's head is black."
 
+<sup>1</sup> Cf. case 6 in the Shoyoroku.
+
+<sup>2</sup> I.e., free from all theories and concepts.
 
 
-[1]: Cf. case 6 in the Shoyoroku.
-
-[2]: I.e., free from all theories and concepts.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 74: Kingyu's Rice Bucket</strong>
-
-
+### Hekiganroku - Case 74: Kingyu's Rice Bucket
 
 At each meal, Master Kingyu himself would bring the rice bucket to the front
 
@@ -2639,16 +1967,9 @@ Chokei said,
   "That is exactly like praising and giving thanks to the rice."
 
 
+### Hekiganroku - Case 75: Ukyu's Blind Stick
 
-
-
-
-
-<strong>Hekiganroku - Case 75: Ukyu's Blind Stick</strong>
-
-
-
-A monk came from Master Joshu [1] to Ukyu. Ukyu asked,
+A monk came from Master Joshu <sup>1</sup> to Ukyu. Ukyu asked,
 
   "What is the difference between Joshu's Dharma-way and the Dharma-way here?"
 
@@ -2702,21 +2023,12 @@ The monk laughed loudly and went away. Ukyu said,
 
   "Is that right, is that right!"
 
-
-
-[1]: This is not the famous master Joshu Jushin in the Mumonkan, etc., but
+<sup>1</sup> This is not the famous master Joshu Jushin in the Mumonkan, etc., but
 
      Master Joshu Sekizo (718-800).
 
 
-
-
-
-
-
-<strong>Case 76: Tanka's "Eating Rice"</strong>
-
-
+### Case 76: Tanka's "Eating Rice"
 
 Tanka asked a monk,
 
@@ -2738,17 +2050,15 @@ Tanka said,
 
    "The one who brought rice and gave it to you to eat did he have an
 
-    [enlightened] eye?"
+    <sup>enlightened</sup> eye?"
 
 The monk said nothing.
 
-
-
 Chokei asked Hofuku,
 
-   "Surely it is an act of thanksgiving [1] to bring rice and give it to the
+   "Surely it is an act of thanksgiving <sup>1</sup> to bring rice and give it to the
 
-    people to eat. How then is it possible not to have an [enlightened] eye?"
+    people to eat. How then is it possible not to have an <sup>enlightened</sup> eye?"
 
 Hofuku said, 
 
@@ -2762,23 +2072,14 @@ Hofuku said,
 
    "Do you call me blind?"
 
-
-
-[1]: That is, for the guidance already received from buddhas, patriarchs and
+<sup>1</sup> That is, for the guidance already received from buddhas, patriarchs and
 
      masters.
 
 
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 77: Unmon's "Rice Cake"</strong>
-
-
+### Hekiganroku - Case 77: Unmon's "Rice Cake"
 
 A monk asked Unmon,
 
@@ -2788,29 +2089,20 @@ A monk asked Unmon,
 
 Unmon said,
 
-  "Rice cake [1]."
+  "Rice cake <sup>1</sup>."
 
-
-
-[1]: In Japanese: kobyo.
-
-
+<sup>1</sup> In Japanese: kobyo.
 
 
 
 
-
-
-
-<strong>Hekiganroku - Case 78: The Boddhisattvas Take a Bath</strong>
-
-
+### Hekiganroku - Case 78: The Boddhisattvas Take a Bath
 
 In the old days there were sixteen bodhisattvas. When the monks took a bath,
 
 they too entered the bath according to their custom. At once they realized
 
-the cause of water. Now, my Zen friends, how do you understand this? [1]
+the cause of water. Now, my Zen friends, how do you understand this? <sup>1</sup>
 
 The bodhisattvas said, "Wonderful feeling! Perfectly clear! We have attained
 
@@ -2818,19 +2110,10 @@ the dwelling place of the children of Buddha." You can attain it -- only by
 
 breaking through seven times and digging through eight times.
 
+<sup>1</sup> It is Setcho who speaks here.
 
 
-[1]: It is Setcho who speaks here.
-
-
-
-
-
-
-
-<strong>Case 79: Tosu and "the Buddha's Voices"</strong>
-
-
+### Case 79: Tosu and "the Buddha's Voices"
 
 A monk asked Tosu,
 
@@ -2861,18 +2144,11 @@ The monk said,
 Thereupon, Tosu hit him.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 80: Joshu and a "Newborn Infant"</strong>
-
-
+### Hekiganroku - Case 80: Joshu and a "Newborn Infant"
 
 A monk asked Joshu,
 
-  "Does a newborn infant have the Six Functions [1] or not?"
+  "Does a newborn infant have the Six Functions <sup>1</sup> or not?"
 
 Joshu said,
 
@@ -2886,19 +2162,10 @@ Tosu said,
 
   "Every consciousness flows without ceasing." 
 
+<sup>1</sup> Cf. the note to case 47.
 
 
-[1]: Cf. the note to case 47.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 81: Yakusan's "Look! The Arrow!"</strong>
-
-
+### Hekiganroku - Case 81: Yakusan's "Look! The Arrow!"
 
 A monk asked Yakusan, 
 
@@ -2918,21 +2185,12 @@ Thereupon, the monk ran away. Yakusan said,
 
   "This fellow will keep playing with mud balls for ever and ever!"
 
-
-
  (Setcho took up this story and said,
 
      "He is alive for three steps, but he should die with the fifth step.")
 
 
-
-
-
-
-
-<strong>Case 82: Dairyu and the "Dharma-Body"</strong>
-
-
+### Case 82: Dairyu and the "Dharma-Body"
 
 A monk asked Dairyu, 
 
@@ -2945,14 +2203,7 @@ Dairyu said,
     the water in the valley remains blue as indigo."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 83: The Old Buddha and a Pillar</strong>
-
-
+### Hekiganroku - Case 83: The Old Buddha and a Pillar
 
 Unmon, instructing the assembly, said,
 
@@ -2965,14 +2216,7 @@ On behalf of the assembly he said,
   "Clouds gather over the South Mountain; rain falls on the North Mountain."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 84: Vimalakirti and "Not-Two"</strong>
-
-
+### Hekiganroku - Case 84: Vimalakirti and "Not-Two"
 
 Vimalakirti asked Manjusri,
 
@@ -2996,19 +2240,10 @@ Then Manjusri asked Vimalakirti,
 
    Dharma-gate of Not-Two?"
 
-
-
  (Setcho said, "What did Vimalakirti say?" Again he said, "Seen through!")
 
 
-
-
-
-
-
-<strong>Case 85: Toho and the "Tiger"</strong>
-
-
+### Case 85: Toho and the "Tiger"
 
 A monk came to the hermit Toho and asked,
 
@@ -3026,8 +2261,6 @@ The hermit said,
 
 The monk said nothing further.
 
-
-
  (Setcho said,
 
      "They are certainly right, but these two evil robbers only know how to
@@ -3035,14 +2268,7 @@ The monk said nothing further.
       steal a small bell while they stop their ears.")
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 86: Unmon's "Bright Light"</strong>
-
-
+### Hekiganroku - Case 86: Unmon's "Bright Light"
 
 Unmon, giving instruction, said, 
 
@@ -3059,14 +2285,7 @@ Again he said,
   "It would be better not to have even the best things."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 87: Unmon's "Medicine and Disease"</strong>
-
-
+### Hekiganroku - Case 87: Unmon's "Medicine and Disease"
 
 Unmon, instructing the assembly, said, 
 
@@ -3075,14 +2294,7 @@ Unmon, instructing the assembly, said,
    medicine. What is your true self?"
 
 
-
-
-
-
-
-<strong>Case 88: Gensha's "Three Diseases"</strong>
-
-
+### Case 88: Gensha's "Three Diseases"
 
 Gensha, instructing the assembly, said,
 
@@ -3121,14 +2333,7 @@ Unmon said,
 With that, the monk came to an insight.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 89: Ungan's "Hands and Eyes"</strong>
-
-
+### Hekiganroku - Case 89: Ungan's "Hands and Eyes"
 
 Ungan asked Dogo, 
 
@@ -3165,14 +2370,7 @@ Dogo said,
   "The entire body is hands and eyes."
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 90: Chimon and the "Prajna Wisdom"</strong>
-
-
+### Hekiganroku - Case 90: Chimon and the "Prajna Wisdom"
 
 A monk asked Chimon,
 
@@ -3180,7 +2378,7 @@ A monk asked Chimon,
 
 Chimon said, 
 
-  "The clam swallows the bright moon." [1]
+  "The clam swallows the bright moon." <sup>1</sup>
 
 The monk asked,
 
@@ -3188,25 +2386,16 @@ The monk asked,
 
 Chimon said,
 
-  "A female rabbit becomes pregnant." [2]
+  "A female rabbit becomes pregnant." <sup>2</sup>
 
+<sup>1</sup> A Chinese metaphor expressing how a pearl is formed.
 
-
-[1]: A Chinese metaphor expressing how a pearl is formed.
-
-[2]: According to a Chinese legend, a female rabbit becomes pregnant when it
+<sup>2</sup> According to a Chinese legend, a female rabbit becomes pregnant when it
 
      swallows the light of the full moon.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 91: Enkan and the "Rhinoceros"</strong>
-
-
+### Hekiganroku - Case 91: Enkan and the "Rhinoceros"
 
 One day, Enkan called to his attendant, 
 
@@ -3220,9 +2409,7 @@ Enkan said,
 
    "If the fan is already broken, bring me the rhinoceros himself."
 
-The attendant gave no answer. [1]
-
-
+The attendant gave no answer. <sup>1</sup>
 
 Tosu said,
 
@@ -3234,41 +2421,32 @@ Tosu said,
 
 Sekiso said,
 
-   "If I brought it back to you, nothing would remain [for me]."
+   "If I brought it back to you, nothing would remain <sup>for me</sup>."
 
    (Setcho said, "That rhinoceros is still there.")
 
-Shifuku drew a circle and wrote the ideograph "ox[2]" in it.
+Shifuku drew a circle and wrote the ideograph "ox<sup>2</sup>" in it.
 
    (Setcho said, "Why didn't you bring it out sooner?)
 
 Hofuku said,
 
-   "Master, you are so advanced in years. Please engage someone else." [3]
+   "Master, you are so advanced in years. Please engage someone else." <sup>3</sup>
 
    (Setcho said, "Regrettable! All efforts have proved fruitless!")
 
-
-
-[1]: To this episode the following Zen personalities give their answers on
+<sup>1</sup> To this episode the following Zen personalities give their answers on
 
      behalf of the attendant.
 
-[2]: The Chinese character for "ox" (gyu) is one of the two characters for
+<sup>2</sup> The Chinese character for "ox" (gyu) is one of the two characters for
 
      "rhinoceros" (saigyu = sai + gyu).
 
-[3]: [Since the task you give me is too harsh.]
+<sup>3</sup> <sup>Since the task you give me is too harsh.</sup>
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 92: The Buddha Ascends to the Rostrum</strong>
-
-
+### Hekiganroku - Case 92: The Buddha Ascends to the Rostrum
 
 One day, the World-Honored One ascended to the rostrum. Monjusri struck the
 
@@ -3281,18 +2459,11 @@ table with the gavel and said,
 Thereupon, the World-Honored One descended from the rostrum.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 93: Taiko Dances</strong>
-
-
+### Hekiganroku - Case 93: Taiko Dances
 
 A monk asked Taiko,
 
-  "Chokei said, 'That is exactly like thanksgiving at lunch.' [1]
+  "Chokei said, 'That is exactly like thanksgiving at lunch.' <sup>1</sup>
 
    What did he mean?"
 
@@ -3302,49 +2473,33 @@ Taiko danced. The monk made a deep bow.  Taiko said,
 
 The monk danced. Taiko said,
 
-  "You stupid fox! [2]"
+  "You stupid fox! <sup>2</sup>"
 
+<sup>1</sup> cf case 74.
 
-
-[1]: cf case 74.
-
-[2]: Cf. the term "fox Zen", which means mere imitation (cf. Case 2 in the
+<sup>2</sup> Cf. the term "fox Zen", which means mere imitation (cf. Case 2 in the
 
      Mumonkan)
 
 
-
-
-
-
-
-<strong>Case 94: "Non-Seeing" in the Ryogon Sutra</strong>
-
-
+### Case 94: "Non-Seeing" in the Ryogon Sutra
 
 The Ryogon Sutra says, 
 
-  "When I don't see, why do you not see what I do not see? If you [argue
+  "When I don't see, why do you not see what I do not see? If you <sup>argue
 
-   that you] see what I do not see, that is of course not what I do not see.
+   that you</sup> see what I do not see, that is of course not what I do not see.
 
    If you do not see what I do not see, then it is quite natural that it
 
    is not a thing. Why is it not your self?" 
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 95: Chokei's "Three Poisons"</strong>
-
-
+### Hekiganroku - Case 95: Chokei's "Three Poisons"
 
 One day Chokei said, 
 
-  "Even if you argue that an arhat [1] still possesses 'the three poisons',
+  "Even if you argue that an arhat <sup>1</sup> still possesses 'the three poisons',
 
    don't argue that the Tathagata has two sorts of language. I do not say
 
@@ -3372,21 +2527,12 @@ Hofuku said,
 
   "Have some tea." 
 
-
-
-[1]: An arhat is a sacred person who has reached the spiritual dimension
+<sup>1</sup> An arhat is a sacred person who has reached the spiritual dimension
 
      without any traces of "the three poisons": covetousness, anger, folly.
 
 
-
-
-
-
-
-<strong>Hekiganroku - Case 96: Joshu's Three Turning Words </strong>[1]
-
-
+### Hekiganroku - Case 96: Joshu's Three Turning Words <sup>1</sup>
 
 Joshu showed the assembly three turning words: 
 
@@ -3396,19 +2542,10 @@ Joshu showed the assembly three turning words:
 
   "The Buddha made of wood will not pass through fire."
 
+<sup>1</sup> Cf. case 19 in the Miscellaneous Koans.
 
 
-[1]: Cf. case 19 in the Miscellaneous Koans.
-
-
-
-
-
-
-
-<strong>Case 97: "Getting Despised" in the Diamond Sutra</strong>
-
-
+### Case 97: "Getting Despised" in the Diamond Sutra
 
 The Diamond Sutra says,
 
@@ -3419,16 +2556,9 @@ The Diamond Sutra says,
    because you are despised by the people of this world."
 
 
+### Hekiganroku - Case 98: Tempyo's Two "Wrong"s
 
-
-
-
-
-<strong>Hekiganroku - Case 98: Tempyo's Two "Wrong"s</strong>
-
-
-
-Master Tempyo was on an angya [1] and visited Sai'in. (He was always saying,
+Master Tempyo was on an angya <sup>1</sup> and visited Sai'in. (He was always saying,
 
 "Don't say you have understood Buddhism. I have sought after someone who
 
@@ -3436,7 +2566,7 @@ could give correct explanations, but in vain.")
 
 One day, Sai'in saw him at a distance and summoned him,
 
-  "Jyui! [2]"
+  "Jyui! <sup>2</sup>"
 
 Tempyo raised his head. Sai'in said,
 
@@ -3462,19 +2592,17 @@ Sai'in said,
 
 Tempyo said nothing. Sai'in said,
 
-  "Please stay here for the summer [3]. I'll examine the two 'Wrong!'s with
+  "Please stay here for the summer <sup>3</sup>. I'll examine the two 'Wrong!'s with
 
    you."
 
 However, Tempyo immediately left him.
 
-
-
 Later he was the abbot of his own temple and said to his assembly,
 
   "As I was once on an angya, I was driven by the wind of fate and came to
 
-   Elder Shimyo [4], who cried to me, 'Wrong!'. Moreover, he demanded that
+   Elder Shimyo <sup>4</sup>, who cried to me, 'Wrong!'. Moreover, he demanded that
 
    I stay with him for the summer to examine this matter with him. I didn't
 
@@ -3482,25 +2610,16 @@ Later he was the abbot of his own temple and said to his assembly,
 
    south, I realized quickly that I had done something entirely 'wrong'."
 
+<sup>1</sup> A traditional pilgrimage in order to deepen the practice.
+
+<sup>2</sup> Tempyo's personal name.
+
+<sup>3</sup> I.e., a summer sesshin for three months.
+
+<sup>4</sup> I.e., Sai'in.
 
 
-[1]: A traditional pilgrimage in order to deepen the practice.
-
-[2]: Tempyo's personal name.
-
-[3]: I.e., a summer sesshin for three months.
-
-[4]: I.e., Sai'in.
-
-
-
-
-
-
-
-<strong>Hekiganroku - Case 99: Shukuso and the "Buddha with the Ten Bodies"</strong>
-
-
+### Hekiganroku - Case 99: Shukuso and the "Buddha with the Ten Bodies"
 
 Emperor Shukuso asked the National Teacher Echu, 
 
@@ -3508,7 +2627,7 @@ Emperor Shukuso asked the National Teacher Echu,
 
 The National Teacher said,
 
-  "Sir! Go beyond the head of Vairokana [1]." 
+  "Sir! Go beyond the head of Vairokana <sup>1</sup>." 
 
 The emperor said,
 
@@ -3518,19 +2637,10 @@ The National Teacher said,
 
   "Never consider yourself to be even the pure Dharma-body."
 
+<sup>1</sup> The Buddha of the pure Dharma-body.
 
 
-[1]: The Buddha of the pure Dharma-body.
-
-
-
-
-
-
-
-<strong>Case 100: Haryo and the "Sharpest Sword" </strong>[1]
-
-
+### Case 100: Haryo and the "Sharpest Sword" <sup>1</sup>
 
 A monk asked Haryo, 
 
@@ -3540,6 +2650,4 @@ Haryo said,
 
    "The moon sits on each branch of the coral." 
 
-
-
-[1]:  Cf. case 22 (c) in the Miscellaneous Koans.
+<sup>1</sup>  Cf. case 22 (c) in the Miscellaneous Koans.
