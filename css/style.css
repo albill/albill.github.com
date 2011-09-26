@@ -41,27 +41,27 @@ a:visited {
 }
 
 .main-links a:hover {
-    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
-    font-size: small;
+	font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+	font-size: small;
     color: #555;
     text-decoration: none;
 }
 
 .masthead {
-	font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
+	font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
 	margin-bottom: 0em;
 	text-align:right;
 }
 .description {
-	margin-top: -.2em;
+	margin-top: 0em;
+	margin-bottom: 0em;
 	text-align:right;
 	font-style: italic;
-	font-size: small;
-    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
-    color: #111;
+    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+	color: #111;
 }
 .openyoucontainer {
-    width:60em;
+    width:61em;
     margin-right: auto;
     margin-left: auto;
 }
@@ -71,8 +71,8 @@ a:visited {
 
 .content {
     width: 42em;
-    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
-    font-size: 14px;
+    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
     text-align: left;
     background-color: #FFFFFF;
     float: right;
@@ -81,6 +81,7 @@ a:visited {
 .sidebar-header-image {
     width:267px;
     height:300px;
+	float:right;
 }
 
 .sidebar img {
@@ -94,14 +95,14 @@ a:visited {
  }
 
 .sidebar {
-    width : 18em;
+    width : 19em;
     float : left;
 }
 
 .sidebar-sub {
     font-size: x-small;
-    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
-    color: #111;
+    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+	color: #111;
     text-align: right;
     margin-bottom: 20px;
     margin-right: 20px;
@@ -187,7 +188,7 @@ a:visited {
 
 .lib-table {
     font-size: x-small;
-    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
+    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
 }
 
 .lib-table th {
