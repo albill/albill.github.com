@@ -35,14 +35,14 @@ a:visited {
 
 .main-links a {
     font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
-    font-size: small;
+    font-size: medium;
     color: #333;
     text-decoration: none;
 }
 
 .main-links a:hover {
 	font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
-	font-size: small;
+	font-size: medium;
     color: #555;
     text-decoration: none;
 }

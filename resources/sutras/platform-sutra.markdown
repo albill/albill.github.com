@@ -7,37 +7,21 @@ status: publish
 ---
 # The Dharma Jewel Platform Sutra
 
-## The Sutra of the 6<sup>th</sup> Patriarch, Hui Neng
+## The Sutra of the 6_th_ Patriarch, Hui Neng
 (Chinese: 六祖壇經, fully 南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經)
 
 ### Translated by A.F.Price and Wong Mou-Lam. Introduction translated by Heng Yin.
-
-
-<ul>
-
-	<li><a href="#introduction"><strong>Introduction to the Platform Sutra</strong></a></li>
-
-	<li><a href="#I"><strong>Chapter I. Autobiography</strong></a></li>
-
-	<li><a href="#II"><strong>Chapter II. On Prajna</strong></a></li>
-
-	<li><a href="#III"><strong>Chapter III. Questions and Answers</strong></a></li>
-
-	<li><a href="#IV"><strong>Chapter IV. Samadhi and Prajna</strong></a></li>
-
-	<li><a href="#V"><strong>Chapter V. Dhyana</strong></a></li>
-
-	<li><a href="#VI"><strong>Chapter VI. On Repentence</strong></a></li>
-
-	<li><a href="#VII"><strong>Chapter VII. Temperament and Circumstances</strong></a></li>
-
-	<li><a href="#VIII"><strong>Chapter VIII. The Sudden School and the Gradual School</strong></a></li>
-
-	<li><a href="#IX"><strong>Chapter IX. Royal Patronage</strong></a></li>
-
-	<li><a href="#X"><strong>Chapter X. His Final Instructions</strong></a></li>
-
-</ul>
+* <a href="#introduction"><strong>Introduction to the Platform Sutra</strong></a>
+* <a href="#I"><strong>Chapter I. Autobiography</strong></a>
+* <a href="#II"><strong>Chapter II. On Prajna</strong></a>
+* <a href="#III"><strong>Chapter III. Questions and Answers</strong></a>
+* <a href="#IV"><strong>Chapter IV. Samadhi and Prajna</strong></a>
+* <a href="#V"><strong>Chapter V. Dhyana</strong></a>
+* <a href="#VI"><strong>Chapter VI. On Repentence</strong></a>
+* <a href="#VII"><strong>Chapter VII. Temperament and Circumstances</strong></a>
+* <a href="#VIII"><strong>Chapter VIII. The Sudden School and the Gradual School</strong></a>
+* <a href="#IX"><strong>Chapter IX. Royal Patronage</strong></a>
+* <a href="#X"><strong>Chapter X. His Final Instructions</strong></a>
 
 <strong>Introduction to the Platform Sutra, by Fa Hai, disciple of Hui-neng, the 6th Patriarch.</strong><a name="introduction"></a>
 

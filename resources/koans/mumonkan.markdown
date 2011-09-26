@@ -9,12 +9,12 @@ From <a href="http://en.wikipedia.org/wiki/The_Gateless_Gate">Wikipedia</a>:
 
 > The Gateless Gate (無門關, Mandarin. Wúménguān, Japanese. 無門関, Mumonkan) is a collection of 48 Chan (Zen) koans compiled in the early 13th century by the Chinese Zen master Wumen Hui-k'ai (無門慧開)(1183-1260) (Japanese: Mumon Ekai). Wumen's preface indicates that the volume was published in 1228. Each koan is accompanied by a commentary and verse by Wumen. A classic edition includes a 49th case composed by Anwan (pen name for Cheng Ch'ing-Chih) in 1246. Wu-liang Tsung-shou also supplemented the volume with a verse of four stanzas composed in 1230 about the three checkpoints of Zen master Huanglong. These three checkpoints of Huanglong should not be confused with Doushuai's Three Checkpoints found in Case 47.
 
-### Mumonkan - Case 1: Joshu's Dog <sup>1</sup>
+### Mumonkan - Case 1: Joshu's Dog _1_
 
 A monk asked Joshu, a Chinese Zen master:
   "Has a dog Buddha-nature or not?"
 Joshu answered:
-  "Mu." <sup>2</sup>
+  "Mu." _2_
 
 Mumon's comments:
 To realize Zen one has to pass through the barrier of the patriachs.
@@ -54,8 +54,8 @@ attainment will be as a candle burning and illuminating the whole universe.
     If you say yes or no,
     You lose your own Buddha-nature.
 <i>
-<sup>1</sup>: see case 18 of Shoyoroku.
-<sup>2</sup>: Mu is the negative symbol in Chinese, meaning `No-thing' or `Nay'.</i>
+_1_ see case 18 of Shoyoroku.
+_2_ Mu is the negative symbol in Chinese, meaning `No-thing' or `Nay'.</i>
 
 
 ### Mumonkan - Case 2: Hyakujo's Fox
@@ -224,11 +224,11 @@ of Maha-Kashapa?
     No one is heaven or earth can surpass
     Maha-Kashapa's wrinkled face.
 
-<sup>other traduction of Mumon's poem:
+_other traduction of Mumon's poem:
     At the turning of a flower,
     The snake (his disguise) shows his tail.
     Maha-Kashapa smiles,
-    Every monk does not know what to do. </sup>
+    Every monk does not know what to do. _
 
 
 ### Mumonkan - Case 7: Joshu Washes the Bowl
@@ -260,7 +260,7 @@ pitcher.
 
 Getsuan said to this students:
   "Keichu, the first wheel-maker of China, made two wheels of fifty spokes
-   each. Now, suppose you removed the nave <sup>hub</sup> uniting the spokes. What
+   each. Now, suppose you removed the nave _hub_ uniting the spokes. What
    would become of the wheel? And had Keichu done this could he be called
    the master wheel-maker?"
 
@@ -362,7 +362,7 @@ Zuigan called out to himself every day:
 Then he answered himself:
   "Yes, sir."
 And after that he added:
-  "Become sober." <sup> Awake. </sup>
+  "Become sober." _ Awake. _
 Again he answered:
   "Yes, sir."
 He continued:
@@ -383,7 +383,7 @@ Zuigan, he will make himself fox-like.
     Some Zen students do not realize the true man in a mask
     Because they recognize ego-soul.
     Ego-soul is the seed of birth and death,
-    And foolish people call it the true man.    <sup> true man = true self </sup>
+    And foolish people call it the true man.    _ true man = true self _
 
 
 ### Mumonkan - Case 13: Tokusan Holds His Bowl
@@ -399,7 +399,7 @@ Seppo told Ganto about this. Ganto said:
 
 Tokusan heard of this remark and asked Ganto to come to him. "I have heard,"
 he said, "you are not approving my Zen." Ganto admitted this indirectly
-<sup> Ganto whispered to Tokusan what he meant. </sup> Tokusan said nothing.
+_ Ganto whispered to Tokusan what he meant. _ Tokusan said nothing.
 
 The next day Tokusan delivered an entirely different kind of lecture to the
 monks. Ganto laughed and clapped his hands, saying: "I see our old man
@@ -421,7 +421,7 @@ even dream it. After all, they are dummies.
 
 Nansen saw the monks of the eastern and western halls fighting over a cat.
 He seized the cat and told the monks:
-  "If any of you say a good word <sup>a word of Zen</sup>, you can save the cat."
+  "If any of you say a good word _a word of Zen_, you can save the cat."
 
 No one answered. So Nansen boldly cut the cat in two pieces.
 
@@ -435,7 +435,7 @@ Nansen said:
 Mumon's Comment:
 
 Why did Joshu put his sandals on his head? If anyone answers this question
-<sup>with one word</sup>, he will understand exactly how Nansen enforced the edict.
+_with one word_, he will understand exactly how Nansen enforced the edict.
 If not, he should watch his own head.
 
     Had Joshu been there,
@@ -485,7 +485,7 @@ food as Tozan.
 The Lion teaches His deluded son these instructions --
 To jump forward you should turn your body over as early as possible,
 For no reason I mention again that which is at the head,
-The fore arrow <sup>wound</sup> is lighter and the back arrow <sup>wound</sup> is deep.
+The fore arrow _wound_ is lighter and the back arrow _wound_ is deep.
 
 
 ### Mumonkan - Case 16: Bells and Robes
@@ -551,11 +551,11 @@ Now I want to ask you: Which one should apologize?
    If you try to hold up the gate and door of a falling house,
    You also will be in trouble.
 
-<sup>other traduction:
+_other traduction:
    When prison canga is iron and has no hole,
    (Chu's) followers have neither peace nor rest.
    When you intend to uphold the teaching of Zen,
-   You must climb a mountain of swords with bare feet. </sup>
+   You must climb a mountain of swords with bare feet. _
 
 
 ### Mumonkan - Case 18: Tozan's Three Pounds
@@ -590,10 +590,10 @@ Nansen said:
 Joshu asked:
   "If I do not study, how can I know it is the path?"
 Nansen said:
-  "The path does not belong to the perception world <sup>knowledge</sup>, neither does
+  "The path does not belong to the perception world _knowledge_, neither does
    it belong to the non-perception world. Cognition is a delusion and
-   noncognition is senseless. <sup>Knowledge is illusion and non knowledge is
-   beyond discrimination.</sup> If you want to reach the true path beyond doubt,
+   noncognition is senseless. _Knowledge is illusion and non knowledge is
+   beyond discrimination._ If you want to reach the true path beyond doubt,
    place yourself in the same freedom as sky. You name it neither good nor
    not-good."
 At these words Joshu was enlightened. 
@@ -615,7 +615,7 @@ years of study.
 
 Shogen asked:
   "Why does the enlightened man not stand on his feet and explain
-   himself <sup>stand up for Zen</sup>?"
+   himself _stand up for Zen_?"
 And he also said:
   "It is not necessary for speech to come from the tongue."
 
@@ -624,18 +624,18 @@ Mumon's Comment:
 
 Shogen spoke plainly enough, but how many will understand? If anyone
 comprehends, he should come to my place and test out my big stick. Why,
-look here, to test <sup>know</sup> real gold you must see it through fire.
+look here, to test _know_ real gold you must see it through fire.
 
    If the feet of enlightenment moved, the great ocean would overflow;
    If that head bowed, it would look down upon the heavens.
    Such a body has no place to rest....
    Let another continue this poem.
 
-<sup>other traduction:
+_other traduction:
    Raising my foot I turn upside down the Scented Ocean,
    Bowing my head I look down on the Four Dhyana Heavens.
    Such a body of full strength has no place to rest,
-   Please finish this verse yourself! </sup>
+   Please finish this verse yourself! _
 
 
 ### Mumonkan - Case 21: Dried Dung
@@ -760,8 +760,8 @@ in the third seat in the abode of Maitreya. Someone announced:
 
 Kyozen arose and, hitting the gavel, said:
   "The truth of Mahayana teaching is transcendent, above words and thought.
-   Do you understand?" <sup>"The truth of Mahayana is beyond any verbal
-   expression! Listen, listen! "</sup>
+   Do you understand?" _"The truth of Mahayana is beyond any verbal
+   expression! Listen, listen! "_
 
 
 Mumon's Comment:
