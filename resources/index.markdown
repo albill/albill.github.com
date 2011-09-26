@@ -3,6 +3,7 @@ layout: default
 title: Buddhist Resources
 published: true
 ---
+# Resources
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5526560815/" title="Early Diamond Sutra Print by albill, on Flickr"><img src="http://farm6.static.flickr.com/5213/5526560815_378112da1a.jpg" width="500" height="375" alt="Early Diamond Sutra Print" /></a></p>
 
 A variety of Zen and general Mahayana Buddhist resources.
