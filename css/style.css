@@ -47,8 +47,15 @@ a:visited {
     text-decoration: none;
 }
 
+.masthead {
+	line-height: 1em;
+	margin-bottom: .2em;
+}
+.description {
+  margin-top: -.2em;
+}
 .openyoucontainer {
-    width:900px;
+    width:70em;
     margin-right: auto;
     margin-left: auto;
 }
@@ -57,7 +64,7 @@ a:visited {
 }
 
 .content {
-    width: 625px;
+    width: 55em;
     font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
     font-size: 14px;
     text-align: left;
@@ -81,7 +88,7 @@ a:visited {
  }
 
 .sidebar {
-    width : 270px;
+    width : 15em;
     float : left;
 }
 
