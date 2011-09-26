@@ -48,14 +48,20 @@ a:visited {
 }
 
 .masthead {
-	line-height: 1em;
-	margin-bottom: .2em;
+	font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
+	margin-bottom: 0em;
+	text-align:right;
 }
 .description {
-  margin-top: -.2em;
+	margin-top: -.2em;
+	text-align:right;
+	font-style: italic;
+	font-size: small;
+    font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
+    color: #111;
 }
 .openyoucontainer {
-    width:70em;
+    width:60em;
     margin-right: auto;
     margin-left: auto;
 }
@@ -64,7 +70,7 @@ a:visited {
 }
 
 .content {
-    width: 55em;
+    width: 42em;
     font-family: 'PT Sans', "Lucida Grande", Helvetica, "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, sans-serif;
     font-size: 14px;
     text-align: left;
@@ -88,7 +94,7 @@ a:visited {
  }
 
 .sidebar {
-    width : 15em;
+    width : 18em;
     float : left;
 }
 

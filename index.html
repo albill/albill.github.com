@@ -7,10 +7,10 @@ title: Open Buddha
   <!-- Show three posts on front page -->
     {% for post in paginator.posts limi:3 %}
 <article class="hentry">
-  <!-- Date and time of post -->
-  <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%d %B, %Y - %H:%m" }}</time>  
   <!-- Post title -->
   <h2 class="entry-title"><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+  <!-- Date and time of post -->
+  <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%B %d, %Y - %I:%m %p" }}</time>  
   <p><a href='{{ post.url }}#disqus_thread' data-disqus-identifier='{{post.title | replace:" ","_" }}-{{post.date | date: "%Y-%m-%d"}}'>Comments</A></p>
   <!-- Post content -->
   <span class="entry-content">
