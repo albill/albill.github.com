@@ -13,6 +13,8 @@ categories:
 - Technology
 ---
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6121410772/" title="Hiking in the Red Valley, Cappadocia by albill, on Flickr"><img src="http://farm7.static.flickr.com/6183/6121410772_2d7db44db8.jpg" width="500" height="281" alt="Hiking in the Red Valley, Cappadocia"></a></p>
+Hi there!
+
 Inspired by "[Blogging like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)" and a number of my friends blogging through developer tools, I've decided to switch my blog off of Wordpress and move to [Jekyll](https://github.com/mojombo/jekyll). As Tom says in his post above:
 
 > Jekyll is a simple, blog aware, static site generator. It takes a template directory (representing the raw form of a website), runs it through Textile and Liquid converters, and spits out a complete, static website suitable for serving with Apache or your favorite web server. 
