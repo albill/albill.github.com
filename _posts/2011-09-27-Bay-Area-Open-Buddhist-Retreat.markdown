@@ -14,7 +14,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/kanzeon_zen_center/1429262931/" title="Fall Retreat - Dedication.jpg by Big Mind Zen Center, on Flickr"><img src="http://farm2.static.flickr.com/1179/1429262931_7eecc9b31b.jpg" width="500" height="333" alt="Fall Retreat - Dedication.jpg"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/kanzeon_zen_center/1306878549/" title="Sunday Morning Zazen Sept 2 2007.jpg by Big Mind Zen Center, on Flickr"><img src="http://farm2.static.flickr.com/1116/1306878549_cdbd5f396a.jpg" width="500" height="333" alt="Sunday Morning Zazen Sept 2 2007.jpg"></a></p>
 I was thinking about retreats earlier today and how I either get to attend retreats run by various local groups (such as the Empty Gate Zen Center) or I travel, once or twice a year, to the other side of the country (or Las Vegas) in order to do a retreat with the Five Mountain Sangha. I went to a retreat this [last March](http://www.flickr.com/photos/albill/sets/72157626242214913/) with my fellow sangha members but we had to bring people from all over.
 
 I also thought about how I'd met a bunch of people at the Buddhist Geeks 2011 conference in July, some of whom turned out to be very local. I've also thought off and on about the Online Meditation Crew, who organizes sits via twitter, and my thoughts on "Open Source Buddhism" in allowing people to work with Buddhism in whatever way adds utility. Rebecca and I have visited the East Bay Healing Collective a couple of times recently. They organize an open meditation group that meets twice a week in Berkeley but which isn't associated with any specific tradition of practice (some of them aren't even Buddhists!!!).
