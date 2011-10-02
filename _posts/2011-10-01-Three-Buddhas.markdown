@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: '2011-10-01 19:45:00'
-title: Three Buddha
+title: Three Buddhas
 tags: 
 - Buddhism
 - Art
