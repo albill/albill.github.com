@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: '2011-09-22 16:13:01'
-title: Daniel Reetz unveils new DIY Book Scanner at Open Hardware Summit Open Buddha
+title: Daniel Reetz unveils new DIY Book Scanner at Open Hardware Summit
 published: true
 wordpress_id: '3820'
 tags: 
