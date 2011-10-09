@@ -4,7 +4,9 @@ date: '2011-10-01 19:45:00'
 title: Alan Chapman Talk in Berkeley
 tags: 
 - Buddhism
-- Art
+- Deep Humanism
+- Enlightenment
+- Alan Chapman
 categories:
 - Spirituality
 - Buddhism
