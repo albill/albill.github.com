@@ -24,7 +24,7 @@ This book, and Daniel, propelled a lot of people into the "Hardcore Dharma" move
 
 Doctoral student, Brooke Schedneck, has written a few blog posts about the movement, [here](http://www.wanderingdhamma.org/2010/07/02/the-hardcore-dharma-movement-2/) and [here](http://www.wanderingdhamma.org/2010/07/02/polarization-of-ideas-of-enlightenment-comments-on-%E2%80%98the-hardcore-meditation-movement%E2%80%99-2/), which outline some of the controversy. As she points out, some people are calling it "[Pragmatic Dharma](http://thehamiltonproject.blogspot.com/2011/04/pragmatic-dharma-on-rise.html)" now but the terms are not terribly important.
 
-I've had a copy of Daniel's book since it as a PDF and have worked with some of the techniques, though not in any systematic fashion. I've been following the discussions around it, and related teachers such as [Kenneth Folk](http://kennethfolkdharma.com/), fairly closely over time. I'm actually planning on doing so as a project over this winter. I picked up the paperback of his revised edition a few years ago to support him but have watched for a true ebook format (as PDF is pretty craptastic on ebook readers). 
+I've had a copy of Daniel's book since it as a PDF and have worked with some of the techniques, though not in any systematic fashion. I've been following the discussions around it, and related teachers such as [Kenneth Folk](http://kennethfolkdharma.com/), fairly closely over time. I picked up the paperback of his revised edition a few years ago to support him but have watched for a true ebook format (as PDF is pretty craptastic on ebook readers). 
 
 I noticed this last week that his book is now available in Kindle format from Amazon, in ePub from Barnes and Noble, and from Google Books in whatever format they use... I figured this might be a good time to highlight his book and post a few links to it for others since ebook readers are becoming more of the norm, especially in the geek crowd.
 
@@ -37,5 +37,7 @@ You can find it as follows:
 You can also [view an ebook sample](http://books.google.com/books/reader?id=c1637-YveqEC&printsec=frontcover&output=reader&pg=GBS.PP1) of it at Google Books, which I've embedded as a nasty iframe below on my blog.
 
 I encourage those thinking about really knuckling down to practice, especially if interested in Theravadan Vipassana techniques, to check out the book and, perhaps, to just *do it* for a few months. See how it works out for you!
+
+I'm actually planning on doing so as a project over this winter, working consistently with the practices as Daniel outlines them. When I talk here about [Open Source Buddhism](http://www.openbuddha.com/what-is-open-source-buddhism/), in many ways, I'm talking about people doing exactly what Daniel Ingram has done (with or without claims of awakening). People taking the teachings of the Buddhadharma, regardless of source, working with them intensely to figure out what really seems to work or not, and then teaching them to others, so they can then do the same.
 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="http://books.google.com/books?id=c1637-YveqEC&lpg=PP1&dq=Mastering%20the%20Core%20Teachings%20of%20the%20Buddha&pg=PP1&output=embed" width=500 height=500></iframe>
