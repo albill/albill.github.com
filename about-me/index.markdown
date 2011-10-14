@@ -29,4 +29,4 @@ I live in the Oakland, California with my wife, R, to whom I was married in 2004
 
 If you need to contact me, e-mail me through 'albill' at this domain. (<em>Be warned, I get a lot of e-mail and may not immediately respond to unsolicited contacts.</em>)
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/170208675/" title="al-plaid-2 by albill, on Flickr"><img src="http://farm1.static.flickr.com/62/170208675_f4682b7750_z.jpg?zz=1" width="631" height="640" alt="al-plaid-2"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/170208675/" title="al-plaid-2 by albill, on Flickr"><img src="http://farm1.static.flickr.com/62/170208675_f4682b7750.jpg" width="493" height="500" alt="al-plaid-2"></a></p>
