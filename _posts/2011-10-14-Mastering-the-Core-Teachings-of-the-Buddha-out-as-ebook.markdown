@@ -26,7 +26,7 @@ Doctoral student, Brooke Schedneck, has written a few blog posts about the movem
 
 I've had a copy of Daniel's book since it as a PDF and have worked with some of the techniques, though not in any systematic fashion. I've been following the discussions around it, and related teachers such as [Kenneth Folk](http://kennethfolkdharma.com/), fairly closely over time. I picked up the paperback of his revised edition a few years ago to support him but have watched for a true ebook format (as PDF is pretty craptastic on ebook readers). 
 
-I noticed this last week that his book is now available in Kindle format from Amazon, in ePub from Barnes and Noble, and from Google Books in whatever format they use... I figured this might be a good time to highlight his book and post a few links to it for others since ebook readers are becoming more of the norm, especially in the geek crowd.
+I noticed this last week that his book is now available in Kindle format from Amazon, in ePub from Barnes and Noble, and from Google Books in whatever format they use... I figured this might be a good time to highlight his book and post a few links to it for others since ebook readers are becoming more of the norm, especially in the geek crowd. 
 
 You can find it as follows:
 
