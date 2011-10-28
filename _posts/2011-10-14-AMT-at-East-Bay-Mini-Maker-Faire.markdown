@@ -3,7 +3,6 @@ layout: post
 date: '2011-10-14 09:30:01'
 title: Ace Monster Toys at East Bay Mini Maker Faire
 published: true
-wordpress_id: '3820'
 tags: 
 - ace monter toys
 - Hacking
