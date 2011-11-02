@@ -5,9 +5,7 @@ published: true
 type: page
 status: publish
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5566086106/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5222/5566086106_54064d4eed.jpg" width="375" height="500" alt="" /></a><br>Feigning Holiness and Exuding Stillness</p>
-
-Hi. I'm Al Jigen Billings (and, no, my parents did not do that to me!). I cover a lot of different topic areas here, which can seem confusing to some people. This is more of a "you're sitting in my living room with me" kind of blog rather than some hard hitting tech blog, political punditry site, or the like. Be warned. I'm a geek and I like geek stuff (hackerspaces, science fiction, role-playing games, you get the idea...). I'm also a very active Buddhist and most of what I post tends to focus on the Dharma.
+<a href="http://www.flickr.com/photos/albill/6304911027/" title="Al - Black and White by albill, on Flickr"><img src="http://farm7.static.flickr.com/6042/6304911027_bee5677759_m.jpg" width="192" height="240" align="right" hspace="10" vspace="10" alt="Al - Black and White"></a>Hi. I'm Al Jigen Billings (and, no, my parents did not do that to me!). I cover a lot of different topic areas here, which can seem confusing to some people. This is more of a "you're sitting in my living room with me" kind of blog rather than some hard hitting tech blog, political punditry site, or the like. Be warned. I'm a geek and I like geek stuff (hackerspaces, science fiction, role-playing games, you get the idea...). I'm also a very active Buddhist and most of what I post tends to focus on the Dharma.
 
 I'm a professional tech guy and work as a QA Engineer in the Bay Area of California. My employer is the <a href="http://www.mozilla.com">Mozilla Corporation</a>. MoCo, along with the larger open source Mozilla Community, is the proud creator of the Firefox web browser. 
 
@@ -29,4 +27,4 @@ I live in the Oakland, California with my wife, R, to whom I was married in 2004
 
 If you need to contact me, e-mail me through 'albill' at this domain. (<em>Be warned, I get a lot of e-mail and may not immediately respond to unsolicited contacts.</em>)
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/170208675/" title="al-plaid-2 by albill, on Flickr"><img src="http://farm1.static.flickr.com/62/170208675_f4682b7750.jpg" width="493" height="500" alt="al-plaid-2"></a></p>
+<p style="text-align: center"><img src="http://farm7.static.flickr.com/6112/6305435902_ef15c703c9.jpg" width="357" height="500" alt="Al Robes - 3"></p>
