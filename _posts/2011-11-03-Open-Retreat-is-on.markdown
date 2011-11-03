@@ -12,6 +12,8 @@ categories:
 ---
 The details for the upcoming two day open retreat in the East Bay of California have been updated and somewhat finalized. I am still looking for three or four teachers to cover the morning and afternoon talks/practicums/teachings on each day. Even if they can only come for that time period or that half of the day, it would be great to get some local, Bay Area, teachers to come out and teach.
 
+The organizational site for this event is <a href="http://bayarea.opensangha.org">bayarea.opensangha.org</a>. I plan on additional quarterly open retreats and, probably, a monthly day-long sit on a weekend day.
+
 You can RSVP on <a href="http://www.meetup.com/Bay-Area-Open-Sangha/events/38578392/">meetup.com</a> if you're local and want to attend.
 
 I include the details below.
