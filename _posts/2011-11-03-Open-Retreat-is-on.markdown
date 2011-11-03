@@ -14,7 +14,7 @@ The details for the upcoming two day open retreat in the East Bay of California 
 
 The organizational site for this event is <a href="http://bayarea.opensangha.org">bayarea.opensangha.org</a>. I plan on additional quarterly open retreats and, probably, a monthly day-long sit on a weekend day.
 
-You can RSVP on <a href="http://www.meetup.com/Bay-Area-Open-Sangha/events/38578392/">meetup.com</a> if you're local and want to attend.
+You can RSVP on <a href="http://www.meetup.com/Bay-Area-Open-Sangha/events/38578392/">meetup.com</a> if you're local and want to attend. Please consider joining our [e-mail list](http://groups.google.com/group/bay-area-open-sangha) as well.
 
 I include the details below.
 <hr>
