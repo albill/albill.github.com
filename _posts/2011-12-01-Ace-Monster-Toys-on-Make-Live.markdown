@@ -2,7 +2,6 @@
 layout: post
 date: '2011-12-01 10:30:01'
 title: Ace Monster Toys on Make Live
-published: true
 tags: 
 - ace monter toys
 - Hacking
@@ -11,8 +10,6 @@ tags:
 categories:
 - Hacking
 - Technology
-type: post
-status: publish
 ---
 [Ace Monster Toys](http://acemonstertoys.org) was approached recently to appear [Make: Live](http://makezine.com/live/) as part of their "Hackerspace Roadshow." As their page says, Make: Live is a streaming show and tell show from people at Make magazine. Given that I own every issue of Make and, of course, all officers of a hackerspace are unable to turn down free press, we agreed to be on their show.
 
