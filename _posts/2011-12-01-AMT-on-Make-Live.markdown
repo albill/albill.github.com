@@ -1,0 +1,28 @@
+--- 
+layout: post
+date: '2011-12-01 09:30:01'
+title: Ace Monster Toys on Make: Live
+published: true
+tags: 
+- ace monter toys
+- Hacking
+- Technology
+- hackerspaces
+categories:
+- Hacking
+- Technology
+type: post
+status: publish
+---
+Ace Monster Toys was approached recently to appear on <a href="http://makezine.com/live/">Make: Live</a> as part of their "Hackerspace Roadshow." As their page says, Make: Live is a streaming show and tell show from people at Make magazine. Given that I own every issue of Make and, of course, all officers of a hackerspace are unable to turn down free press, we agreed to be on their show.
+
+Make: Live had done a first Hackerspace Roadshow this last year, profiling a number of other hackerspaces around the United States, including our sister (cousin?) space in San Francisco, <a href="http://noisebridge.net">Noisebridge</a>. This time, they profiled <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> (of Oakland!), <a href="http://www.hive13.org/">Hive13</a> in Cincinnati, 
+<a href="http://artifactory.org.au/">Perth Artifactory</a> in Perth, and <a href="http://tokyohackerspace.org/">Tokyo Hackerspace</a> in, you guessed it, Tokyo! A little more international this time.
+
+For the show, they asked us to give a brief tour of the space, show our coolest tool, maybe give a little history, and then show some projects. I gave the tour (under some duress) and Stacy, Chris, and Atom Bomb all showed their projects (which are far cooler than my touring ability). 
+
+You can see all of the shows right now on the <a href="http://makezine.com/live/">Make: Live</a> web page. The videos are also up on Youtube. I've put the AMT video inline below or you can <a href="http://youtu.be/qIummpkWOAI">watch it there</A>. 
+
+<div align="center"><object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/qIummpkWOAI?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qIummpkWOAI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></a></div>
+
+I also want to say, for the record, that the truth of samsaric suffering is revealed when you are forced to watch a video of yourself. 
