@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: '2011-12-01 10:30:01'
-title: Ace Monster Toys on Make: Live
+title: Ace Monster Toys on Make Live
 published: true
 tags: 
 - ace monter toys
@@ -24,5 +24,3 @@ For the show, they asked us to give a brief tour of the space, show our coolest 
 You can see all of the shows right now on the [Make: Live](http://makezine.com/live/) web page. The videos are also up on Youtube. I've put the AMT video inline below or you can [watch it there](http://youtu.be/qIummpkWOAI). 
 
 <div align="center"><object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/qIummpkWOAI?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qIummpkWOAI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></a></div>
-
-I also want to say, for the record, that the truth of samsaric suffering is revealed when you are forced to watch a video of yourself. 
