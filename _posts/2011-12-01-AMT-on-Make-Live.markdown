@@ -1,6 +1,6 @@
 --- 
 layout: post
-date: '2011-12-01 09:30:01'
+date: '2011-12-01 10:30:01'
 title: Ace Monster Toys on Make: Live
 published: true
 tags: 
@@ -14,7 +14,7 @@ categories:
 type: post
 status: publish
 ---
-Ace Monster Toys was approached recently to appear on <a href="http://makezine.com/live/">Make: Live</a> as part of their "Hackerspace Roadshow." As their page says, Make: Live is a streaming show and tell show from people at Make magazine. Given that I own every issue of Make and, of course, all officers of a hackerspace are unable to turn down free press, we agreed to be on their show.
+<a href="http://acemonstertoys.org">Ace Monster Toys</a> was approached recently to appear on <a href="http://makezine.com/live/">Make: Live</a> as part of their "Hackerspace Roadshow." As their page says, Make: Live is a streaming show and tell show from people at Make magazine. Given that I own every issue of Make and, of course, all officers of a hackerspace are unable to turn down free press, we agreed to be on their show.
 
 Make: Live had done a first Hackerspace Roadshow this last year, profiling a number of other hackerspaces around the United States, including our sister (cousin?) space in San Francisco, <a href="http://noisebridge.net">Noisebridge</a>. This time, they profiled <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> (of Oakland!), <a href="http://www.hive13.org/">Hive13</a> in Cincinnati, 
 <a href="http://artifactory.org.au/">Perth Artifactory</a> in Perth, and <a href="http://tokyohackerspace.org/">Tokyo Hackerspace</a> in, you guessed it, Tokyo! A little more international this time.
