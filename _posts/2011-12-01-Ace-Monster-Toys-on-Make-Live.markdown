@@ -11,6 +11,7 @@ categories:
 - Hacking
 - Technology
 ---
+<p style="text-align:center"><img src="http://i.imgur.com/sVxnG.jpg"></p>
 [Ace Monster Toys](http://acemonstertoys.org) was approached recently to appear [Make: Live](http://makezine.com/live/) as part of their "Hackerspace Roadshow." As their page says, Make: Live is a streaming show and tell show from people at Make magazine. Given that I own every issue of Make and, of course, all officers of a hackerspace are unable to turn down free press, we agreed to be on their show.
 
 Make: Live had done a first Hackerspace Roadshow this last year, profiling a number of other hackerspaces around the United States, including our sister (cousin?) space in San Francisco, [Noisebridge](http://noisebridge.net). This time, they profiled [Ace Monster Toys](http://acemonstertoys.org) (of Oakland!), [Hive13](http://www.hive13.org)</a> in Cincinnati, 
