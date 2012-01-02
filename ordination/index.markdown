@@ -42,7 +42,7 @@ After a few years, it is common for a novice to further ordain. When they do so,
 
 At this point, a Zen priest is fully empowered to lead a local sangha and to be able to fulfill the needs of the sangha in regards to running retreats, organizing ceremonies and celebrations, and instruction in common Buddhist practices, such as meditation.
 
-If the a Zen priest is so inclined, they can make even a further commitment to Zen Buddhism by becoming a Bodhisattva priest. This usually occurs after a few more years (three in my case and concurrent with my graduation from a Buddhist seminary as well). As householders, this is as close as leaving one’s home as we can get without physically doing so. On a practical level, a Bodhisattva priest functions as an elder in their community. They may also ordain novice and sixteen precept priests.
+If the a Zen priest is so inclined, they can make a further commitment by becoming a Bodhisattva priest, taking on the vows of a Bodhisattva. This usually occurs after a few more years (three in my case and concurrent with my graduation from a Buddhist seminary as well). As householders, this is as close as leaving one’s home as we can get without physically doing so. On a practical level, a Bodhisattva priest functions as an elder in their community. They may also ordain novice and sixteen precept priests.
 
 The precepts which a Bodhisattva Priest takes have their origin in the Pômmang Gyông (Brahma Net Sūtra) and have been handed down since at least the time of Kumarajiva. These are an additional 48 precepts, bringing the total to sixty four.
 
