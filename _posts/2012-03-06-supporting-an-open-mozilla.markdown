@@ -20,4 +20,6 @@ I decided to respond today with this post but, more importantly, I also gave a d
 
 > Equality California (EQCA) is the largest statewide lesbian, gay, bisexual, and transgender rights advocacy organization in California. Over the past 13 years, Equality California has strategically moved California from a state with extremely limited legal protections for LGBT individuals to a state with some of the most comprehensive civil rights protections in the nation. Equality California has partnered with legislators and advocates to successfully sponsor more than 80 pieces of pro-equality legislation. EQCA continues to advance equality through legislative advocacy, electoral work, public education and community empowerment.
 
+Another option, for UK community members, is [Stonewall](http://www.stonewall.org.uk/what_you_can_do/donate_to_stonewall/).
+
 I encourage all Mozillians to donate to one of the many public organizations supporting equal rights for the LGBT community. This is the best way to send a message in support of inclusiveness and an open Mozilla community.
