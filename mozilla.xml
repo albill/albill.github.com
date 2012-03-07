@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>Open Buddha</title>
- <link href="http://http://openbuddha.com/mozilla.xml" rel="self"/>
- <link href="http://http://http://openbuddha.com/"/>
+ <link href="http://openbuddha.com/mozilla.xml" rel="self"/>
+ <link href="http://openbuddha.com/"/>
  <updated>2012-03-06T16:15:32-08:00</updated>
  <id>http://openbuddha.com/</id>
  <author>
