@@ -6,8 +6,9 @@ categories:
 - Daily Life
 - Technology
 tags:
-- Saberforge
+- Saber forge
 ---
+
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6841710906/" title="Light Saber"><img src="http://farm8.staticflickr.com/7177/6841710906_edcf1d794e.jpg" width="500" height="388" alt="Light Saber"></a></p>
 
 As most people reading this blog know, I'm a bit of a geek. One of the things that I'm terribly geeky about, historically, is Star Wars.
