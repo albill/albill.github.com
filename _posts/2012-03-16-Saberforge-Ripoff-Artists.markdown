@@ -1,7 +1,7 @@
 ---
 date: '2012-03-16 11:28:00'
 layout: post
-title: Saber Forge: Ripoff Artists
+title: Saber Forge - Ripoff Artists
 categories:
 - Daily Life
 - Technology
