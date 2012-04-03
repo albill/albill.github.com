@@ -1,6 +1,6 @@
 --- 
 layout: post
-date: '2013-04-03 11:00:00'
+date: '2012-04-03 11:00:00'
 title: Open Sangha Progress
 tags: 
 - Buddhism
