@@ -34,21 +34,21 @@ a:visited {
 }
 
 .main-links a {
-    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
     font-size: medium;
     color: #333;
     text-decoration: none;
 }
 
 .main-links a:hover {
-	font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	font-size: medium;
     color: #555;
     text-decoration: none;
 }
 
 .masthead {
-	font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	margin-bottom: 0em;
 	text-align:right;
 }
@@ -57,7 +57,7 @@ a:visited {
 	margin-bottom: 0em;
 	text-align:right;
 	font-style: italic;
-    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; serif;
 	color: #111;
 }
 .openyoucontainer {
@@ -71,7 +71,9 @@ a:visited {
 
 .content {
     width: 42em;
-    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-size: 14px; 
+    line-height: 24px; 
 	font-size: 15px;
     text-align: left;
     background-color: #FFFFFF;
@@ -101,7 +103,7 @@ a:visited {
 
 .sidebar-sub {
     font-size: x-small;
-    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	color: #111;
     text-align: right;
     margin-bottom: 20px;
@@ -188,7 +190,7 @@ a:visited {
 
 .lib-table {
     font-size: x-small;
-    font-family: "Hoefler Text", "Cambria", Georgia, "Times New Roman", Times, serif;
+    font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
 .lib-table th {
