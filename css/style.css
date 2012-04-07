@@ -58,6 +58,7 @@ a:visited {
 	text-align:right;
 	font-style: italic;
     font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; serif;
+    font-size: 10px; 
 	color: #111;
 }
 .openyoucontainer {
@@ -102,7 +103,7 @@ a:visited {
 }
 
 .sidebar-sub {
-    font-size: x-small;
+    font-size: 10px; 
     font-family: Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	color: #111;
     text-align: right;
@@ -111,7 +112,7 @@ a:visited {
 }
 
 .sidebar-sub h1 {
-    font-size: medium;
+    font-size: 12px;
     font-weight: normal;    
 }
 
