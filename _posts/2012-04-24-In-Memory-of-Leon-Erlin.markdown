@@ -60,7 +60,7 @@ This is English translation we used:
 >
 > May the One who brings peace to His universe bring peace to us and all Israel. And let us say: Amen.
 
-Leon had studied Zen when he was younger and sat with [Suzuki Roshi](http://en.wikipedia.org/wiki/Shunryu_Suzuki) around 1962 for a while at [Soko-ji](http://en.wikipedia.org/wiki/Shunryu_Suzuki#San_Francisco_Zen_Center), a Zen temple in a converted synagogue in San Francisco. He lost track of Suzuki later but was influenced by Zen in his life. Because of this, I was asked to read something to touch on this. Following the kaddish, I read part of [Hsin Hsin Ming](http://www.mendosa.com/way.html) (信心銘) or "Faith in Mind," a poem attributed to the Third Patriarch of Zen and written around the year 600 C. E.
+Leon had studied Zen when he was younger and sat with [Suzuki Roshi](http://en.wikipedia.org/wiki/Shunryu_Suzuki) around 1962 for a while at [Soko-ji](http://en.wikipedia.org/wiki/San_Francisco_Zen_Center#History), a Zen temple in a converted synagogue in San Francisco. He lost track of Suzuki later but was influenced by Zen in his life. Because of this, I was asked to read something to touch on this. Following the kaddish, I read part of [Hsin Hsin Ming](http://www.mendosa.com/way.html) (信心銘) or "Faith in Mind," a poem attributed to the Third Patriarch of Zen and written around the year 600 C. E.
 
 The section that I read was as follows:
 
