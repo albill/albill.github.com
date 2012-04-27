@@ -9,7 +9,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><img src="http://farm6.staticflickr.com/5240/6928312676_d6b142565c_d.jpg" width="500" height="286" alt="Leon and family"></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6973582906/" title="Leon Erlin by albill, on Flickr"><img src="http://farm9.staticflickr.com/8153/6973582906_7832416328.jpg" width="400" height="500" alt="Leon Erlin"></a></p>
 
 My father-in-law, Leon Erlin, died last Thursday, April 19, 2012. He was 91 years old, a World War II veteran, and had survived a number of life threatening illnesses rather robustly over the last fifteen years or so. 
 
