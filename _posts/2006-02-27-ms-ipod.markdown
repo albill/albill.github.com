@@ -1,0 +1,14 @@
+---
+author: admin
+date: '2006-02-27 20:23:15'
+layout: post
+slug: ms-ipod
+status: publish
+title: MS Ipod
+wordpress_id: '696'
+categories:
+- Humor
+---
+I work for Microsoft and I find this funny...
+
+<a href="http://media.putfile.com/Microsoft-Rebrands-iPod-Packaging">http://media.putfile.com/Microsoft-Rebrands-iPod-Packaging</a>
