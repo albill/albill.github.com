@@ -20,6 +20,10 @@ Two examples of these scans are Buddhist. They are the Ghandaran [Seated Bodhisa
 
 The models that are up now are the early, rough ones but I do expect that a bit of clean up will occur. I'd love to see more models.
 
+[Tony Buser](http://tonybuser.com/) has been [having some fun](http://www.thingiverse.com/thing:24129) with the models produced as well:
+
+<p style="text-align:center"><a href="http://www.flickr.com/photos/tbuser/7317098080/" title="Bodhisattva of Infinite PEZ Dispension by Tony Buser, on Flickr"><img src="http://farm9.staticflickr.com/8016/7317098080_d35225d178.jpg" width="500" height="375" alt="Bodhisattva of Infinite PEZ Dispension"></a></p>
+
 You can read more about the Met efforts on the [Makerbot blog](http://www.makerbot.com/blog/), especially [here](http://www.makerbot.com/blog/2012/06/02/the-art-is-spreading/) and [here](http://www.makerbot.com/blog/2012/06/01/met-makerbot-hackathon-art-now-on-thingiverse/).
 
 As I've mentioned before, I have a 3D printer (actually, I'm building a second one right now) at home. [Ace Monster Toys](http://www.acemonstertoys.org) also has a couple of Cupcake 3D printers and we may be building a few Printrbot printers if my build goes well. We've also just acquired a Zcorp z402, which should show up tomorrow. That can, as an experiment, take powdered wood or concrete, so there is the real possibility of printing some interesting and durable objects. I'd love it if one of the first things that came out of the new printers was a Buddha image.
