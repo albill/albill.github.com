@@ -11,12 +11,14 @@ tags:
 - 3D printers
 - Dharma
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7323520922/" title="Gandharan Maitreya by albill, on Flickr"><img src="http://farm8.staticflickr.com/7233/7323520922_24ed9b0108.jpg" width="487" height="500" alt="Gandharan Maitreya"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7329191624/" title="Head of Bodhisattva by albill, on Flickr"><img src="http://farm9.staticflickr.com/8159/7329191624_b3119c3121.jpg" width="320" height="324" alt="Head of Bodhisattva"></a></p>
 It isn't often that my Buddhist interests and my hacker/geek interests completely line up. Today is one of those days!
 
 As part of a project to scan the world, [Makerbot Industries](http://www.makerbot.com) has been organizing a scanning event, the [Met MakerBot Hackathon](http://www.makerbot.com/blog/2012/05/31/met-makerbot-hackathon-art-to-the-people/), at the Metropolitan Museum of Art in New York City. People are using Autodesk 123D to take images of art and then assembling these images into 3D models. The resolution is much poorer than the high quality, professional models but isn't horrible. 
 
-Two examples of these scans are Buddhist. They are the Ghandaran [Seated Bodhisattva Maitreya](http://www.thingiverse.com/thing:24124) and the T'ang Dynasty [Head of a Bodhisattva](http://www.thingiverse.com/thing:24101) statues.
+A few examples of these scans are Buddhist. There are the Ghandaran [Seated Bodhisattva Maitreya](http://www.thingiverse.com/thing:24124), the T'ang Dynasty [Head of a Bodhisattva](http://www.thingiverse.com/thing:24101), and [Avalokiteshvara](http://www.thingiverse.com/thing:24033) (really just the torso) statues.
+
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7323520922/" title="Gandharan Maitreya by albill, on Flickr"><img src="http://farm8.staticflickr.com/7233/7323520922_24ed9b0108.jpg" width="487" height="500" alt="Gandharan Maitreya"></a></p>
 
 The models that are up now are the early, rough ones but I do expect that a bit of clean up will occur. I'd love to see more models.
 
