@@ -12,7 +12,6 @@ tags:
 - meditation
 - mobile
 ---
-
 <p style="text-align:center"><a href="http://www.flickr.com/photos/karamell/5020495143/" title="Meditation by Karamellzucker, on Flickr"><img src="http://farm5.staticflickr.com/4130/5020495143_01f47126d5.jpg" width="500" height="404" alt="Meditation"></a></p>
 
 This is an outline of a social meditation application that I've been considering this morning as a brainstorming thing. The idea is to help those of us isolated without a local sangha with which we sit to sit together (in time) online. Potentially, there is also some support for gamification and peer support by treating it as a kind of social media. Think of [Fitocracy](http://www.fitocracy.com) for meditation.
