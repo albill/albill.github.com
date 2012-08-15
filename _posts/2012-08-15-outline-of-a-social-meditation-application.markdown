@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2012-08-15 14:30:00'
+date: '2012-08-15 16:12:00'
 title: Outline of a Social Meditation Application
 categories:
 - Buddhism
