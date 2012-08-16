@@ -16,7 +16,7 @@ tags:
 
 This is an outline of a social meditation application that I've been considering this morning as a brainstorming thing. The idea is to help those of us isolated without a local sangha with which we sit to sit together (in time) online. Potentially, there is also some support for gamification and peer support by treating it as a kind of social media. Think of [Fitocracy](http://www.fitocracy.com) for meditation.
 
-This would be a website and an associtated mobile application. I'll probably use the "prajna.me" domain for this.
+This would be a website and an associtated mobile application. I'll probably use the "sitnow.org" domain for this.
 
 The following is just my initial notes during my thinking between security meetings at work.
 
