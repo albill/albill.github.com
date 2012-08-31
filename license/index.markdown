@@ -14,3 +14,4 @@ The content of *openbuddha.com* is licensed under the <a href="http://creativeco
 
 4.   This applies to photos as well, folks.
 
+	  <p style="text-align:center"><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="/images/cc.png" /></a></p>
