@@ -58,11 +58,11 @@ a:visited {
 	position: absolute; 
 	top:5px; 
 	left:10px;
+	width:8em;
 }
 .description {
 	margin-top: 0em;
 	margin-bottom: 0em;
-	text-align:right;
 	font-style: italic;
     font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
     font-size: 12px; 
@@ -70,9 +70,10 @@ a:visited {
 	position: absolute; 
 	top:30px; 
 	left:10px;
+	width:8em;
 }
 .openyoucontainer {
-    width:58em;
+    width:61em;
     margin-right: auto;
     margin-left: auto;
 }
