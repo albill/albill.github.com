@@ -14,11 +14,15 @@ padding: 0;
 html, body {
 }
 
+@font-face {
+    font-family: "Museo";
+    src: url("/css/Museo300-Regular.otf");
+}
+
 body {
 background-color: #222;
 color: #fff;
-font: 13.34px Museo, "Palatino", "Book Antiqua", "Helvetica Neue", Helvetica, Arial, clean, sans-serif;
-  *font-size: small;
+font-family: Museo,Palatino,Georgia,Serif;
 text-align: center;
 }
 
@@ -61,7 +65,7 @@ margin-bottom: 0.25em;
 text-transform: uppercase;
 color: #b3b3b3;
 font-weight: bold;
-font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
 article h2 {
@@ -101,7 +105,7 @@ line-height: 1.75em;
 
   ul.posts span {
 color: #aaa;
-font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 font-size: 80%;
 }
 
@@ -123,7 +127,7 @@ line-height: 1.5em;
 color: #fff;
 font-weight: bold;
 margin-bottom: 2em;
-font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
   .site .title a {
@@ -295,7 +299,7 @@ margin: 0 10px 0 15px;
 
 #networks li a strong {
 color: #fff;
-font: 18px/20px "Palatino", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font: 18px/20px "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 display: block;
 padding-top: 2px;
 }
