@@ -50,12 +50,7 @@ a:visited {
     text-decoration: none;
 }
 
-.main-links a:hover {
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
-	font-size: medium;
-    color: #555;
-    text-decoration: none;
-}
+
 
 .masthead {
     font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
