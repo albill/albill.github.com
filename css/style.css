@@ -54,21 +54,21 @@ a:visited {
 
 .masthead {
     font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
-	margin-bottom: 0em;
+	margin-bottom: 0px;
+	margin-top: 10px;
 	position: absolute; 
 	top:5px; 
 	left:10px;
 	width:8em;
 }
 .description {
-	margin-top: 0em;
 	margin-bottom: 0em;
 	font-style: italic;
     font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
     font-size: 12px; 
 	color: #111;
 	position: absolute; 
-	top:30px; 
+	top:50px; 
 	left:10px;
 	width:8em;
 }
