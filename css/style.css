@@ -60,7 +60,7 @@ a:visited {
 .masthead {
     font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	margin-bottom: 0em;
-	text-align:right;
+	position: absolute; top: 10px; left: 10px;
 }
 .description {
 	margin-top: 0em;
