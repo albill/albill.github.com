@@ -17,7 +17,7 @@ html, body {
 body {
 background-color: #222;
 color: #fff;
-font: 13.34px "Museo", "Palatino", "Book Antiqua", "Helvetica Neue", Helvetica, Arial, clean, sans-serif;
+font: 13.34px Museo, "Palatino", "Book Antiqua", "Helvetica Neue", Helvetica, Arial, clean, sans-serif;
   *font-size: small;
 text-align: center;
 }
@@ -61,7 +61,7 @@ margin-bottom: 0.25em;
 text-transform: uppercase;
 color: #b3b3b3;
 font-weight: bold;
-font-family: "Palatino", "Book Antiqua", "Helvetica Neue", Helvetica, Arial, clean, sans-serif;
+font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
 article h2 {
@@ -101,7 +101,7 @@ line-height: 1.75em;
 
   ul.posts span {
 color: #aaa;
-font-family: "Palatino", "Book Antiqua", "Helvetica Neue", Helvetica, Arial, clean, sans-serif;
+font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 font-size: 80%;
 }
 
@@ -123,7 +123,7 @@ line-height: 1.5em;
 color: #fff;
 font-weight: bold;
 margin-bottom: 2em;
-font-family: "Palatino", Helvetica, Arial, clean, sans-serif;
+font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
   .site .title a {

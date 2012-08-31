@@ -34,21 +34,21 @@ a:visited {
 }
 
 .main-links a {
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
     font-size: medium;
     color: #333;
     text-decoration: none;
 }
 
 .main-links a:hover {
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	font-size: medium;
     color: #555;
     text-decoration: none;
 }
 
 .masthead {
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	margin-bottom: 0em;
 	text-align:right;
 }
@@ -72,7 +72,7 @@ a:visited {
 
 .content {
     width: 42em;
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
     font-size: 14px; 
     line-height: 24px; 
 	font-size: 15px;
@@ -104,7 +104,7 @@ a:visited {
 
 .sidebar-sub {
     font-size: 10px; 
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 	color: #111;
     text-align: right;
     margin-bottom: 20px;
@@ -191,7 +191,7 @@ a:visited {
 
 .lib-table {
     font-size: x-small;
-    font-family: "Museo", Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
+    font-family: Museo, Helvetica Neue, "Helvetica", Arial, Verdana, sans-serif; 
 }
 
 .lib-table th {
