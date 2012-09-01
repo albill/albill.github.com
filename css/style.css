@@ -5,7 +5,6 @@
 
 body {
     margin-top:5px;
-    background: url("/images/steampunk_manjushri-bg.gif") no-repeat fixed 100% 100% white;
     background-image:url('/images/steampunk_manjushri-bg.gif');
     background-repeat:no-repeat; 
     background-position:0px 50px; 
