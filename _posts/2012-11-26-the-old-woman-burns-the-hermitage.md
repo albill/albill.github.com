@@ -9,6 +9,8 @@ tags:
 categories:
 - Spirituality
 ---
+<div style="text-align:center"><img src="http://www.openbuddha.com/images/burning-house.jpg" widith="590" height="350"></div>
+
 Oh, the exciting world of Zen. Another month, another sexual scandal. Lately, I've become rather exhausted with the idea of discussing these. It turns out that Zen teachers and students are much the same as everyone else. I gather this is horribly disillusioning to many but I just see it as confirmation that people are "just folks" and Zen isn't something special, not matter how magical some people try to make it. 
 
 If you really look at the number of people involved in these troubles versus the number of actual students and teachers out there, we wind up discussing the foibles of less than a dozen Zen teachers. If you then remove ones that are the common human failings of addiction (alcohol) and infidelity, you come down to a few (two that I can think of) potential sexual predators and a number of others being stupid about the power dynamics of teacher/student involvements. It is all rather tawdry but, for the most part, rather mundane, I'm afraid to say.
