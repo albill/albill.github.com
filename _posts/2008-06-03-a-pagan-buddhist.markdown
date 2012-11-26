@@ -12,7 +12,7 @@ categories:
 - Esoteric
 - Spirituality
 ---
-While I was in Seattle this weekend, I saw my friends, Erynn and Aron, on Friday. (Yes, those names sound the name but one is female and one is male...)
+While I was in Seattle this weekend, I saw my friends, Erynn and Aron, on Friday. (Yes, those names sound the same but one is female and one is male...)
 <p align="center"><a href="http://www.flickr.com/photos/albill/2544468848/" title="Erynn"><img src="http://farm4.static.flickr.com/3128/2544468848_e6c6ba4cea.jpg" border="1" width="500" height="375" alt="Erynn" /></a><br><em>Erynn</em></p>
 I've known Erynn since I was a callow youth (or longer if you think that was last week). She and I met somewhere in 1989 when I lived in Wallingford in Seattle, was going to community college after dropping out of high school, and she worked at a law office in the area. I was a fairly newly proclaimed Neopagan and she had been around the block a few times as a pagan. I assume that we met online on a BBS (Bulletin Board System for you kids) but I don't actually remember after more than 18 years. Eventually, along with many pagan things that I did, I attended the inaugural session of Erynn's "Hedge School" where she and her husband attempted to communicate their understanding of an actual Celtic paganism using the traditional vehicles of folklore and poetry (which is also magic, in a general sense). This particular school and its curriculum became, I believe, pretty well known later on in the Celtic Reconstructionist circles and provided inspiration for many things.
 
