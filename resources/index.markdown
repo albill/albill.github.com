@@ -9,19 +9,23 @@ published: true
 A variety of Zen and general Mahayana Buddhist resources.
 
 ## Sutras
-* <a href="/resources/sutras/heart-sutra.html">The Heart Sutra</a></li>
-* <a href="/resources/sutras/diamond-sutra.html">The Diamond Sutra</a></li>
-* <a href="/resources/sutras/lankavatara-sutra.html">The Lankavatara Sutra</a></li>
-* <a href="/resources/sutras/platform-sutra.html">The Dharma Jewel Platform Sutra</a></li>
-* <a href="/resources/sutras/lotus-sutra.html">The Lotus Sutra</a></li>
+* [The Heart Sutra](/resources/sutras/heart-sutra.html)
+* [The Diamond Sutra](/resources/sutras/diamond-sutra.html)
+* [The Lankavatara Sutra](/resources/sutras/lankavatara-sutra.html)
+* [The Dharma Jewel Platform Sutra](/resources/sutras/platform-sutra.html)
+* [The Lotus Sutra](/resources/sutras/lotus-sutra.html)
+
 
 ## Meditation Materials
-* <a href="/resources/cultivating-stopping-and-contemplation.html">The Dharma Essentials for Cultivating Stopping and Contemplation</a> by Chih-i</li>
+* [The Dharma Essentials for Cultivating Stopping and Contemplation](/resources/cultivating-stopping-and-contemplation.html) by Chih-i
+
+## Zen Materials
+* [心銘 or Mind Inscription](/resources/xin-ming-mind-inscription.md) (Xin Ming / Hsin Ming) by 牛頭法融 (Niutou Farong)
 
 ## Koan Materials
-* <a href="/resources/koans/mumonkan.html">Mumonkan</a> or the Gateless Gate</li>
-* <a href="/resources/koans/shoyoroku.html">Shoyoroku</a> or the Book of Serenity</li>
-* <a href="/resources/koans/blue-cliff-record.html">The Blue Cliff Record</a> or Bìyán Lù</li>
+* [Mumonkan](/resources/koans/mumonkan.html) or the Gateless Gate
+* [Shoyoroku](/resources/koans/shoyoroku.html) or the Book of Serenity
+* [The Blue Cliff Record](/resources/koans/blue-cliff-record.html) or Bìyán Lù
 
 ## Articles
-* <a href="/resources/way-of-wisdom.html">The Way of Wisdom: The Five Spiritual Faculties</a> by Edward Conze</li>
+* [The Way of Wisdom: The Five Spiritual Faculties](/resources/way-of-wisdom.html) by Edward Conze

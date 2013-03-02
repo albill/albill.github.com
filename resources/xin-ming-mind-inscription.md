@@ -6,7 +6,7 @@ status: publish
 ---
 ## 心銘 (Xin Ming / Hsin Ming) or Mind Inscription 
 
-### By Founder of the Ox-Head School Niu-t'ou Fa-jung
+### By Founder of the Ox-Head School Niutou Farong
 
 
 ### Author of the Text
