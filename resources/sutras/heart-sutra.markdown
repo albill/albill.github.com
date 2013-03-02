@@ -42,7 +42,7 @@ status: publish
 揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提娑婆訶
 
 
-### Translated by Edward Conze
+### English Translation by Edward Conze
 
 ### Om Homage to the Perfection of Wisdom the Lovely, the Holy !
 
@@ -89,3 +89,79 @@ gate gate paragate parasamgate bodhi svaha.
 ( Gone, gone, gone beyond, gone altogether beyond, O what an  awakening, all-hail!)
 
 This completes the Heart of perfect Wisdom.
+
+### Western Chan Fellowship Translation
+
+When the Bodhisattva Avalokiteshvara
+
+was coursing in the deep Prajnaparamita,
+
+he perceived that all five skandhas are empty,
+
+thereby transcending all sufferings.
+
+Sariputra, form is not other than emptiness
+
+and emptiness not other than form.
+
+Form is precisely emptiness and emptiness precisely form.
+
+So also are sensation, perception, volition, and consciousness.
+
+Sariputra, this voidness of all dharmas
+
+is not born, not destroyed,
+
+not impure, not pure, does not increase or decrease.
+
+In voidness there is no form,
+
+and no sensation, perception, volition or consciousness;
+
+no eye, ear, nose, tongue, body, mind;
+
+no sight, sound, smell, taste, touch, thought;
+
+there is no realm of the eye
+
+all the way up to no realm of mental cognition.
+
+There is no ignorance and there is no ending of ignorance
+
+through to no aging and death and no ending of aging and death.
+
+There is no suffering, no cause of suffering,
+
+no cessation of suffering, and no path.
+
+There is no wisdom or any attainment.
+
+With nothing to attain, Bodhisattvas relying on Prajnaparamita
+
+have no obstructions in their minds.
+
+Having no obstructions, there is no fear
+
+and departing far from confusion and imaginings,
+
+they reach Ultimate Nirvana.
+
+All past, present and future Buddhas,
+
+relying on Prajnaparamita, attain Anuttara-Samyak-Sambodhi.
+
+Therefore, know that Prajnaparamita
+
+is the great mantra of power,
+
+the great mantra of wisdom, the supreme mantra,
+
+the unequalled mantra,
+
+which is able to remove all sufferings.
+
+It is real and not false.
+
+Therefore recite the mantra of Prajnaparamita:
+
+Gate, Gate, Paragate, Parasamgate, Bodhi Svaha.
