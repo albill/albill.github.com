@@ -329,6 +329,44 @@ The "Hsin-ming" as we have it today exist in two versions. The one used here is 
 
 I wish to express my thanks to the following people, who in various ways helped me with this article: First my thanks go to Mr. Morten Schlutter of East Asiatic Institute, University of Copenhagen for reading through the manuscript and contributing many helpful suggestions. Next my thanks go to Mr. Poul Andersen, our local specialist in Taoist studies, also of East Asiatic Institute, for his critique and suggestions concerning the translation. Last but not least thanks to Miss Charlotte Rohde of the Royal Danish Library for her painstaking efforts in locating useful material for my study.
 
+*Abbreviations*
+
+CDC - "Chodang chip". Yanagida version.
+
+CKL - "Chueh-kuan lun". Tokiwa version.
+
+CSTP - "Chin-shih ts'ui-pien". Shanghai, 1893.
+
+CTL - "Taisho version, 2076".
+
+CTS - "Chiu T'ang-shu". Peking, 1978.
+
+CTW - "Ch'uan T'ang-wen". Taipei, 1960.
+
+HKSC - "Hsu kao-seng ch'uan", T. version, 2060".
+
+HM - "Hsin-ming". CTL version.
+
+HTC - "Hsu tsang-ching". Lung-men reprint.
+
+HTS - "Hsin T'ang-shu". Peking, 1978.
+
+IB - "Indogaku Bukkyogaku".
+
+JCP - "Journal of Chinese Philosophy".
+
+JIABS - "Journal of International Association of Buddhist Studies".
+
+P - "Pelliot Collection".
+
+PEW - "Philosophy East West".
+
+T - "Taisho Daizokyo".
+
+TP - "T'oung Pao".
+
+TWT - "T'ang-wen ts'ui". Taipei, 1973.
+
 **Notes**
 
 1. Taisho 2076. Compiled by the monk Tao-yuan (n.d.) from the Fa-yen School in 1004 a.d.. The work was published in 1011 a.d.
