@@ -4,6 +4,7 @@ title: The Diamond Sutra
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # The Diamond or Vajracchedikā-prajñāpāramitā-sūtra
 (Sanskrit:वज्रच्छेदिका प्रज्ञापारमितासूत्; Chinese: 金剛般若波羅蜜多經)
 

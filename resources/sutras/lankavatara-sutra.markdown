@@ -5,6 +5,7 @@ published: true
 type: page 
 status: publish 
 --- 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <a name="top"> </a> 
  
 # The Lankavatara Sutra 

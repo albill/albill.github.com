@@ -5,6 +5,7 @@ published: true
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # The Dharma Jewel Platform Sutra
 
 ## The Sutra of the 6_th_ Patriarch, Hui Neng

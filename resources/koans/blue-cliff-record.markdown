@@ -4,6 +4,7 @@ title: The Blue Cliff Record
 type: page 
 status: publish 
 --- 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # The Blue  Cliff Record 
  
 From Wikipedia: 

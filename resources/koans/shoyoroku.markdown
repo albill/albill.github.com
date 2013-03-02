@@ -5,6 +5,7 @@ title: Shōyōroku or the Book of Serenity
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # Shōyōroku or the Book of Serenity (Chinese: 從容録 Ts'ung-jung lu)
 
 A collection of 100 koans, originally compiled in the 12th century by Wanshi Shogaku (C. Hung-chih Cheng-chüeh).

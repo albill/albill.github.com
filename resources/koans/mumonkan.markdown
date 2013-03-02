@@ -4,6 +4,7 @@ title: Mumonkan
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # Mumonkan or the Gateless Gate
 From <a href="http://en.wikipedia.org/wiki/The_Gateless_Gate">Wikipedia</a>:
 

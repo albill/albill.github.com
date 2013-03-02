@@ -5,6 +5,7 @@ published: true
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 # The Heart or Prajnaparamita-Hridaya-Sutra
 (Sanskrit:  प्रज्ञापारमिताहृदय; Chinese: 摩訶般若波羅蜜多心經)
 
