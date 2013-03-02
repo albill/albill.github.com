@@ -20,7 +20,7 @@ A variety of Zen and general Mahayana Buddhist resources.
 * [The Dharma Essentials for Cultivating Stopping and Contemplation](/resources/cultivating-stopping-and-contemplation.html) by Chih-i
 
 ## Zen Materials
-* [心銘 or Mind Inscription](/resources/xin-ming-mind-inscription.md) (Xin Ming / Hsin Ming) by 牛頭法融 (Niutou Farong)
+* [心銘 or Mind Inscription](/resources/xin-ming-mind-inscription.html) (Xin Ming / Hsin Ming) by 牛頭法融 (Niutou Farong)
 
 ## Koan Materials
 * [Mumonkan](/resources/koans/mumonkan.html) or the Gateless Gate

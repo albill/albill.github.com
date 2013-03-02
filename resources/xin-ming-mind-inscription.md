@@ -4,6 +4,7 @@ title: 心銘 (Xin Ming / Hsin Ming) or Mind Inscription
 type: page
 status: publish
 ---
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 ## 心銘 (Xin Ming / Hsin Ming) or Mind Inscription 
 
 ### By Founder of the Ox-Head School Niutou Farong
