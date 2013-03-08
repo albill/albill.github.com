@@ -10,3 +10,5 @@ facebook_uid: 139700605
 category_dir: categories # Default is categories
 # Title to be used when generating the individual category html files prefixed to category name
 category_title_prefix: "categories"
+prose:
+  rooturl: "_posts"
