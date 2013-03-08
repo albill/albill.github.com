@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 date: '2013-03-08 11:45:00'
 title: A New and Quicker Format
 tags: 
