@@ -8,10 +8,10 @@ body {
     background-image:url('/images/steampunk_manjushri.svg');
     background-repeat:no-repeat; 
     background-position:0px 50px;
-   -webkit-background-size: auto auto;
-   -o-background-size: auto auto;
-   -moz-background-size: auto auto;
-   background-size: auto auto; 
+   -webkit-background-size: auto 500px;
+   -o-background-size: auto 500px;
+   -moz-background-size: auto 500px;
+   background-size: auto 500px; 
 }
 
 a {    
