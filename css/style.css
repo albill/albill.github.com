@@ -5,9 +5,13 @@
 
 body {
     margin-top:5px;
-    background-image:url('/images/steampunk_manjushri-bg.gif');
+    background-image:url('/images/steampunk_manjushri.svg');
     background-repeat:no-repeat; 
-    background-position:0px 50px; 
+    background-position:0px 50px;
+   -webkit-background-size: auto auto;
+   -o-background-size: auto auto;
+   -moz-background-size: auto auto;
+   background-size: auto auto; 
 }
 
 a {    
