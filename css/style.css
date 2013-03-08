@@ -7,11 +7,11 @@ body {
     margin-top:5px;
     background-image:url('/images/steampunk_manjushri.svg');
     background-repeat:no-repeat; 
-    background-position:0px 50px;
-   -webkit-background-size: auto 500px;
-   -o-background-size: auto 500px;
-   -moz-background-size: auto 500px;
-   background-size: auto 500px;
+    background-position:0px 70px;
+   -webkit-background-size: auto 700px;
+   -o-background-size: auto 700px;
+   -moz-background-size: auto 700px;
+   background-size: auto 700px;
 }
 
 a {    
