@@ -18,7 +18,7 @@ A variety of Zen and general Mahayana Buddhist resources.
 
 ## Meditation Materials
 * [The Dharma Essentials for Cultivating Stopping and Contemplation](/resources/cultivating-stopping-and-contemplation.html) by Chih-i
-* [Lojong Slogans](/resources/lojong.html)
+* [Seven Point Mind Training and Lojong Slogans](/resources/lojong.html)
 
 ## Zen Materials
 * [心銘 or Mind Inscription](/resources/xin-ming-mind-inscription.html) (Xin Ming / Hsin Ming) by 牛頭法融 (Niutou Farong)

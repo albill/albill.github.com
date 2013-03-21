@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Lojong Slogans
+title: Seven Point Mind Training and Lojong Slogans
 type: page
 status: publish
 ---
