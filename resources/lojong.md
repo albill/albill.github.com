@@ -5,7 +5,7 @@ type: page
 status: publish
 ---
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-# Lojong
+# Seven Point Mind Training and Lojong Slogans
 
 Lojong (Tib. བློ་སྦྱོང་) is a mind training practice in the Tibetan Buddhist tradition based on a set of aphorisms formulated in Tibet in the 12th century by Geshe Chekhawa. The practice involves refining and purifying one's motivations and attitudes.
 
