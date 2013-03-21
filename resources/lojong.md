@@ -13,7 +13,7 @@ The fifty-nine or so slogans that form the root text of the mind training practi
 
 ## The Root Text
 
-The original Lojong practice consists of 59 slogans, or aphorisms. These slogans are further organized into seven groupings, called the '7 Points of Lojong.' The categorized slogans are listed below, translated by the Nalanda Translation Committee under the direction of Chögyam Trungpa Rinpoche. It is emphasized that the following is translated from ancient Sanskrit and Tibetan texts, and therefore may vary slightly from other translations. Some slogans may feel esoteric or difficult to comprehend. 
+The original Lojong practice consists of 59 slogans, or aphorisms. These slogans are further organized into seven groupings, called the '7 Points of Lojong.' The slogans were popularized by Chögyam Trungpa Rinpoche and others during the last few decades (even being distrubuted as individual slogans on cards to be meditated upon). It is emphasized that the following is translated from ancient Sanskrit and Tibetan texts, and therefore may vary slightly from other translations. Some slogans may feel esoteric or difficult to comprehend. 
 
 
 ### SEVEN POINT MIND TRAINING
