@@ -116,7 +116,7 @@ As Mahayana's transference method is the five powers alone, their practice is vi
 4. Propelling intention
 5. Acquaintance
 
-5. PRESENTATION OF THE MEASURE OF HAVING TRAINED THE MIND
+#### 5. PRESENTATION OF THE MEASURE OF HAVING TRAINED THE MIND
 
 The intent of all teachings converges on a single point.
 
