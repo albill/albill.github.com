@@ -15,7 +15,240 @@ The fifty-nine or so slogans that form the root text of the mind training practi
 
 The original Lojong practice consists of 59 slogans, or aphorisms. These slogans are further organized into seven groupings, called the '7 Points of Lojong.' The categorized slogans are listed below, translated by the Nalanda Translation Committee under the direction of Chögyam Trungpa Rinpoche. It is emphasized that the following is translated from ancient Sanskrit and Tibetan texts, and therefore may vary slightly from other translations. Some slogans may feel esoteric or difficult to comprehend. 
 
-## Slogans 
+
+### SEVEN POINT MIND TRAINING
+
+#### by CHEKAWA YESHE DORJE (1101-1175)
+
+*The translation of the root text has been sourced from 'Mind Training – The Great Collection' translated by Thupten Jinpa.*
+
+Because of my numerous aspirations, <br />
+I have defied the tragic tale of suffering <br />
+And have taken instructions to subdue self-grasping. <br />
+Now, even if death comes, I have no regrets.
+
+### Seven-Point Mind Training
+
+#### 1. PRESENTATION OF THE PRELIMINARIES, THE BASIS
+
+First, train in the preliminaries.
+
+#### 2. TRAINING IN THE TWO MINDS OF AWAKENING, THE MAIN PRACTICE
+
+2A. Training in the ultimate awakening mind
+
+2A1. The actual meditation session
+
+Train to view all phenomena as dreamlike. <br />
+Examine the nature of the unborn awareness. <br />
+The remedy, too, is freed in its own place. <br />
+Place your mind on the basis-of-all, the actual path.
+
+2A2. The subsequent period [practices]
+
+In the intervals be a conjurer of illusions.
+
+2B. Training in the conventional awakening mind
+
+2B1. The meditation session
+
+Train in the two – giving and taking – alternately.
+
+Place the two astride the breath.
+
+2B2. The subsequent period [practices]
+
+There are three objects, three poisons, and three roots of virtue. <br />
+In all actions, train by means of the words.
+
+3. TAKING ADVERSE CONDITIONS ONTO THE PATH OF ENLIGHTENMENT
+
+When the world and its inhabitants boil with negativity, <br />
+Transform adverse conditions into the path of enlightenment.
+
+3A. Training in the two awakening minds, the extraordinary thoughts
+
+3A1. Taking adverse conditions onto the path by means of training in the conventional awakening mind
+
+3A1A. Recognizing your own self as the enemy
+
+Banish all blames to the single source.
+
+3A1B. Recognizing sentient beings as friends and cherishing them
+
+Toward all beings contemplate their great kindness.
+
+3A2. Taking adverse conditions onto the path by means of training in the ultimate awakening mind
+
+With the three views and treasury of space, <br />
+The protection of yoga is unexcelled. <br />
+By meditating on illusions as the four buddha bodies, <br />
+Emptiness is protection unsurpassed.
+
+3B. Striving in the dual practice of accumulation and purification, the extraordinary activities
+
+The fourfold practice is the most excellent method.
+
+1. Accumulation of merit
+2. Purification of negative karma
+3. Making offerings to malevolent forces
+4. Offering torma to the Dharma protectors
+
+Relate whatever you can to meditation right now.
+
+#### 4. PRESENTATION OF A LIFETIME'S PRACTICE IN SUMMARY
+
+In brief the essence of instruction is this:
+
+Apply yourself to the five powers.
+
+1. Propelling intention
+2. Acquaintance
+3. Positive seed
+4. Eradication
+5. Aspirational prayer
+
+As Mahayana's transference method is the five powers alone, their practice is vital.
+
+1. Positive seed
+2. Aspirational prayer
+3. Eradication
+4. Propelling intention
+5. Acquaintance
+
+5. PRESENTATION OF THE MEASURE OF HAVING TRAINED THE MIND
+
+The intent of all teachings converges on a single point.
+
+Of the two witnesses uphold the principal one.
+
+1. Not being disapproved of by those who are reputedly sublime
+2. Not being the object of your own disapproval
+
+Cultivate constantly the joyful mind alone.
+
+If this can be done even when distracted, you are trained.
+
+#### 6. PRESENTATION OF THE COMMITMENTS OF MIND TRAINING
+
+Train constantly in the three general points.
+
+1. Your mind training should not contradict your pledges
+2. Your mind training should not become offensive
+3. Your mind training should not be biased
+
+Transform your attitudes but remain as you are.
+
+Do not speak of the defects [of others].
+
+Do not reflect on others' shortcomings.
+
+Discard all expectations of reward.
+
+Discard poisonous food.
+
+Do not maintain [inappropriate] loyalty.
+
+Do not torment with malicious banter.
+
+Do not lie in ambush.
+
+Do not strike at the heart.
+
+Do not place the load of a dzo on an ox.
+
+Do not sprint to win a race.
+
+Do not abuse this [practice] as a rite.
+
+Do not turn gods into demons.
+
+Do not seek misery as a means to happiness.
+
+#### 7. PRESENTATION OF THE PRECEPTS OF MIND TRAINING
+
+Accomplish all yogas through a single means.
+
+Overcome all errors through a single means.
+
+There are two tasks – one at the start and one at the end.
+
+Forbear whichever of the two arises.
+
+1. Great fortune
+2. Misfortune
+
+Guard the two even at the cost of your life.
+
+1. The precepts and commitments presented in the teachings in general
+2. The commitments of this particular mind training teaching
+
+Train in the three difficult challenges.
+
+1. Remember the antidotes
+2. Overcome the afflictions
+3. Eradicate the continuum of the afflictions
+
+Adopt the three principal conditions.
+
+1. There should be a qualified spiritual teacher
+2. Your state of mind should be such that many realizations have arisen
+3. Conditions conducive to Dharma practice must be gathered
+
+Contemplate the three that are free of degeneration.
+
+1. Make sure that your faith and respect toward your spiritual teacher remain undiminished
+2. Make sure that your enthusiasm for mind training remains undiminished
+3. Learn to guard your pledges undiminished
+
+Be endowed with the three inseparable factors.
+
+1. Make sure your body is never divorced from virtuous activity at all times
+2. Make sure your speech is never divorced from virtuous activity at all times
+3. Make sure your mind is never divorced from virtuous activity at all times
+
+Train constantly toward the chosen objects.
+
+Do not depend on other conditions.
+
+Engage in the principal practices right now.
+
+Do not apply misplaced understanding.
+
+1. Misplaced forbearance
+2. Misplaced aspiration
+3. Misplaced savoring
+4. Misplaced compassion
+5. Misplaced dedication
+6. Misplaced rejoicing
+
+Do not be sporadic.
+
+Train with decisiveness.
+
+Be released through the two: investigation and close analysis.
+
+Do not boast of your good deeds.
+
+Do not be ill-tempered.
+
+Do not be fickle.
+
+Do not be boisterous.
+
+Through this proliferation of the five degenerations,
+
+Transform [every event] into the path of enlightenment.
+
+Because of my numerous aspirations,
+
+I have defied the tragic tale of suffering
+
+And have taken instructions to subdue self-grasping.
+
+Now, even if death comes, I have no regrets.
+
+## Slogans as translated by others
 
 ### Slogans as translated by the Nalanda Translation Committee
 
