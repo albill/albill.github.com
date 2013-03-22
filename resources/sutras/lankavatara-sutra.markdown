@@ -1,5 +1,5 @@
 ---  
-layout: page 
+layout: default
 title: The Lankavatara Sutra 
 published: true 
 type: page 

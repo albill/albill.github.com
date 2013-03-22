@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: Mumonkan
 type: page
 status: publish

@@ -1,5 +1,5 @@
 ---  
-layout: page 
+layout: default
 title: The Blue Cliff Record 
 type: page 
 status: publish 

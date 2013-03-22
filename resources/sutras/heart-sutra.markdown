@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: The Heart Sutra
 published: true
 type: page

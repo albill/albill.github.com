@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: Seven Point Mind Training and Lojong Slogans
 type: page
 status: publish

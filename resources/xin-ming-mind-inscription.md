@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: 心銘 (Xin Ming / Hsin Ming) or Mind Inscription
 type: page
 status: publish

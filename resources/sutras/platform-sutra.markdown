@@ -1,5 +1,5 @@
 --- 
-layout: page
+layout: default
 title: The Dharma Jewel Platform Sutra
 published: true
 type: page
