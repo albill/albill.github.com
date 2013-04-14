@@ -12,7 +12,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<em>This is a cross post from my new post over at [pagandharma.org](http://pagandharma.org) called, "[Zen Druids](http://pagandharma.org/2013/04/zen-druids/)." Since it is topically relevant here on my overtly mostly Buddhist site, I thought I'd put it here for you as well.</em>
+<em>This is a cross post from my new post over at [pagandharma.org](http://pagandharma.org) called, "[Zen Druids](http://pagandharma.org/2013/04/zen-druids/)." Since it is topically relevant here on my overtly mostly Buddhist site, I thought I'd put it here for you as well. Please keep discussion over on pagandharma.org though to contain it to one place.</em>
 
 <p style="text-align: center;"><a title="DSCF0330.JPG by albill, on Flickr" href="http://www.flickr.com/photos/albill/1432529192/"><img alt="DSCF0330.JPG" src="http://farm2.staticflickr.com/1085/1432529192_0872189492.jpg" width="375" height="500" /></a></p>
 James Foster and I were discussing the possibility of Zen Druids today in email. This was the idea of the intersection of the immediacy and focus on presence and mindfulness of Zen practice (among other aspects) with the idea of a sacred or holy nature as present in Druidry, as well as the focus on hearth culture, celebrating the seasons of the year, and other aspects of Druidry as a modern, Neopagan practice.
