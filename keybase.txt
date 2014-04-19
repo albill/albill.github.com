@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/albillings
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://openbuddha.com
+  * I am albillings (https://keybase.io/albillings) on keybase.
+  * I have a public key with fingerprint 7BBE 1BDD 81DB 15ED D685  0478 915A C600 BDF3 130F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7bbe1bdd81db15edd6850478915ac600bdf3130f",
+            "host": "keybase.io",
+            "key_id": "915ac600bdf3130f",
+            "uid": "0f98dfe229a9526dde59fc6df8a80800",
+            "username": "albillings"
+        },
+        "service": {
+            "hostname": "openbuddha.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397891794,
+    "expire_in": 157680000,
+    "prev": "0ca64619d7024ab75fc4d45bb8b5536b4e543feefd771240498e88a688945fe8",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owGbwMvMwMT4wf2yiEnr7COMpw98S2IIDlJ6UK2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslMyTklINk1JSLAxTkgxNU1NSzCxMDUzMLSwNTROTzQwMklLSjA2NDdKU
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWAJgzRLi5S0VCMjy0RLUyOzlJRU
+U8u0ZLOUNItECwMLAwOQwuLUorzE3FSg6sScpMycHKALi5VqdZSA4mWZyakgV4Ms
+h6rJL0jNSypNSclI1EvOzwXqLyjKL8lPzs8BymWUlBRYgbSWVBaA1JanJsVDTYlP
+ysxLAZoM1FCWWlScmZ+nZGUIVJlckgky1tDYEuRrc0sTHaXUioLMotT4TJAKU3Mz
+oCsNDEDWpJaBPJScaGZiZmiZYm5gZJKYZG6almySYmKalGSRZGpqbJZkkmpqYpyW
+mpqWYm5uaGRiYGJpkWphkWhmYWFpYpqWaqEE8ldhXr6SFdCmksR0oJHFmel5iSWl
+RalKtVydTDIsDIxMDGysTKDoY+DiFIBF6otj/P+rbL/6q8+sVMlpMJilsC1h7gbV
+pus7OGovqC2cebBW6lVuzMLnVZ/fvLZ49/cmr9IK59M3HaVnOUpNTHzq4HTrwfvT
+hX6LGFg+vWivnHUl5KAIb+A/xvmfbl5ducYkhfOKxoX46L/abOdsZ7xeZiS4uUP6
+mlqfxK7YBx2qfxjtd5xt37frsYD3+pzVqjIr3vEISGocfH3U0txU3PJ3Tp3m38wz
+JcIOGaYxR179nyDufb0pk+lhTa3OFrmgb8cajrw4wDPtw+Xqa2tWT9Z6/Ji1e/r8
+o65tou0s/1fvuijW8iRZpMh0/YbLN/mPb9fsXBoVyRGYMSvYPHon+3vXrw9dRXco
+XJd8I3c5MtJGofzGu19fpiTwLov0nZ1wQj9x/xGDdH+e5K25aysO6Md+iny9dY1E
+5eJ8r30lzJ9n+oetmH21WEkhZf1JYfZIs3+rek0SmbYs7NoUeE1x7t9VdT6XW7MO
+imxddzrr/w2BptO/Wtu+nsrI7psx20ukU3hHm/X7ql/HX2hpy8jq556/sqJqn+MG
+mcbGxPb8uz6rLlw6d2tJZM2zk08+3k19c/Xg57pUpoXlKwo1ogU6/tR7LPZ+N9/t
+hPfFZwUNP+d8YayIu7jl3KtDBp5ys3YJbH+2MzOqUlxK+c27PdWdnybeO1b1sjB5
+RYPi0dUTNHr9pQ3vc3gcfsoqfGDumehHafFiJjYXy4y+NZs5n3HV93u0DQA=
+=XwAr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/albillings
+
+==================================================================
+
