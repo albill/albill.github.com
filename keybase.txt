@@ -6,18 +6,27 @@ I hereby claim:
 
   * I am an admin of http://www.openbuddha.com
   * I am albillings (https://keybase.io/albillings) on keybase.
-  * I have a public key with fingerprint 7BBE 1BDD 81DB 15ED D685  0478 915A C600 BDF3 130F
+  * I have a public key with fingerprint 2CF2 E8BF 6D1E A953 BBA5  EE32 2BAC 38BF F1D4 FF2E
 
 To claim this, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
         "key": {
-            "fingerprint": "7bbe1bdd81db15edd6850478915ac600bdf3130f",
+            "fingerprint": "2cf2e8bf6d1ea953bba5ee322bac38bff1d4ff2e",
             "host": "keybase.io",
-            "key_id": "915ac600bdf3130f",
+            "key_id": "2BAC38BFF1D4FF2E",
             "uid": "0f98dfe229a9526dde59fc6df8a80800",
             "username": "albillings"
+        },
+        "merkle_root": {
+            "ctime": 1420667788,
+            "hash": "767a45bb41e7968c1b2aa85c2a9c3474fd2020df1005eb9794d13084c61a4b204c3666133ed83310cd4fee3cf8a4f25066877876f3798b662f1007efcb26219a",
+            "seqno": 124511
         },
         "service": {
             "hostname": "www.openbuddha.com",
@@ -26,39 +35,36 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1397892039,
+    "ctime": 1420667812,
     "expire_in": 157680000,
-    "prev": "19be2c73f73a3b6cca877f35be5246aa54cfa90f540729fc8f82d23a343461ba",
-    "seqno": 5,
+    "prev": "0c9c201ec6a4e2aae9a97487ee7f4476909fd328f4ab1213ab3073eee66f7bdf",
+    "seqno": 23,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 
-owGbwMvMwMT4wf2yiEnr7COMpw/8SmIIDlI+V62UlJ9SqWRVrZSdCqbSMvPSU4sK
-ijLzSpSslMyTklINk1JSLAxTkgxNU1NSzCxMDUzMLSwNTROTzQwMklLSjA2NDdKU
-dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWAJgzRLi5S0VCMjy0RLUyOzlJRU
-U8u0ZLOUNItECwMLAwOQwuLUorzE3FSg6sScpMycHKALi5VqdZSA4mWZyakgV4Ms
-h6opLy/Xyy9IzUsqTUnJSNRLzs8FmlFQlF+Sn5yfA5TPKCkpsAJpL6ksAKtPTYqH
-mhSflJmXAjQdqKEstag4Mz9PycoQqDK5JBNktKGxJdDnRgbGljpKqRUFmUWp8Zkg
-FabmZkCXGhiArEktAxppaJmUapRsbpxmbpxonGSWnJxoYW6eZmyalGpqZGKWmGhq
-kpyWaGmQZmpiYG4E9K5FmoVRihFQrYmxiZlhUqISyG+FeflKVqZAZyamA40szkzP
-SywpLUpVquXqZJJhYWBkYmBjZQJFIQMXpwAsYnnX8f/3nCO74tH0CC0u7vyl+Ufu
-71n2Le7jdNfnrHyrLEzsDm5WWTJhNtOeF0UL+43LqicKv9Y5yy3d2yWzVjT8uGXD
-6Skpb4T3l0w82zxDqWOJtOnClboRyVKB0RyKxwSv/P39jeVZd8RpsW3b5nlqtqzP
-OM72W7LAf+NVlvsL0iWfGSfbJM/ZsuV565sJ/8ymfF03lfco/520vCVTgvgjFv3d
-d5aNwUVqh/GV7+V5N5cFKlkte1AaOUcverGTEPe8t4X77ANq2u9G+HKu6lxWsFzQ
-Zaeq/K8Iv+rLr3ctM/x0/r/bS/Xpz2Mz4q3d2AXObXCY2/OiNu36c9XKFV2/Ne8G
-7tkUdLpk9w/OlJ/Zl+coi7+oSEw+Wl1xfM9BcZkCVeucf/c5uTL+/jDiPsevvZyZ
-e2W5tsGdkNUbVjS3Gul98n2iVZs7Yev2XJe5G9TCDHQa18+uUw+ObimbkZPBrJhq
-vtBIb1pcV8KxSenlzNIyh0MCKh+3Xbu/0bS3SC2Y56LgtaRTPV8eyNYcndJWrmxa
-L6Jvtchvs+i2tsLbLfefOE4oWLv3/g8dvg42z6PLrryzWaFUdar6uyhnZH/l4l0F
-kZ/a/78/p6ec6RiyrVuBrXKaxZrUfSUH1kspttyo2c+Zw2O5d0NW67Xr2bJRe7cd
-95KYoD2v5ERo4n+h9uMSzzjS/j+21Z938XSCl4iR5nTzv1fahPb6dnB9iQAA
-=CqTt
+owFVUmtsFUUYvbcg1GfQhkga0bLBBKG9zGN3ZrYJCgUaqND6aBB+wHVm9pt2y+3d
+2917WxvSGEQNxgC1JmDSRNOKMSqNPyTGakRjglFL8IXGBz+qIZJGTK0aH4laZ5sa
+5d/MfOc73znnm8FrF2SqsmtOiLdmzs3mshNTKtM+9tLxfY6Kgn6ncZ+jCyEUy+mp
+KLvBaXT2Qr+SCeTCqK4YBZDrSurmMfVOL8RJGBUtCuV4jjoD9Sk8bTZhsQPiUhym
+XA7RhoBQhgUYpO9RpaQHQAlRUlP7bnDgGguxlJ1RUr5sqjPHmQ+DlKdpw0Yqmpqb
+8Sa3uZlstrXKXAEZXwQGCPEtPWFBAJ5vNAuMkAIJhFJgAvG8JVlQYaFgFSap4m6I
+9xYgH0fRnG1dDlMQdglijHMhrCaZdNo2zrh0PaVcDNxnQmNFpBSeJtLX1OWuCQgi
+KDAYIQ+Uz303wBQJVzMsXUWQqyljDFMKgaAUI21N2xS0Feka4tlxws7jzFDuC8UY
+SZk4GK0II9iX1kQCPcXIiiOuh/FAeo97Qw2p7jS4eX99fX25qARFVQmCTpnTUbdt
+LcVROdJRwdY7y+VSY2q93F96da4BVH6eKq/CYmCj+f9200mXxyIwqXfggVIYQz5M
+ER5nNmaE0jnQm25E+5ogDJpJF2xOYDfDXcEBuHFdznzkm4ASYVypMMFUKoo4BQDG
+DFeB+c8soVao7LCcSdhRlOVKDM7AY9mbFmayVZlFV1Sl/zdz1ZVL/v3Uz3iLZ7dV
+H5t559LK+/HbP/26/9Cu6tWfLptt/9176sLFL64/enDZex9Moi3VS+nPuxeev3v5
+01ue/L7+od0PnhrfGt7DT7e1HO56eEVDww8tIxt+ef/soZHVpqb1kR3Dv21/9I+G
+b/dcM3Z2eeXmd09Mv5DcMfjRmtO5tpeva7zh1lPna9aPvvninv6d2/CZyUVLG549
+11b7V8+CGf56e2nr5PC9I8+tuLH18Z0TG8ezBw9P8arPhuo+HD3Z+s3Jdb3ZVRNH
+7jrw99G17MxKMdT0RObz53fsahlcXP3n17x6eujSK5Uls8fv++7qTT3ToN+oufDa
+gf2bRcf6j8drx8qfxLVd4z9m197Zc+TLkdtvWffV1G0Xh0f/AQ==
+=V9Y5
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -67,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/albillings
 
 ==================================================================
-
