@@ -1,0 +1,150 @@
+/* ==========================================================================
+   SCSS VARIABLES
+   ========================================================================== */
+
+/*
+   Typography related variables
+   ========================================================================== */
+
+$base-font                    : 'Alegreya', Georgia, serif;
+$heading-font                 : 'Alegreya Sans', sans-serif;
+$heading-font-title           : 'Alegreya Sans', sans-serif;
+$caption-font                 : 'Alegreya Sans', sans-serif;
+$code-font                    : monospace;
+$alt-font                     : 'Alegreya Sans', sans-serif;
+
+$doc-font-size                : 16;
+$doc-line-height              : 24;
+
+$border-radius                : 5px;
+
+
+/*
+   Color variables
+   ========================================================================== */
+
+$white                        : #fff;
+$black                        : #000;
+$gray                         : #635960;
+
+$background-color             : mix($white, $gray, 90%);
+$body-color                   : $white;
+
+$text-color                   : $black;
+$caption-color                : $text-color;
+
+$highlighter-color            : #f3bc15;
+
+$primary-color                : mix($black, $gray, 35%);
+$success-color                : mix($gray, #2ecc71, 15%);
+$warning-color                : mix($gray, #f3bc15, 15%);
+$danger-color                 : mix($gray, #dc081d, 15%);
+$info-color                   : mix($gray, #427ab8, 15%);
+
+$border-color                 : mix($white, $gray, 80%);
+
+$link-color                   : $text-color;
+$link-color-hover             : mix($highlighter-color, $text-color, 20%);
+
+$table-border-color           : $border-color;
+$table-border                 : 1px solid $table-border-color;
+$table-background             : $white;
+$table-header-color           : $white;
+$table-hover-color            : mix($gray, $table-background, 10%);
+$table-stripe-color           : mix($gray, $table-background, 10%);
+$table-stripe-color-hover     : mix($gray, $table-background, 10%);
+
+$badge-background             : $primary-color;
+$badge-dark-color             : $black;
+$badge-danger-color           : $danger-color;
+$badge-info-color             : $info-color;
+$badge-warning-color          : $warning-color;
+$badge-success-color          : $success-color;
+$badge-font-color             : $white;
+
+$facebook-color               : #3b5998;
+$flickr-color                 : #ff0084;
+$foursquare-color             : #0cbadf;
+$google-plus-color            : #dd4b39;
+$instagram-color              : #4e433c;
+$linkedin-color               : #4875b4;
+$pinterest-color              : #cb2027;
+$rss-color                    : #fa9b39;
+$tumblr-color                 : #2c4762;
+$twitter-color                : #55acee;
+$vimeo-color                  : #1ab7ea;
+$youtube-color                : #ff3333;
+$github-color                 : #333333;
+
+/*
+   Form variables
+   ========================================================================== */
+
+$form-background              : mix($white, $border-color, 50%);
+$form-border-color            : $border-color;
+$form-border-color-hover      : mix($black, $border-color, 10%);
+$form-border-color-focus      : $primary-color;
+$form-border-radius           : $border-radius;
+$form-box-shadow              : inset 0 1px 3px hsla(0, 0%, 0%, 0.06);
+$form-box-shadow-focus        : $form-box-shadow, 0 0 5px rgba(mix($black, $form-border-color-focus, 10%), 0.7);
+$form-font-family             : $base-font;
+$form-font-size               : $doc-font-size;
+
+/*
+   Code snippet variables
+   ========================================================================== */
+
+$code-background              : mix($white, $border-color, 75%);
+$code-border-color            : $border-color;
+$code-border-color-hover      : mix($black, $border-color, 10%);
+$code-border-radius           : $border-radius;
+
+$inline-code-background       : mix($white, $border-color, 75%);
+
+/*
+   Sliding menu variables
+   ========================================================================== */
+
+$sliding-menu-border-color    : $black;
+$sliding-menu-background      : $black;
+$sliding-menu-color           : $white;
+$sliding-menu-background-hover: $black;
+$sliding-menu-color-hover     : $white;
+$sliding-menu-border          : 1px solid $sliding-menu-border-color;
+$button-size                  : 32px;
+$transition                   : 0.3s; /* increase this to see the transformations in slow-motion */
+$sliding-menu-animation       : all 500ms cubic-bezier(.86,.01,.77,.78);
+
+
+/*
+   Masthead variables
+   ========================================================================== */
+
+$masthead-height: $button-size * 2;
+
+
+/*
+   Grid variables
+   ========================================================================== */
+
+$breakpoint-to-ems: true;
+
+$article: (
+  columns: 16,
+  gutters: 1/4,
+  debug: (image: hide)
+);
+
+$micro-only: 240px 480px;
+$small: 768px;
+$medium: 900px;
+$large: 1280px;
+
+
+/*
+   Visual sitemap
+   ========================================================================== */
+
+$sitemap-primary-color        : mix($white, $primary-color, 60%);
+$sitemap-sub-color            : mix($white, $primary-color, 80%);
+$sitemap-sub-sub-color        : mix($white, $primary-color, 90%);

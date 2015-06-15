@@ -1,14 +1,83 @@
-markdown: rdiscount
-pygments: false
+# Site wide configuration
+
+title: Open Buddha.
+description: "Open Source Buddhism, Technology, and Geekery"
+logo: site-logo.png
+teaser: default-teaser.png
+locale: en_US
+url: https://www.openbuddha.com.com
+
+# Jekyll configuration
+
 permalink:  /:year/:month/:day/:title/
-paginate: 1
-url: http://www.openbuddha.com
-disqus_username: albill
-twitter_name: openbuddha
-facebook_uid: 139700605
-# Change the dir the individual category files are output to
+lsi: true
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-archives
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json", ".jekyll-assets-cache"]
+
 category_dir: categories # Default is categories
 # Title to be used when generating the individual category html files prefixed to category name
 category_title_prefix: "categories"
 prose:
   rooturl: "_posts"
+  
+# Plugin: jekyll-assets
+
+assets:
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+  baseurl: https://www.openbuddha.com/assets/
+  js_compressor: uglifier
+  css_compressor: sass
+  cachebust: hard
+  cache: true
+  debug: false
+  version: 1
+
+# Plugin: jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - tags
+    - year
+    - month
+    - day
+  layouts:
+    year: year_index
+    tag: tag_index
+  permalinks:
+    year: /:year/
+    month: /:year/month/
+    tag: /tag/:name/
+
+# Site owner
+
+owner:
+  name: Al Billings
+  email: albill@gmail.com
+  twitter: makehacklearn
+  facebook: albill
+  tumblr: albill
+  github: albill
+  bio: "Some guy"
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname: albill
+
+
+# Collections
+
+collections:
+  faqs:
+    output: false
+    permalink: /:collection/:path/
+    title: FAQs
+  components:
+    output: false
+  colors:
+    output: false

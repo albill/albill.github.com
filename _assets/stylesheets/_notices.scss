@@ -1,0 +1,100 @@
+/* ==========================================================================
+   NOTICE TEXT BLOCKS
+   ========================================================================== */
+
+/**
+ * Default Kramdown usage (no indents!):
+ * <div class="notice" markdown="1">
+ * #### Headline for the Notice
+ * Text for the notice
+ * </div>
+ */
+
+@mixin notice($notice-color) {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-top: 2px solid $black;
+  border-bottom: 2px solid $black;
+  @include bleed-x(1em);
+  h4 {
+    margin: 0 !important;;
+    // insert Font Awesome icons before notice header
+    &:before {
+      margin-right: 4px;
+      font-family: "FontAwesome";
+      display: inline-block;
+      text-decoration: inherit;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      transform: translate(0, 0);
+    }
+  }
+  @at-root .page-content #{&} h4 {
+    @include font-size(18, no); // using root to override .page-content h4 font size
+  }
+  @at-root .page-content #{&} a {
+    border-bottom-width: 2px;
+    box-shadow: none !important; // override
+    &:hover {
+      background-color: transparent !important; // override
+    }
+  }
+  p {
+    font-family: $caption-font;
+    @include font-size(16, no, 20);
+  }
+  h4 + p {
+    // remove space above paragraphs that appear directly after notice headline
+    margin-top: 4px;
+    padding-top: 0;
+  }
+}
+
+/* Default notice */
+
+.notice {
+  @include notice($primary-color);
+}
+
+/* Inverse notice (light on dark) */
+
+.notice-inverse {
+  @include notice($white);
+}
+
+/* Info notice */
+
+.notice-info {
+  @include notice($info-color);
+  h4:before {
+    content: "\f0eb";
+  }
+}
+
+/* Warning notice */
+
+.notice-warning {
+  @include notice($warning-color);
+  h4:before {
+    content: "\f071";
+  }
+}
+
+/* Success notice */
+
+.notice-success {
+  @include notice($success-color);
+  h4:before {
+    content: "\f164";
+  }
+}
+
+/* Danger notice */
+
+.notice-danger {
+  @include notice($danger-color);
+  h4:before {
+    content: "\f071";
+  }
+}

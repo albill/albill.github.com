@@ -1,0 +1,56 @@
+/* ==========================================================================
+   TABLE OF CONTENTS
+   ========================================================================== */
+
+/*
+   Page table of contents
+   ========================================================================== */
+
+.toc {
+  min-height: 1px;
+  font-family: $alt-font;
+  @include breakpoint($medium) {
+    padding-right: 4em; // avoid bumping into pulled entry-content
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    list-style-type: none;
+    position: relative;
+    display: block;
+    padding: 7px 0 7px 20px;
+    @include font-size(14, no, 14);
+    &:before {
+      position: absolute;
+      content: "\2192";
+      display: block;
+      left: 0;
+    }
+    > a {
+      color: $text-color;
+      text-decoration: none;
+      // Add spacing around Font Awesome icons
+      .fa {
+        margin-right: 5px;
+      }
+    }
+  }
+}
+.toc-title {
+  font-family: $heading-font-title;
+  @include font-size(16, no, 16);
+  font-weight: 500;
+}
+
+/*
+   1/4 wide table of contents to be used as a sidebar (left aligned)
+   ========================================================================== */
+
+.toc-left {
+  @include breakpoint($small) {
+    float: left;
+    width: 25%;
+  }
+}

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+
+  <article class="hentry" itemscope itemtype="http://schema.org/Article">
+
+    {% if page.image.feature %}
+      <div class="page-image">
+        <img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+        {% if page.image.credit %}{% include image-credit.html %}{% endif %}
+      </div><!-- /.page-image -->
+    {% endif %}
+
+    <div class="article-wrap">
+
+      {% include browser-upgrade.html %}
+
+      <h1 class="entry-title">{{ page.title }}</h1>
+
+      {% include breadcrumbs.html %}
+
+      <div class="entry-content" id="content" itemprop="articleBody">
+        {% if page.external.url %}
+          <div><a href="{{ page.external.url }}" class="btn" itemprop="sameAs"><i class="fa fa-external-link"></i> Launch Website</a></div>
+        {% endif %}
+        {{ content }}
+        <footer class="page-footer">
+          {% if page.categories %}{% include page-author.html %}{% endif %}
+          {% include page-meta-footer.html %}
+        </footer><!-- /.footer -->
+      </div><!-- /.content -->
+
+      <hr />
+
+      {% if page.comments == true %}
+        {% include comments.html %}
+      {% endif %}
+
+      {% if page.path contains '_posts' %}
+        {% include related-post.html %}
+      {% endif %}
+
+    </div><!-- /.article-wrap -->
+
+  </article><!-- /.hentry -->
+
+</div><!-- /#main -->

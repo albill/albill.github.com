@@ -1,0 +1,139 @@
+/* ==========================================================================
+   UTILITY CLASSES
+   ========================================================================== */
+
+/*
+   Wrappers
+   ========================================================================== */
+
+/* Content wrapper */
+
+.article-wrap {
+  @include layout($article);
+  @include container(1280px);
+  overflow: auto; // fix collapse due to child floats
+}
+
+.archive-wrap {
+  @include layout($article);
+  @include container(1280px);
+  overflow: auto; // fix collapse due to child floats
+}
+
+/*
+   Visibility
+   ========================================================================== */
+
+/* Hide element */
+
+.hidden,
+.load {
+  display: none;
+}
+
+/*
+   Scroll related
+   ========================================================================== */
+
+/* Remove scrollbars */
+
+.no-scroll {
+  overflow: hidden;
+}
+
+
+/*
+   Lists
+   ========================================================================== */
+
+/* Inline menu navigation links */
+
+.menu {
+  li {
+    display: inline-block;
+    &:last-child a {
+      @include breakpoint($large) {
+        margin-right: 0; /* remove spacing from last menu link */
+      }
+    }
+    a:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+/* Unordered lists without bullets */
+
+.no-bullets {
+  padding: 0;
+  li {
+    list-style: none;
+  }
+}
+
+/*
+   Buttons
+   ========================================================================== */
+
+/* Inline buttons (side by side) */
+
+/**
+ * Example usage:
+ *  <div class="inline-btn">
+ *    <a class="btn" href="#">Button 1</a>
+ *    <a class="btn" href="#">Button 2</a>
+ *  </div>
+ */
+
+.inline-btn {
+  @include clearfix;
+  a, .btn {
+    display: inline-block;
+    margin-right: gutter();
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+/*
+   Type
+   ========================================================================== */
+
+/* Center align */
+
+.center {
+  text-align: center;
+}
+
+/*
+   Alignment
+   ========================================================================== */
+
+.float-right {
+  clear: left;
+  @include breakpoint($large) {
+    float: right;
+    clear: none;
+  }
+}
+
+/* clearfix */
+
+.cf { clear: both; }
+
+/*
+   Images
+   ========================================================================== */
+
+/* Image align right */
+
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  @include breakpoint($small) {
+    float: right;
+    margin-left: gutter();
+  }
+}
