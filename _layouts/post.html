@@ -6,7 +6,7 @@ layout: default
   <h2 class="entry-title">{{ page.title }}</h2>
   <!-- Post datetime -->
   <time class="updated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}" pubdate>{{ page.date | date: "%B %d, %Y - %I:%m %p" }}</time>
-    <br />By <span class="fn">Al Jigong Billings</span>
+    <br />By <span class="fn">Al Tesshin Billings</span>
   </span>
   <!-- Post content -->
   <span class="entry-content">
@@ -26,29 +26,3 @@ document.write('<fb:like href="{{ site.url }}{{ page.url }}" send="true" layout=
 <span style="float:right;">
   <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-text="{{ page.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
 <hr/>
-<div class='post-comments'>
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'openbuddha'; // required: replace example with your forum shortname
-
-    // The following are highly recommended additional parameters. Remove the slashes in front to use.
-    var disqus_identifier = '{{page.title | replace:" ","_" }}-{{page.date | date: "%Y-%m-%d"}}';
-    var disqus_url = 'http://openbuddha.com/{{page.url}}';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-</div>
