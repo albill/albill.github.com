@@ -1,38 +1,68 @@
 ---
 layout: default
-title: Home
+title: Open Buddha
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+<div id="home">
+  <!-- Show three posts on front page -->
+    {% for post in paginator.posts limi:3 %}
+<article class="hentry">
+  <!-- Post title -->
+  <h2 class="entry-title"><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+  <!-- Date and time of post -->
+  <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%B %d, %Y - %I:%m %p" }}</time>  
+  <!-- Post content -->
+  <span class="entry-content">
+  {{ post.content }}
+  </span>
+  <span id="social">
+  <!-- Post Facebook button -->
+  <script type="text/javascript">
+  //<![CDATA[
+  document.write('<fb:like href="{{ site.url }}{{ post.url }}" send="true" layout="button_count" width="450" show_faces="true" colorscheme="light" font="lucida grande"></fb:like>');
+  //]]>
+  </script>
+  <!-- Post comment count -->
+  {% if post.comments %}
+  <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.date | date_to_xmlschema }}"></a>
+  {% endif %}
+  <!-- Post Tweet Button -->
+  <span style="float:right;">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ post.url }}" data-text="{{ post.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
+  </span>
+  <div style="margin-bottom:20px">&nbsp;</div>
+</article>
+    {% endfor %}
+    	    
+<!-- Old posts -->
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+<div class="PostNav">
+  <div class="PostPrevious">
+    {% if paginator.next_page %}
+    &lt;&lt; <a href="/page{{ paginator.next_page}}">Older Posts</a>
     {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+  </div>
+  <div class="PostNext">
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/">Newer Posts</a> &gt;&gt;
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}">Newer Posts</a> &gt;&gt;
+    {% endif %}
+    {% endif %}
+  </div>
 </div>
 
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'openbuddha'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>

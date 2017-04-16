@@ -1,22 +1,14 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
-
-# Setup
-title:               Open Buddha
-tagline:             'Open Source Buddhism, Technology, and Geekery'
-description:         'A bunch of stuff goes here'
-url:                 http://www.openbuddha.com
-baseurl:             ''
-paginate:            5
-
-# About/contact
-author:
-  name:              Al Billings
-  url:               https://twitter.com/makehacklearn
-  email:             albill@gmail.com
-
-# Custom vars
-version:             1.0.0
+markdown: kramdown
+pygments: false
+permalink:  /:year/:month/:day/:title/
+paginate: 1
+url: http://www.openbuddha.com
+disqus_username: albill
+twitter_name: openbuddha
+facebook_uid: 139700605
+# Change the dir the individual category files are output to
+category_dir: categories # Default is categories
+# Title to be used when generating the individual category html files prefixed to category name
+category_title_prefix: "categories"
+prose:
+  rooturl: "_posts"
