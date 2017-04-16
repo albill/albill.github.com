@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I am transitioning to a new GPG key. This transition document is signed with both keys to validate the transition.
+
+The old key, which I am transitioning away from, is:
+
+  pub   4096R/BDF3130F 2012-01-05
+      Key fingerprint = 7BBE 1BDD 81DB 15ED D685  0478 915A C600 BDF3 130F
+
+The new key, to which we are transitioning, is:
+
+  pub   2048R/F1D4FF2E 2015-01-07
+      Key fingerprint = 2CF2 E8BF 6D1E A953 BBA5  EE32 2BAC 38BF F1D4 FF2E
+
+Please contact me via email at albill@openbuddha.com if you have any questions about this document or this transition.
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBAgAGBQJUrYvdAAoJEPBH0xQ0hZvEX+MQAI6Z9q3LYMNkraiNUTaF7hH/
+/fQyN3NeGnMKet4ooJA7aJa1kIAqmhf1zEG11pFkTwZiRor/67ZiB5pmpctmhjJz
+MY/wHuM5COuaH0XOi4jKYWQ7pXSWLzZvpiDv9gsYb0Ok21jkUwp7oEqkNKXujpnz
+uDnMb53krW0CU8qHLIeBfNspdmuaD6SzIVI1Y8uYYuhMs7iSgSc4yNd3RpfoY4au
+qIalyGq1WfkmDbTnDX1yq2oWXPZicYXLIPWMQUt9HgdzzavLiKQdDxHJBGJ0JB2E
+OGdxkZHpwgrjKoCPgxie2+g/T2iNnerQAmSEETveLGV91c0t6EiuEHs0ghk3PIDQ
+lr/e18u61SdrRvSqsTT5agvgF4m1x1yr5IWJiImklJUBK/1nROb4QQ+aqyS0ZEtK
+7ce+w2FfIPt7KnTEZgwn4JRTWCxZWjTi2VFbPC+pIQMNpHbpGfW/Bu8QO7zn0ceR
+gx5fKQ+C5/iq/6WdaG3POr/BCW/hDlC2VvEuvyJX2gkv/xJYV/CMbySHicv0ryAz
+ghIXtSC54CeMRNwXrL5f2/HftsCVL7bLJcOSMoodhibJUqdYJJzj7ZUk/5fMM81T
+w9EUx/tEu+/86eWPJRvo+17ScyKFJA8jZihvG5TZBUH7psSEcojy0F5T1uZe6kOd
+Ruy9e6I9s7RvMOmPRgvoiQEcBAEBAgAGBQJUrYvdAAoJECusOL/x1P8uX+MH+gIR
+LOqmZxqDwfNzhymqtcSCcWzmcee/6S2tU2M5CDMN3m5W26cGd1hnqX2naydSOfoV
+v1JzCE9QtHrrsAbZyNAade29DZA5NRz4BmJSdHvO/LU9VFW3f1y65dOFIRaY+ERL
+GVWQS1q2RVTMSG9CkpFdcw66FeasRzb9eaSNO1aM1v55qDlZn4QgIZrZmzGyWxda
+o4BxMkOg/OK5Nmo3miFQhtK3rIdR5ezvXFk9GoLWkzMaF1Qnb3GbFqROQvbt1xsM
+VrCpdul7VkpTnMqiujil6KTfRydzLxOYX7Zu9tZn1IkphpNoRp5IL2GUUEcQdfm4
+oQAnUzW0GSub/seop28=
+=xQec
+-----END PGP SIGNATURE-----

@@ -1,14 +1,64 @@
-markdown: kramdown
-pygments: false
+title:        Open Buddha
+tagline:      Open Source Buddhism, Technology, and Geekery
+description:  Open Source Buddhism, Technology, and Geekery
+#Comment out url when working locally to resolve base urls correctly
+url:          http://www.openbuddha.com
+
+# Owner/author information
+owner:
+  name:           Al Billings
+  avatar:         bio-photo.jpg
+  bio:            "Former @openbuddha, Tabletop RPG Geek, Buddhist, Security Program Manager, Director at Ace Monster Toys (@AMT), an Oakland Hackerspace."
+  email:          albill@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        makehacklearn
+  facebook:       albill
+  github:         albill
+  stackexchange:  
+  linkedin:       albill
+  instagram:      
+  flickr:         albill
+  tumblr:         
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /about-me
+  - title: Archives
+    url: /archives
+  - title: Open Buddha
+    url: http://www.openbuddha.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:  /:year/:month/:day/:title/
-paginate: 1
-url: http://www.openbuddha.com
-disqus_username: albill
-twitter_name: openbuddha
-facebook_uid: 139700605
-# Change the dir the individual category files are output to
-category_dir: categories # Default is categories
-# Title to be used when generating the individual category html files prefixed to category name
-category_title_prefix: "categories"
-prose:
-  rooturl: "_posts"
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

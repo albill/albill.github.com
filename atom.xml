@@ -3,13 +3,13 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Open Buddha</title>
+ <title>Make Hack Learn</title>
  <link href="http://{{ site.url }}/atom.xml" rel="self"/>
  <link href="http://{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://{{ site.url }}/</id>
  <author>
-   <name>Al Jigen Billings</name>
+   <name>Al Jigong Billings</name>
    <email>albill@openbuddha.com</email>
  </author>
 
