@@ -1,31 +1,27 @@
-title: Open Buddha
-tagline: 
-description: 'Open Source Buddhism, Technology, and Geekery'
-location: "The Bay Area, California"
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
+title:               'Open Buddha'
+tagline:             'Open Source Buddhism, Technology, and Geekery'
+description:         'A bunch of stuff goes here'
+url:                 http://www.openbuddha.com
 baseurl:             ''
 paginate:            5
-url: 'http://www.openbuddha.com' # replace by your site's url
 
 # About/contact
 author:
-  name:              Albert Billings
+  name:              Al Billings
   url:               https://twitter.com/makehacklearn
   email:             albill@gmail.com
 
-# build settings
-markdown: kramdown
-highlighter: rouge
+# Custom vars
+version:             1.0.0
 
 # exclude files
 exclude:
   - LICENSE
   - README.md
-
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
-
-# Custom vars
-version:             1.0.0
