@@ -1,16 +1,49 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:og="http://ogp.me/ns#" 
+      xmlns:fb="https://www.facebook.com/2008/fbml" 
+      xmlns:hcard="http://www.w3.org/2006/03/hcard"> 
 
-  <body>
-    {% include header.html %}
+<head>
+   <meta charset="UTF-8" />
+   <title>{{ page.title }}</title>
+   
+   <!-- Atom Feed -->
+   <link href="{{ site.url }}/atom.xml" rel="alternate" title="Open Buddha" type="application/atom+xml" />
 
-    <div class="content-wrapper">
-      <div class="content-wrapper__inner">
-        {{ content }}
-      </div>
+   <!-- CSS -->
+   <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection" />
 
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+   <!-- SEO -->
+   <meta name="keywords" content="buddhism, zen, open source buddhism, mozilla, firefox, hacking, hackerspaces, oakland, california, oakland california, bay area, nerd, geek" />
+   <meta name="description" content="Open Source Buddhism, Technology, and Geekery" />
+   <meta name="author" content="Al Tesshin Billings" />
+   <meta name="robots" content="all" />
+
+   <!-- iPhone -->
+   <meta name="apple-mobile-web-app-capable" content="yes" />
+   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+   <meta name="viewport" content="width = device-width, initial-scale = 0.5, maximum-scale = 5" />
+   
+   <!-- jQuery and externals -->
+   <script type="text/javascript" src="/js/script.min.js"></script>
+</head>
+<body>
+    <div class='openyoucontainer'>
+      <div>
+	<div>
+          <h1 class="masthead"><a href="/">Open Buddha</a></h1>
+          <p class="description"><em>Open Source Buddhism, Technology, and Geekery</em></p>
+	</div>
+	<div class='content'>
+	  {{content}}
+	</div>
+
+	<div class="copyright">
+     
+	</div>
+
+</div>
+</div>
+  </BODY>
+</HTML>

@@ -1,17 +1,28 @@
 ---
 layout: default
 ---
-<article class="post-container post-container--single">
-  <header class="post-header">
-    <div class="post-meta">
-      <time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in page.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span>
-    </div>
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <section class="post">
-    {{ content }}
-  </section>
-  {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+<article class="hentry">
+  <!-- Post title -->
+  <h2 class="entry-title">{{ page.title }}</h2>
+  <!-- Post datetime -->
+  <time class="updated" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}" pubdate>{{ page.date | date: "%B %d, %Y - %I:%m %p" }}</time>
+    <br />By <span class="fn">Al Tesshin Billings</span>
+  </span>
+  <!-- Post content -->
+  <span class="entry-content">
+  {{ content }}
+  </span>
 </article>
-{% if page.comments != false %}{% include disqus.html %}{% endif %}
+{% if page.category %}
+<!-- Categories -->
+<p>Posted in: <a href="/categories/{{ page.category }}/">{{ page.category }}</a></p><br/>
+{% endif %}
+<!-- Social buttons -->
+<script type="text/javascript">
+//<![CDATA[
+document.write('<fb:like href="{{ site.url }}{{ page.url }}" send="true" layout="button_count" width="450" show_faces="true" colorscheme="light" font="lucida grande"></fb:like>');
+//]]>
+</script>
+<span style="float:right;">
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-text="{{ page.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
+<hr/>

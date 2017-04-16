@@ -1,39 +1,14 @@
-  # Site settings
-title: Open Buddha
-description: 'Open Source Buddhism, Technology, and Geekery'
-url: 'http://www.openbuddha.com'
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
-
-author:
-  name: 'Albert Billings'
-  email: albill@gmail.com
-  twitter_username: makehacklearn
-  facebook_username: albill
-  github_username:  albill
-  linkedin_username:  albill
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
-destination: _site
-paginate: 10
-permalink:  /:year/:month/:day/:title/
 markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+pygments: false
+permalink:  /:year/:month/:day/:title/
+paginate: 1
+url: http://www.openbuddha.com
+disqus_username: albill
+twitter_name: openbuddha
+facebook_uid: 139700605
+# Change the dir the individual category files are output to
+category_dir: categories # Default is categories
+# Title to be used when generating the individual category html files prefixed to category name
+category_title_prefix: "categories"
+prose:
+  rooturl: "_posts"
