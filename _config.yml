@@ -4,30 +4,12 @@ about: "Open Source Buddhism, Technology, and Geekery"
 location: "The Bay Area, California"
 email: somewhere@something.com
 baseurl: ""
+permalink:  /:year/:month/:day/:title/
 
 url: "http://www.openbuddha.com" # replace by your site's url
 twitter_username: makehacklearn
 github_username:  albill
 author: "Albert Billings"
-
-# google analytics tracking code, please change the value
-g_analytics: ""
-
-# add your disqus to enable comments
-disqus_shortname:
-
-# add your disqus to enable comments
-disqus_shortname:
-
-# language settings
-isolang: en
-close_btn: "Close"
-home_btn: "Home"
-projects_btn: "Projects"
-posts_btn: "Posts"
-imprint_btn: "Imprint"
-name_badge: "an article by"
-rss_badge: "Subscribe feed!"
 
 # build settings
 markdown: kramdown
@@ -46,16 +28,11 @@ kramdown:
   syntax_highlighter_opts:
     tab_width: 4
 
-# third party gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - jemoji
-
-whitelist:
-  - jekyll-paginate
-  - jekyll-gist
-  - jemoji
+sass:
+  sass_dir: css
+  style:    expanded
+safe: true
+lsi: false
 
 # exclude files
 exclude:
