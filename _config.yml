@@ -5,6 +5,7 @@ location: "The Bay Area, California"
 email: somewhere@something.com
 baseurl: ""
 permalink:  /:year/:month/:day/:title/
+paginate: 3
 
 url: "http://www.openbuddha.com" # replace by your site's url
 twitter_username: makehacklearn
