@@ -1,39 +1,19 @@
 # Site settings
 title: Open Buddha
+tagline: 'Open Source Buddhism, Technology, and Geekery'
 description: 'Open Source Buddhism, Technology, and Geekery'
 url: 'http://www.openbuddha.com'
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+baseurl:             ''
+paginate:            5
+permalink:  /:year/:month/:day/:title/
 
+# About/contact
 author:
-  name: 'Albert Billings'
-  email: albill@gmail.com
-  twitter_username: makehacklearn
-  facebook_username: albill
-  github_username:  albill
-  linkedin_username:  albill
+  name:              Albert Billings
+  url:               https://twitter.com/makehacklearn
+  email:             albill@gmail.com
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+# Custom vars
+version:             1.0.0
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
