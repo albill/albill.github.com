@@ -1,32 +1,27 @@
 ---
-layout: nil
+title : Atom Feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Make Hack Learn</title>
- <link href="http://{{ site.url }}/atom.xml" rel="self"/>
- <link href="http://{{ site.url }}/"/>
+ 
+ <title>{{ site.title }}</title>
+ <link href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://{{ site.url }}/</id>
+ <id>{{ site.url }}{{ site.baseurl }}</id>
  <author>
-   <name>Al Jigong Billings</name>
-   <email>albill@openbuddha.com</email>
+   <name>{{ site.author }}</name>
+   <email>{{ site.email }}</email>
  </author>
 
-{% for post in site.posts limit: 10 %}
-  <entry>
-    <title>{{ post.title }}</title>
-    <link href="{{ site.url }}{{ post.url }}" />
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html">
-      {{ post.content | xml_escape }}
-
-      {% if post.source %}
-        &lt;p&gt;&lt;a href='{{ site.url }}{{ post.url }}'&gt; ☺ Source&lt;/a&gt;&lt;/p&gt;
-      {% endif %}
-    </content>
-  </entry>
-  {% endfor %}
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
  
 </feed>

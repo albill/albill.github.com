@@ -1,69 +1,46 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-<head>
-{% include head.html %}
-</head>
+---
+layout: default
+---
+<article class="left-align" itemscope itemtype="http://schema.org/BlogPosting">
 
-<body class="article" itemscope itemtype="http://schema.org/WebPage">
+  <h2 class="my-mini-heading" itemprop="name headline">{{ page.title }}<br>
+    <span class="my-mini-heading-sub">
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ page.date | date: "%b %-d, %Y" }}
+    </time>
+    </span></h2>
 
-{% include browser-upgrade.html %}
-
-{% include navigation.html %}
-
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-  {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
-</div><!-- /.image-wrap -->{% endif %}
-
-<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <div class="article-author-top">
-    {% include author-bio.html %}
+  <div class="my-text-body">
+    {{ content }}
   </div>
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <div class="headline-wrap">
-      <h1 itemprop="name">{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-      <hr />
-      <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include author-bio.html %}
-        </div>
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span>.</p>
-      </footer>
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#main -->
 
-<div class="footer-wrap">
-  {% if site.related_posts.size > 0 %}<div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/articles">View all articles</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      {% assign match = false %}
-      {% for category in post.categories %}
-        {% if page.categories contains category %}
-          {% assign match = true %}
-        {% endif %}
+  <p class="center-align my-text-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    {% if page.author %}
+      <span itemprop="name">{{ site.name_badge }} {{ page.author }}</span>
+    {% endif %}
+    <br>
+    {% if page.tags %}
+      <i class="fa fa-tags" aria-hidden="true"></i>
+      {% for tag in page.tags %}
+        <span class="my-tag">{{ tag }}</span>&ensp;
       {% endfor %}
-      {% if match %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->{% endif %}
-  <footer>
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+    {% endif %}
+  </p>
 
-{% include scripts.html %}	        
-
-</body>
-</html>
+  <div class="center-align">
+  {% if page.next.url %}
+    <a class="waves-effect waves-teal btn-flat btn-large my-thin-btn" href="{{ page.next.url | prepend: site.baseurl }}"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+  {% else %}
+    <a class="waves-effect waves-teal btn-flat btn-large my-thin-btn disabled"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+  {% endif %}
+  <a class="waves-effect waves-teal btn-flat btn-large" href="{{ site.baseurl }}/">{{ site.home_btn }}</a>
+  {% if page.previous.url %}
+    <a class="waves-effect waves-teal btn-flat btn-large my-thin-btn" href="{{ page.previous.url | prepend: site.baseurl }}"><i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+  {% else %}
+        <a class="waves-effect waves-teal btn-flat btn-large my-thin-btn disabled"><i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+  {% endif %}
+  </div>
+</article>
+{% if site.disqus_shortname %}
+{% include disqus.html %}
+{% endif %}

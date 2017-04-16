@@ -1,64 +1,63 @@
-title:        Open Buddha
-tagline:      Open Source Buddhism, Technology, and Geekery
-description:  Open Source Buddhism, Technology, and Geekery
-#Comment out url when working locally to resolve base urls correctly
-url:          http://www.openbuddha.com
+title: "Open Buddha"
+description: "Open Source Buddhism, Technology, and Geekery"
+about: "Open Source Buddhism, Technology, and Geekery"
+location: "The Bay Area, California"
+email: somewhere@something.com
+baseurl: "/"
 
-# Owner/author information
-owner:
-  name:           Al Billings
-  avatar:         bio-photo.jpg
-  bio:            "Former @openbuddha, Tabletop RPG Geek, Buddhist, Security Program Manager, Director at Ace Monster Toys (@AMT), an Oakland Hackerspace."
-  email:          albill@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        makehacklearn
-  facebook:       albill
-  github:         albill
-  stackexchange:  
-  linkedin:       albill
-  instagram:      
-  flickr:         albill
-  tumblr:         
+url: "http://www.openbuddha.com" # replace by your site's url
+twitter_username: makehacklearn
+github_username:  albill
+author: "Albert Billings"
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+# google analytics tracking code, please change the value
+g_analytics: ""
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About Me
-    url: /about-me
-  - title: Archives
-    url: /archives
-  - title: Open Buddha
-    url: http://www.openbuddha.com
-    external: true
+# add your disqus to enable comments
+disqus_shortname:
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
-future:      true
-pygments:    true
-markdown:    kramdown
+# add your disqus to enable comments
+disqus_shortname:
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:  /:year/:month/:day/:title/
+# language settings
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
+posts_btn: "Posts"
+imprint_btn: "Imprint"
+name_badge: "an article by"
+rss_badge: "Subscribe feed!"
+
+# build settings
+markdown: kramdown
+highlighter: rouge
 
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    tab_width: 4
 
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# third party gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+whitelist:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
