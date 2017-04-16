@@ -1,16 +1,18 @@
-title: "Open Buddha"
-description: "Open Source Buddhism, Technology, and Geekery"
-about: "Open Source Buddhism, Technology, and Geekery"
+title: Open Buddha
+tagline: 
+description: 'Open Source Buddhism, Technology, and Geekery'
 location: "The Bay Area, California"
-email: somewhere@something.com
-baseurl: ""
-permalink:  /:year/:month/:day/:title/
-paginate: 3
 
+# Setup
+baseurl:             ''
+paginate:            5
 url: "http://www.openbuddha.com" # replace by your site's url
-twitter_username: makehacklearn
-github_username:  albill
-author: "Albert Billings"
+
+# About/contact
+author:
+  name:              Albert Billings
+  url:               https://twitter.com/makehacklearn
+  email:             albill@gmail.com
 
 # build settings
 markdown: kramdown
@@ -29,13 +31,14 @@ kramdown:
   syntax_highlighter_opts:
     tab_width: 4
 
-sass:
-  sass_dir: css
-  style:    expanded
-safe: true
-lsi: false
-
 # exclude files
 exclude:
   - LICENSE
   - README.md
+
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Custom vars
+version:             1.0.0
