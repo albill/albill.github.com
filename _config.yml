@@ -1,19 +1,64 @@
-# Site settings
-title: Open Buddha
-tagline: 'Open Source Buddhism, Technology, and Geekery'
-description: 'Open Source Buddhism, Technology, and Geekery'
+title: "Open Buddha"
+description: "Open Source Buddhism, Technology, and Geekery"
+about: "Open Source Buddhism, Technology, and Geekery"
+location: "Bay Area, California"
+email: albill@gmail.com
+baseurl: ""
+
 url: 'http://www.openbuddha.com'
-baseurl:             ''
-paginate:            1
+twitter_username: makehacklearn
+github_username:  albill
+author: "Albert Billings"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# add your disqus to enable comments
+disqus_shortname:
+
+# add your disqus to enable comments
+disqus_shortname:
+
+# language settings
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Resources"
+posts_btn: "Posts"
+imprint_btn: "Imprint"
+name_badge: "an article by"
+rss_badge: "Subscribe feed!"
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    tab_width: 4
+
+# third party gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
 permalink:  /:year/:month/:day/:title/
-
-# About/contact
-author:
-  name:              Albert Billings
-  url:               https://twitter.com/makehacklearn
-  email:             albill@gmail.com
-
-# Custom vars
-version:             1.0.0
-
-
