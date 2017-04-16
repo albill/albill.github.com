@@ -1,0 +1,46 @@
+---
+author: admin
+date: '2011-07-17 11:52:55'
+layout: post
+slug: 3d-printing-sucks-or-the-state-of-things
+status: publish
+title: 3D Printing Sucks or the State of Things
+wordpress_id: '3779'
+categories:
+- Technology
+tags:
+- 3d printer
+- hackerspaces
+- makerbot
+---
+<p style="text-align:center"><em>Originally published on <a href="http://www.openbuddha.com/2011/07/17/3d-printing-sucks-or-the-state-of-things/">Open Buddha</a></em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5255741204/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5085/5255741204_279e469386.jpg" width="500" height="500" alt=""></a><br><em>Alice...my makerbot</em></p>
+Look around and you'll see more and more articles in the mainstream press about 3D printing and printers. <a href="http://www.makerbot.com">Makerbot Industries</a> has built a business (and gotten investment) on kits for 3D printing over the last few years and there are actually a number of competitors now for them in the hobbyist market. <a href="http://reprap.org/">Reprap</a> hobbyist printers have existed for years before that as a DIY open source movement (with all that entails) as well.
+
+The dirty little secret of 3D printing is that it kind of sucks. I say this as an enthusiast and participant. I've got a (now orphaned by Makerbot) Cupcake 3D printer. I've got the parts for a <a href="http://reprap.org/wiki/Prusa_Mendel">Reprap Prusa Mendel</a> or two floating around <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> and my house. Clearly, I've drunk the kool-aid and am happily playing in the pond with everyone else. That said, it still sucks. The reasons for these are multifold but they really break down into two areas:
+<ol><li>Quality of Prints</li><li>Quality of Printers</li></ol>
+In the case of quality of prints, the output of most 3D printers leaves a lot to be desired. While people are out there extolling the value of these printers and the amazing ability to print what you want, if you actually look at a printed item, most of the time, frankly, they look like shit. Now, before all the fan boys chime in, yes, you can make better and higher quality prints if you tweak and tweak your printers and really work on them. I've seen some amazingly high quality prints come out of a few hobbyist printers. They are few and far between and probably involved many tens (if not hundreds) of hours of tweaking on the part of their owners. Most of the time, they look like a wiggly thing made out of plastic string. Even many of the "professional" prints from commercial devices look about the same so it isn't always about the printer. Fundamentally, we're using a process that melts a bunch of (usually) ABS plastic (think Legos) when it enters the printers and squeezes out a line of it while the platform or printing head moves around. You're layering lines of plastic and the lines are very often quite large and the degree of control is kind of weak for a lot of machines (or at least not one would hope for).
+
+<p style="text-align:center"><object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/GryJo5CiJ-Q?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GryJo5CiJ-Q?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object><br><em>Clonedel printing</em></p>
+
+This feeds into the second reason, the quality of printers. We're still in the early 1970's era of personal computing with most 3D printing. You get a pile of laser cut parts, some rods sourced from something like home depot (you'd better hope to the gods they're straight!) and electronics that you often solder together yourself. This definitely keeps the price down into the $700 to $1,200 range for a printer but, frankly, there is a reason that the $10,000 or higher printers cost that much and it isn't all about lining someone's pockets. 
+
+My Cupcake, for example, is a pretty dumb device. Out of the box, all it basically knows how to do is (loosely) monitor the temperature of the hot end in the extruder and move (mostly) in a regular fashion along an x and y for the bed and up and down for the printing head. Anything else costs you extra time and hacking. What was originally a means to an end (I wanted to print 3D objects) became an end to itself (I got to spend nearly infinite hours trying to get the damn thing to move without skipping or printing reliably). You can add a few parts to most of them so they have a fair idea of where they are on their x, y, and z axes but, otherwise, every print is an exercise in hand tweaking and debugging a device in order to get it positioned <em>just right</em> so when it prints (and you cross your fingers), the object actually comes out somewhat right. 
+
+Some of this is the fault of the patent industry. There are better ways of printing three dimensional objects that laying down a bead of plastic. The problem is that they are all under patent (at least for another year or so). We're using ideas from 20 or more years ago because the patent system won't allow us to use current technology in an open source manner. A few of the commercial 3D printing companies have all of the patents sewn up, leaving the rest of us to work with what either escaped their clutches or fallen out of copyright. We exist in a funny space.
+
+I was thinking about this a lot yesterday as I was working on parts for a Prusa Mendel, one of the simpler open source 3D printers from the reprap community. My <a href="http://www.acemonstertoys.org">hackerspace</a> got <a href="http://reprap.org/wiki/Clonedel">clonedel</a> molds, which allow us to pour Prusa Mendel plastic parts rather than spend 14 hours printing them on <em>another</em> 3D printer. The downside of those is that you have to use a drill press (or a hand drill) to drill out all of the places for rods and screws in these molded parts. About the time I destroyer my third or fourth part on the drill press (because plastic cracks and is also hard to keep straight with odd sized parts), I asked myself, "What the hell am I doing?" The last year of screwing around with my Cupcake and now mendels kind of bubbled up. 
+
+I also had an epiphany which is that when you have an 80 watt laser cutter with a 1200mm by 800m cutting area, why the hell don't you just laser cut boxes out of which to build the framework for your 3D printer instead of playing games with plastic pieces and (mostly) straight rods? Once I finish this mendel, I think it will be my last...
+
+My Cupcake? It doesn't print right now due to bugs in the firmware combined with me not wanting to pay Makerbot Industries another $370 for new generation electronics. Instead, I'm soldering new Reprap electronics together and probably going to canabalize my old device. 
+
+One thing I see a lot of hackerspaces doing is working on their own variants of 3D printers but most of them don't seem to be putting them up on github or <a href="http://www.thingiverse.com/">thingiverse</a> to allow others to iterate on them. I'd like to see that change. Recently, I registered <a href="http://openfab.me/wiki/Main_Page">OpenFab.me</a> and put a wiki and forums on it in order to provide a place for people to share information. As with many small and new projects, I haven't put much work on it at all yet but the overall goal is to have a site not associated with any existing company or project just for those of us actually trying to work with 3D printers on a regular basis. 
+
+I figured that I would write my short and inspired comments on the state of 3D printing because what is a blog if not a bully pulpit? I'd like to see the state of things advance to the point where the devices were much more intelligent, much more controllable in the quality of prints, much more reliable as devices themselves, and much more reproducible when it comes to building the actual printers. I'm happy to build my own. I hack shit. That's cool by me but half of the work is either building a so-so device that someone else has already made or building most of one and then trying to tweak and tweak it to get something better and maybe slightly reliable. We need to iterate and improve on things and I'm not sure the existing communities (I'm looking at you, Reprap folks, really have these goals).
+
+Now, off to work on that Prusa Mendel.
+
+<strong>Update 12 hours later</strong>: Since I was on the topic of my Prusa Mendel, I thought that I'd share the progress that I made this evening while watching a show with my wife:
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5949106371/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6021/5949106371_9fdb3b6826.jpg" width="333" height="500" alt=""></a><br><em>The Prusa Mendel Frame</em></p>
+This is probably a third of the way through, at best, and I found that I don't have a metric tape measure in the house so I'll need to find it or my ruler from Ace Monster Toys to make sure the frame is aligned correctly.
