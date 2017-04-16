@@ -3,7 +3,7 @@ description: "Open Source Buddhism, Technology, and Geekery"
 about: "Open Source Buddhism, Technology, and Geekery"
 location: "The Bay Area, California"
 email: somewhere@something.com
-baseurl: "/"
+baseurl: ""
 
 url: "http://www.openbuddha.com" # replace by your site's url
 twitter_username: makehacklearn
