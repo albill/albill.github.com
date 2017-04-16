@@ -61,4 +61,8 @@ whitelist:
 exclude:
   - LICENSE
   - README.md
-permalink:  /:year/:month/:day/:title/
+# permalink:  /:year/:month/:day/:title/
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
