@@ -4,7 +4,7 @@ tagline: 'Open Source Buddhism, Technology, and Geekery'
 description: 'Open Source Buddhism, Technology, and Geekery'
 url: 'http://www.openbuddha.com'
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:  /:year/:month/:day/:title/
 
 # About/contact
