@@ -24,6 +24,6 @@ Like Professor Craven, I plan on using them for a clock of sorts. More specifica
 
 This is similar to the "Zen Alarm Clock" that has been around forever but a bit less new agey and more…something.
 
-<p style="text-align:center"><img src="http://makehacklearn.org/images/zenclock-bamboo.gif" height="199" width="230"></p>
+<p style="text-align:center"><img src="http://www.openbuddha.com/images/zenclock-bamboo.gif" height="199" width="230"></p>
 
 This seems both appropriately hackerish or geeky and appropriately Buddhist, in some sense.

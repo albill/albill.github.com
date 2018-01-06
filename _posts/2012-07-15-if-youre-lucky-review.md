@@ -12,7 +12,7 @@ categories:
 - Buddhism
 - Books
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518211672/" title="Untitled by albill, on Flickr"><img src="http://www.openbuddha.com/images/ifyourelucky-cover.jpg" width="250"" height="400" alt="Cover"></a></p>
+<p style="text-align:center"><img src="http://www.openbuddha.com/images/ifyourelucky-cover.jpg" width="250"" height="400" alt="Cover"></p>
 
 [If You’re Lucky, Your Heart Will Break: Field Notes from a Zen Life](http://www.wisdompubs.org/Pages/display.lasso?-KeyValue=33166) is a new book by [Rev. James Ishmael Ford](http://en.wikipedia.org/wiki/James_Ishmael_Ford) that comes out in September. I was lucky enough to be given a review copy of this book, which I have been looking forward to reading.
 

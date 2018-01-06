@@ -12,7 +12,6 @@ tags:
 - koans
 - art
 ---
-<div style="text-align:center"><object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/N4v_wcKPXhw?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/N4v_wcKPXhw?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 
 I just came across this the other day. A artist named "Mark Morse" is doing a series of images of the entire Gateless Gate koan collection and putting them up online at [gatelessgate.com](http://www.thegatelessgate.com). Mark [admits](http://www.thegatelessgate.com/about/) to the meditative side of working with the collection being a mystery but is inspired by the stories and the imagery in them. He's going to do an image of each koan with one new drawing added every week. He's also been narrating them and adding them to his [Youtube channel](http://www.youtube.com/user/mtmorse) as well. 
 
