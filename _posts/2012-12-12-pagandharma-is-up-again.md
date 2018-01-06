@@ -14,7 +14,7 @@ I had a brief project in 2011 called "Pagan Dharma" that was up on [pagandharma.
 
 Yesterday, I put the site back up and I've retrieved the old content from the [Internet Archive](http://www.archive.org). I added two things as well:
 
-* [Reinvention?](http://pagandharma.org/2012/12/reinvention/) - basically saying why I put the site back up.
+* [Reinvention?](http://pagandharma.org/pagan%20dharma/2012/12/12/reinvention/) - basically saying why I put the site back up.
 * [What’s the point of a Pagan Dharma, Part One ](http://pagandharma.org/pagan%20dharma/2012/12/12/whats-the-point-of-a-pagan-dharma-part-one/) - the first in a multi-part series of turgid prose from my point of view about the idea of Pagan Dharma.
 
 Some of my readers here may be inclined to read such things. Since I don't actually know who my "base" is anymore, it is hard to say but there it is.
