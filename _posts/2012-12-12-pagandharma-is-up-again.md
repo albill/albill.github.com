@@ -9,7 +9,7 @@ tags:
 categories:
 - Spirituality
 ---
-<div style="text-align:center"><img src="http://pagandharma.org/wp-content/uploads/2012/12/pagan-dharma.png" height="279" width="298"></div>
+<div style="text-align:center"><img src="http://pagandharma.org/images/pagan-dharma-smaller.png" height="279" width="298"></div>
 I had a brief project in 2011 called "Pagan Dharma" that was up on [pagandharma.org](http://pagandharma.org). I wound up feeling uninspired to write much at the time and my co-author got busy with her graduate work and other things, like health, so eventually I took the site down.
 
 Yesterday, I put the site back up and I've retrieved the old content from the [Internet Archive](http://www.archive.org). I added two things as well:
