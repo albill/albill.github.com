@@ -7,6 +7,7 @@ tags:
 categories:
 - Technology
 ---
+<p style="text-align:center"><a href="https://www.flickr.com/photos/albill/37575984906/"><img src="https://c1.staticflickr.com/5/4478/37575984906_d104a7fd87_z.jpg" alt="Thoth"></a></p>
 
 Looking back at my blogs, I haven't done much at all with them over the last five years except a handful of posts. Recently, I merged all of the content that had [forked off in 2012](/2012/07/05/the-great-fork/) to [makehacklearn.org](http://makehacklearn.org) back over to this site. The only thing worse that one blog that you never update is having _two_ of them. So, anyone digging through the archives is likely to see some content from the last few years (what little there is) that mentions that site or this site in the context of being a different place. That's simply an artifact of the reunification. I figured that I should post something here to clarify that.
 
