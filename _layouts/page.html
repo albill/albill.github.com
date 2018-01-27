@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-<article class="center-align">
-  <h2 class="my-mini-heading">{{ page.title }}</h2>
 
-  <div class="my-text-body">
-    {{ content }}
-  </div>
-  <div class="center-align">
-    <a class="waves-effect waves-teal btn-flat btn-large" href="{{ site.baseurl }}/">{{ site.home_btn }}</a>
-  </div>
+<article>
+
+	<h1 class="title">{{ page.title }}</h1>
+
+	<div class="divider"></div>
+
+	{{ content }}
+
 </article>
+
+<div class="page-navigation">
+	<a class="home" href="{{ site.baseurl | prepend: site.url }}" title="Back to Homepage">Home</a>
+</div>

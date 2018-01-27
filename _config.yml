@@ -1,68 +1,51 @@
-title: "Open Buddha"
-description: "Open Source Buddhism, Technology, and Geekery"
-about: "Open Source Buddhism, Technology, and Geekery"
-location: "Bay Area, California"
-email: albill@gmail.com
-baseurl: ""
+# Site Info
+title:              "Open Buddha"
+description:        "Open Source Buddhism, Technology, and Geekery"
+google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
-url: 'http://www.openbuddha.com'
-twitter_username: loremgibson
-github_username:  albill
-author: "Albert Billings"
+# Author Info
+author_name:        "Albert Billings" # Your name here
+author_email:       albill@gmail.com # Your email here
+author_gravatar:    ef672fa746dc62198600f30c2469bc27 # Your Gravatar md5 hash here for logo
+twitter_username:   loremgibson # Your Twitter username here
+github_username:    albill # Your GitHub username here
 
-# google analytics tracking code, please change the value
-g_analytics: ""
+# Site Settings
+url:                http://www.openbuddha.com # main url
+baseurl:            # for gh-pages
+permalink:          /:year/:month/:day/:title/ # Post permalink
+timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
 
-# add your disqus to enable comments
-disqus_shortname:
-
-# add your disqus to enable comments
-disqus_shortname:
-
-# language settings
-isolang: en
-close_btn: "Close"
-home_btn: "Home"
-projects_btn: "Resources"
-posts_btn: "Posts"
-imprint_btn: "Imprint"
-name_badge: "an article by"
-rss_badge: "Subscribe feed!"
-
-# build settings
-markdown: kramdown
-highlighter: rouge
-
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    tab_width: 4
+    input:          GFM
+sass:
+    style:          :compressed
 
-# third party gems
+# Other Params
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
-  - jekyll-paginate
-  - jekyll-gist
-  - jemoji
+  - jekyll-sitemap
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-gist
-  - jemoji
 
-# exclude files
-exclude:
-  - LICENSE
-  - README.md
-# permalink:  /:year/:month/:day/:title/
-collections:
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
