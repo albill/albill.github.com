@@ -1,7 +1,7 @@
 <aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
-		{% assign link = '/about' %}
+		{% assign link = '/about/index.html' %}
 		{% assign prompt = 'About the Author' %}
 	{% else %}
 		{% assign link = '/' %}
@@ -12,5 +12,6 @@
 		<img src="http://www.gravatar.com/avatar/{{ site.author_gravatar }}.png?s=80" class="gravatar">
 	</a>
 	<span class="logo-prompt">{{ prompt }}</span>
+	<div><a href="/resources/index.html">Resources</a> | <a href="/what-is-open-source-buddhism.html">What is Open Source Buddhism??</a>
 
 </aside>
