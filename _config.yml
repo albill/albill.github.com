@@ -15,7 +15,6 @@ github_username:    albill # Your GitHub username here
 url:                http://www.openbuddha.com # main url
 baseurl:            # for gh-pages
 permalink:          /:year/:month/:day/:title/ # Post permalink
-relative_permalinks: false  # fix for page resources
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
@@ -31,8 +30,6 @@ sass:
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
-
-paginate: 5
 
 defaults:
   -
