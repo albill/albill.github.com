@@ -8,7 +8,7 @@ categories:
 - Technology
 - Books
 ---
-<p style="text-align:center"><img src="/images/bandidth-cover.jpg" width="600" height="927"></p>
+<p style="text-align:center"><img src="/images/bandwidth-cover.jpg" width="600" height="927"></p>
 
 "Bandwidth" by Eliot Peper is his second science fiction novel. A follow up, of sorts, to 2016's "Cumulus." "Cumulus" even gets a one sentence mention early in the book, implying that they may exist in a shared universe. "Bandwidth" follows the story of Dag, a lobbyist (no, stay with me, don't go!) on the path to...redemption? See, Dag has spent his adult life helping the movers and shakers, the captains of industry and the megacorporations, get their agendas enlivened and supported in the world. Frankly, it looks like, even in Dag's reflection, to have mostly been a shitshow of exactly the kinds of things we fear that lobbyists do. For example, helping energy tycoons not only get access to cheap oil but to then also profit from rising sea levels and fires by getting their inland real estate empires approved. That said, it is clear that not everything that Dag has worked on has been horrible but it has all been a sort of realpolitik.
 
