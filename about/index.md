@@ -11,7 +11,7 @@ I also have an interdisciplinary Master of Art's in Humanities from California S
 
 I am also a founder, former president, and former board member of [Ace Monster Toys](http://acemonstertoys.org), a [hackerspace](http://en.wikipedia.org/wiki/Hackerspace) established in 2010 in Oakland, California.
 
-These days, I spend most of my free time either hacking on projects at home or playing tabletop role-playing games with my ten year old RPG group, the Norton Memorial Dicemasters. I can be found on [twitter](htttps://twitter.com/loremgibson) as well.
+These days, I spend most of my free time either hacking on projects at home or playing tabletop role-playing games with my ten year old RPG group, the Norton Memorial Dicemasters. I can be found on [twitter](https://twitter.com/loremgibson) as well.
 
 If you need to contact me, e-mail me through 'albill' at this domain. (<em>Be warned, I get a lot of e-mail and may not respond to unsolicited contacts.</em>)
 
