@@ -19,3 +19,5 @@ The story is, itself, relatively well written as far as the plot goes. I wasn't 
 I also appreciated the the novel moves to center stage real world issues that we're all living through right now: global warming, climate refugees, the subversion of democracy. In that regard, the world felt very real though, I must say, somewhat optimistic (even with half of California being a burned husk in it) since it is supposed to be an unknown number of decades in the future. As a technologist and hacker, I would have liked more detail in some of the technical issues or aspects raised in the book but I recognize that these can often detract from overall story.
 
 I definitely recommend this book and I think it shows significant growth for Peper as an author from "Cumulus," as much as I really enjoyed that book at well.
+
+*Note*: I was given a pre-release copy of this book for the purposes of review. I am not so shallow that it destroys my ability to review the book, I hope.
