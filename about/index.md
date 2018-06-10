@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<a href="http://www.flickr.com/photos/albill/6304911027/" title="Al - Black and White by albill, on Flickr"><img src="http://farm7.static.flickr.com/6042/6304911027_bee5677759_m.jpg" width="192" height="240" hspace="10" align="right" alt="Al - Black and White"></a>Hi. I'm Albert  Billings. I'm a professional technology worker in the Bay Area of California working on browsers and security.
+<img src="/images/6304911027_bee5677759_m.jpg" width="192" height="240" hspace="10" align="right" alt="Al - Black and White">I'm Albert  Billings. I'm a professional technology worker in the Bay Area of California working on browsers and security.
 
 I've been on the Internet since back in 1989 when we had to hack into a local dial-up at the University and work out from there through telnet via intermediate university unix boxes. I once ran a UUCP node, pagan.UUCP, back in the golden days, in order to get Usenet and e-mail. I ran two different Seattle area modem-based bulletin board systems in the late 80's and early 90's: **Revelstone** and **The Sacred Grove**.
 
