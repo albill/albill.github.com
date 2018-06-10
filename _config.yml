@@ -12,7 +12,7 @@ twitter_username:   loremgibson # Your Twitter username here
 github_username:    albill # Your GitHub username here
 
 # Site Settings
-url:                http://www.openbuddha.com # main url
+url:                https://openbuddha.com # main url
 baseurl:            # for gh-pages
 permalink:          /:year/:month/:day/:title/ # Post permalink
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
