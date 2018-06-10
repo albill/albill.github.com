@@ -40,9 +40,6 @@ color-scheme:
 # Set encoding to UTF-8
 encoding: utf-8
 
-# Theme
-theme: "ed."
-
 # Collections for texts
 collections:
   texts:
