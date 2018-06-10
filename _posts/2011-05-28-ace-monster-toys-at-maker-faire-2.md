@@ -14,7 +14,7 @@ tags:
 - hackerspaces
 - maker faire
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5751214125/" title="Untitled by albill, on Flickr"><img src="http://farm3.static.flickr.com/2022/5751214125_ffe0e1fc5d.jpg" width="500" height="375" alt=""></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5751214125/" title="Untitled by albill, on Flickr"><img src="https://farm3.static.flickr.com/2022/5751214125_ffe0e1fc5d.jpg" width="500" height="375" alt=""></a></p>
 <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> had its first booth at a <a href="http://www.makerfaire.org">Maker Faire</a> last weekend. Technically, we were at the East Bay Mini Maker Faire this last Fall but that was a purely local event.
 
 For those not familiar with it, Maker Faire is an annual event in the Bay Area sponsored by O'Reilly Media and associated with Make Magazine. More than 10,000 people come to see various projects, vendors, and exhibitions of maker and hacking culture. Think of it as a souped of science fair for people who make things and the community around it combined with a little bit of a trade show for vendors associated with it.

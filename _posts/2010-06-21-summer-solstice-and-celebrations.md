@@ -10,7 +10,7 @@ categories:
 - Daily Life
 - Spirituality
 ---
-<a href="http://www.flickr.com/photos/albill/4721817387/" title="Sun"><img align="right" src="http://farm2.static.flickr.com/1367/4721817387_0ca0989a0f_o.jpg" width="183" height="480" hspace="10" vspace="5" alt="Sun" /></a> There is still a lot of pagan in me, as I've said before. It is still my basic cultural paradigm for interacting with the world with whatever Buddhist sensibilities I've developed on top of it.
+<a href="http://www.flickr.com/photos/albill/4721817387/" title="Sun"><img align="right" src="https://farm2.static.flickr.com/1367/4721817387_0ca0989a0f_o.jpg" width="183" height="480" hspace="10" vspace="5" alt="Sun" /></a> There is still a lot of pagan in me, as I've said before. It is still my basic cultural paradigm for interacting with the world with whatever Buddhist sensibilities I've developed on top of it.
 
 I've always appreciated, if not always dramatically celebrated, the wheel of the year as a sensible series of holidays (or "holy days") during the year. Of these, I've always appreciated the solstices the most. They are the points of the greatest light and darkness in our daily experience of the world. Today, the Summer solstice occurred at 4:38 AM today in my local time (and I think that I was even awake for it!). Today we enter Summer. The days will continue to get hotter, especially here in California, but they will begin to shorten again.
 
@@ -24,6 +24,6 @@ We joined the shrine a bit over a year ago when visiting Seattle but this will b
 
 The seeming oddness of a (nominally Korean) Zen priest who grew up Roman Catholic and was a Neopagan participating in Shinto purification rituals is not entirely lost on me but, as a friend of mine once said to sum up certain aspects of the global world we find ourselves within, "Aloha, Amigo!"
 
-<div align="center"><a href="http://www.flickr.com/photos/albill/4721849797/" title="Nagoshi-no-Oharahi Taisai"><img src="http://farm2.static.flickr.com/1105/4721849797_91752d75cf.jpg" width="500" height="333" alt="Nagoshi-no-Oharahi Taisai" /></a></div>
+<div align="center"><a href="http://www.flickr.com/photos/albill/4721849797/" title="Nagoshi-no-Oharahi Taisai"><img src="https://farm2.static.flickr.com/1105/4721849797_91752d75cf.jpg" width="500" height="333" alt="Nagoshi-no-Oharahi Taisai" /></a></div>
 
 

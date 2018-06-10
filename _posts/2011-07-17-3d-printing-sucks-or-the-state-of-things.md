@@ -13,7 +13,7 @@ tags:
 - hackerspaces
 - makerbot
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5255741204/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5085/5255741204_279e469386.jpg" width="500" height="500" alt=""></a><br><em>Alice...my makerbot</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5255741204/" title="Untitled by albill, on Flickr"><img src="https://farm6.static.flickr.com/5085/5255741204_279e469386.jpg" width="500" height="500" alt=""></a><br><em>Alice...my makerbot</em></p>
 Look around and you'll see more and more articles in the mainstream press about 3D printing and printers. <a href="http://www.makerbot.com">Makerbot Industries</a> has built a business (and gotten investment) on kits for 3D printing over the last few years and there are actually a number of competitors now for them in the hobbyist market. <a href="http://reprap.org/">Reprap</a> hobbyist printers have existed for years before that as a DIY open source movement (with all that entails) as well.
 
 The dirty little secret of 3D printing is that it kind of sucks. I say this as an enthusiast and participant. I've got a (now orphaned by Makerbot) Cupcake 3D printer. I've got the parts for a <a href="http://reprap.org/wiki/Prusa_Mendel">Reprap Prusa Mendel</a> or two floating around <a href="http://www.acemonstertoys.org">Ace Monster Toys</a> and my house. Clearly, I've drunk the kool-aid and am happily playing in the pond with everyone else. That said, it still sucks. The reasons for these are multifold but they really break down into two areas:
@@ -41,5 +41,5 @@ I figured that I would write my short and inspired comments on the state of 3D p
 Now, off to work on that Prusa Mendel.
 
 <strong>Update 12 hours later</strong>: Since I was on the topic of my Prusa Mendel, I thought that I'd share the progress that I made this evening while watching a show with my wife:
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5949106371/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6021/5949106371_9fdb3b6826.jpg" width="333" height="500" alt=""></a><br><em>The Prusa Mendel Frame</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5949106371/" title="Untitled by albill, on Flickr"><img src="https://farm7.static.flickr.com/6021/5949106371_9fdb3b6826.jpg" width="333" height="500" alt=""></a><br><em>The Prusa Mendel Frame</em></p>
 This is probably a third of the way through, at best, and I found that I don't have a metric tape measure in the house so I'll need to find it or my ruler from Ace Monster Toys to make sure the frame is aligned correctly.

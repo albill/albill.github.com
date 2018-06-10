@@ -21,7 +21,7 @@ So, this is the downside of a quickly iterating hardware startup.
 
 The upside of quick iteration is that the state of the art seems to really improve quickly, which is the case today. The Replicator 2. It has a 0.1 mm layer height on the parts it prints out, which is damn good out of the box. I've seen other printers do this or better but not without a massive amount of tweaking and playing with them. This printer has gone from ye olde lasercut plywood, the standard for almost all, to a metal framed, factory assembled printer. 
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8004188134/" title="makerbot-rep2 by albill, on Flickr"><img src="http://farm9.staticflickr.com/8320/8004188134_8ed5ab0c02_o.jpg" width="470" height="430" alt="makerbot-rep2"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8004188134/" title="makerbot-rep2 by albill, on Flickr"><img src="https://farm9.staticflickr.com/8320/8004188134_8ed5ab0c02_o.jpg" width="470" height="430" alt="makerbot-rep2"></a></p>
 
 Features that they are listing are:
 

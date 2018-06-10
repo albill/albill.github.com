@@ -19,5 +19,3 @@ You can see a [gallery](http://imgur.com/a/omkPP/all) of sample prints from the 
 
 My plan, other than just having an interest in playing with this technology, is to use the printer for tabletop RPG and other gaming pieces or parts. The level of detail is so high for the small sizes of the prints that games are a great application of this, assuming one is into game playing and design.
 
-
-

@@ -9,7 +9,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6202436744/" title="three buddhas by albill, on Flickr"><img src="http://farm7.static.flickr.com/6174/6202436744_3c3b2222d6_z.jpg" width="482" height="640" alt="three buddhas"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6202436744/" title="three buddhas by albill, on Flickr"><img src="https://farm7.static.flickr.com/6174/6202436744_3c3b2222d6_z.jpg" width="482" height="640" alt="three buddhas"></a></p>
 
 [Scott](http://blog.djbuddha.org) turned me on to a couple of [Tumblr](http://www.tumblr.com) blogs today:
 

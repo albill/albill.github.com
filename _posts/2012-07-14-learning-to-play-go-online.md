@@ -8,7 +8,7 @@ tags:
 categories:
 - Daily Life
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6931228150/" title="Untitled by albill, on Flickr"><img src="http://farm8.staticflickr.com/7073/6931228150_4e07e855c5.jpg" width="500" height="333" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6931228150/" title="Untitled by albill, on Flickr"><img src="https://farm8.staticflickr.com/7073/6931228150_4e07e855c5.jpg" width="500" height="333" alt="Untitled"></a></p>
 
 I've been learning to play Go lately. Like many people, I learned the rules when I was much younger and then forgot them due to lack of play. Growing up in America, Chess has always been the traditional game of strategy played by geeky sorts. (I'll admit to being in chess club in junior high school.) Go has fulfilled that same role in much of Asia but has never taken off as much in America (or, I suspect, Europe). That said. it has a strong following these days and has been gaining popularity over the last few decades. After my childhood Chess days, I went on to role-playing games (Dungeons and Dragons) and various popular board and card games, continuing these, off and on, to this day. I haven't played Chess much in many years though I do have a set or three around the house. I never really got into Go though. 
 
@@ -24,7 +24,7 @@ As a geek, though, I've found that I like online play. With some resources, you 
 
 The dead simplest way to play online that I've found is [Dave Peck's Go](http://go.davepeck.org/), a simple webserver based system that allows you to play with single opponent and which will email each player when it is their turn. You can specify board size, handicap, etc., which is rather convenient. Like a real mensch, Dave even has his code for this up on [GitHub](https://github.com/davepeck/appengine-go) so you can even run your own server if you want. This just requires a web browser and email, which makes it pretty easy, and allows for people to send moves and move on to other things.
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7569619328/" title="Go with Jim by albill, on Flickr"><img src="http://farm9.staticflickr.com/8148/7569619328_86443f5f7b.jpg" width="500" height="232" alt="Go with Jim"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7569619328/" title="Go with Jim by albill, on Flickr"><img src="https://farm9.staticflickr.com/8148/7569619328_86443f5f7b.jpg" width="500" height="232" alt="Go with Jim"></a></p>
 
 The downside of the Dave Peck's server is that it is a little clunky and only really works if you already have a designated player available (such as I did above). If you need to find an opponent because you don't have a handy Go partner (or it is frustrating to play with only that person), there are places to go to find many other players.
 

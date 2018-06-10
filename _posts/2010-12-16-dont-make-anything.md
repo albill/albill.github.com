@@ -10,7 +10,7 @@ categories:
 - Buddhism
 - Spirituality
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/3710957239/" title="zen_motivational_poster by albill, on Flickr"><img src="http://farm4.static.flickr.com/3520/3710957239_77543c1ba5.jpg" width="457" height="500" alt="zen_motivational_poster" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/3710957239/" title="zen_motivational_poster by albill, on Flickr"><img src="https://farm4.static.flickr.com/3520/3710957239_77543c1ba5.jpg" width="457" height="500" alt="zen_motivational_poster" /></a></p>
 I came across part of the following quote today in comments on Jack Daw's blog post, <a href="http://greatplainsbuddha.com/the-enlightenment-of-ghouls">The Enlightenment of Ghouls</a>. Jack posted about his disillusionment with many Buddhists and their materialism and attachment.
 
 The quote is from the great Indian Vajrayana teacher, <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Tilopa">Tilopa</a>, in his "<a href="http://www.naturalawareness.net/ganges.html">Ganges Mahamudra</a>," as translated by Ken McLeod:

@@ -12,7 +12,7 @@ tags:
 - buddhist geeks
 - boulder
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7761659340/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8435/7761659340_2dce026567.jpg" width="500" height="333" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7761659340/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8435/7761659340_2dce026567.jpg" width="500" height="333" alt="Untitled"></a></p>
 
 Another [Buddhist Geeks conference](http://conference.buddhistgeeks.com/) has now come and gone. As I write this, I am sitting in the Denver airport waiting to fly onwards to a trip for my work. 
 
@@ -28,7 +28,7 @@ Much of the overall focus of Buddhist Geeks 2012, just as it was in 2011, is how
 
 This also involves one of the overarching themes of my own "Open Buddhism" ideas which is that we are a community composed of people trained (or partially trained) in many different forms of Buddhism, often mixing and matching pieces from what are distinct traditions in their homelands. This is an "Aloha Amigo" problem as an old friend of mine was known to say.
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7761645540/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8430/7761645540_24a198c49c.jpg" width="500" height="333" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7761645540/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8430/7761645540_24a198c49c.jpg" width="500" height="333" alt="Untitled"></a></p>
 
 It must be pointed out, and it is a fair thing to wonder about, that the crowd at the conference was overwhelmingly composed of Americans of Western European descent (aka whitey) and with little visible involvement by any sort of minority, whether it be ethnic or sexual. I expect my friend at the [Angry Asian Buddhist](http://www.angryasianbuddhist.com/) blog would have more than a few, quite justifiable, words about whitewashing and the possible marginalization of Buddhism as it lives in the Asian American communities. (In fact, as I write this, I see there is a [new post](http://www.angryasianbuddhist.com/2012/08/discover-emerging-faces-of-buddhism-are.html) up on this very issue.) This is still a nut that I haven't seen anyone make a very successful attempt to crack. The fact that tickets to the conference cost a few hundred dollars plus airfare (or other transport) to Boulder **and** a motel room or the like means that people of some means were the basis for attendees. This isn't a criticism of the conference per se but we must be clear that this winnows the potential types of individuals who will attend an event like this on top of the fact that every speaker invited to speak was white except for one (though not all male).  This was ameliorated a little by the fact that, for the first time, the event was live streamed to anyone who signed up for free. I expect that the recordings of the sessions will be available for free as well, just as they were last year. This opens up access a bit, even if not for in person attendance. 
 

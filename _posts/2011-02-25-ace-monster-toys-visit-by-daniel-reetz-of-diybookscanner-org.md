@@ -22,11 +22,11 @@ Daniel Reetz of <a href="http://diybookscanner.org/">diybookscanner.org</a>, who
 
 Dan made it over after experiencing some of the joys of San Francisco traffic (he actually got <strong>out</strong> of the car he was in with a friend partway to the East Bay and got onto BART in order to get to AMT in a timely manner). We showed him around the space and showed him the book scanner progress. He then showed us some LED lights that he's been working on for the book scanners to improve the light and to use less power.
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5475236267/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5059/5475236267_02d380ae73.jpg" width="500" height="374" alt="" /></a><br><em>Very Bright Lights</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5475236267/" title="Untitled by albill, on Flickr"><img src="https://farm6.static.flickr.com/5059/5475236267_02d380ae73.jpg" width="500" height="374" alt="" /></a><br><em>Very Bright Lights</em></p>
 
 After some chatting, he agreed to do a dry run of his talk at the conference today so we got to hear his take on the direction and implications of digital photography and its ongoing development, which was extremely cool.
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5475234319/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5297/5475234319_b2ecd3c963.jpg" width="500" height="374" alt="" /></a><br><em>Daniel Reetz Lecturing</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5475234319/" title="Untitled by albill, on Flickr"><img src="https://farm6.static.flickr.com/5297/5475234319_b2ecd3c963.jpg" width="500" height="374" alt="" /></a><br><em>Daniel Reetz Lecturing</em></p>
 
 He also showed us some of his other work in digital photography, part of which got him his current job as an engineer instead of this kind of thing just being a personal obsession. Of particular interest (and what got people's attention) was his <a href="http://www.danreetz.com/blog/2009/12/04/futurepicture-the-large-light-field-camera-array-part-1/">Large Light Field Camera Array</a>. You can check out his <a href="http://www.danreetz.com/blog/">blog</a> for many more of his projects and interests.
 

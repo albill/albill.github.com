@@ -13,7 +13,7 @@ tags:
 - groups
 - zen
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5567284148/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5180/5567284148_33a67fde19.jpg" width="500" height="375" alt="" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5567284148/" title="Untitled by albill, on Flickr"><img src="https://farm6.static.flickr.com/5180/5567284148_33a67fde19.jpg" width="500" height="375" alt="" /></a></p>
 It comes up every so often that the only active sitting groups for the <a href="http://www.fivemountain.org">Five Mountain Sangha</a> are in the Los Angeles area and in Cincinnati. Here in the Bay Area, there are only two active members of the order. The other member, Greg LeBlanc, is a teacher in the order but really only has the time to do a group sit once a month because of his many (many!) other commitments.
 
 I generally practice at home and don't do much in the way of group or together action with others. I've gone to <a href="http://emptygatezen.com">Empty Gate Zen Center</a> run by the Kwan Um School, which is part of the same overall lineage, but not on a regular basis. The lack of a local sangha is, I feel, the biggest detriment of the model of practice that we follow, where all of us are distributed across the United States and get together for retreats.
@@ -28,7 +28,7 @@ I think it would be much more useful to form a service-based group or organizati
 > the great Bodhisattva way,<br />
 > attaining Bodhidharma's family tradition.
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/4473215203/" title="My Rakusu - 2 by albill, on Flickr"><img src="http://farm3.static.flickr.com/2702/4473215203_c13dd7223a.jpg" width="500" height="375" alt="My Rakusu - 2" /></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/4473215203/" title="My Rakusu - 2 by albill, on Flickr"><img src="https://farm3.static.flickr.com/2702/4473215203_c13dd7223a.jpg" width="500" height="375" alt="My Rakusu - 2" /></a></p>
 This comes down to the maxim, the great question of a Bodhisattva, "How can I help you?" 
 
 Sitting and the support of a group can help a great many people but there are many other ways to help others as well. I'm not sure what <strong>I</strong> am ultimately going to do in that regard but it seems likely that the help offered by running a small group of practitioners is well covered. I think that I would better serve others by finding ways to help other people that are not being covered to relieve at least a little of their suffering.

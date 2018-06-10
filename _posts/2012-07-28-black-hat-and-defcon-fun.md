@@ -24,6 +24,6 @@ With both Chris and Cory, I got a chance to go to the lengthy Q&A session after 
 
 I also managed to give Cory and [Ace Monster Toys](http://www.acemonstertoys.org) sticker and snap a shot of him with it as well, which makes the hacker fanboy in me happy. 
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7663639828/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8164/7663639828_8c0f142543.jpg" width="375" height="500" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7663639828/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8164/7663639828_8c0f142543.jpg" width="375" height="500" alt="Untitled"></a></p>
 
 **Update from August 5**: Cory has done his talk a second time, at the [Long Now Foundation](http://longnow.org) in San Francisco. He has put his [slides](http://craphound.com/CivilWar.zip) up and you can listen to the [audio](http://longnow.org/seminars/02012/jul/31/coming-century-war-against-your-computer/) of the Long Now version of his talk.

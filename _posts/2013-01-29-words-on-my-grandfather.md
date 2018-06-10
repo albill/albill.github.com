@@ -9,7 +9,7 @@ categories:
 - Spirituality
 ---
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/102495536/" title="Grandpa and Grandma"><img src="http://farm1.staticflickr.com/26/102495536_44fef8a771.jpg" width="500" height="441" alt="Grandpa and Grandma"></a><br><em>My Grandparents</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/102495536/" title="Grandpa and Grandma"><img src="https://farm1.staticflickr.com/26/102495536_44fef8a771.jpg" width="500" height="441" alt="Grandpa and Grandma"></a><br><em>My Grandparents</em></p>
 
 This morning, my maternal grandfather, Ethan Beals, died. To my recollection, he was 85 years old, growing up during the Great Depression. He had been suffering from Parkinson's these last few years and have collapsed suddenly about a year ago. Since that time, he's been in a care facility and started to dramatically deteriorate mentally and physically in the last six months. His passing is not unexpected but is definitely a bit of a shock.
 

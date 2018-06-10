@@ -12,10 +12,10 @@ tags:
 - buddhist geeks
 - boulder
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7731591690/" title="BGeeks13_Logo by albill, on Flickr"><img src="http://farm8.staticflickr.com/7116/7731591690_07d0b823e8.jpg" width="500" height="375" alt="BGeeks13_Logo"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7731591690/" title="BGeeks13_Logo by albill, on Flickr"><img src="https://farm8.staticflickr.com/7116/7731591690_07d0b823e8.jpg" width="500" height="375" alt="BGeeks13_Logo"></a></p>
 Tomorrow I am flying to Denver and going from there to Boulder, San Francisco of the Rockies, in order to attend the Buddhist Geeks 2012 conference. Last year, I attended the first Buddhist Geeks conference in Rosemead, California, just outside of Los Angeles (see [here](http://www.openbuddha.com/2011/07/30/buddhist-geeks-2011-day-1-5/) and [here](http://www.openbuddha.com/2011/08/03/buddhist-geeks-last-day-and-closing-thoughts/)). I had an excellent time meeting a number of people that I only really knew online and reconnecting to a few others that I had encountered at various points.
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/5992332901/" title="Nikki, Rommel, and David (plus friend) by albill, on Flickr"><img src="http://farm7.staticflickr.com/6129/5992332901_17650ca18a.jpg" width="500" height="333" alt="Nikki, Rommel, and David (plus friend)"></a><br><em>last year's geek squad</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/5992332901/" title="Nikki, Rommel, and David (plus friend) by albill, on Flickr"><img src="https://farm7.staticflickr.com/6129/5992332901_17650ca18a.jpg" width="500" height="333" alt="Nikki, Rommel, and David (plus friend)"></a><br><em>last year's geek squad</em></p>
 
 This year marks a big change in venue, moving halfway across the country. Buddhist Geeks, as a podcast, originally started in Boulder and some of the organizers have been associated with Naropa University there, so it makes sense to do it locally to them. I will say that it is nowhere near as convenient to go to Boulder, which requires a flight to Denver and then an hour shuttle ride, as it is to go to Los Angeles but then I'm biased because I do live in Northern California.
 

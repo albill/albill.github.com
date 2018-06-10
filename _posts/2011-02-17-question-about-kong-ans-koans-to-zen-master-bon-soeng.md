@@ -13,6 +13,7 @@ categories:
 This was posted on <a href="http://www.facebook.com/note.php?note_id=10150182849768312">facebook</a> today by <a href="http://emptygatezen.com">Empty Gate Zen Center</a>. As someone who is doing ongoing work with kong-ans (though I usually just use the colloquial American "koan" at this point), this spoke to me.
 
 <strong>Question About Kong-ans (koans) Zen Master Bon Soeng</strong>
+
 <em>by Empty Gate Zen Center on Thursday, February 17, 2011 at 9:49am</em>
 
 <strong>Question:</strong> If you read to many books about kong-an practice, or kong-ans in general, do you run the risk of having your interviews tainted? 

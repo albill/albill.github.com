@@ -11,7 +11,7 @@ categories:
 - Spirituality
 - Technology
 ---
-<div align="center"><a href="http://www.flickr.com/photos/wonderlane/2868822348/" title="The most beautiful Buddha in the world by Wonderlane, on Flickr"><img src="http://farm4.static.flickr.com/3168/2868822348_86531d1b34.jpg" width="500" height="364" hspace="10" vspace="10" alt="The most beautiful Buddha in the world" /></a></div>
+<div align="center"><a href="http://www.flickr.com/photos/wonderlane/2868822348/" title="The most beautiful Buddha in the world by Wonderlane, on Flickr"><img src="https://farm4.static.flickr.com/3168/2868822348_86531d1b34.jpg" width="500" height="364" hspace="10" vspace="10" alt="The most beautiful Buddha in the world" /></a></div>
 I've owned the <a href="http://www.onesangha.org">onesangha.org</a> domain for a while. In 2008, I made an attempt to get a group Buddhist blog going there drawing on people from a number of different traditions. For a variety of reasons, that blog never had more than a couple of posts, mostly because the other authors were just a bit too busy.
 
 I've spoken about E-sangha here before and all of the problems that Buddhist forum had during the last few years (almost entirely problems of their own creation). As it turns out, E-sangha died a final death sometime in this last year. While the Zen guys have created the Zen Forum International, there hasn't been any large scale replacement for a non-sectarian Buddhist web forum. All current efforts are organized around specific groups, traditions, or commercial enterprises. For example, the Karma Kagyu have a <em>very</em> active group on ning.com but it is limited to their own people. Tricycle magazine has an active site as well but it is a vehicle to support the magazine, its content, and community. 

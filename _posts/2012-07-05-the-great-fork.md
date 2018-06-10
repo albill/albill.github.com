@@ -8,7 +8,7 @@ categories:
 tags:
 - blog
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7243221028/" title="Al soldering an arduino clone by albill, on Flickr"><img src="http://farm8.staticflickr.com/7232/7243221028_feefaacca0.jpg" width="500" height="375" alt="Al soldering an arduino clone"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7243221028/" title="Al soldering an arduino clone by albill, on Flickr"><img src="https://farm8.staticflickr.com/7232/7243221028_feefaacca0.jpg" width="500" height="375" alt="Al soldering an arduino clone"></a></p>
 
 I've done it now. As if having one blog that I updated about a tenth as often as I should wasn't enough, now I have two.
 

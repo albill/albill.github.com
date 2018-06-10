@@ -15,7 +15,7 @@ tags:
 - talk
 - uav
 ---
-<p style="text-align: center;"><a title="P1010972 by albill, on Flickr" href="http://www.flickr.com/photos/albill/5817380580/"><img src="http://farm4.static.flickr.com/3565/5817380580_3dd1c526a7.jpg" alt="P1010972" height="375" width="500"></a><br><em>Aaron shows one of the planes he built</em></p> 
+<p style="text-align: center;"><a title="P1010972 by albill, on Flickr" href="http://www.flickr.com/photos/albill/5817380580/"><img src="https://farm4.static.flickr.com/3565/5817380580_3dd1c526a7.jpg" alt="P1010972" height="375" width="500"></a><br><em>Aaron shows one of the planes he built</em></p> 
 
 Aaron did a talk on the basics of remote control planes at Ace Monster Toys after the weekly meeting yesterday, June 9. A number of us have been talking about building an unmanned aerial vehicle (UAV) or drone using some of the materials from <a href="http://diydrones.com/">DIY Drones</a> for the electronics portion (they use arduino based autopilots). The main barrier is not doing the electronics but actually knowing how to fly an RC plane well. Electronics we are good at! Building a plane with a couple of hundred dollars of electronics plus cameras and parts is no good if you crash it the first time you fly.
 
@@ -23,4 +23,4 @@ Aaron has a lot of experience as a hobbyist doing RC planes and offered to do a 
 
 I have a ready to fly plane that I've picked up for cheap with a three channel controller. I plan to head out to one of the local parks with Aaron on a weekend and try flying it (after the increased simulator time). Once I've gotten used to doing that, I'll be adding the autopilot, GPS, new radio, and other electronics necessary to turn it into a UAV. There is no point in doing so if I cannot get it off the ground, keep it there, and then land it (intact!).
 
-<p style="text-align: center;"><a title="P1020011 by albill, on Flickr" href="http://www.flickr.com/photos/albill/5816832413/"><img src="http://farm4.static.flickr.com/3197/5816832413_b921290f82.jpg" alt="P1020011" height="375" width="500"></a><br><em>Aaron coaches Costa on RC flight simulator</em></p>
+<p style="text-align: center;"><a title="P1020011 by albill, on Flickr" href="http://www.flickr.com/photos/albill/5816832413/"><img src="https://farm4.static.flickr.com/3197/5816832413_b921290f82.jpg" alt="P1020011" height="375" width="500"></a><br><em>Aaron coaches Costa on RC flight simulator</em></p>

@@ -32,13 +32,13 @@ I've posted preliminary pictures before of what it looked like after the initial
 
 This is what it initially looked like before the red work the day it was done before it healed:
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/4978737276/" title="Getting New Tattoo - 6 by albill, on Flickr"><img src="http://farm5.static.flickr.com/4130/4978737276_c687acd88f.jpg" width="500" height="375" alt="Getting New Tattoo - 6"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/4978737276/" title="Getting New Tattoo - 6 by albill, on Flickr"><img src="https://farm5.static.flickr.com/4130/4978737276_c687acd88f.jpg" width="500" height="375" alt="Getting New Tattoo - 6"></a></p>
 
 When I was outside to work out the other day, I noticed that the light was decent so I grabbed a couple of shots with my iPhone and I thought that I'd share them. (Ignore the fact that I'm still growing some of the shaved hair back on my freckled arm...)
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5763689616/" title="Untitled by albill, on Flickr"><img src="http://farm3.static.flickr.com/2122/5763689616_a7826f0fe4.jpg" width="500" height="374" alt=""></a><br><em>Inside of Arm</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5763689616/" title="Untitled by albill, on Flickr"><img src="https://farm3.static.flickr.com/2122/5763689616_a7826f0fe4.jpg" width="500" height="374" alt=""></a><br><em>Inside of Arm</em></p>
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5763688720/" title="Untitled by albill, on Flickr"><img src="http://farm3.static.flickr.com/2546/5763688720_a8be2d2dba.jpg" width="500" height="374" alt=""></a><br><em>Outside of Arm</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5763688720/" title="Untitled by albill, on Flickr"><img src="https://farm3.static.flickr.com/2546/5763688720_a8be2d2dba.jpg" width="500" height="374" alt=""></a><br><em>Outside of Arm</em></p>
 
 As you can see, most of the characters repeat because, if you look at the text I posted above, two of the three words are the same in all instances.
 

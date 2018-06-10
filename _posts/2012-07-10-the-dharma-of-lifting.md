@@ -10,7 +10,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><img src="http://www.openbuddha.com/images/power-lift-2.png" width="474" height="303" alt="yaaaar!"><br /><em>Yaaaar!!!!</em></p>
+<p style="text-align:center"><img src="/images/power-lift-2.png" width="474" height="303" alt="yaaaar!"><br /><em>Yaaaar!!!!</em></p>
 
 I have a confession to make. I used to be a 98 lb weakling and, later, a fat computer slob. That isn't literally true, just a bit of hyperbole on my part. What is true is that I never made much of a point to exercise and I sat on my butt all day. I've been an introverted (really!) geek for my entire life. 
 

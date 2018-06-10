@@ -11,7 +11,7 @@ categories:
 ---
 A few weeks ago, it was announced that there was now a 3D printing vending machine over at UC, Berkeley (aka "Cal") now. This is the creation of [Dreambox](http://3dreambox.com/), some startup or somesuch doing 3D printing vending machines. Without a lot of data, I sent my trusty minion (I mean "friend"), [Zed Lopez](http://zedlopez.com/), over to take a look at it for me. He took a few photos with his phone and I put them up as a [flickr set](http://www.flickr.com/photos/albill/sets/72157634077943904/).
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/9021270666/" title="IMG_20130611_141435 by albill, on Flickr"><img src="http://farm4.staticflickr.com/3793/9021270666_d7b25b56a5_z.jpg" width="480" height="640" alt="IMG_20130611_141435"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/9021270666/" title="IMG_20130611_141435 by albill, on Flickr"><img src="https://farm4.staticflickr.com/3793/9021270666_d7b25b56a5_z.jpg" width="480" height="640" alt="IMG_20130611_141435"></a></p>
 
 As you can see, the Dreambox basically consists of a Replicator 1 from Makerbot Industries (I mean [Stratasys](http://venturebeat.com/2013/06/19/3d-printing-giant-stratasys-acquires-makerbot/)) in a box that dumps prints into the drawers beneath it. Dreambox has put up [a video](http://youtu.be/w4nPPKKpy1U) which helpfully shows their process:
 

@@ -11,7 +11,7 @@ categories:
 - Society
 - Spirituality
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5346855673/" title="Nepalese Buddhist Coins by albill, on Flickr"><img src="http://farm6.static.flickr.com/5164/5346855673_fcfb915814.jpg" border="0" width="500" height="237" alt="Nepalese Buddhist Coins" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5346855673/" title="Nepalese Buddhist Coins by albill, on Flickr"><img src="https://farm6.static.flickr.com/5164/5346855673_fcfb915814.jpg" border="0" width="500" height="237" alt="Nepalese Buddhist Coins" /></a></p>
 
 This is yet another one of those troublesome "money and the Dharma" kinds of posts. It isn't going to be short.
 

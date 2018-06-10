@@ -8,7 +8,7 @@ tags:
 categories:
 - Spirituality
 ---
-<div style="text-align:center"><a href="http://www.flickr.com/photos/albill/9160998921/" title="Untitled by albill, on Flickr"><img src="http://farm4.staticflickr.com/3719/9160998921_e1854c1ed4_z.jpg" width="480" height="640" alt="Untitled"></a></div>
+<div style="text-align:center"><a href="http://www.flickr.com/photos/albill/9160998921/" title="Untitled by albill, on Flickr"><img src="https://farm4.staticflickr.com/3719/9160998921_e1854c1ed4_z.jpg" width="480" height="640" alt="Untitled"></a></div>
 
 I've not blogged much here for quite a while. Years really. I lost a lot of my blogging mojo when I was sick for many months in 2008-2009 and actually came close to dying. After that, I had a long period of recovery, failed doctoral programs, and work founding hackerspaces. 
 

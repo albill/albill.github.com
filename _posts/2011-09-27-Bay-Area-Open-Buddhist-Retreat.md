@@ -14,7 +14,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/kanzeon_zen_center/1306878549/" title="Sunday Morning Zazen Sept 2 2007.jpg by Big Mind Zen Center, on Flickr"><img src="http://farm2.static.flickr.com/1116/1306878549_cdbd5f396a.jpg" width="500" height="333" alt="Sunday Morning Zazen Sept 2 2007.jpg"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/kanzeon_zen_center/1306878549/" title="Sunday Morning Zazen Sept 2 2007.jpg by Big Mind Zen Center, on Flickr"><img src="https://farm2.static.flickr.com/1116/1306878549_cdbd5f396a.jpg" width="500" height="333" alt="Sunday Morning Zazen Sept 2 2007.jpg"></a></p>
 This is kind of a "Hey, I have a barn...Let's put on a play!" kind of post.
 
 I was thinking about retreats earlier today and how I either get to attend retreats run by various local groups (such as the [Empty Gate Zen Center](http://emptygatezen.com/)) or I travel, once or twice a year, to the other side of the country (or Las Vegas) in order to do a retreat with the Five Mountain Sangha. I went to a retreat this [last March](http://www.flickr.com/photos/albill/sets/72157626242214913/) with my fellow sangha members but we had to bring people from all over.

@@ -10,7 +10,7 @@ tags:
 - korea
 - seon
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/asianartmuseum/1449721756/" title="Woodblock print of  “Heart Sutra,” (Banya Simgyeong in Korean) by Asian Art Museum, on Flickr"><img src="http://farm2.staticflickr.com/1225/1449721756_5c058b7bd5.jpg" width="500" height="410" alt="Woodblock print of  “Heart Sutra,” (Banya Simgyeong in Korean)"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/asianartmuseum/1449721756/" title="Woodblock print of  “Heart Sutra,” (Banya Simgyeong in Korean) by Asian Art Museum, on Flickr"><img src="https://farm2.staticflickr.com/1225/1449721756_5c058b7bd5.jpg" width="500" height="410" alt="Woodblock print of  “Heart Sutra,” (Banya Simgyeong in Korean)"></a></p>
 
 I just saw word on the H-Buddhism list of what is, to me, a monumental event. Well known scholar and translator Robert Buswell announced that the release of "The Collected Works of Korean Buddhism," translated by a team of individuals. Not only are these volumes available in English now but they can be downloaded as PDF files from their [home page](http://www.acmuller.net/kor-bud/collected_works.html).
 

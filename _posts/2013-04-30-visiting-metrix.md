@@ -20,11 +20,11 @@ They have quite a critical mass of people doing fun things with 3D printers and 
 
 You can see the "OpenBeam Kossel Pro" that Terence and Matt have been developing:
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8683145940/" title="DSC00704 by albill, on Flickr"><img src="http://farm9.staticflickr.com/8259/8683145940_fc94bc8a8c.jpg" width="333" height="500" alt="DSC00704"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8683145940/" title="DSC00704 by albill, on Flickr"><img src="https://farm9.staticflickr.com/8259/8683145940_fc94bc8a8c.jpg" width="333" height="500" alt="DSC00704"></a></p>
 
 Johann was also working on his "Mini Kossel" (which also uses OpenBeam), which is his attempt to build a portable Delta printer that can travel easily and maybe even be battery powered:
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8682051911/" title="DSC00723 by albill, on Flickr"><img src="http://farm9.staticflickr.com/8395/8682051911_a8381aa43f.jpg" width="333" height="500" alt="DSC00723"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8682051911/" title="DSC00723 by albill, on Flickr"><img src="https://farm9.staticflickr.com/8395/8682051911_a8381aa43f.jpg" width="333" height="500" alt="DSC00723"></a></p>
 
 From talking to folks, I expect that there will be announcements at Maker Faire in Redwood City in a few weeks and Delta printers, among others, will make a heavy appearance there.
 
@@ -32,9 +32,9 @@ It was nice to see folks actively working on printers and advancing the technolo
 
 I haven't posted much about my printer projects in the last few months as I've been making incremental progress. My [Rostock Mini](http://reprap.org/wiki/Rostock_mini) is largely stalled out due to lack of desire to deal with some design issues on it (though I may pick it up again soon) but I have a [Hadron Ordbot](http://www.buildlog.net/wiki/doku.php?id=ord_bot:the_ord_bot) that is completed except for mounting the heated build platform and splicing some wires. I've tested all of the electronics and motion but haven't printed with it yet. The Foldarap has been waiting for the last six weeks or so for me to mount its printing bed and carriage but I hope to have it on the Ace Monster Toys table at Maker Faire in three weeks. 
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8653208248/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8110/8653208248_a6eae1340e.jpg" width="375" height="500" alt="Untitled"></a><br><em>current state of my Foldarap</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8653208248/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8110/8653208248_a6eae1340e.jpg" width="375" height="500" alt="Untitled"></a><br><em>current state of my Foldarap</em></p>
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8600838403/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8237/8600838403_50ce78612f.jpg" width="375" height="500" alt="Untitled"></a><br><em>my Hadron Ordbot</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8600838403/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8237/8600838403_50ce78612f.jpg" width="375" height="500" alt="Untitled"></a><br><em>my Hadron Ordbot</em></p>
 
 One thing that I've been doing is co-hosting an ongoing [3D printing meetup](http://meetup.acemonstertoys.org/events/110977572/) every other Wednesday night at [Ace Monster Toys](http://www.acemonstertoys.org). People have been showing up to work on printers, discuss issues around them, and generally show off their work. I'm actively working on creating a bill of materials to self-source parts to do a workshop series where 10 people (hopefully) build a [Printrbot Jr.](https://printrbot.com/shop/printrbot-jr/) clone at AMT. The real issue there is trying to get the cost of the materials as near a $250 price point as possible (and it may not be possible to get below $300 really). Electronics from Printrbot are $129 retail, the hotend is $59, and, realistically, we need four stepper motors for roughly $15 each plus all the screws, rods, etc. It is the combination of the electronics, hotend, and motors that is kind of hard to move without just completely replacing them with someone else's parts.
 

@@ -12,11 +12,11 @@ categories:
 ---
 Last night I went to a neopagan ritual locally in Oakland. For the non-pagans out there who somehow missed out on Halloween symbolism (or who aren't Americans), Halloween commonly has associations with the dead, largely through Catholicism. The neopagans, of a general sort as well as the Celtic types, associate Samhain, October 31 these days, with the Dead, and consider it the time to honor the dead and when the "veil between the worlds" (of the living and dead) is the thinnest. Here in California, we also have [Día de los Muertos](http://en.wikipedia.org/wiki/Day_of_the_Dead), the Day of the Dead, celebrated on All Saints Day, November 1, which is drawn from Mexican traditions (we have a lot of Hispanic folks, dontchaknow).
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/8122609712/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8327/8122609712_39e177e04c.jpg" width="500" height="333" alt="Untitled"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/8122609712/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8327/8122609712_39e177e04c.jpg" width="500" height="333" alt="Untitled"></a></p>
 
 In my house, we put up a Day of the Dead altar every year. We've been doing this since we lived in Seattle. On it, we put our dead friends and family, those lost to us over the years, and, strangely, the altar only grows over time as we age. This year, we added my wife's father and her aunt, both lost to us by illness. 
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/8122611022/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8466/8122611022_fab098243b.jpg" width="500" height="333" alt="Untitled"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/8122611022/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8466/8122611022_fab098243b.jpg" width="500" height="333" alt="Untitled"></a></p>
 
 Because of this and other life events, we've been somewhat contemplative (moreso?) of death this year. I heard about the local ritual, called the "Feast of the Mighty," through Facebook and/or local friends. Most of my extended community is still composed of Neopagans, magicians, and occult folks, as well as hackerspace types. The ritual was, not surprisingly, a feast, held at a local hall. The description from the organizers was as follows:
 

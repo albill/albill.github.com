@@ -10,7 +10,7 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><p align="center"><a href="http://www.flickr.com/photos/eschipul/4449980320/" title="Buddha by eschipul, on Flickr"><img src="http://farm5.staticflickr.com/4061/4449980320_77b6551d52.jpg" width="500" height="333" alt="Buddha"></a></p></p>
+<p style="text-align:center"><p align="center"><a href="http://www.flickr.com/photos/eschipul/4449980320/" title="Buddha by eschipul, on Flickr"><img src="https://farm5.staticflickr.com/4061/4449980320_77b6551d52.jpg" width="500" height="333" alt="Buddha"></a></p></p>
 The first retreat event for the <a href="http://bayarea.opensangha.org">Bay Area Open Sangha</a> was a rousing success. I just returned from spending the last two days practicing with folks that came to our two day meditation retreat. 
 
 This was our inaugural weekend as an organization. I've never organized a retreat before this one though I have attended plenty and even done some minor teaching at one. This was also, as far as I know, the first retreat event held at the new Bear Oaks Dharma Center in Briones, California. This is a small center about 30 minutes East of Berkeley and Oakland that just opened up in the last month for practitioners. 

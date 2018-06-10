@@ -14,7 +14,7 @@ categories:
 - Spirituality
 - Technology
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/rerlin/5416310188/" title="P1030687.JPG by rerlin, on Flickr"><img src="http://farm6.static.flickr.com/5018/5416310188_f19ac93ec7.jpg" width="500" height="375" alt="P1030687.JPG" /></a><br><em>Me at Borobudur on Java paying homage to the Buddha</em></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/rerlin/5416310188/" title="P1030687.JPG by rerlin, on Flickr"><img src="https://farm6.static.flickr.com/5018/5416310188_f19ac93ec7.jpg" width="500" height="375" alt="P1030687.JPG" /></a><br><em>Me at Borobudur on Java paying homage to the Buddha</em></p>
 
 I realized that I have only indirectly spoken about myself in this blog for quite a while. I figure that most of my readers know who I am, what I am about, etc. or they just don't care that much about the details. Since I do randomly pick up quite a bit of traffic, it is probably relevant to go over some personal things here, as well as updating existing friends or fans on my life a bit.
 

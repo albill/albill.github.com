@@ -18,7 +18,7 @@ tags:
 - ebooks
 - Internet Archive
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5524983866/" title="Book Scan Wizard Internet Archive Upload Interface by albill, on Flickr"><img src="http://farm6.static.flickr.com/5178/5524983866_b7e84b6074.jpg" width="494" height="500" alt="Book Scan Wizard Internet Archive Upload Interface" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5524983866/" title="Book Scan Wizard Internet Archive Upload Interface by albill, on Flickr"><img src="https://farm6.static.flickr.com/5178/5524983866_b7e84b6074.jpg" width="494" height="500" alt="Book Scan Wizard Internet Archive Upload Interface" /></a></p>
 
 <a href="http://sourceforge.net/projects/bookscanwizard/">Book Scan Wizard</a> is the software that is the heart and soul of the DIY Book Scanner that I've been working on for the last month (and blogging about here). It greatly eases the process of scanning images of pages of text from books and turning them into something actual usable. In reality, the process of scanning a book is pretty easy to do cheaply and sloppily but the real difficulty is turning your crappy scans or photos of pages into something usable by others. Book Scan Wizard was written to be a solution to this problem and it does an astounding job at it.
 

@@ -9,7 +9,7 @@ wordpress_id: '3089'
 categories:
 - Daily Life
 ---
-<a href="http://www.flickr.com/photos/danielproulx/3670226570/"><img src="http://farm4.static.flickr.com/3565/3670226570_ab33ca9bf5_m.jpg" height="240" width="240" alt="A Gentleman" align="right" hspace="10" vspace="10"></a>I will be attending the <a href="http://www.steampunkexhibition.com/">Nova Albion Steampunk Exhibition</a> this weekend with a few members of the Norton Memorial Dicemaster's RPG group, the crew of the airship Arcadia. (This is also the same weekend as our normal playing session, so I expect to see more costuming during our meeting this weekend!)
+<a href="http://www.flickr.com/photos/danielproulx/3670226570/"><img src="https://farm4.static.flickr.com/3565/3670226570_ab33ca9bf5_m.jpg" height="240" width="240" alt="A Gentleman" align="right" hspace="10" vspace="10"></a>I will be attending the <a href="http://www.steampunkexhibition.com/">Nova Albion Steampunk Exhibition</a> this weekend with a few members of the Norton Memorial Dicemaster's RPG group, the crew of the airship Arcadia. (This is also the same weekend as our normal playing session, so I expect to see more costuming during our meeting this weekend!)
 Nova Albion is the regional steampunk gathering and it is occurring about a mile or so from my home. I plan on posting many photos and notes later on. 
 My provisional schedule is below for the local Bay Area people that I know who may also be going to the event. The <a href="http://www.neverwashaul.com/">Neverwas Haul</a> event on Saturday evening is not at the hotel but it about three blocks from my house. It is definitely worth seeing if you haven't been on the Haul before.
 <h2>Nova Albion Schedule</h2>

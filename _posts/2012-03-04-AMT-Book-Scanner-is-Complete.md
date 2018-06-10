@@ -11,7 +11,7 @@ tags:
 - bookscanner
 - ebooks
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6919535845/" title="AMT Book Scanner"><img src="http://farm8.staticflickr.com/7037/6919535845_3c0d43f594_z.jpg" width="480" height="640" alt=""></a><br>The Ace Monster Toys Book Scanner</p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6919535845/" title="AMT Book Scanner"><img src="https://farm8.staticflickr.com/7037/6919535845_3c0d43f594_z.jpg" width="480" height="640" alt=""></a><br>The Ace Monster Toys Book Scanner</p>
 
 A year ago, Ace Monster Toys member Myles and I did a bunch of work on a [DIY Book Scanner](http://www.diybookscanner.org) based on a variation of [Daniel Reetz's](http://www.danreetz.com) design to make it more lasercutting friendly (see [this](http://www.openbuddha.com/2011/03/13/diy-book-scanner-is-almost-complete/)). We took beta kits of the these to the 2011 Maker Faire and generated a fair amount of interest.
 

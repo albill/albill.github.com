@@ -8,7 +8,7 @@ tags:
 categories:
 - Technology
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/32609854@N00/3058499714/" title="at Noisebridge Nov 24 2008 1 by slurkflickr, on Flickr"><img src="http://farm4.staticflickr.com/3192/3058499714_414b30b3a1.jpg" width="386" height="500" alt="at Noisebridge Nov 24 2008 1"></a><br><em>Drawing by <a href="http://www.suzanneforbes.com/">Suzanne Forbes</a></em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/32609854@N00/3058499714/" title="at Noisebridge Nov 24 2008 1 by slurkflickr, on Flickr"><img src="https://farm4.staticflickr.com/3192/3058499714_414b30b3a1.jpg" width="386" height="500" alt="at Noisebridge Nov 24 2008 1"></a><br><em>Drawing by <a href="http://www.suzanneforbes.com/">Suzanne Forbes</a></em></p>
 
 I attended a panel today at Defcon 20 titled, "**Connected Chaos: Evolving the DCG/Hackspace Communication Landscape**." I'm not sure what I expected it to be but it wound up being a panel of some East Coast and Southern hackerspace folks talking about what had and hadn't worked in running a hackerspace, based on their hard won experience over the last few years. It was none of the normal West Coast folks, which made it a bit more interesting to me. Much of it jived with my own experience as a hackerspace founder so I thought that I'd share some of my loose notes. 
 

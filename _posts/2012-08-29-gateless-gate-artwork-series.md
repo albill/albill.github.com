@@ -17,7 +17,7 @@ I just came across this the other day. A artist named "Mark Morse" is doing a se
 
 Here is an example of his images. This is for "Case 2: Hyakujo’s Fox."
 
-<p style="text-align:center"><a href="http://www.thegatelessgate.com/archive/case-2/"><img src="http://www.openbuddha.com/images/case2.jpg" width="600" height="1055"></a></p>
+<p style="text-align:center"><a href="http://www.thegatelessgate.com/archive/case-2/"><img src="/images/case2.jpg" width="600" height="1055"></a></p>
 
 Mark told me over e-mail that he'll eventually have an Etsy store set up so people can buy his images but his main priority right now is just making the images, which is taking all of his free time.
 

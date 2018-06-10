@@ -16,7 +16,7 @@ A Buddhist and artist that I know from twitter, <a href="http://thekamikazen.com
 
 The full version can be seen below. It is a steampunk Manjushri, which fits very well with the byline of the blog of "Open Source Buddhism, Technology, and Geekery."
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/4994073544/" title="Steampunk Manjushri - Large by albill, on Flickr"><img src="http://farm5.static.flickr.com/4153/4994073544_8095cfea45.jpg" width="500" height="500" alt="Steampunk Manjushri - Large" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/4994073544/" title="Steampunk Manjushri - Large by albill, on Flickr"><img src="https://farm5.static.flickr.com/4153/4994073544_8095cfea45.jpg" width="500" height="500" alt="Steampunk Manjushri - Large" /></a></p>
 
 For those unfamiliar with Manjushri, I recommend the <a href="http://en.wikipedia.org/wiki/Manjushri">wikipedia article</a> on him. He is often considered the embodiment of prajñā, which is the wisdom of the prajñāparamita texts, foundational to Mahayana Buddhism. 
 

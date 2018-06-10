@@ -11,7 +11,7 @@ categories:
 - Buddhism
 ---
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8021115226/" title="In the Footsteps of Wonhyo by albill, on Flickr"><img src="http://farm9.staticflickr.com/8440/8021115226_0f5fcdca74_z.jpg" width="640" height="480" alt="In the Footsteps of Wonhyo"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8021115226/" title="In the Footsteps of Wonhyo by albill, on Flickr"><img src="https://farm9.staticflickr.com/8440/8021115226_0f5fcdca74_z.jpg" width="640" height="480" alt="In the Footsteps of Wonhyo"></a></p>
 The other day, I heard about a new kickstarter, [In the Footsteps of Wonhyo](http://www.kickstarter.com/projects/1823936825/in-the-footsteps-of-wonhyo), when my own teacher backed it. As the kickstarter page explains:
 
 > This documentary explores the ancient Korean monastic way of life in the mountains through the eyes of a Western pilgrim travelling across South Korea. Besides introducing the audience to the beauty of Korean nature, and the wisdom and simplicity of Korean Zen Buddhism, the film will encourage the creation of an official Buddhist pilgrimage trail covering 500 km. When this documentary is made, and when the route is established in the future, it will help thousands to increase their wisdom and compassion, control their karma (habitual patterns) as well as provide economic growth to rural Korea along the path.

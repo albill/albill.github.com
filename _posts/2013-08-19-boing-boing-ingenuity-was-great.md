@@ -9,7 +9,7 @@ tags:
 categories:
 - Technology
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="http://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="https://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></p>
 
 I managed to go to [Boing Boing: Ingenuity](http://boingboing.net/tag/ingenuity) this weekend. This was a one day hackathon followed by "vaudeville for geeks" set of presentations and performances yesterday. I actually missed the hackathon on the first day because I wound up having my birthday BBQ for my 42nd birthday (which is today) on Saturday and I'm kind of a crappy coder anyway. This was an invitation event but a free one (sponsored by Ford but it was a low-key sponsorship). I wasn't sure what to expect before I arrived.
 
@@ -23,7 +23,7 @@ One was near the beginning and that was [Chris Noessel](http://about.me/christop
 
 The last session of the day is the other that I really enjoyed. This was by [Mythbusters'](http://dsc.discovery.com/tv-shows/mythbusters) Adam Savage (and now [tested.com](http://www.tested.com/) on being a maker. A couple of the anecdoates in it I'd heard before, probably when he spoke at Defcon, but I enjoyed his voice over of his ten rules for success. I find these rather inspirational even if I've never managed to follow all of them!
 
-<div style="text-align:center"><a href="http://www.flickr.com/photos/kentkb/9544486636/" title="IMG_5590 by kentkb, on Flickr"><img src="http://farm4.staticflickr.com/3788/9544486636_098a505316.jpg" width="500" height="375" alt="IMG_5590"></a><br><em><a href="http://www.kentkb.com/">Photo by Kent K. Barnes / kentkb</a></em></div>
+<div style="text-align:center"><a href="http://www.flickr.com/photos/kentkb/9544486636/" title="IMG_5590 by kentkb, on Flickr"><img src="https://farm4.staticflickr.com/3788/9544486636_098a505316.jpg" width="500" height="375" alt="IMG_5590"></a><br><em><a href="http://www.kentkb.com/">Photo by Kent K. Barnes / kentkb</a></em></div>
 
 They are:
 

@@ -26,7 +26,7 @@ Right now, I have an Up! Plus printer, which is a closed source Chinese printer.
 
 That said, I made significant progress on putting everything together the other day, as you can see below. I printed out most of my plastic components in a colorful purple PLA plastic. I found some cast off pieces of smoking acrylic at [Ace Monster Toys](http://www.acemonstertoys) (they were corners left over from a larger project) and cut them on our lasercutter, along with some cork for dampening motor vibration. This weekend, I got the basic frame assembled except for the extruder platform and the three carriages where it mounts to the frame.
 
-<div style="text-align:center"><a href="http://www.flickr.com/photos/albill/8327908724/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8493/8327908724_95c9facaa9.jpg" width="375" height="500" alt="Untitled"></a></div>
+<div style="text-align:center"><a href="http://www.flickr.com/photos/albill/8327908724/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8493/8327908724_95c9facaa9.jpg" width="375" height="500" alt="Untitled"></a></div>
 
 You can see my [whole photo set](http://www.flickr.com/photos/albill/sets/72157632385061723/) for the build so far over on Flickr. 
 

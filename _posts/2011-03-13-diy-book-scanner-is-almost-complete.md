@@ -16,7 +16,7 @@ tags:
 ---
 Myles and I have continued to spend a few hours a couple of times a week on our <a href="http://www.diybookscanner.org">DIY Book Scanner</a>. As you can see below, it is mostly complete at this point.
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5523878240/" title="Untitled by albill, on Flickr"><img src="http://farm6.static.flickr.com/5097/5523878240_b81269d34e.jpg" width="375" height="500" alt="" /></a> </p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5523878240/" title="Untitled by albill, on Flickr"><img src="https://farm6.static.flickr.com/5097/5523878240_b81269d34e.jpg" width="375" height="500" alt="" /></a> </p>
 
 Yesterday, we finished putting the physical parts together, figured out how to hang the lights, and made sure that the cameras could focus correctly on the pages (as well as get external power). The only thing left to do with the body of it is to hang a counterweight from the pulley at the back. This will allow us to raise and lower the platen without putting a lot of force on it. Sooner or later, we expect to rebuild the platen as we learned a few things while doing it and the acrylic that we are using tends to build up a big static charge, which holds onto the pages from books.
 

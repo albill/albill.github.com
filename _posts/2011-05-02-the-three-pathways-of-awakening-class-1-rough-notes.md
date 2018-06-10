@@ -19,7 +19,7 @@ tags:
 - threepathways
 - vajrayana
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/2523155407/" title="taizokai-vairocana by albill, on Flickr"><img src="http://farm3.static.flickr.com/2329/2523155407_482e157abd.jpg" width="391" height="500" alt="taizokai-vairocana"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/2523155407/" title="taizokai-vairocana by albill, on Flickr"><img src="https://farm3.static.flickr.com/2329/2523155407_482e157abd.jpg" width="391" height="500" alt="taizokai-vairocana"></a></p>
 I am taking <a href="http://www.hokai.info">Hokai Sobol's</a> online course, <a href="http://www.buddhistgeeks.com/threepathways/">The Three Pathways of Awakening</a>, which is offered through Buddhist Geeks. This is a six-part course that is offered every Sunday morning at 9:00 AM my time for the next six weeks.
 
 The course is offered as an audio gathering where you dial into a local number, either on your phone or skype, and listen to the teacher speak. Later, he is able to unmute various participants and they can ask questions or make comments.

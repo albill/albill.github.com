@@ -14,7 +14,7 @@ categories:
 - Buddhism
 - Books
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6243759233/" title="Mastering-Core-Teachings-Cover by albill, on Flickr"><img src="http://farm7.static.flickr.com/6036/6243759233_ac256cf070.jpg" width="374" height="500" alt="Mastering-Core-Teachings-Cover"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6243759233/" title="Mastering-Core-Teachings-Cover by albill, on Flickr"><img src="https://farm7.static.flickr.com/6036/6243759233_ac256cf070.jpg" width="374" height="500" alt="Mastering-Core-Teachings-Cover"></a></p>
 
 [Daniel Ingram](http://www.interactivebuddha.com) is a fairly well known Buddhist teacher in certain circles. He gathered a bit of controversy years ago by being publicly willing to claim arhatship, a level of Buddhist awakening or enlightenment. This is something that is generally **not done** (whether achieved or not) within the Buddhist community, especially in the Western vipassana community utilizing the same general practices and orientation as Dr. Ingram. 
 

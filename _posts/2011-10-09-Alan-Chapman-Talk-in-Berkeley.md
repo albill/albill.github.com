@@ -12,7 +12,7 @@ categories:
 - Buddhism
 ---
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6225428090/" title="P1020432 by albill, on Flickr"><img src="http://farm7.static.flickr.com/6055/6225428090_b5ed47b937_z.jpg" width="480" height="640" alt="P1020432"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/6225428090/" title="P1020432 by albill, on Flickr"><img src="https://farm7.static.flickr.com/6055/6225428090_b5ed47b937_z.jpg" width="480" height="640" alt="P1020432"></a></p>
 
 Last night, [Alan Chapman](http://alanchapman.me) happened to be visiting Berkeley and leading a meditation session at the open Saturday Night Sangha sitting group that Rebecca and I have been occasionally attending. Alan is a teacher who, for lack of better terms, is looking at bridging the worlds of Western Culture, awakening, and the Dharma. I've known of Alan for a number of years because of his old website, [The Baptist's Head](http://www.thebaptistshead.co.uk), where he and his friend, Duncan Barford, engaged in open discussion and recording of their experiences and thoughts relating to the Western Esoteric Tradition (aka "Magic"). Since I spent about 16 years primarily being involved with that tradition (and did my Master's thesis on aspects of it), I was very interested in his work. I've often been drawn to people who have gone from involvement in these stereotypical Western European derived approaches (which definitely have some serious issues as a non-continuous set of traditions) to the Dharma. There are a surprising number of Dharma practitioners who were, at various points, involved with Neopaganism and/or occultism of various stripes.
 

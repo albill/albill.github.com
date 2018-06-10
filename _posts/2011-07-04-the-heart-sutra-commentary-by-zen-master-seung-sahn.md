@@ -13,7 +13,7 @@ categories:
 ---
 I found this randomly on the Internet today. I'm a student of Seung Sahn's lineage and try to understand his perspective especially, as well as that of other teachers that I study. Given the role and importance of the Heart Sutra within Zen, I thought this teaching would be worth studying by others and wanted to share it.
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5903862424/" title="seung sahn by albill, on Flickr"><img src="http://farm7.static.flickr.com/6055/5903862424_48e1766f19.jpg" width="183" height="258" alt="seung sahn"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5903862424/" title="seung sahn by albill, on Flickr"><img src="https://farm7.static.flickr.com/6055/5903862424_48e1766f19.jpg" width="183" height="258" alt="seung sahn"></a></p>
 
 # The Heart Sutra
 ## Maha Prajna Paramita Hridya Sutra

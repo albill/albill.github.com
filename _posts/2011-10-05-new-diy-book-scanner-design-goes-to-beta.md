@@ -10,7 +10,7 @@ tags:
 - hackerspaces
 type: post
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174042229/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6164/6174042229_3db4e07acc_z.jpg" width="478" height="640" alt=""></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174042229/" title="Untitled by albill, on Flickr"><img src="https://farm7.static.flickr.com/6164/6174042229_3db4e07acc_z.jpg" width="478" height="640" alt=""></a></p>
 [Daniel Reetz](http://www.danreetz.com) has released his beta files for the newer [DIY Book Scanner](http://www.diybookscanner.org) that he showed at the Open Hardware Summit. This is the first version designed to be CNC milled directly and from a single standard sheet of plywood. Of course, to do so, you'd need a shopbot or similarly sized router. You can also do it with smaller pieces of plywood on a more commonly sized CNC though some of the pieces are fairly large. It should be noted that the plywood is sized to be about 3/4" in thickness, as it gets a bit wobbly otherwise in places.
  
 Daniel has an [announcement](http://diybookscanner.org/forum/viewtopic.php?f=1&t=1192) on the DIYbookscanner.org forums and a 16 minute long demonstration and walk through of the new version up on [YouTube](http://www.youtube.com/watch?v=a4-qMc2QSOw), which I have embedded below:

@@ -12,7 +12,7 @@ tags:
 - hackerspaces
 - schools
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6906025358/" title="onedoesnotdarpa by albill, on Flickr"><img src="http://farm8.staticflickr.com/7103/6906025358_c185f6a13a_z.jpg" width="555" height="327" alt="onedoesnotdarpa"></a><br><em>A little levity for your memes</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6906025358/" title="onedoesnotdarpa by albill, on Flickr"><img src="https://farm8.staticflickr.com/7103/6906025358_c185f6a13a_z.jpg" width="555" height="327" alt="onedoesnotdarpa"></a><br><em>A little levity for your memes</em></p>
 There is a bit of a controversy brewing right now that, in many ways, may be a tempest in a teapot, but also points to larger divisions in the hacking/making community. 
 
 ## First a little background

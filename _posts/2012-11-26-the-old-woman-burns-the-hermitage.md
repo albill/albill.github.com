@@ -9,7 +9,7 @@ tags:
 categories:
 - Spirituality
 ---
-<p style="text-align:center"><img src="http://www.openbuddha.com/images/burning-house.jpg" widith="590" height="350" alt="house on fire"></p>
+<p style="text-align:center"><img src="/images/burning-house.jpg" widith="590" height="350" alt="house on fire"></p>
 
 Oh, the exciting world of Zen. Another month, another sexual scandal. Lately, I've become rather exhausted with the idea of discussing these. It turns out that Zen teachers and students are much the same as everyone else. I gather this is horribly disillusioning to many but I just see it as confirmation that people are "just folks" and Zen isn't something special, not matter how magical some people try to make it. 
 

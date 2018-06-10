@@ -23,7 +23,7 @@ Now, as people may recall, at the beginning of April, Genpo Merzel (aka Genpo Ro
 
 When Genpo stepped down, disrobed as a priest, and left his elder position in the White Plum organization, I, like most, figured that meant, well, that he'd disrobed as a Zen priest and wasn't acting as such any longer. That word, "disrobed," generally means that sort of thing to those of us who are Zen practitioners (as well as priests or monks). Apparently, we have a princess bride situation here where Genpo uses that word differently. 
 
-<p style="text-align: center"><a href="http://www.flickr.com/photos/48600114097@N01/4814228288/" title="Pincess Bride motivational poster by Jonathan Korman"><img src="http://farm5.static.flickr.com/4081/4814228288_2824c49d8f.jpg" width="450" height="317" alt="Pincess Bride motivational poster by Jonathan Korman"></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/48600114097@N01/4814228288/" title="Pincess Bride motivational poster by Jonathan Korman"><img src="https://farm5.static.flickr.com/4081/4814228288_2824c49d8f.jpg" width="450" height="317" alt="Pincess Bride motivational poster by Jonathan Korman"></a></p>
 
 There is no way that you can seriously say that you've disrobed and then say that you are going to "continue as a Zen Master to teach and lead retreats." I mean, seriously, what the hell? That makes his whole "I'll own up to my mistakes, step down, and disrobe as a priest and elder" into a punch line in a bad joke.
 

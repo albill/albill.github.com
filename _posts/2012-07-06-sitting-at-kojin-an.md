@@ -9,13 +9,13 @@ categories:
 - Spirituality
 - Buddhism
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518211672/" title="Untitled by albill, on Flickr"><img src="http://farm9.staticflickr.com/8146/7518211672_712b83a5b7.jpg" width="500" height="375" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518211672/" title="Untitled by albill, on Flickr"><img src="https://farm9.staticflickr.com/8146/7518211672_712b83a5b7.jpg" width="500" height="375" alt="Untitled"></a></p>
 
 I just attended my first sit at [Kojin-an Zendo](http://oakland-zencenter.org/welcome-to-kojin-an/) here in Oakland. A fellow, Paul, from the "Saturday Night Sangha" open sitting group offered to take people there this evening and I decided to be wild and follow the opportunity to sit still for 40 minutes in a new place.
 
 I'd heard about Kojin-an before but had never had the opportunity to visit. It is a small zendo, seating twelve in the main room. (The site mentions seating eighteen total but that includes putting six people in the outside hallway.) It is easily the smallest formal functioning zendo that I've seen. It resides, surrounded by trees and bamboo, on the back portion of a private residence in a nice neighborhood in Oakland. 
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518210172/" title="Untitled by albill, on Flickr"><img src="http://farm8.staticflickr.com/7259/7518210172_8b45ceacc7.jpg" width="500" height="375" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518210172/" title="Untitled by albill, on Flickr"><img src="https://farm8.staticflickr.com/7259/7518210172_8b45ceacc7.jpg" width="500" height="375" alt="Untitled"></a></p>
 
 As the [history page](http://www.kojin-an.org/kojinanHistory.php) on their website states, Kojin-an started in the early 1980's as an converted attic space. Eventually, in 1990, the current land and house were acquired and the resident priest, [Rev. Gengo Akiba](http://oakland-zencenter.org/who-we-are/), arranged to have a small zendo designed in Japan, have it disassembled after being built there, and then shipped to the Bay Area and reassembled. Following this, it was formalized as an [official Soto-shu temple](http://soto-zen.net/wiki/wiki.cgi?page=Kojin-an+Zendo) and Rev. Akiba was eventually appointed the sokan (bishop) for Soto-shu in in North America. He retired a couple of years ago and lives in the house next to the zendo now, with his wife, the founder and owner of a large and popular local Japanese restaurant, Yoshi's.
 
@@ -25,4 +25,4 @@ When I went there with Paul, he brought two friends, at least one of which was S
 
 I expect that I will go back on a Sunday morning (maybe not this coming Sunday though) and go there again. The place is only a couple of miles from my home (about a 10 or 15 minute drive depending on traffic) and is just so beautiful. I've put a [small set of the few photos](http://www.flickr.com/photos/albill/sets/72157630457857318/) I took while there up on Flickr. Kojin-an also has a [Facebook page](https://www.facebook.com/pages/Kojinan-Zendo/265911100887).
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518206232/" title="Untitled by albill, on Flickr"><img src="http://farm8.staticflickr.com/7114/7518206232_327c5c7ba2.jpg" width="375" height="500" alt="Untitled"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/7518206232/" title="Untitled by albill, on Flickr"><img src="https://farm8.staticflickr.com/7114/7518206232_327c5c7ba2.jpg" width="375" height="500" alt="Untitled"></a></p>

@@ -14,10 +14,10 @@ As a result of this work, which was successful, every single photo I have of mys
 
 I think that they turned out quite well. You can see the [entire series](http://www.flickr.com/photos/albill/sets/72157628034300962/). I recognize that it is a bit narcissistic to post photos of yourself but, you know, it's my blog and where else would I post them? I include a few below. For those interested, take a look at them on [flickr](http://www.flickr.com/photos/albill/sets/72157628034300962/) for the series.
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304916187/" title="Al - Rebecca - 1 by albill, on Flickr"><img src="http://farm7.static.flickr.com/6060/6304916187_cf71b8fdd6.jpg" width="500" height="357" alt="Al - Rebecca - 1"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304916187/" title="Al - Rebecca - 1 by albill, on Flickr"><img src="https://farm7.static.flickr.com/6060/6304916187_cf71b8fdd6.jpg" width="500" height="357" alt="Al - Rebecca - 1"></a></p>
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6305435902/" title="Al Robes - 3 by albill, on Flickr"><img src="http://farm7.static.flickr.com/6112/6305435902_ef15c703c9.jpg" width="357" height="500" alt="Al Robes - 3"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6305435902/" title="Al Robes - 3 by albill, on Flickr"><img src="https://farm7.static.flickr.com/6112/6305435902_ef15c703c9.jpg" width="357" height="500" alt="Al Robes - 3"></a></p>
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304911027/" title="Al - Black and White by albill, on Flickr"><img src="http://farm7.static.flickr.com/6042/6304911027_bee5677759.jpg" width="400" height="500" alt="Al - Black and White"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304911027/" title="Al - Black and White by albill, on Flickr"><img src="https://farm7.static.flickr.com/6042/6304911027_bee5677759.jpg" width="400" height="500" alt="Al - Black and White"></a></p>
 
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304912583/" title="Al - 1 by albill, on Flickr"><img src="http://farm7.static.flickr.com/6055/6304912583_65c727cee3_z.jpg" width="457" height="640" alt="Al - 1"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6304912583/" title="Al - 1 by albill, on Flickr"><img src="https://farm7.static.flickr.com/6055/6304912583_65c727cee3_z.jpg" width="457" height="640" alt="Al - 1"></a></p>

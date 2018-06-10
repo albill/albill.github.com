@@ -10,7 +10,7 @@ tags:
 - Equal Rights
 - Marriage
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6773360154/" title="Untitled by albill, on Flickr"><img src="http://farm8.staticflickr.com/7038/6773360154_c7fb437f91.jpg" width="500" height="375" alt=""></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6773360154/" title="Untitled by albill, on Flickr"><img src="https://farm8.staticflickr.com/7038/6773360154_c7fb437f91.jpg" width="500" height="375" alt=""></a></p>
 Apparently, asking for people to support an open community and to keep divisive speech seen to attack community members off of Planet Mozilla is seen by at least one of the Planet Mozilla peers as an "attack." See his comment  [here](http://blog.mozilla.com/planet/2012/03/06/concerns-with-planet-content/#comment-41285).
 
 I can only shake my head at this and wonder how people just don't get it.

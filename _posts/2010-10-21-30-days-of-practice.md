@@ -11,7 +11,7 @@ categories:
 - Daily Life
 - Spirituality
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/patries71/3525096406/" title="Uzuri practising Zen by patries71, on Flickr"><img src="http://farm4.static.flickr.com/3334/3525096406_ff12d76066.jpg" width="500" height="500" alt="Uzuri practising Zen" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/patries71/3525096406/" title="Uzuri practising Zen by patries71, on Flickr"><img src="https://farm4.static.flickr.com/3334/3525096406_ff12d76066.jpg" width="500" height="500" alt="Uzuri practising Zen" /></a></p>
 
 Inspired by Ryan's <a href="http://www.hotsamadhi.com/2010/06/100-days-of-practice/">"100 Days of Practice"</a> series, I'm setting up a public commitment to practice, though I'm going to scale it down to 30 days this first time. Now, I have a somewhat regular practice of sitting though I haven't made a point of doing the same amount at the same times every day. I also haven't always done the same practices, outside of sitting, every day. This discipline has often been difficult for me though I generally try to roll with it and be compassionate towards myself.
 

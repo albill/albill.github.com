@@ -11,4 +11,4 @@ tags:
 type: post
 status: draft
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/seanosteen/5516220839/" title="That's a Whole lotta Nerd in One Place! by SeanOsteen, on Flickr"><img src="http://farm6.static.flickr.com/5255/5516220839_5c802180ee.jpg" width="500" height="375" alt="That's a Whole lotta Nerd in One Place!" /></a><br><em>The Makerbot Nerd Pod (I'm second from the left)</em></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/seanosteen/5516220839/" title="That's a Whole lotta Nerd in One Place! by SeanOsteen, on Flickr"><img src="https://farm6.static.flickr.com/5255/5516220839_5c802180ee.jpg" width="500" height="375" alt="That's a Whole lotta Nerd in One Place!" /></a><br><em>The Makerbot Nerd Pod (I'm second from the left)</em></p>

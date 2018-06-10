@@ -14,7 +14,7 @@ categories:
 type: post
 status: publish
 ---
-<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/5112159255/" title="Christian explains the magic of making by albill, on Flickr"><img src="http://farm2.static.flickr.com/1374/5112159255_2bec7129e4.jpg" width="500" height="375" alt="Christian explains the magic of making"></a></p>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/5112159255/" title="Christian explains the magic of making by albill, on Flickr"><img src="https://farm2.static.flickr.com/1374/5112159255_2bec7129e4.jpg" width="500" height="375" alt="Christian explains the magic of making"></a></p>
 
 This weekend is the second annual [East Bay Mini Maker Faire](http://ebmakerfaire.wordpress.com/) in Oakland, CA. As the EBMMF website says:
 

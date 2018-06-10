@@ -12,7 +12,7 @@ categories:
 - Society
 - Spirituality
 ---
-<div align="center"><a href="http://www.flickr.com/photos/albill/4797093235/" title="Prison by albill, on Flickr"><img hspace="10" vspace="10" src="http://farm5.static.flickr.com/4136/4797093235_1163fb2b13.jpg" width="400" height="266" alt="Prison" /></a></div>
+<div align="center"><a href="http://www.flickr.com/photos/albill/4797093235/" title="Prison by albill, on Flickr"><img hspace="10" vspace="10" src="https://farm5.static.flickr.com/4136/4797093235_1163fb2b13.jpg" width="400" height="266" alt="Prison" /></a></div>
 I've received word back that I am now approved to visit and on the visitor's list for San Quention. SQ is the big (and fairly famous) prison in the Bay Area of California. What many people don't know is that it is also a facility with an incredible amount of volunteers and volunteer work. There are all kinds of groups and individuals meeting with inmates to try to help their lives or give them opportunities.
 
 There has been a Zen sangha there for ten years or so.  Most of the volunteers for it are affiliated with the San Francisco Zen Center or East Bay Community of Mindful Living. It meets every week on Sunday evening and has a fairly regular population of inmates during its existence, though people do tend to come and go as inmates get transferred around, released, or simply move on. 

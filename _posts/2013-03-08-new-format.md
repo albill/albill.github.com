@@ -10,7 +10,7 @@ categories:
 - Technology
 ---
 
-<div style="text-align:center"><img src="http://farm9.staticflickr.com/8153/7515539442_6520031616.jpg" width="375" height="500"><br><em>Biting off more than I can chew...</em></div>
+<div style="text-align:center"><img src="https://farm9.staticflickr.com/8153/7515539442_6520031616.jpg" width="375" height="500"><br><em>Biting off more than I can chew...</em></div>
 
 I haven't been posting as much here or any of my other blogs as of late. This is the perenial generic blog complaint of "I know that I haven't been posting much..."
 

@@ -11,7 +11,7 @@ categories:
 - Hacking
 - Technology
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/oninnovation/4848971293/" title="Maker Faire Detroit 2010 by OnInnovation, on Flickr"><img src="http://farm5.static.flickr.com/4114/4848971293_46b0a44ebd.jpg" width="500" height="375" alt="Maker Faire Detroit 2010" /></a></p>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/oninnovation/4848971293/" title="Maker Faire Detroit 2010 by OnInnovation, on Flickr"><img src="https://farm5.static.flickr.com/4114/4848971293_46b0a44ebd.jpg" width="500" height="375" alt="Maker Faire Detroit 2010" /></a></p>
 Chris Hecker, here in the East Bay area, wrote about a local Mini Maker Faire. He says:
 <blockquote>We're doing a mini version of the Maker Faire at Park Day School on Oct 24th, and thought people might be interested.  I'll be there in a little booth doing henna...I love doing henna, it's such a blast! Here are some of my previous ones: <a href="http://chrishecker.com/Henna_Tattoos">http://chrishecker.com/Henna_Tattoos</a> :)
 

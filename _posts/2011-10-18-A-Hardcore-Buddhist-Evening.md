@@ -15,7 +15,7 @@ categories:
 - Buddhism
 - Notable People
 ---
-<p style="text-align: center"><img src="http://www.openbuddha.com/images/daniel-ingram.jpg" width="500" height="331" alt="Daniel Ingram"></a><br><em>Daniel Ingram, photo courtesy of <a href="http://www.buddhistgeeks.com/2009/05/bg-119-the-dharma-overground/">Buddhist Geeks</a></em></p>
+<p style="text-align: center"><img src="/images/daniel-ingram.jpg" width="500" height="331" alt="Daniel Ingram"></a><br><em>Daniel Ingram, photo courtesy of <a href="http://www.buddhistgeeks.com/2009/05/bg-119-the-dharma-overground/">Buddhist Geeks</a></em></p>
 
 It is amusing that I [wrote about Daniel Ingram last week](http://www.openbuddha.com/2011/10/14/Mastering-the-Core-Teachings-of-the-Buddha-out-as-ebook/) in regards to the release of his book as an ebook because I wound up having a dinner and long evening with him and others in San Francisco last night. 
 

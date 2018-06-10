@@ -10,7 +10,7 @@ tags:
 - Equal Rights
 - Marriage
 ---
-<img src="http://www.openbuddha.com/images/550x-mozilla-dinosaur-logo.png" width="300" height="231" align="right" hspace="5" vspace="5">I'm a proud Mozillian. I've worked at the Mozilla Corporation since June of 2007. I came there after working at Microsoft for nine years and was tired of working in a closed system that seemed to be designed for the good of a few people only. Working with my coworkers and the larger Mozilla Community composed of everyone interested in Mozilla (not just Firefox) and contributing to it has been a great boon to me over the last few years. It was a breath of fresh air.
+<img src="/images/550x-mozilla-dinosaur-logo.png" width="300" height="231" align="right" hspace="5" vspace="5">I'm a proud Mozillian. I've worked at the Mozilla Corporation since June of 2007. I came there after working at Microsoft for nine years and was tired of working in a closed system that seemed to be designed for the good of a few people only. Working with my coworkers and the larger Mozilla Community composed of everyone interested in Mozilla (not just Firefox) and contributing to it has been a great boon to me over the last few years. It was a breath of fresh air.
 
 One thing that I cannot abide is prejudicial actions within that community which go against its basic ethos of inclusiveness and betterment for the good of all. Today, a fellow community member decided to send a post to [Planet Mozilla](http://planet.mozilla.org), the public face of the community through its blogs, that was prejudicial against the queer community.
 

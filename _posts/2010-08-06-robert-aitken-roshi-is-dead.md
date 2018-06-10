@@ -11,7 +11,7 @@ categories:
 - Notable People
 - Spirituality
 ---
-<div align="center"><a href="http://www.flickr.com/photos/albill/3457146021/"><img src="http://farm4.static.flickr.com/3635/3457146021_90374066a3_o.jpg" hspace="10" vspace="10" alt="Robert Aitken Roshi"></a></div>
+<div align="center"><a href="http://www.flickr.com/photos/albill/3457146021/"><img src="https://farm4.static.flickr.com/3635/3457146021_90374066a3_o.jpg" hspace="10" vspace="10" alt="Robert Aitken Roshi"></a></div>
 Robert Aitken Roshi died last night. He was 93 years old. This is a sad moment for American Zen.
 
 Here is the <a href="http://robertaitken.blogspot.com/2010/08/goodbye-dad-grandfather-papa-friend.html">official notice</a> from his blog.
