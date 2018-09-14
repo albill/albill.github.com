@@ -3,7 +3,7 @@ layout: "post"
 title: "Redlining and Kit Houses"
 date: "2018-09-13 22:21"
 ---
-<p style="text-align:center"><img src="/images/built-by-customers.jpg" width="540" height="379"></a></p>
+<p style="text-align:center"><img src="/images/built-by-customers.jpg" width="540" height="379"></p>
 I was listening to the new 99% Invisible podcast, [The House that Came in the Mail](https://99percentinvisible.org/episode/the-house-that-came-in-the-mail/), which is on the kit homes of Sears and Roebuck from 1908 until the 1940's. This is a topic that I'm actually pretty interested in and, if you don't know it, 99pi (as it is called) is one of the best podcasts out there for nerds.
 
 I have an arts and crafts bungalow, originally two bedrooms, in Oakland, California. It has been stated, though I've never verified, by at least one contractor that it is probably a kit home, though I doubt it is a Sears and Roebuck model. There is at least one 90% identical home within a block of me, clearly built on the same plans and then modified over the nearly 100 years since then.
