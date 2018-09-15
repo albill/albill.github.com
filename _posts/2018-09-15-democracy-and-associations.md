@@ -3,7 +3,7 @@ layout: "post"
 title: "Democracy and Associations"
 date: "2018-09-15 14:26"
 ---
-<p style="text-align:center"><img src="/images/woodsmen.jpg" width="500" height="406"></p>
+<p style="text-align:center"><img src="/images/woodmen.jpg" width="500" height="406"></p>
 
 _The Atlantic_ has an article in this next month's issue, "[Americans Aren’t Practicing Democracy Anymore](https://www.theatlantic.com/magazine/archive/2018/10/losing-the-democratic-habit/568336/)," that hits on some points on the degeneration or degregadation of democratic habits in the United States. This article states:
 
