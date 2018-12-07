@@ -13,9 +13,9 @@ It is kind of funny because while I don't often try to say things political in m
 
 As a token of today's American holiday, I only offer the following offering along with the immortal words from the senate of Rome, "<em><strong>Sic semper tyrannis!</strong></em>" If only we had the daring as a people that our ancestors did.
 
-<strong><font size="5"><img src="/images/declaration-of-independence.jpg" align="right" border="1" height="350" hspace="5" vspace="5" width="295" />I</font><font size="4">N</font><font size="5"> CONGRESS, J</font><font size="4">ULY 4, 1776</font>
+<font size="5"><img src="/images/declaration-of-independence.jpg" align="right" border="1" height="350" hspace="5" vspace="5" width="295" />I</font><font size="4">N</font><font size="5"> CONGRESS, J</font><font size="4">ULY 4, 1776</font>
 
-<font size="4">The unanimous Declaration</font> <font size="2">of the thirteen united</font> <font size="4">States of America</font></strong>
+<font size="4">The unanimous Declaration</font> <font size="2">of the thirteen united</font> <font size="4">States of America</font>
 
 When in the Course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
 
