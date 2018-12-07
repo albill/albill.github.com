@@ -23,12 +23,12 @@ Here are a few choice ones below:
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364256490/"><img width="375" height="500" alt="Fudo image on Armor" src="http://farm1.static.flickr.com/161/364256490_26f83f374c.jpg" /></a>
 Fudo on a Breastplate
 
-<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364252775/"><img width="252" height="500" alt="Vaisravana" src="http://farm1.static.flickr.com/105/364252775_309423bebc.jpg" /></a>
+<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364252775/"><img width="252" height="500" alt="Vaisravana" src="http://farm1.static.flickr.com/105/364252775_309423bebc.jpg" /></a><br>
 Vaisravana, the Guardian of the North
-(one of four guardians of the cardinal directions)
+(one of four guardians of the cardinal directions)</p>
 
-<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364196218/"><img width="364" height="500" alt="Gandhara Bodhisattva 2" src="http://farm1.static.flickr.com/171/364196218_7c60cbafe5.jpg" /></a>
-A Gandharan Bodhisattva
+<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364196218/"><img width="364" height="500" alt="Gandhara Bodhisattva 2" src="http://farm1.static.flickr.com/171/364196218_7c60cbafe5.jpg" /></a><br>
+A Gandharan Bodhisattva</p>
 
-<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364217732/"><img width="394" height="500" alt="Vajradhara" src="http://farm1.static.flickr.com/125/364217732_151ff4f269.jpg" /></a>
-Vajradhara (from Tibet)
+<p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/364217732/"><img width="394" height="500" alt="Vajradhara" src="http://farm1.static.flickr.com/125/364217732_151ff4f269.jpg" /></a><br>
+Vajradhara (from Tibet)</p>
