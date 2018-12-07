@@ -13,9 +13,7 @@ I had no idea that there was a <a href="http://www.sfswedenborgian.org/">Swedenb
 
 
 
-<p align="center"><img src="/images/Swed-sanc.jpg" alt="Interior of Church" title="Interior of Church" />
-
-<em>Church Interior</em>
+<p align="center"><img src="/images/Swed-sanc.jpg" alt="Interior of Church" title="Interior of Church" /><br><em>Church Interior</em></p>
 
 
 
