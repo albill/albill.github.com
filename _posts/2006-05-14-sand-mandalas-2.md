@@ -11,6 +11,6 @@ categories:
 ---
 The Asia Society has a series of pictures taken from above of Tibetan monks constructing a sand mandala. If you've never seen close up pictures of one of these, they are <a href="http://www.artnetwork.com/Mandala/gallery.html">quite beautiful</a>.
 
-<img src="http://www.arcanology.com/images/sandmandala2001.jpg" border="1" />
+<img src="/images/sandmandala2001.jpg" border="1" />
 
 The series is up at <a href="http://www.asiasociety.org/arts/mandala/archive.html">here</a>.
