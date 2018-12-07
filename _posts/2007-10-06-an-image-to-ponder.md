@@ -11,4 +11,5 @@ categories:
 - Society
 ---
 
-<p style="text-align: center"><img src="http://www.arcanology.com/images/burma-monks-soldiers2.jpg" border="1" height="280" hspace="0" vspace="0" width="280" /></p>
+
+<p style="text-align: center"><img src="/images/burma-monks-soldiers2.jpg" border="1" height="280" hspace="0" vspace="0" width="280" /></p>

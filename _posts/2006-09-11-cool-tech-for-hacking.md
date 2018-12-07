@@ -11,4 +11,6 @@ categories:
 ---
 While looking at mini-itx motherboards, I came upon the <a href="http://www.tgdaily.com/2006/08/30/defcon2006_janus_project/">Janus Project</a>. I thought about something similar at one point (setting up and leaving a wireless honeypot in a place like Third Place Books near Seattle) but these guys did it and then some. Makes my little geek propeller spin.
 
-<img src="http://www.arcanology.com/images/goldy.jpg" border="1" />
+
+
+<img src="/images/goldy.jpg" border="1" />
