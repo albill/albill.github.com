@@ -14,8 +14,6 @@ This news item just about had me rolling out of my chair. As it says, if it wasn
 <h2><a href="http://news.yahoo.com/s/afp/20061001/wl_mideast_afp/iraqusshiitesjesus">Iraq Sadr City residents insulted by 'Buddy Jesus'</a></h2>
 <em class="timedate">Sun Oct  1,  9:35 AM ET</em>
 
-<img src="http://d.yimg.com/us.yimg.com/p/afp/20061001/capt.sge.stf76.011006133549.photo00.photo.default-512x384.jpg" />
-
 BAGHDAD (AFP) - Iraqi Shiite residents of Baghdad's Sadr City have expressed anger on over a picture of a grinning Jesus they mistook for a Shiite holy figure that appeared in the area after a joint US-Iraqi operation.
 
 Residents found a picture of "Buddy Jesus" from the 1999 film "Dogma" posted in the streets, accompanied by a badly photocopied pamphlet bearing a crude approximation of a US military crest and outlining a US "plan" to subjugate the neighborhood.
