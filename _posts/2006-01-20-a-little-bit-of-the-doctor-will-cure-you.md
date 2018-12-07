@@ -10,4 +10,4 @@ categories:
 - Humor
 ---
 
-<p style="text-align: center"><img src="http://www.arcanology.com/images/thepeopleyoullkill.jpg" alt="A book cover" title="A book cover" /></p>
+<p style="text-align: center"><img src="/images/thepeopleyoullkill.jpg" alt="A book cover" title="A book cover" /></p>
