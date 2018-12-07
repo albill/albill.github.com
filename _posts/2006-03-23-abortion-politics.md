@@ -11,4 +11,4 @@ categories:
 ---
 This was shameslessly stolen via an online friend of mine:
 
-<a href="http://www.arcanology.com/images/bill.jpg">http://www.arcanology.com/images/bill.jpg</a>
+<img src="/images/bill.jpg">
