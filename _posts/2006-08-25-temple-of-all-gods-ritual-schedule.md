@@ -13,4 +13,4 @@ categories:
 Veleda has posted the ritual schedule for the Temple of All Gods (TAG) at Burning Man next week.
 
 Looks like some interesting stuff. I won't be there until Wednesday but except to go full bore after that. Looks like a lack of sleep on some days though. Maybe someone will have room under their shade structure for my tent.
-<p align="center"><img border="1" alt="TAG BM Schedule" src="http://www.arcanology.com/images/rituals2006a.jpg" /></p>
+<p align="center"><img border="1" alt="TAG BM Schedule" src="/images/rituals2006a.jpg" /></p>
