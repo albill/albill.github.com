@@ -43,7 +43,7 @@ My photos are up on Flikr at <a href="http://www.flickr.com/photos/albill/"> htt
 
 A little creativity with the official t-shirt (deodorant  was not given out):
 
-<img src="http://www.arcanology.com/images/ie-smc.jpg" border="1" height="452" width="313" />
+<img src="/images/ie-smc.jpg" border="1" height="452" width="313" />
 
 Sean having a moment:
 

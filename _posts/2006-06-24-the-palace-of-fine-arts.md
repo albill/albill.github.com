@@ -16,11 +16,10 @@ I have a thing for architecture, especially in a Classical or pseudo-Classical s
 Here are a couple from the <a href="http://www.flickr.com/photos/albill/sets/72157594176296890/">set</a>:
 
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/174179631/"><img width="375" height="500" alt="IMG 0031" src="http://static.flickr.com/51/174179631_d18b5dfa98.jpg" /></a>
-From the other side of the pond...
-<div align="center">
+From the other side of the pond...</p>
+
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/174180765/"><img width="500" height="375" alt="IMG 0054" src="http://static.flickr.com/78/174180765_a96262bc46.jpg" /></a>
-Column Details
-<div align="center">
+Column Details</p>
+
 <p align="center"><a title="Photo Sharing" href="http://www.flickr.com/photos/albill/174179917/"><img width="500" height="375" alt="IMG 0036" src="http://static.flickr.com/56/174179917_25d07aa162.jpg" />
-</a> Other Roof Details</div>
-</div>
+</a> Other Roof Details</p>

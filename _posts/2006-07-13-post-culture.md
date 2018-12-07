@@ -16,4 +16,4 @@ This made my day...
 
 <a href="http://centennialsociety.com/business_reply/businessreply.htm">http://centennialsociety.com/business_reply/businessreply.htm</a>
 
-<img src="http://www.arcanology.com/images/office_panel_8.jpg" border="1" />
+<img src="/images/office_panel_8.jpg" border="1" />
