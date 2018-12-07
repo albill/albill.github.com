@@ -22,4 +22,4 @@ I found that I appreciated and enjoyed the circles that the store made in time, 
 I found myself thinking in Buddhist terms of both his clutching and his fears, especially when contrasted with what his love was expressing (both his love in emotional terms and his love in the person of his other...).
 
 It is definitely worth seeing on the big screen for both immediacy and the visual impact.
-<p align="center"><img border="1" alt="The Tree of Life" title="The Tree of Life" src="http://www.zhangzhung.net/lj/fountain-web.jpg" /></p>
+<p align="center"><img border="1" alt="The Tree of Life" title="The Tree of Life" src="/images/fountain-web.jpg" /></p>

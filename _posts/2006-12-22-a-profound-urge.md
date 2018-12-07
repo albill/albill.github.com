@@ -11,5 +11,8 @@ categories:
 ---
 I feel a profound urge to watch Terry Gilliam's <a href="http://us.imdb.com/title/tt0120669/"><strong>Fear and Loathing in Las Vegas</strong></a> right now. It has been a while.
 
-<p align="center"><img border="1" src="http://www.zhangzhung.net/lj/fearnl1.jpg" />
+
+
+<p align="center"><img border="1" src="/images/fearnl1.jpg" />
+
 Picking up hitchhikers?
