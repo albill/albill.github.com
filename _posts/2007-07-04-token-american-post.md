@@ -17,7 +17,7 @@ As a token of today's American holiday, I only offer the following offering alon
 
 
 
-<p align="center"><strong><font size="5"><img src="/images/declaration-of-independence.jpg" align="right" border="1" height="350" hspace="5" vspace="5" width="295" />I</font><font size="4">N</font><font size="5"> CONGRESS, J</font><font size="4">ULY 4, 1776</font>
+<p align="center"><strong><font size="5"><img src="/images/declaration-of-independence.jpg" align="right" border="1" height="350" hspace="5" vspace="5" width="295" />I</font><font size="4">N</font><font size="5"> CONGRESS, J</font><font size="4">ULY 4, 1776</font></p>
 
 <font size="4">The unanimous Declaration</font> <font size="2">of the thirteen united</font> <font size="4">States of America</font></strong>
 

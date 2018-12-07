@@ -11,8 +11,11 @@ categories:
 - Spirituality
 ---
 There will be a two and a half day long class on Creation and Completion stage practice next month in Berkeley at the local Shambhala center. I'm considering attending this as it could be very informative.
+
 <h2><a href="http://sf.shambhala.org/program_details.php?id=8637&amp;cid=177">Creation and Completion</a></h2>
+
 <strong>with Venerable Khandro Rinpoche</strong>
+
 August 24 / 7:00 PM - 9:00 PM
 August 25 / 9:00 AM - 5:00 PM
 August 26 / 9:00 AM - 5:00 PM

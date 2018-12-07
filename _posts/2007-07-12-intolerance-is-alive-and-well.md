@@ -39,8 +39,6 @@ Would mainstream America tolerate, even for a second, similar behavior for a Chr
 
 <strong>Update</strong>: As one online acquaintance pointed out to me, you can see the disruption in <a href="http://www.youtube.com/watch?v=g8vENZwp1rk">clips from C-SPAN</a> that are up on YouTube.
 
-<lj-embed><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/g8vENZwp1rk"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/g8vENZwp1rk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></lj-embed>
-
 <b>Another Update:</b> Here is the prayer in question that was so offensive:
 <blockquote>Let us pray. We meditate on the transcendental Glory of the Deity Supreme, who is inside the heart of the Earth, inside the life of the sky, and inside the soul of the Heaven. May He stimulate and illuminate our minds.
 
@@ -51,6 +49,3 @@ May the Senators strive constantly to serve the welfare of the world, performing
 United your resolve, united your hearts, may your spirits be as one, that you may long dwell in unity and concord.
 
 Peace, peace, peace be unto all. Lord, we ask You to comfort the family of former First Lady, Lady Bird Johnson. Amen.</blockquote>
-
-
-
