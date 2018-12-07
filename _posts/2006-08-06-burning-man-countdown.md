@@ -12,7 +12,7 @@ categories:
 - Society
 - Spirituality
 ---
-<img vspace="10" hspace="10" border="1" align="right" src="http://www.zhangzhung.net/pics/TAG-flyer.png" />I had dinner over in San Francisco with my recent friend, Veleda. This was the first time we'd met in person though we have mutual friends and had been speaking online for a while.
+<img vspace="10" hspace="10" border="1" align="right" src="/images/TAG-flyer.png" />I had dinner over in San Francisco with my recent friend, Veleda. This was the first time we'd met in person though we have mutual friends and had been speaking online for a while.
 
 I managed to get lost going over to her place since I still don't know the actual city of San Francisco that well, spending most of my time in Oakland, Emeryville, and Berkeley (and, actually, I have ever since I started visiting the Bay Area years ago). Eventually, I found it and we had a late dinner along with a good three or so hour chat.
 
