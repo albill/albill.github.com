@@ -10,7 +10,9 @@ categories:
 - Buddhism
 - Spirituality
 ---
-<img src="http://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg" width="180" height="240" alt="Buddha-Sarnath-sepia" / align="right" border="1">It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.
+<img src="https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg" width="180" height="240" alt="Buddha-Sarnath-sepia" / align="right" border="1">
+
+It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.
 
 This last weekend was very good in the sense of feeling like I have a handle on aspects of my practice, at least as far as meditation goes, and reinforcing my desire to practice. At the same time, stuff that I am not willing to get into in public has come to somewhat of a head in terms of Buddhist politics. For once, it isn't because of anything in particular to do with me but more to do with the way Buddhism propagates in the West, the politics between groups, and how teaching and training for groups is handled.
 

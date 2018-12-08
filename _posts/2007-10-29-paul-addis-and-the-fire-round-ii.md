@@ -11,8 +11,7 @@ categories:
 - Notable People
 - Society
 ---
-<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1260594125/" title="Photo Sharing">
-<img src="http://farm2.static.flickr.com/1048/1260594125_34d094c5ea_m.jpg" alt="Paul Addis Mugshot" border="1" height="240" width="206" /></a>
+<p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1260594125/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1048/1260594125_34d094c5ea_m.jpg" alt="Paul Addis Mugshot" border="1" height="240" width="206" /></a></p>
 
 Good ol' Paul "I'm going to burn the Man at Burning Man" Addis was just arrested in the last day for apparently trying to burn down Grace Cathedral in San Francisco.
 

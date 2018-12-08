@@ -10,7 +10,7 @@ categories:
 - Daily Life
 ---
 I'm back from my short trip to Seattle for my grandfather's 80th birthday. I spent Saturday seeing my grandparents, my daughter, my uncles and their families. I haven't seen some of them in quite a few years, even though it doesn't ever seem that long. It is clearer with my cousins, who are all about 18 to 25 years younger than me, since they change so much from the times I've seen them last. I even saw my brother and his wife for the first time since my wedding.
-<p style="text-align: center"><a href="http://www.flickr.com/photo_zoom.gne?id=285456416&amp;size=m"><img src="http://farm1.static.flickr.com/113/285456416_21c757ce74.jpg" border="1" /></a></p>
+
 I'd say that I am "back home" now after arriving on the plane tonight except it is clear from visiting Seattle that it is still really my home.
 
 It is Fall there now and it was raining on and off all weekend with the temperature around 50 degrees. This morning, I went to breakfast at Flowers, a vegetarian place in the University District where I've gone on and off for over ten years now.
