@@ -10,6 +10,7 @@ categories:
 - Buddhism
 - Spirituality
 ---
+
 <img src="https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg" width="180" height="240" alt="Buddha-Sarnath-sepia" / align="right" border="1">
 
 It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.

@@ -19,9 +19,7 @@ The <a href="http://www.sbinstitute.com/research_Shamatha.html">Shamatha Project
 
 The questions we address include: What measurable changes in attentional ability occur as a function of intensive meditation training? What are the neural correlates of these changes and the range of their consequences? Is it true, as Buddhist contemplatives claim, that improvements in the voluntary control of attention and associated improvements in attention systems in the brain make it easier to recognize and overcome negative emotions, maintain resilience in the face of stress, and improve relationships with other people? Do the changes persist after meditation trainees return from the retreat experience to the cacophony of everyday life in a modern society?</blockquote>
 
-Google Video has an <a href="http://video.google.com/videoplay?docid=-1703296011520278016">introductory talk available</a> by Wallace on the Shamatha Project that I've added below:
-
-<div align="center"><lj-embed><embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-1703296011520278016&hl=en" flashvars=""> </embed></lj-embed></div>
+Google Video has an <a href="http://video.google.com/videoplay?docid=-1703296011520278016">introductory talk available</a> by Wallace on the Shamatha Project.
 
 The more recent talk on December 19, 2007 discussed the goals of the project, the history behind it and some of the preliminary findings from it. This is the first time that this kind of data has been gathered in a controlled environment working with people without a previous background in meditation.
 

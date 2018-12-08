@@ -20,7 +20,3 @@ I've long been a fan of Chogyam Trungpa's work and Shamatha/Vipassana practices 
 We'll see how I feel tomorrow or Sunday night but I'm looking forward to it. I've never been to the Berkeley Shambhala Center though it is one of the oldest in the country.
 
 I probably should not have had as much coffee as I've had this afternoon though...  Unfortunately, R has had a bad cold for a few days and I have  feeling that I've picked it up as well. This could turn an... enlightening experience into one of the hell realms. We'll see how it goes though.
-
-As an aside, there are a series of videos on Google Video on Trungpa's vision of an enlightened society and the Shambhala Tradition. Here is the first one but there are at least four more:
-
-<div align="center"><lj-embed><embed style="width:400px; height:326px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=-4042924371389663223&hl=en" flashvars=""> </embed></object></lj-embed><br><a href="http://video.google.com/videoplay?docid=-4042924371389663223&q=trungpa&pr=goog-sl">Google Video Link</a></div>

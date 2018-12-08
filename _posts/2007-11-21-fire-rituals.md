@@ -21,20 +21,14 @@ As Dr. Richard Payne notes in his book, "<a href="http://www.worldcat.org/oclc/2
 Later, Dr. Payne goes on to write:
 <blockquote>One of the characteristics of Tantric Buddhist goma is the importance placed on the inner goma. The inner goma is a visualization which emphasizes the unity of the deity, the fire and the practitioners (the mouth of the deity, the mouth of the altar hearth and the practitioner's own mouth are visualized as one), and the unity of the three mysteries of body, speech and mind.</blockquote>
 
-You can see a very brief example of a Hindu fire ritual on <a href="http://www.youtube.com/watch?v=iHLf46oG2tE">Youtube</a> below:
+You can see a very brief example of a Hindu fire ritual on <a href="http://www.youtube.com/watch?v=iHLf46oG2tE">Youtube</a>.
 
-<lj-embed><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/iHLf46oG2tE&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/iHLf46oG2tE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></lj-embed>
+You can compare it with the very brief bit shown of a Shingon goma ritual <a href="http://www.youtube.com/watch?v=9fbPZUxA7sA">here</a> as well.
 
-You can compare it with the very brief bit shown of a Shingon goma ritual <a href="http://www.youtube.com/watch?v=9fbPZUxA7sA">here</a> as well:
+(<em>People tend not to film these as they are fairly private but the above seems to come officially from a temple on Koyasan.</em>)
 
-<lj-embed><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/9fbPZUxA7sA&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/9fbPZUxA7sA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></lj-embed>
+The goma ritual is much longer (around 45 minutes or so oftentimes) so this is really just a brief snippet. Unfortunately, you don't see the pouring of the oils in the Japanese ritual clip as you do in the Hindu one but it is present if you witness the ritual.
 
-(<em>People tend not to film these as they are fairly private but the above seems to come officially from a temple on Koyasan.</em>) 
+In Japan, there are public performances at various times a year with large crowds. I did find one example of this on <a href="http://www.youtube.com/watch?v=bUfXxdV1tgk">Youtube</a> as well.
 
-The goma ritual is much longer (around 45 minutes or so oftentimes) so this is really just a brief snippet. Unfortunately, you don't see the pouring of the oils in the Japanese ritual clip as you do in the Hindu one but it is present if you witness the ritual. 
-
-In Japan, there are public performances at various times a year with large crowds. I did find one example of this on <a href="http://www.youtube.com/watch?v=bUfXxdV1tgk">Youtube</a> as well:
-
-<lj-embed><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/bUfXxdV1tgk&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bUfXxdV1tgk&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></lj-embed>
-
-This all seemed worth saying something about since it is far outside the experience of most people outside of Indian and Japanese culture (or Tibetan, for that matter). 
+This all seemed worth saying something about since it is far outside the experience of most people outside of Indian and Japanese culture (or Tibetan, for that matter).
