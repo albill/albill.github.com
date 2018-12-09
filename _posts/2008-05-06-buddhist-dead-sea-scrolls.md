@@ -28,4 +28,4 @@ For the manuscripts in the Schoyen Library, Norway is trying to purchase the col
 
 I'm looking forward to translations of the more intact portions of these being made available someday.
 
-<b>Update</b>: Apparently, part of this isn't recent news and they have been on sale or in the process of it for a while. There is a <a href="http://www.schoyencollection.com/news_articles/donation2afghan-150208.htm">note</a> on the Schoyen Collection website about some of the fragments being sent back to Afghanistan that is from this February.
+<strong>Update</strong>: Apparently, part of this isn't recent news and they have been on sale or in the process of it for a while. There is a <a href="http://www.schoyencollection.com/news_articles/donation2afghan-150208.htm">note</a> on the Schoyen Collection website about some of the fragments being sent back to Afghanistan that is from this February.

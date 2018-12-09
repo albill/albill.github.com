@@ -14,7 +14,7 @@ Valve Software came out recently with the game, "<a href="http://www.whatistheor
 <p align="center"><a href="http://www.flickr.com/photos/albill/2061099382/" title="portal-graphic by albill, on Flickr"><img src="http://farm3.static.flickr.com/2054/2061099382_b97c23dfdf_o.png" width="383" height="256" alt="portal-graphic" /></a></p>
 
 <a href="http://www.peripheralarbor.com/">Paul Spooner</a> has written an <a href="http://www.peripheralarbor.com/A%20Few%20Portal%20Technology%20Application%20Ideas.pdf">amusing paper</a> on the implications of the physics of Portal and the creative application of the same. A sample below:
-<blockquote><b>Free Kinetic Energy</b>
+<blockquote><strong>Free Kinetic Energy</strong>
 
 The basic way in which portal technology is used in Portal is to move matter from place to place.  Apart from conquering distance and re-directing energy balls, the obvious direction to go is straight down, the infinite elevator shaft.  This makes use of the earth’s gravity to get free kinetic energy. In Portal you mostly just fling yourself about with it, but this kinetic energy could be used in several ways. 
 

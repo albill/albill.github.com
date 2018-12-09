@@ -32,5 +32,5 @@ Below are some screenshots from XP that I quickly took. Please click on them for
 <p align="center"><a href="http://www.flickr.com/photos/albill/2313174400/" title="ie8-beta1-acid3-prompt by albill, on Flickr"><img src="http://farm4.static.flickr.com/3042/2313174400_9d947bed13.jpg" width="500" height="396" alt="ie8-beta1-acid3-prompt" /></a><br>IE7 doing Acid3 Test (MSXML 3.0 prompts the first time it is used)</p>
 <p align="center"><a href="http://www.flickr.com/photos/albill/2313174452/" title="ie8-beta1-acid3 by albill, on Flickr"><img src="http://farm4.static.flickr.com/3079/2313174452_851b43b20a.jpg" width="500" height="396" alt="ie8-beta1-acid3" /></a><br>IE8 doing Acid3 test after accepting prompt (17?! Firefox 3 gets 66 so far...)</p>
 
-<b>Update:</b> I've added the <a href="http://disruptive-innovations.com/zoo/css3tests/selectorTest.html#target">CSS3 Selector Test</a> as well:
+<strong>Update:</strong> I've added the <a href="http://disruptive-innovations.com/zoo/css3tests/selectorTest.html#target">CSS3 Selector Test</a> as well:
 <p align="center"><a href="http://www.flickr.com/photos/albill/2312495403/" title="ie8-beta1-css3-selector by albill, on Flickr"><img src="http://farm4.static.flickr.com/3234/2312495403_6401c74593.jpg" width="500" height="404" alt="ie8-beta1-css3-selector" /></a></p>

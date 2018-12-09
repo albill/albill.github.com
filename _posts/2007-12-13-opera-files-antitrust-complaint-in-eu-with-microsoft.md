@@ -44,4 +44,4 @@ I'm not sure that I really agree with her but I am also unconvinced that the EU 
 
 Watch for more news as this develops. This is likely to go interesting places before it is all over and to possibly take years to work through, based on the last couple of antitrust lawsuits with Microsoft.
 
-<b>Update:</b> Todd Bishop of the Seattle Post-Intelligencer <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/127699.asp?source=rss">interviewed Håkon Wium Lie</a> about this today as well. 
+<strong>Update:</strong> Todd Bishop of the Seattle Post-Intelligencer <a href="http://blog.seattlepi.nwsource.com/microsoft/archives/127699.asp?source=rss">interviewed Håkon Wium Lie</a> about this today as well. 

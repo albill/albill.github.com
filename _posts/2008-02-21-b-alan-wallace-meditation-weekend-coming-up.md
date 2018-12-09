@@ -19,15 +19,15 @@ Alan will offer teachings on Friday, February 29th in the evening and lead a wee
 
 These programs are open to all people with a sincere interest in learning ways to settle down ones mind, and cultivate compassion. 
 <h2>Meditation for Settling the Mind: Finding Happiness from Within</h2>
-<b>Friday Evening, February 29th, 2008, from 7 to 9pm</b>
+<strong>Friday Evening, February 29th, 2008, from 7 to 9pm</strong>
 
 On Friday evening Alan Wallace will give an overview presentation into the meditation techniques & the development of a loving heart described below. These methods will be explored in depth over the weekend and participants will be guided in their implementation. Both of these programs are open to all.
 
 Requested donation is $20.
 <h2>Balancing the Heart & Mind: A Weekend Meditation Seminar</h2>
-<b>Retreat Schedule:
+<strong>Retreat Schedule:
 Saturday, March 1, 9am to noon & 2 to 5pm, with an optional session on Saturday from 7 to 9pm.
-Sunday, March 2, 9am to noon & 2 to 5pm</b>
+Sunday, March 2, 9am to noon & 2 to 5pm</strong>
 
 In this weekend retreat Alan will focus on two methods for cultivating meditative quiescence, or shamatha.  He will teach the practice of “mindfulness of breathing”, which is an effective approach to soothing the body and calming the discursive mind. He will also introduce a method that is both a shamatha practice and a preliminary to Dzogchen, called “settling the mind in its natural state.” The attainment of shamatha is widely regarded in the Buddhist tradition as an indispensable foundation for the cultivation of contemplative insight (vipashyana), and this retreat is designed to provide participants with a sufficient theoretical understanding and a basis in experience to enable them to proceed effectively toward this extraordinary state of mental and physical balance.
 

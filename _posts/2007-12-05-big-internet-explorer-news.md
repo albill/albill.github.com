@@ -14,9 +14,9 @@ categories:
 
 What is this exciting news that brings Dean out to dust off his blog posting skills after more than a year of disuse? The news is...the next version of IE will be called "Internet Explorer 8!!!"
 
-My natural response is along the lines of: <b>"WTF?! Are you shitting me? After a year of BS and silence, you're telling us that it is called "IE8" now with no word on features, dates, or anything?"</b>
+My natural response is along the lines of: <strong>"WTF?! Are you shitting me? After a year of BS and silence, you're telling us that it is called "IE8" now with no word on features, dates, or anything?"</strong>
 
-The more appropriate response is the sound that I am hearing of a million web developers' jaws dropping and hitting their desks. Given the public beating that the IE team is taking in their blog (which is the ONLY means anyone outside of Microsoft has to communicate with the team), you'd think he might take this opportunity to address some of the responses and questions from people. Heck, he can filter out the flames and just say <b>something</b> about what the 500 lb. gorilla of the Windows web browsing world is doing in its next version. Does he? No.
+The more appropriate response is the sound that I am hearing of a million web developers' jaws dropping and hitting their desks. Given the public beating that the IE team is taking in their blog (which is the ONLY means anyone outside of Microsoft has to communicate with the team), you'd think he might take this opportunity to address some of the responses and questions from people. Heck, he can filter out the flames and just say <strong>something</strong> about what the 500 lb. gorilla of the Windows web browsing world is doing in its next version. Does he? No.
 
 Color me completely unsurprised. I don't know what is up with Microsoft in the last year but they seem to have completely turned their backs on talking to people. Since IE still ships with every version of Windows and comes down Windows Update to everyone running it, there is no way to just ignore them completely. They will have an effect on the rest of us working on an open web. The lack of content (not to mention the fact that the head of IE doesn't even blog for an entire year) is insulting.
 
@@ -24,7 +24,7 @@ In the meantime, the WebKit community has made its own development more transpar
 
 As always, just my uninformed opinion.
 
-<b>Update:</b> Some details of the Bill Gates chat at Mix 'n Mash yesterday are available, as it turns out. This was just forwarded to me after a conversation that I had. Take a look at page 18 of the <a href="http://www.liveside.net/files/folders/6910/download.aspx">transcript</a> (warning: it is a word document): 
+<strong>Update:</strong> Some details of the Bill Gates chat at Mix 'n Mash yesterday are available, as it turns out. This was just forwarded to me after a conversation that I had. Take a look at page 18 of the <a href="http://www.liveside.net/files/folders/6910/download.aspx">transcript</a> (warning: it is a word document): 
 
 <blockquote>MOLLY HOLZSCHLAG:  So, I have a little bit of an infrastructure question, as related to MIX and the open conversation and transparency.  A few years ago, MIX was a big information and conversation about the opening of ideas, it was about when in the specific we talked about the browser, IE 7, a lot of interest in that, a lot of (inaudible) talking about it.  So, for the last year or so, I've been working, I've been a consultant here with the IE and (inaudible) team to try and help get standards implementation to be strong, and we see some really great advances.  
 
@@ -32,7 +32,7 @@ But very recently there seems to be a shift in infrastructure, and I don't reall
 
 So, I'm very concerned about this, because being the person here that's supposed to be the liaison between designers and developers for the Web and the browser conversation, this conversation seems to have been pretty much shut down, and I'm very concerned as to why that is, and how we can correct it.
 
-BILL GATES:  I'll have to ask Dean what the hell is going on.  I mean, we're not -- <b><em>there's not like some deep secret about what we're doing with IE.</em></b>
+BILL GATES:  I'll have to ask Dean what the hell is going on.  I mean, we're not -- <strong><em>there's not like some deep secret about what we're doing with IE.</em></strong>
 
 MOLLY HOLZSCHLAG:  But they're not letting -- like you know how people (inaudible) going around talking (inaudible), but I do realize that there is a new engine, there is some information, and this information is not -- we are being asked not to talk about it.  So, I'm concerned about that.
 

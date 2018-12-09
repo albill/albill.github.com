@@ -15,7 +15,7 @@ categories:
 
 In many ways, Buddhism seems to be a natural path for institutionalized prisoners who make the decision to grow spiritually while incarcerated. With training and some instruction on a regular basis, most inmates should have the time and space for a meditation practice (or other forms of contemplation). 
 
-When I volunteered to work with Wiccan inmates at a Washington state prison in the past, almost all of the inmates had chosen their path <b>after</b> they were incarcerated. I expect that this is true for most followers of non-mainstream (which, in America, means non-Christian or Jewish) faiths. I haven't seen figures to really back this but this is what my Colbertian gut tells me.
+When I volunteered to work with Wiccan inmates at a Washington state prison in the past, almost all of the inmates had chosen their path <strong>after</strong> they were incarcerated. I expect that this is true for most followers of non-mainstream (which, in America, means non-Christian or Jewish) faiths. I haven't seen figures to really back this but this is what my Colbertian gut tells me.
 
 The environment in a prison is, frankly, horrid. I doubt anyone reading this would be surprised to learn that. The reality of what I saw, at a medium security facility, was both better and worse than what the media portrays, which is often a vision of maximum security prisons. That said, spending time in a prison was probably the greatest motivator that I've ever seen to not want to be incarcerated. This harsh prison environment has a corrosive effect on people in a variety of ways. The loss of control of anything to do with one's self and of basic human dignity is toxic to people, who seem to respond in a variety of ways. That being case, this very harshness may also act as a motivator to practice and deal with one's life, at least on a mental level. An inmate has nothing but time on their hands, often many years of it.
 
@@ -37,15 +37,15 @@ I know of a number of Buddhist prison programs that stand out:
 <li><a href="http://www.prison.dhamma.org/">Vipassana Meditation Courses</a> from the teachings of S.N. Goenka (Theravadan)</li>
 <li>The <a href="http://www.mbaproject.org/index.php?c=About">Mind Body Awareness Project</a> - This organization focuses on youths and teaches both meditation and yoga techniques.
 </ol>
-The Prison Dharma Network has published the wonderful book, <a href="http://www.amazon.com/Sitting-Inside-Buddhist-Practice-Americas/dp/0971814309/"><b>Sitting Inside</b></a>, on Dharma practice in prisons.
+The Prison Dharma Network has published the wonderful book, <a href="http://www.amazon.com/Sitting-Inside-Buddhist-Practice-Americas/dp/0971814309/"><strong>Sitting Inside</strong></a>, on Dharma practice in prisons.
 
 As you can see, most of these programs in the United States are run by Zen groups. I'm not sure why this is except that Zen is fairly well established and is focused on a relatively specific sort of meditation practice (as is Vipassana meditation as taught by S.N. Goenka and his followers).
 
-There has actually been a bit of media focus on Vipassana in prisons. There was a video made in the mid-90s about the introduction of Vipassana meditation into an Indian prison called, <b><a href="http://www.dhamma.org/en/av/dtdv.shtml">Doing Time, Doing Vipassana</a></b>. You can actually watch this online (and I've embedded the first section below). 
+There has actually been a bit of media focus on Vipassana in prisons. There was a video made in the mid-90s about the introduction of Vipassana meditation into an Indian prison called, <strong><a href="http://www.dhamma.org/en/av/dtdv.shtml">Doing Time, Doing Vipassana</a></strong>. You can actually watch this online (and I've embedded the first section below). 
 
 <lj-embed><object width="420" height="324"><param name="movie" value="http://www.dailymotion.com/swf/xqhdl"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.dailymotion.com/swf/xqhdl" type="application/x-shockwave-flash" width="420" height="324" allowFullScreen="true" allowScriptAccess="always"></embed></object></lj-embed>
 
-There was actually a movie made about a Vipassana meditation retreat done within an American prison in the South with maximum security prisoners. This movie is <b><a href="http://www.dhammabrothers.com/">The Dhamma Brothers</a></b>. You can read an <a href="http://www.nytimes.com/2007/09/13/movies/13dhar.html">article in the New York Times</a> about it and see the <a href="http://www.youtube.com/watch?v=E9pwkCSSnZA">trailer</a> embedded below as well.
+There was actually a movie made about a Vipassana meditation retreat done within an American prison in the South with maximum security prisoners. This movie is <strong><a href="http://www.dhammabrothers.com/">The Dhamma Brothers</a></strong>. You can read an <a href="http://www.nytimes.com/2007/09/13/movies/13dhar.html">article in the New York Times</a> about it and see the <a href="http://www.youtube.com/watch?v=E9pwkCSSnZA">trailer</a> embedded below as well.
 
 <lj-embed><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/E9pwkCSSnZA&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/E9pwkCSSnZA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></lj-embed>
 

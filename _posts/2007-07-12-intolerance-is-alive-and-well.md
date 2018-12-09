@@ -39,7 +39,7 @@ Would mainstream America tolerate, even for a second, similar behavior for a Chr
 
 <strong>Update</strong>: As one online acquaintance pointed out to me, you can see the disruption in <a href="http://www.youtube.com/watch?v=g8vENZwp1rk">clips from C-SPAN</a> that are up on YouTube.
 
-<b>Another Update:</b> Here is the prayer in question that was so offensive:
+<strong>Another Update:</strong> Here is the prayer in question that was so offensive:
 <blockquote>Let us pray. We meditate on the transcendental Glory of the Deity Supreme, who is inside the heart of the Earth, inside the life of the sky, and inside the soul of the Heaven. May He stimulate and illuminate our minds.
 
 Lead us from the unreal to the real, from darkness to light, and from death to immortality. May we be protected together. May we be nourished together. May we work together with great vigor. May our study be enlightening. May no obstacle arise between us.

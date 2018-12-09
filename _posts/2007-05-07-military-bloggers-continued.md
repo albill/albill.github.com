@@ -18,8 +18,8 @@ As my friend, Ted, just noted to me, it looks like the military backed off on th
 
 <blockquote><h1>Army clarifies blogging policy</h1>
 
-<b>By Jason Miller
-Published on May 4, 2007</b>
+<strong>By Jason Miller
+Published on May 4, 2007</strong>
 
 The Army is backing off its regulation restricting the ability of servicemen and -women, their families and contractors to blog.
 

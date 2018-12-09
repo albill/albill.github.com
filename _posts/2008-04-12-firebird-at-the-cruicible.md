@@ -14,7 +14,7 @@ On Thursday night, R, her mother, and I went to one of the first performances of
 
 For those that are unaware, the Crucible is a non-profit arts center in Oakland dedicated various fire related and industrial forms of art. It was founded by a number of Burning Man artists in 1999 and offers classing in various kinds of metal casting, welding, fabrication, neon work, and sculpture. If you want to learn to weld, cast sculptures, or make things that shoot flames, they are a place to learn these skills. 
 
-Every year, in Spring, they do a show focusing on dance and fire. In the Summer, they host a fire arts festival. R and I attended one of their festivals when we lived in our old place, about three blocks away, and attended their dance performance, a retelling of <b>Romeo and Juliet</b>, last year.
+Every year, in Spring, they do a show focusing on dance and fire. In the Summer, they host a fire arts festival. R and I attended one of their festivals when we lived in our old place, about three blocks away, and attended their dance performance, a retelling of <strong>Romeo and Juliet</strong>, last year.
 
 I thought that the show this year was excellent and was actually better done than the show last year, which I liked as well. We brought R's mother with us this year and she really enjoyed the show as well, so it isn't just for Burning Man freaks going out to the playa. 
 

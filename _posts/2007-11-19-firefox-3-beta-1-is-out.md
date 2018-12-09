@@ -30,4 +30,4 @@ I encourage you to check out the Firefox 3 beta<strong>*</strong> and to submit 
 
 
 
-<b>* Note:</b> I must include the warning that this is a beta and it can do weird or unexpected things. We encourage people to not replace their normal Firefox browser for day to day use. This is for testing purposes only, folks!
+<strong>* Note:</strong> I must include the warning that this is a beta and it can do weird or unexpected things. We encourage people to not replace their normal Firefox browser for day to day use. This is for testing purposes only, folks!
