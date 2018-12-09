@@ -12,7 +12,9 @@ categories:
 ---
 
 
-<p align="center"><a href="https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg"></p>
+<p align="center">
+!(https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg)
+</p>
 
 It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.
 
