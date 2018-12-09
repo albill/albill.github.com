@@ -12,7 +12,7 @@ categories:
 ---
 
 
-![Sepia Buddha](https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg)
+<p align="center"><img src="https://farm1.static.flickr.com/87/256835773_22b05d34ec_m.jpg" />
 
 It is weird that I am both at a high and low point in regards to my relationship to Buddhism right now.
 
