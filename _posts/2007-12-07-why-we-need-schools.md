@@ -13,8 +13,6 @@ categories:
 ---
 If there is a sadder demonstration of why we both need schools and some standards for the people we allow to pontificate on television, I don't know what it would be.
 
-<lj-embed><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/psGLXqW1kUs&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/psGLXqW1kUs&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></lj-embed>
-
 From <a href="http://www.foxnews.com/story/0,2933,315194,00.html">Fox News</a> of all places...
 
 <blockquote>The new co-host of "The View," Sherri Shepherd, insisted Tuesday that Christianity was older than ancient Greece, and even Judaism.
