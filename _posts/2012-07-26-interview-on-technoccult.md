@@ -18,7 +18,7 @@ Klint Finley of Technoccult interviewed me last week and posted the interview on
 
 **Many Technoccult readers have probably seen Hermetic.com. Maybe you even got your first taste of Aleister Crowley, Austin Osman Spare or Hakim Bey there. What you might not know is that the site’s founder, Al Jigong Billings has given up the site to focus on what he calls “Open Source Buddhism.” I recently talked with Al about what Open Source Buddhism is, how it differs from other contemporary the Pragmatic Dharma movement and the secular mindfulness movement, and how he gravitated from Neopaganism to Buddhism.**
 
-**Klint Finley: I know readers can check out [your blog post](http://openbuddha.com/what-is-open-source-buddhism/) explaining what you mean by “Open Source Buddhism,” but can you give us a quick “elevator pitch” for the idea?**
+**Klint Finley: I know readers can check out [your blog post](/what-is-open-source-buddhism/) explaining what you mean by “Open Source Buddhism,” but can you give us a quick “elevator pitch” for the idea?**
 
 Al Billings: Yes, I can do that. The basic idea is that if you are not part of a traditionally Buddhist culture or one in which Buddhism plays a role, you are not part of an inherited complex of ideas surrounding what is or is not “Buddhism” or the “Dharma.” This leaves those of us, in the “West,” for example, in a bit of a quandary. What is Buddhsm? What is the Dharma? What is essential to it? What is optional? What does Buddhism in the 21st century here in America look like if you haven’t inherited it as part of your culture?
 

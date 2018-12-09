@@ -32,4 +32,4 @@ I hope that I don't have to spell out the implications of software that makes it
 
 Go read Steve's <a href="http://diybookscanner.org/forum/viewtopic.php?f=9&t=907">post</a> on the <a href="http://diybookscanner.org/forum/index.php">DIY Book Scanner forums</a> for all of the gory details.
 
-<strong>Update:</strong> Greetings visitors from <a href="http://boingboing.net/2011/03/14/automatically-add-sc.html">Boing Boing!</a> Find out more about the DIY Book Scanner I am <a href="http://openbuddha.com/tag/bookscanner/">building</a> at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>.
+<strong>Update:</strong> Greetings visitors from <a href="http://boingboing.net/2011/03/14/automatically-add-sc.html">Boing Boing!</a> Find out more about the DIY Book Scanner I am <a href="/tag/bookscanner/">building</a> at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>.

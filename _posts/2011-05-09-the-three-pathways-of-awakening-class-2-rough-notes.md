@@ -18,7 +18,7 @@ tags:
 - threepathways
 - vajrayana
 ---
-I am continuing to take <a href="http://www.hokai.info">Hokai Sobol's</a> online course, <a href="http://www.buddhistgeeks.com/threepathways/">The Three Pathways of Awakening</a> through Buddhist Geeks. This class is early Sunday mornings. I <a href="http://openbuddha.com/2011/05/02/the-three-pathways-of-awakening-class-1-rough-notes/">blogged</a> my notes for the first session last weekend and I am continuing with the second session below.
+I am continuing to take <a href="http://www.hokai.info">Hokai Sobol's</a> online course, <a href="http://www.buddhistgeeks.com/threepathways/">The Three Pathways of Awakening</a> through Buddhist Geeks. This class is early Sunday mornings. I <a href="/2011/05/02/the-three-pathways-of-awakening-class-1-rough-notes/">blogged</a> my notes for the first session last weekend and I am continuing with the second session below.
 
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/244980321/" title="Tara Tattoo by Unknown"><img src="https://farm1.static.flickr.com/91/244980321_80f21f22eb.jpg" width="306" height="500" alt="Tara Tattoo by Unknown"></a></p>
 

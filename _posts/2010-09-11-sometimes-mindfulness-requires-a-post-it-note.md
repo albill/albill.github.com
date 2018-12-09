@@ -11,9 +11,9 @@ categories:
 - Daily Life
 - Spirituality
 ---
-Yesterday, I had my second tattoo done. I did one <a href="http://openbuddha.com/2002/10/30/tattoo/">almost eight years ago</a> on the top of my right arm, back before I was committed to Buddhism as my path. It reflected my spiritual background at the time. I'm generally committed to the idea, for myself, that a tattoo should be a meaningful reflection of something in your life. I took refuge in 2002 and fully committed to the Buddhist path over the next few years more and more. I'd been wanting to do something to both acknowledge this as my path and as a reminder to mindfulness concerning it.
+Yesterday, I had my second tattoo done. I did one <a href="/2002/10/30/tattoo/">almost eight years ago</a> on the top of my right arm, back before I was committed to Buddhism as my path. It reflected my spiritual background at the time. I'm generally committed to the idea, for myself, that a tattoo should be a meaningful reflection of something in your life. I took refuge in 2002 and fully committed to the Buddhist path over the next few years more and more. I'd been wanting to do something to both acknowledge this as my path and as a reminder to mindfulness concerning it.
 
-I've been talking for the last <a href="http://openbuddha.com/2004/09/08/siddham-tattoo/">six</a> <a href="http://openbuddha.com/2004/09/09/more-tattoos/">years</a> (to the day almost) about using the Siddham script of Sanskrit for a tattoo to reflect my Buddhism. <a href="http://en.wikipedia.org/wiki/Siddha%E1%B9%83_script">Siddham</a> is an archaic script not commonly seen except one will see it on Buddhist art and architecture in East Asia. It is commonly used for mantras or on mandala, for example, or as ornamentation on temples. You can see one of the examples of its use during the Tang Dynasty (around 927 CE) in China below, which is the Pratisara Mantra:
+I've been talking for the last <a href="/2004/09/08/siddham-tattoo/">six</a> <a href="/2004/09/09/more-tattoos/">years</a> (to the day almost) about using the Siddham script of Sanskrit for a tattoo to reflect my Buddhism. <a href="http://en.wikipedia.org/wiki/Siddha%E1%B9%83_script">Siddham</a> is an archaic script not commonly seen except one will see it on Buddhist art and architecture in East Asia. It is commonly used for mantras or on mandala, for example, or as ornamentation on temples. You can see one of the examples of its use during the Tang Dynasty (around 927 CE) in China below, which is the Pratisara Mantra:
 
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/4979661489/" title="Pratisara Mantra by albill, on Flickr"><img src="https://farm5.static.flickr.com/4091/4979661489_7d59e30791.jpg" width="500" height="472" alt="Pratisara Mantra" /></a></p>
 
@@ -21,7 +21,7 @@ There is this example of it was part of the core mandala images displayed on Kon
 
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/1495322734/" title="DSCF1611.JPG by albill, on Flickr"><img src="https://farm3.static.flickr.com/2228/1495322734_deae6f07d4.jpg" width="500" height="375" alt="DSCF1611.JPG" /></a></p>
 
-I decided on the basic design <a href="http://openbuddha.com/2009/02/07/new-buddhist-tattoo-work/">a year and a half ago</a> of having my refuge vows done in Sanskrit. My friend, <a href="http://visiblemantra.org/">Jayarava</a>, drew them out for me as he's been practicing Siddham calligraphy for quite some time. 
+I decided on the basic design <a href="/2009/02/07/new-buddhist-tattoo-work/">a year and a half ago</a> of having my refuge vows done in Sanskrit. My friend, <a href="http://visiblemantra.org/">Jayarava</a>, drew them out for me as he's been practicing Siddham calligraphy for quite some time. 
 
 These vows are:
 <blockquote>बुद्धं शरणं गच्छामि।<br>

@@ -11,7 +11,7 @@ categories:
 - Mozilla
 - Technology
 ---
-Well, my <a href="http://openbuddha.com/2009/06/17/enabling-freedom-and-openness-with-mozilla/">last post</a> was a bust for any response. It was syndicated to <a href="http://planet.mozilla.org">Planet Mozilla</a>, has had a few hundred views, and the only comment on it is my own (posting what a friend of mine on Facebook said).
+Well, my <a href="/2009/06/17/enabling-freedom-and-openness-with-mozilla/">last post</a> was a bust for any response. It was syndicated to <a href="http://planet.mozilla.org">Planet Mozilla</a>, has had a few hundred views, and the only comment on it is my own (posting what a friend of mine on Facebook said).
 
 He said:
 <blockquote>"I don’t know if Tor is the end-all-be-all, but the basic point would be: browser-based, quasi-auto-configuring anonymous darknets (that set up and tear down without a trace), and look something like other (e.g. HTTP) traffic would be a boon to free speech.

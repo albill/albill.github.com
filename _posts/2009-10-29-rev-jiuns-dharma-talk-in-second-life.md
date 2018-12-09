@@ -11,7 +11,7 @@ categories:
 - Spirituality
 - Technology
 ---
-I <a href="http://openbuddha.com/2009/10/16/the-dharma-of-second-life/">blogged recently</a> about Rev. Jiun Foster doing a teaching in Second Life at <a href="http://kannonji.blogspot.com/">Kannonji</a>. Unknown to me, video of the talk was captured and it has now been put up on Youtube. 
+I <a href="/2009/10/16/the-dharma-of-second-life/">blogged recently</a> about Rev. Jiun Foster doing a teaching in Second Life at <a href="http://kannonji.blogspot.com/">Kannonji</a>. Unknown to me, video of the talk was captured and it has now been put up on Youtube. 
 
 You can take a look at it below or on <a href="http://www.youtube.com/watch?v=4bwxBxOFbmE">Youtube</a> (in much higher resolution). All of the individuals sitting on cushions as (possibly) goofy avatars are real people who logged into SL and came to the event, so we had a pretty good turnout for an online event.
 

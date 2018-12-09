@@ -11,7 +11,7 @@ categories:
 - Notable People
 - Spirituality
 ---
-There is apparently some questions circulating within the Zen teaching community about whether Eido Shimano has really resigned from his position at the Zen Studies Society, as the letter posted by <a href="http://www.tricycle.com/blog/?p=2271">Tricycle claims</a> (which I <a href="http://openbuddha.com/2010/09/08/eido-shimano-steps-down-as-abbot-of-the-zen-studies-society/">posted about</a> the other day), or if it is all just a kind of verbal bait and switch to distract people from the fact that nothing has changed.
+There is apparently some questions circulating within the Zen teaching community about whether Eido Shimano has really resigned from his position at the Zen Studies Society, as the letter posted by <a href="http://www.tricycle.com/blog/?p=2271">Tricycle claims</a> (which I <a href="/2010/09/08/eido-shimano-steps-down-as-abbot-of-the-zen-studies-society/">posted about</a> the other day), or if it is all just a kind of verbal bait and switch to distract people from the fact that nothing has changed.
 
 The following is an excerpt from a note that I received tonight by someone in a position to ask and answer questions (from within the Zen Studies Society community). I'm not going to quote the whole thing as more information will apparently be forthcoming from the author and others.
 

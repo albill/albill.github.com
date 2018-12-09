@@ -13,7 +13,7 @@ tags:
 type: post
 status: publish
 ---
-<p style="text-align:center"><em>Originally published on <a href="http://openbuddha.com/2011/09/22/daniel-reetz-unveils-new-diy-book-scanner-at-open-hardware-summit/">Open Buddha</a></em></p>
+<p style="text-align:center"><em>Originally published on <a href="/2011/09/22/daniel-reetz-unveils-new-diy-book-scanner-at-open-hardware-summit/">Open Buddha</a></em></p>
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6174041867/" title="Untitled by albill, on Flickr"><img src="https://farm7.static.flickr.com/6153/6174041867_ce2fb46b28.jpg" width="500" height="374" alt=""></a></p>
 
 My friend, <a href="http://www.danreetz.com">Daniel Reetz</a>, was a speaker at the recent <a href="http://www.openhardwaresummit.org">Open Hardware Summit</a>. His talk there was called "DIY Book Scanning: Open Hardware for Open Content." Daniel is well known for inventing the <a href="http://www.diybookscanner.org">DIY Book Scanner</a>, which has grown into an entire community of people on diybookscanner.org that builds their own scanners.
