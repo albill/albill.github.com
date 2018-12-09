@@ -11,7 +11,7 @@ categories:
 - Notable People
 - Spirituality
 ---
-I <a href="http://www.openbuddha.com/2009/10/22/sexual-controversies-and-zen-buddhism/">blogged</a> about the sexual scandal associated with Eido Shimano Roshi last year with Aitken Roshi's papers on the matter became <a href="http://www.thezensite.com/ZenEssays/CriticalZen/Aitken_Shimano_Letters.html">available online</a>.
+I <a href="http://openbuddha.com/2009/10/22/sexual-controversies-and-zen-buddhism/">blogged</a> about the sexual scandal associated with Eido Shimano Roshi last year with Aitken Roshi's papers on the matter became <a href="http://www.thezensite.com/ZenEssays/CriticalZen/Aitken_Shimano_Letters.html">available online</a>.
 
 There have been ongoing rumbles about this scandal going round the blogosphere and tweetverse since this time. In mid-June, the board of the <a href="http://www.daibosatsu.org/">Zen Studies Society</a> met and decided to produce ethical guidelines for their organization that included both sexual conduct and also a somewhat weak acknowledgment of past improprieties by Shimano Roshi. People were somewhat mollified but I know quite a few felt like it was still kind of sweeping it under the zabuton (or is "sweeping under the tatami" a better metaphor?). I'd heard that things had heated up after this but had not been paying much attention to it during the last two months because, really, what do I have to say about the conduct of a Zen master that I don't know in an organization that I have no connection with when so many others have said so much?
 

@@ -10,7 +10,7 @@ categories:
 - Mozilla
 - Technology
 ---
-As something related to my post yesterday,<strong> </strong><a href="http://www.arcanology.com/2007/09/04/messaging-clients-in-the-post-web-20-world/">Messaging Clients in a Post-Web 2.0 World</a>, this post by Cedric called "<a href="http://www.allpeers.com/blog/2007/09/05/top-15-features-for-an-open-social-network/">Top 15 Features of an Open Social Network</a>" is spot on.
+As something related to my post yesterday,<strong> </strong><a href="/2007/09/04/messaging-clients-in-the-post-web-20-world/">Messaging Clients in a Post-Web 2.0 World</a>, this post by Cedric called "<a href="http://www.allpeers.com/blog/2007/09/05/top-15-features-for-an-open-social-network/">Top 15 Features of an Open Social Network</a>" is spot on.
 
 Cedric calls out his list of the required features of an open social network. He cites an interest in this space as part of why AllPeers was started.
 

@@ -14,7 +14,7 @@ tags:
 - e-sangha
 - zen
 ---
-As was <a href="http://www.arcanology.com/2009/01/24/rev-nonins-statement-on-his-banning-from-e-sangha/">mentioned recently</a>, Rev. Nonin, a well known Zen teacher, was banned from the E-Sangha web forum recently for not meeting whatever unspecified doctrinal muster is required to have an account on the that site.
+As was <a href="/2009/01/24/rev-nonins-statement-on-his-banning-from-e-sangha/">mentioned recently</a>, Rev. Nonin, a well known Zen teacher, was banned from the E-Sangha web forum recently for not meeting whatever unspecified doctrinal muster is required to have an account on the that site.
 
 At that time, Rev. Nonin and others stated that a new online forum for Zen practitioners was in the works since there was no place online that was both open and embracing of the values of the Dharma. I have found out today that this new forum is finally up.
 

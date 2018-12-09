@@ -15,7 +15,7 @@ Apparently, asking for people to support an open community and to keep divisive 
 
 I can only shake my head at this and wonder how people just don't get it.
 
-One person calls for enshrining in law the traditional second class position of members of the LGBT community in society on the basis of his personal beliefs. A second calls for an open community. Does the peer call the first person's post an attack? No. But apparently responding to it with [yesterday's post by me](http://www.openbuddha.com/2012/03/06/supporting-an-open-mozilla/) *does* constitute an attack. How's that work?
+One person calls for enshrining in law the traditional second class position of members of the LGBT community in society on the basis of his personal beliefs. A second calls for an open community. Does the peer call the first person's post an attack? No. But apparently responding to it with [yesterday's post by me](http://openbuddha.com/2012/03/06/supporting-an-open-mozilla/) *does* constitute an attack. How's that work?
 
 I certainly never to expect to be chastised for my position and have a peer suggest I take yesterday's post down for standing up for people.
 

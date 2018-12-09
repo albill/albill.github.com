@@ -12,7 +12,7 @@ categories:
 - Science Fiction
 - Technology
 ---
-I <a href="http://www.arcanology.com/2007/09/06/cory-doctorows-firefox-theme/">mentioned the other day</a> that writer, activist, and ne'erdowell , Cory Doctorow, wanted to release a theme and/or some kind of bundle alongside his next science fiction novel, <strong>Little Brother</strong>.  This is a young adult novel focused on hacker kids and includes some supporting activities to help get kids more involved with the ideas within the book.
+I <a href="/2007/09/06/cory-doctorows-firefox-theme/">mentioned the other day</a> that writer, activist, and ne'erdowell , Cory Doctorow, wanted to release a theme and/or some kind of bundle alongside his next science fiction novel, <strong>Little Brother</strong>.  This is a young adult novel focused on hacker kids and includes some supporting activities to help get kids more involved with the ideas within the book.
 
 Cory has read part of Chapter 12 from the book previously and released it as a <a href="http://craphound.com/?p=1819">podcast</a>.  I include a link to the audio of that below.
 

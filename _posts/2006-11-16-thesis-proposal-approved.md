@@ -18,4 +18,4 @@ I plan on working on it on some evenings and weekends through February or March 
 
 Of course, it is easy to say on the other side of the thesis but I've written 15 pages of papers pretty easily on a weekend and this is about 80 pages organized into chapters and by my outline. It should be doable though I expect my revisions will take some time.
 
-A general outline of my thesis is in an <a href="http://www.arcanology.com/?p=1208">earlier post</a>. The revisions since then have been in approach and assumptions, which I don't discuss in my post.
+A general outline of my thesis is in an <a href="/?p=1208">earlier post</a>. The revisions since then have been in approach and assumptions, which I don't discuss in my post.

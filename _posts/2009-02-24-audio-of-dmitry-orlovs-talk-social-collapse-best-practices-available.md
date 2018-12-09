@@ -10,7 +10,7 @@ categories:
 - Daily Life
 - Society
 ---
-The <a href="http://www.longnow.org">Long Now Foundation</a> maintains a <a href="http://www.longnow.org/projects/seminars/podcast.php">podcast</a> of audio from their seminars. I <a href="http://www.arcanology.com/2009/02/15/dmitry-orlov-on-the-best-practices-for-societal-collapse/">blogged recently</a> about the talk that <a href="http://cluborlov.blogspot.com">Dmitry Orlov</a> did, "<a href="http://cluborlov.blogspot.com/2009/02/social-collapse-best-practices.html">Social Collapse Best Practices</a>." I noticed in iTunes this morning that the talk is now available through the Long Now's podcast.
+The <a href="http://www.longnow.org">Long Now Foundation</a> maintains a <a href="http://www.longnow.org/projects/seminars/podcast.php">podcast</a> of audio from their seminars. I <a href="/2009/02/15/dmitry-orlov-on-the-best-practices-for-societal-collapse/">blogged recently</a> about the talk that <a href="http://cluborlov.blogspot.com">Dmitry Orlov</a> did, "<a href="http://cluborlov.blogspot.com/2009/02/social-collapse-best-practices.html">Social Collapse Best Practices</a>." I noticed in iTunes this morning that the talk is now available through the Long Now's podcast.
 
 You can also get it directly <a href="http://fora.tv/media/rss/Long_Now_Podcasts/podcast-2009-02-13-orlov.mp3">here</a> if you're so inclined.
 

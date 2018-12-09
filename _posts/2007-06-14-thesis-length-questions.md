@@ -29,6 +29,6 @@ If I could repurpose my original four chapters and write something else concerni
 
 I do finally have the Ransom Center's editions of the outer order rituals, the equinox ceremony, and the Z papers though so I have primary source material for much of the Golden Dawn. These items were copied from Allan Bennett's notebooks.
 
-For those lacking context, you can see my original proposal, which has been slightly amended, for the thesis <a href="http://www.arcanology.com/?p=1208">here</a>.
+For those lacking context, you can see my original proposal, which has been slightly amended, for the thesis <a href="/?p=1208">here</a>.
 
 The question is what to do...

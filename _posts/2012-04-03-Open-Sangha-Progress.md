@@ -11,7 +11,7 @@ categories:
 - Buddhism
 ---
 <p style="text-align: center"><a href="http://www.flickr.com/photos/fchungcw/5678875043/" title="Buddha by fra-NCIS, on Flickr"><img src="https://farm6.staticflickr.com/5182/5678875043_bdd0e16342.jpg" width="500" height="333" alt="Buddha"></a></p>
-The once a month meetings of the [Bay Area Open Sangha](http://bayarea.opensangha.org/) continue to occur every month. We have had a little bit of an off and on again start since the [weekend meditation retreat](http://www.openbuddha.com/2011/11/20/First-Open-Sangha-Weekend-Retreat-a-Success/) this last November, missing a month in March because of changed in scheduling.
+The once a month meetings of the [Bay Area Open Sangha](http://bayarea.opensangha.org/) continue to occur every month. We have had a little bit of an off and on again start since the [weekend meditation retreat](http://openbuddha.com/2011/11/20/First-Open-Sangha-Weekend-Retreat-a-Success/) this last November, missing a month in March because of changed in scheduling.
 
 As of this last month, there is an all day open sit on the first Sunday of every month. In this, we normally have six sessions of 40 minutes of sitting and 15 minutes of walking meditation. Other than that, there is a little discussion during lunchtime usually and then a little more discussion after the last session. The schedule looks like this:
 

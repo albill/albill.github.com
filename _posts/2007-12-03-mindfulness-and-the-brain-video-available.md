@@ -11,7 +11,7 @@ categories:
 - Buddhism
 - Spirituality
 ---
-The <strong>Down to a Science Cafe</strong> <a href="http://www.sciencecafesf.com/">blog</a> has <a href="http://www.sciencecafesf.com/2007/12/03/meditation-cafe-videospics-are-up/">posted a follow-up</a> to the Mindfulness and the Brain presentation that I <a href="http://www.arcanology.com/2007/11/28/mindfulness-and-the-brain-the-neuroscience-of-meditation/">posted about last week</a>.
+The <strong>Down to a Science Cafe</strong> <a href="http://www.sciencecafesf.com/">blog</a> has <a href="http://www.sciencecafesf.com/2007/12/03/meditation-cafe-videospics-are-up/">posted a follow-up</a> to the Mindfulness and the Brain presentation that I <a href="/2007/11/28/mindfulness-and-the-brain-the-neuroscience-of-meditation/">posted about last week</a>.
 
 They have put up video recordings of the entire presentation by Dr. Phillippe Goldin, which you can get <a href="http://www.sciencecafesf.com/past-cafes/meditation/">here</a>. The video is also broken up into twelve pieces, which have been put up on Youtube <a href="http://www.youtube.com/profile?user=kishorehari">here</a>. I have the first one of the twelve embedded below:
 

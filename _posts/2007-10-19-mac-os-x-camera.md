@@ -23,6 +23,6 @@ I'm looking for two suggestions:
 </ol>
 We do a certain amount of chat at Mozilla and I work from home a bit of the time. I'd also like to do the occasional talking head thing here on my blog.
 
-Then <a href="http://www.arcanology.com/2007/10/18/web-20-live-cam-whoring-and-you/">I can all over the intarweb</a> like <a href="http://weblogs.mozillazine.org/asa/">Asa</a> or <a href="http://factoryjoe.com/blog/2007/05/10/thoughts-on-mozilla/">Chris Messina</a>.
+Then <a href="/2007/10/18/web-20-live-cam-whoring-and-you/">I can all over the intarweb</a> like <a href="http://weblogs.mozillazine.org/asa/">Asa</a> or <a href="http://factoryjoe.com/blog/2007/05/10/thoughts-on-mozilla/">Chris Messina</a>.
 
 <strong>Update from 11/1</strong>: I wound up getting a <a href="http://www.creative.com/products/product.asp?category=218&amp;subcategory=219&amp;product=16425&amp;bypass=1">Live! Cam  Optia AF</a> from Creative Labs. This is a two megapixel webcam that works out of the box on OS X and comes with Windows drivers/software (which is useful since I use Bootcamp to boot into Vista as well).

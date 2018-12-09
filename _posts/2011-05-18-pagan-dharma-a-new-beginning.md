@@ -32,4 +32,4 @@ What does a pagan dharma look like? I'm interested in finding out. In talking to
 
 This site will act as a vehicle for some essays by the pair of us and possibly by a few other pagan Buddhists that I know. I've also added the capability to have groups and forums so we can communicate with each other in an ad-hoc fashion. Maybe nothing much will come of it but it never hurts to try and I can use an excuse to inflict my thoughts upon the world.
 
-More of this sort of thing can occasionally be read on my blog, <a href="http://www.openbuddha.com">Open Buddha</a>, along with some hackerish and geeky things as well.
+More of this sort of thing can occasionally be read on my blog, <a href="http://openbuddha.com">Open Buddha</a>, along with some hackerish and geeky things as well.

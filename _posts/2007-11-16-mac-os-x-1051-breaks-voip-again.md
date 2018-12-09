@@ -10,7 +10,7 @@ categories:
 - Mozilla
 - Technology
 ---
-I've <a href="http://www.arcanology.com/2007/10/27/sip-based-voip-problems-in-leopard/">written previously</a> that when Mac OS X 10.5 (aka "Leopard") came out, it broke all of the SIP-based voice over ip applications. This was something that hadn't been broken in the developer builds but only in the final release, thus giving people making VOIP software a pleasant surprise for "Leopard Day."
+I've <a href="/2007/10/27/sip-based-voip-problems-in-leopard/">written previously</a> that when Mac OS X 10.5 (aka "Leopard") came out, it broke all of the SIP-based voice over ip applications. This was something that hadn't been broken in the developer builds but only in the final release, thus giving people making VOIP software a pleasant surprise for "Leopard Day."
 
 People seem to have largely worked around the issue and released updated clients for Leopard. <a href="http://www.gizmoproject.com/">The Gizmo Project</a>, which I normally use for VOIP with Mozilla, released a beta almost immediately and got a full release not long after.
 

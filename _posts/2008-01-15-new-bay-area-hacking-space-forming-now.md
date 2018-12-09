@@ -37,7 +37,7 @@ This is all very much in formation and you can consider the above to be a bit of
 
 
 
-A number of the attendees at the meeting this evening had just return from <a href="http://events.ccc.de/congress/2007/Main_Page">24th Chaos Communication Congress</a> (24C3), which I blogged about <a href="http://www.arcanology.com/2008/01/03/24c3-and-media/">recently</a>. This and similar events have inspired people, such as Jake, to think about why we don't have  similar events here in the Bay Area and also why we don't have a space to support people interested in hacking in the older sense of the word. Given that Silicon Valley is next door and we have one of the highest concentrations of tech people (of all sorts) in the world, it is surprising that it hasn't happened.
+A number of the attendees at the meeting this evening had just return from <a href="http://events.ccc.de/congress/2007/Main_Page">24th Chaos Communication Congress</a> (24C3), which I blogged about <a href="/2008/01/03/24c3-and-media/">recently</a>. This and similar events have inspired people, such as Jake, to think about why we don't have  similar events here in the Bay Area and also why we don't have a space to support people interested in hacking in the older sense of the word. Given that Silicon Valley is next door and we have one of the highest concentrations of tech people (of all sorts) in the world, it is surprising that it hasn't happened.
 
 
 

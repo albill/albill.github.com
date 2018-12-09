@@ -15,7 +15,7 @@ tags:
 - tattoos
 - vows
 ---
-Last September, <a href="http://www.openbuddha.com/2010/09/11/sometimes-mindfulness-requires-a-post-it-note/">I blogged</a> about the tattoo work I was having done on my left arm by a friend. I had Buddhist refuge vows done in Sanskrit using the script commonly called "Siddham" here in the West. You see this a lot for mantras and other Sanskrit text in Japan and Korea (and I presume China, at least at some point). The vows go:
+Last September, <a href="http://openbuddha.com/2010/09/11/sometimes-mindfulness-requires-a-post-it-note/">I blogged</a> about the tattoo work I was having done on my left arm by a friend. I had Buddhist refuge vows done in Sanskrit using the script commonly called "Siddham" here in the West. You see this a lot for mantras and other Sanskrit text in Japan and Korea (and I presume China, at least at some point). The vows go:
 > बुद्धं शरणं गच्छामि। <br />
 > धम्मं शरणं गच्छामि। <br />
 > संघं शरणं गच्छामि। <br />

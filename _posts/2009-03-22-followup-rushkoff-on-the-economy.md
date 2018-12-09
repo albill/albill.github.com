@@ -10,7 +10,7 @@ categories:
 - Daily Life
 - Society
 ---
-Apparently, Douglas Rushkoff has gotten a lot of flack for his <a href="http://www.arthurmag.com/2009/03/16/let-it-die-rushkoff-on-the-economy/">article</a> in Arthur Magazine that I <a href="http://www.arcanology.com/2009/03/16/douglas-rushkoff-on-the-economy-let-it-die/">wrote about</a> the other day. You know, the one where he called our current economy a big ponzi scheme and said that we should let the current system die. 
+Apparently, Douglas Rushkoff has gotten a lot of flack for his <a href="http://www.arthurmag.com/2009/03/16/let-it-die-rushkoff-on-the-economy/">article</a> in Arthur Magazine that I <a href="/2009/03/16/douglas-rushkoff-on-the-economy-let-it-die/">wrote about</a> the other day. You know, the one where he called our current economy a big ponzi scheme and said that we should let the current system die. 
 
 He has a new <a href="http://www.arthurmag.com/2009/03/20/hack-money-hack-banking-rushkoff-on-the-economy/">article</a> explaining what he was talking about up now at Arthur's site. It is worth a read.
 

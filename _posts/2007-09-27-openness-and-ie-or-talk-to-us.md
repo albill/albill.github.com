@@ -10,7 +10,7 @@ categories:
 - Mozilla
 - Technology
 ---
-It came to my attention that comments started to be posted about my <a href="http://www.arcanology.com/2007/09/19/ie-and-the-demise-of-borgzilla/">Borgzilla blog post</a> over on the <a href="http://blogs.msdn.com/ie/archive/2007/09/18/developing-safer-activex-controls-using-the-sitelock-template.aspx">IEBlog on an unrelated post</a> there.
+It came to my attention that comments started to be posted about my <a href="/2007/09/19/ie-and-the-demise-of-borgzilla/">Borgzilla blog post</a> over on the <a href="http://blogs.msdn.com/ie/archive/2007/09/18/developing-safer-activex-controls-using-the-sitelock-template.aspx">IEBlog on an unrelated post</a> there.
 
 They haven't really said anything phenomenal but the points made here were noticed. Dave Massy, also formerly of Microsoft and the IE team, has also had some things to say about Internet Explorer on his <a href="http://www.dmassy.com/">new blog</a> lately. Without my knowledge, he had also <a href="http://www.dmassy.com/details.aspx?Entry=9">posted</a> about the old Connect site (aka "Borgzilla") in mid-August. I recommend checking him out for another perspective.
 

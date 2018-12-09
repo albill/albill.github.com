@@ -16,7 +16,7 @@ tags:
 - ebooks
 - lecture
 ---
-I <a href="http://www.openbuddha.com/2011/02/22/diy-book-scanner-in-progress/">blogged the other day</a> about the DIY Book Scanner that we've been working on at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>, which we've gotten it roughly a third finished. 
+I <a href="http://openbuddha.com/2011/02/22/diy-book-scanner-in-progress/">blogged the other day</a> about the DIY Book Scanner that we've been working on at <a href="http://www.acemonstertoys.org">Ace Monster Toys</a>, which we've gotten it roughly a third finished. 
 
 Daniel Reetz of <a href="http://diybookscanner.org/">diybookscanner.org</a>, who invented it, saw the post as he has an ongoing Google alert set for the site. It turns out that he is in the Bay Area from Los Angeles this week for the <a href="http://www.personalarchiving.com/">Internet Archive for Personal Digital Archiving conference</a>, where he is speaking. Dan arranged to come over to AMT to meet us last night during our weekly meeting. He pointed out that while he sees pictures of a lot of book scanner builds on his website, he very rarely gets to see them in the flesh and meet people building them. Myles, whom I am helping with this project, had some specific questions on the build so it turned out to be fortuitous that he was available.
 

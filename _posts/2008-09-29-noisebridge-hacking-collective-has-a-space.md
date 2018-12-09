@@ -15,7 +15,7 @@ categories:
 tags:
 - Hacking
 ---
-<p align="center"><a href="http://www.flickr.com/photos/ioerror/2900128362/"><img src="http://farm4.static.flickr.com/3181/2900128362_90eff2a856.jpg" width="500" height="375" border="1"></p>I've <a href="http://www.arcanology.com/2008/07/05/noisebridge-progress/">blogged before</a> about <a href="https://www.noisebridge.net/index.php/NoiseBridge">Noisebridge</a>, the hacker collective in San Francisco (or the Bay Area as a whole, really) of which I am a member. The group has been meeting once a week for coffee for most of a year now and has been looking for an affordable space for most of that time.
+<p align="center"><a href="http://www.flickr.com/photos/ioerror/2900128362/"><img src="http://farm4.static.flickr.com/3181/2900128362_90eff2a856.jpg" width="500" height="375" border="1"></p>I've <a href="/2008/07/05/noisebridge-progress/">blogged before</a> about <a href="https://www.noisebridge.net/index.php/NoiseBridge">Noisebridge</a>, the hacker collective in San Francisco (or the Bay Area as a whole, really) of which I am a member. The group has been meeting once a week for coffee for most of a year now and has been looking for an affordable space for most of that time.
 
 The vision of the group is:
 <blockquote>"We want to provide infrastructure and collaboration opportunities for people interested in programming, hardware hacking, physics, chemistry, mathematics, photography, security, robotics, all kinds of art, and, of course, technology. Through talks, workshops, and projects we encourage knowledge exchange, learning, and mentoring.

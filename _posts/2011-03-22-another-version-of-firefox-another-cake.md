@@ -17,7 +17,7 @@ Following the friendly tradition, the Internet Explorer team just sent us a fine
 
 <p style="text-align: center"><a href="http://www.flickr.com/photos/albill/5551419956/" title="Congratulatory Firefox 4 cake from Internet Explorer by albill, on Flickr"><img src="https://farm6.static.flickr.com/5024/5551419956_fb565579c5.jpg" width="500" height="374" alt="Congratulatory Firefox 4 cake from Internet Explorer" /></a></p>
 
-When <a href="http://www.openbuddha.com/2008/06/17/ie-sends-mozilla-a-new-cake-for-firefox-3/">we received one for Firefox 3</a>, it was about a year after I started working here. By coincidence, I happened to answer the door so I was the one to receive it that time and a former Internet Explorer coworker of mine, Sean, dropped it off, which was amusing. 
+When <a href="http://openbuddha.com/2008/06/17/ie-sends-mozilla-a-new-cake-for-firefox-3/">we received one for Firefox 3</a>, it was about a year after I started working here. By coincidence, I happened to answer the door so I was the one to receive it that time and a former Internet Explorer coworker of mine, Sean, dropped it off, which was amusing. 
 
 You can see the Firefox 3 cake (with me):
 

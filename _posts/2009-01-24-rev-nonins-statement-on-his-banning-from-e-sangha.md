@@ -13,7 +13,7 @@ categories:
 tags:
 - e-sangha
 ---
-I <a href="http://www.arcanology.com/2009/01/17/e-sangha-watch/">posted</a> on the continuing issues on E-Sangha the other day and the formation of the site, <a href="http://www.e-sangha.info/">E-Sangha Watch</a>. I mentioned that there have been particular issues around the treatment of Zen practitioners (especially Soto Zen) on E-Sangha. The Soto Zen forum was closed under pretenses and a variety of Zen teachers have been harrassed and banned from the site.
+I <a href="/2009/01/17/e-sangha-watch/">posted</a> on the continuing issues on E-Sangha the other day and the formation of the site, <a href="http://www.e-sangha.info/">E-Sangha Watch</a>. I mentioned that there have been particular issues around the treatment of Zen practitioners (especially Soto Zen) on E-Sangha. The Soto Zen forum was closed under pretenses and a variety of Zen teachers have been harrassed and banned from the site.
 
 One of these teachers is Rev. Nonin Chowaney, the abbot of the Nebraska Zen Center and a well respected Soto Zen teacher. Earlier today Rev. James Ford, another respected Zen teacher and a Unitarian minister, posted the full statement from Rev. Nonin on his banning from E-Sangha and what he had observed on the site over the last year. It matches pretty well with what I have observed but I wanted to reproduce the statement as a whole below since I receive a rather large number of visitors to this blog looking at my earlier posts on E-Sangha. Rev. Nonin is not some marginal individual in the American Zen community so I hope people give some credence to what he has to say on the matter.
 
