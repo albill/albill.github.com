@@ -15,5 +15,4 @@ I found out today that the <a href="http://www.fortaxreasons.com/">creators of t
 
 It reminds me of <a href="http://www.jinx.com/men/shirts/video_games/i_am_not_a_geek.html?&cid=4&catid=4&ps=20&fp=7#bigdesign">this t-shirt design</a>:
 
-<a href="http://www.flickr.com/photos/albill/2127264877/" title="not-a-geek by albill, on Flickr">
-<img src="http://farm3.static.flickr.com/2160/2127264877_6f67e596a8_o.png" width="331" height="350" alt="not-a-geek" / border="0"></a>
+<p align="center"><img src="http://farm3.static.flickr.com/2160/2127264877_6f67e596a8_o.png" width="331" height="350" alt="not-a-geek" border="0" /></p>
