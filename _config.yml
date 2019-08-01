@@ -1,0 +1,45 @@
+# Site Info
+title:              "Open Buddha"
+description:        "Open Source Buddhism and Geekery"
+author_name:        "Al Billings" # change this to your name
+logo_url:           /images/Okunoin_FudoMyoo.jpg
+
+# Site Settings
+url:                https://openbuddha.com # main url
+baseurl:            
+permalink:          /:year/:month/:day/:title/ # Post permalink
+timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

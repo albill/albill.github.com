@@ -1,0 +1,49 @@
+# Site Info
+title:              "Open Buddha"
+description:        "Open Source Buddhism, Technology, and Geekery"
+google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+
+# Author Info
+author_name:        "Albert Billings" # Your name here
+author_email:       albill@gmail.com # Your email here
+author_gravatar:    ef672fa746dc62198600f30c2469bc27 # Your Gravatar md5 hash here for logo
+twitter_username:   loremgibson # Your Twitter username here
+github_username:    albill # Your GitHub username here
+
+# Site Settings
+url:                https://openbuddha.com # main url
+baseurl:            # for gh-pages
+permalink:          /:year/:month/:day/:title/ # Post permalink
+timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
